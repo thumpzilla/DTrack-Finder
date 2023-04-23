@@ -1,0 +1,136 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #181818; /* Dark background, similar to Rekordbox */
+    color: #ffffff; /* Light text color for better contrast on dark background */
+}
+
+h1 {
+    font-size: 2.5rem;
+    text-align: center;
+    margin: 2rem 0;
+    color: #E1306C; /* Instagram pink color for heading */
+}
+
+h2 {
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 1rem 0;
+    color: #E1306C; /* Instagram pink color for heading */
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+.graph {
+    position: relative;
+    min-width: 300px;
+    max-width: 100%;
+    border: 2px solid #E1306C; /* Instagram pink color for border */
+}
+canvas {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.song-list {
+    width: 100%;
+    max-width: 300px;
+    max-height: 12rem; /* Corresponding to 3 elements (each has 1 rem padding, and 0.5 rem margin*/
+    overflow-y: auto;
+
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+ol {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    background-color: rgba(255, 255, 255, 0.1); /* Light background with low opacity */
+    padding: 1rem;
+    margin: 0.5rem 0;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    
+}
+
+li:hover {
+    background-color: rgba(255, 255, 255, 0.3); /* Slightly increase opacity on hover */
+}
+
+/* Add your custom button styles */
+.copy-button {
+    background-color: #E1306C;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.copy-button:hover {
+    background-color: #ff5c8d;
+}
+
+.toast {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(255, 255, 255, 0.3);
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    font-size: 1rem;
+    opacity: 1;
+    transition: opacity 1s ease;
+}
+
+.toast.fade-out {
+    opacity: 0;
+}
+
+.song-details .waveform-container {
+    padding-bottom: 1rem;
+    height: 3.5rem;
+    width: 100%;
+    overflow: hidden;
+}
+
+.song-details .waveform {
+    display: flex;
+    align-items: flex-end;
+    width: 100%;
+    height: 100px;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 5px;
+    margin-bottom: 1rem;
+}
+
+.song-details .waveform-bar {
+    flex-grow: 1;
+    background-color: rgba(255, 255, 255, 0.5);
+    
+}
