@@ -12,14 +12,32 @@
 <body>
     <h1>Party Music Selector</h1>
     <div class="container">
+      <div class="song-list">
+        <ul id="songs"></ul>
+    </div>
+    <div class="bpm-range">
+      <div id="slider-container">
+          <div id="slider-range" class="slider-range">
+            <div id="slider-active-range" class="slider-active-range" style="left: 0%; width: 100%;"></div>
+            <div id="slider-thumb" class="slider-thumb" style="left: 50%;">
+              <div id="data-bubble" class="data-thumb" style="left: 50%;">
+              <div id="slider-value" class="slider-value" style="left: 50%;">
+                <span id="picked-value"> -BPM- </span>
+              </div>
+              <div id="range-value-container" class="range-value-container">
+                <span id="range-value" class="range-value"> </span>
+              </div>
+            </div>
+            </div>
+          </div>
+        </div>
+  </div>
         <div class="graph">
             <canvas id="musicGraph"></canvas>
             <div id="selectedPoint">Selected Point: None</div>
         </div>
-        <h2>Songs</h2>
-        <div class="song-list">
-            <ul id="songs"></ul>
-        </div>
+       
+
     </div>
 </body>
 </html>

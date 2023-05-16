@@ -6,49 +6,66 @@ body {
     font-family: 'Nunito', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #181818; /* Dark background, similar to Rekordbox */
-    color: #ffffff; /* Light text color for better contrast on dark background */
+    background-color: #222F3E; /* Dark background, similar to Rekordbox */
+    color: #F5F5F7; /* Light text color for better contrast on dark background */
 }
-
+html{
+    font-size:14px;
+    }
+    
 h1 {
-    font-size: 2.5rem;
+    font-size: 2rem;
     text-align: center;
-    margin: 2rem 0;
-    color: #E1306C; /* Instagram pink color for heading */
+    margin: 0.2rem 0;
+    color: #F5F5F7; /* Instagram pink color for heading */
 }
 
 h2 {
     font-size: 1.5rem;
     text-align: center;
-    margin: 1rem 0;
-    color: #E1306C; /* Instagram pink color for heading */
+    margin: 0.3rem 0;
+    color: #F5F5F7; /* Instagram pink color for heading */
 }
-
+ 
 .container {
     display: flex;
     flex-direction: column;
     align-items: center;
-    max-width: 960px;
+    max-width: 30rem;
     margin: 0 auto;
     padding: 1rem;
-}
+    border-radius: 1.25rem;
+    overflow: hidden;
+    background: url("../images/Dark-background.svg");
+    background-size: 400%;
+    
 
+
+    
+}
+/* _______________________ Graph 2d selector ___________________ Start*/
 .graph {
     position: relative;
-    min-width: 300px;
+    min-width: 18.75rem;
     max-width: 100%;
-    border: 2px solid #E1306C; /* Instagram pink color for border */
+    background-color: #282944;
+    border-radius: 0.625rem;
+    background: linear-gradient(45deg, rgb(108, 75, 243) 50%, rgb(254, 0, 255) 170%);
+
 }
+
+
 canvas {
     display: block;
     width: 100%;
     height: 100%;
 }
 
+/* _______________________ Song List ___________________ Start*/
 .song-list {
     width: 100%;
-    max-width: 300px;
-    max-height: 12rem; /* Corresponding to 3 elements (each has 1 rem padding, and 0.5 rem margin*/
+    max-width: 100%;
+    max-height: 35rem; /* Corresponding to 3 elements (each has 1 rem padding, and 0.5 rem margin*/
     overflow-y: auto;
 
 }
@@ -64,54 +81,117 @@ ol {
     padding: 0;
     margin: 0;
 }
-
+ /* _______________________ List Item ___________________ Start*/
 li {
     background-color: rgba(255, 255, 255, 0.1); /* Light background with low opacity */
     padding: 1rem;
     margin: 0.5rem 0;
-    border-radius: 5px;
+    border-radius: 0.31rem;
     cursor: pointer;
     transition: background-color 0.3s ease;
-    
 }
+
+.text-content, .tags {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
 
 li:hover {
     background-color: rgba(255, 255, 255, 0.3); /* Slightly increase opacity on hover */
 }
 
+.left-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: calc(100% - 2rem - 1rem); /* Deducting the width and margin of the copy button */
+}
+
+.song-title {
+    text-shadow: #fff;
+}
+.song-tags {
+    display: flex; /* Add this line */
+    flex-wrap: wrap; /* Add this line */
+    justify-content: start; /* Add this line */
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    border-radius: 0.31rem;
+    gap: 0.4rem;
+}
+
+.tag {
+    margin: 0.2rem;  /* Adjust this to manage the margin of individual tag */
+    border: 2px solid #8639DB;
+    border-radius: 0.31rem;
+    padding: 0.2rem 0.45rem;
+    white-space: nowrap; /* Prevents the text inside the tag from wrapping to the next line */
+    overflow: hidden; /* Hide overflowed text */
+    text-overflow: ellipsis; /* Display ellipsis when the text overflows */
+}
+
+/* _______________________ Copy BTN ___________________ Start*/
 /* Add your custom button styles */
+.copy-btn-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
 .copy-button {
-    background-color: #E1306C;
+    width: 2rem !important;
+    height: 100%;  /* Added this line */
+    display: flex;
+    justify-content: center;
+    align-items: center;  /* Center the image vertically */
+    background-color: #F34DFF;
     border: none;
-    border-radius: 5px;
+    border-radius: 0.31rem;
     color: white;
-    padding: 0.5rem 1rem;
     cursor: pointer;
-    transition: background-color 0.3s ease;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    margin-left: 1rem !important;
+    padding: 0.7rem 0rem;
 }
 
 .copy-button:hover {
-    background-color: #ff5c8d;
+    background-color: #EE00FF;
+    transform: scale(1.2);
 }
 
+.copy-icon {  /* Added this class to style the image */
+    width: 0.8rem;  /* Set the size of the image */
+    height: auto;  /* Maintain the aspect ratio of the image */
+}
+
+.song-details .copy-button {
+    margin-left: 1rem;
+}
+/* _______________________ Toast ___________________ Start*/
 .toast {
     position: fixed;
-    bottom: 20px;
+    bottom: 1.2rem;
     left: 50%;
     transform: translateX(-50%);
     background-color: rgba(255, 255, 255, 0.3);
     color: white;
     padding: 0.5rem 1rem;
-    border-radius: 5px;
+    border-radius: 0.31rem;
     font-size: 1rem;
     opacity: 1;
     transition: opacity 1s ease;
+    animation: fadeInUp 0.5s ease forwards;
 }
 
 .toast.fade-out {
     opacity: 0;
 }
 
+
+/* _______________________ WAVEFORM ___________________ Start*/
 .song-details .waveform-container {
     padding-bottom: 1rem;
     height: 3.5rem;
@@ -123,9 +203,9 @@ li:hover {
     display: flex;
     align-items: flex-end;
     width: 100%;
-    height: 100px;
+    height: 6.25rem;
     background-color: rgba(255, 255, 255, 0.3);
-    border-radius: 5px;
+    border-radius: 0.31rem;
     margin-bottom: 1rem;
 }
 
@@ -134,3 +214,146 @@ li:hover {
     background-color: rgba(255, 255, 255, 0.5);
     
 }
+
+/* _______________ BPM SLIDERS___________________ START */
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&display=swap');
+
+
+#slider-container {
+  font-family: 'Nunito Sans', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  padding-top: 2rem;
+  /* border: 0.5rem solid #803780; */
+  box-sizing: border-box;
+  width: 25rem;
+  height: 10rem;
+}
+
+.slider-range {
+  position: relative;
+  background-color: #9b9bac !important;
+  width: 70%;
+  height: 0.6rem;
+  border-radius: 4rem;
+}
+
+.slider-active-range {
+  position: absolute;
+  height: 100%;
+  background-color: #6C4BF3 !important;
+}
+
+.slider-thumb {
+  position: absolute;
+  background-color: #8639DB;
+  border: solid 0.2rem #fff !important;
+  border-radius: 50%;
+  height: 2rem !important;
+  width: 2rem !important;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+}
+
+.data-thumb {
+  position: absolute;
+  background-color: rgba(134, 57, 219, 0.7);
+  padding: 0.4rem 1.2rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #f5f5f7;
+  bottom: 100%;
+  margin-bottom: 1.4rem;
+  border-radius: 4rem;
+  white-space: nowrap;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 7rem; /* adjust this value to fit your needs */
+}
+
+#slider-value {
+  color: #f5f5f7;
+  flex-grow: 1;
+  text-align: left ;
+}
+
+.range-value-container {
+  flex-grow: 2;
+  text-align: right;
+}
+
+#range-value {
+  color: #ffffff !important;
+}
+
+/* 
+.bpm-range {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 960px;
+    margin: 1rem auto;
+    padding: 1rem;
+}
+
+.range-width-selector {
+    flex-grow: 1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.slider {
+    flex-grow: 2;
+}
+
+#bpmRange {
+    flex-grow: 1;
+    text-align: right;
+} */
+
+/* _______________ BPM SLIDERS___________________ END */
+/* Add keyframes for a fade-in-up animation */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translate3d(0, 2rem, 0);
+    }
+
+    to {
+        opacity: 1;
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+
+/*Colors: */
+
+
+/* .pricing-card[data-plan="The Party Starter"] {
+    --card-default-color: #F34DFF;
+    --card-hover-color: #EE00FF;
+}
+
+.pricing-card[data-plan="Party Road Trip"] {
+    --card-default-color: #8769FF;
+    --card-hover-color: #6C4BF3;
+}
+
+.pricing-card[data-plan="Party Factory"] {
+    --card-default-color: #4A5057;
+    --card-hover-color: #222F3E;
+
+
+    Total white: #F5F5F7
+    Grey 1: #E6E6EA
+
+
+} */

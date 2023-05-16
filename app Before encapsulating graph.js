@@ -1,7 +1,6 @@
-// const ctx = canvas.getContext('2d');
-// const selectedPoint = document.getElementById('selectedPoint');
-
 const canvas = document.getElementById('musicGraph');
+const ctx = canvas.getContext('2d');
+const selectedPoint = document.getElementById('selectedPoint');
 const songList = document.getElementById('songs');//'#song-list'
 
 const width = 300;
@@ -67,7 +66,6 @@ class SongManager {
             return aDistance - bDistance;
         });
     }
-    
     // Update the song list based on the current BPM range
     updateSongList(energy, popularity) {
         // Clear the existing song list
@@ -78,147 +76,20 @@ class SongManager {
         let filteredSongs = this.getSongsWithinBpmRange();
 
         // Sort songs based on their distance to the selected point
-        const sortedSongs = this.sortByProximity(energy, popularity);
+        const sortedSongs = songManager.sortByProximity(energy, popularity);
+
 
         // Display sorted songs (only first 5)
-        filteredSongs.slice(0, 6).forEach((song, index) => {
-            const songUI = new SongListItemUI(song);
-            const listItem = songUI.createCollapsedState();
+        filteredSongs.slice(0, 10).forEach((song, index) => {
+            const listItem = document.createElement('li');
+            listItem.textContent = `${song.trackTitle} 
+                [🥁${song.bpm} |🎻${song.key}],  [⚡️${song.energy}| 🎤${song.popularity}]`;
             listItem.dataset.index = index;
+            listItem.dataset.song = JSON.stringify(song); // Store the song object as a string
             songList.appendChild(listItem);
         });
     }
-
-    handleListClick(event) {
-        // If the copy button was clicked, don't do anything.
-        if (event.target.classList.contains('copy-button')) {
-            return;
-        }
-
-        // Find the closest parent li of the clicked element
-        const listItem = event.target.closest('li');
-        
-        if (listItem) {
-            const song = JSON.parse(listItem.dataset.song);
-
-            if (listItem.querySelector('.song-details')) {
-                listItem.removeChild(listItem.querySelector('.song-details'));
-            } else {
-                const songUI = new SongListItemUI(song);
-                songUI.createExpandedState(listItem);
-            }
-        }
-    }
 }
-
-class SongListItemUI {
-    constructor(song) {
-        this.song = song;
-    }
-
-    createCollapsedState() {
-        const listItem = document.createElement('li');
-        const container = document.createElement('div');
-        container.className = 'copy-btn-container';
-
-        const leftContainer = document.createElement('div');
-        leftContainer.className = 'left-container';
-
-        const title = document.createElement('div');
-        title.className = 'song-title';
-        title.textContent = `${this.song.trackTitle}`;
-        leftContainer.appendChild(title);
-
-        // Tags
-        const tagNames = [`🥁${this.song.bpm}`, `🎻${this.song.key}`,
-         `⚡️${this.song.energy}`, `🎤${this.song.popularity}`, `▶️${this.song.djPlayCount}`];
-        const tagsContainer = this.createUIListOfTags(tagNames);
-        leftContainer.appendChild(tagsContainer);
-
-        container.appendChild(leftContainer);
-
-        const copyButton = this.createCopyButton();
-        container.appendChild(copyButton);
-
-        listItem.appendChild(container);
-        listItem.dataset.song = JSON.stringify(this.song);
-        return listItem;
-    }
-
-
-
-    createExpandedState(listItem) {
-        const detailsContainer = document.createElement('div');
-        detailsContainer.className = 'song-details';
-
-        const artist = document.createElement('p');
-        artist.textContent = `By: ${this.song.artist}`;
-        detailsContainer.appendChild(artist);
-
-        listItem.appendChild(detailsContainer);
-
-        // My Tag
-        const myTag = document.createElement('p');
-        let separetedTags = String(this.song.myTag).split(',')
-
-        // Filter out tags that start with 'E' or 'P' followed by a number
-        separetedTags = separetedTags.filter(tag => {
-            return !(/^[EP]\d+/.test(tag.trim()));
-        });
-
-        const myTagsList = this.createUIListOfTags(separetedTags);
-        
-        detailsContainer.appendChild(myTagsList);
-
-        return listItem;
-    }
-
-    createCopyButton() {
-        const copyButton = document.createElement('button');
-        copyButton.className = 'copy-button';
-    
-        const image = document.createElement('img');
-        image.src = 'images/copy.png'; // The path to your image
-        image.alt = 'Copy'; // Alt text for accessibility
-        image.className = 'copy-icon'; // You may want to add some styling to the image
-    
-        copyButton.appendChild(image);
-    
-        copyButton.addEventListener('click', () => {
-            const tempTextarea = document.createElement('textarea');
-            tempTextarea.value = this.song.trackTitle;
-            document.body.appendChild(tempTextarea);
-            tempTextarea.select();
-            document.execCommand('copy');
-            document.body.removeChild(tempTextarea);
-    
-            showToast(`Copied "${this.song.trackTitle}" to clipboard`);
-        });
-    
-        return copyButton;
-    }
-
-    createUIListOfTags(tagsList) {
-        const tagsContainer = document.createElement('div');
-        tagsContainer.className = 'song-tags';
-
-        
-        for (let tagName of tagsList) {
-            const tag = this.createTagUI(tagName);
-            tagsContainer.appendChild(tag);
-        }
-
-        return tagsContainer;
-    }
-
-    createTagUI(tagName) {
-        const tag = document.createElement('span');
-        tag.className = 'tag';
-        tag.textContent = tagName;
-        return tag;
-    }
-}
-
     
 // Function to create SongExample instances from JSON data
 async function createSongExamplesFromJson() {
@@ -236,6 +107,17 @@ async function createSongExamplesFromJson() {
     }
 }
 
+
+let songs = []; 
+let songManager;
+
+canvas.style.pointerEvents = 'none'; // Disable click events
+
+createSongExamplesFromJson().then((result) => {
+    songs = result;
+    songManager = new SongManager(songs);
+    canvas.style.pointerEvents = 'auto'; // Enable click events
+});
 
 
 
@@ -333,80 +215,80 @@ function showSongDetails(song, listItem) {
 
 
 // __________________________ Graph ____________________ Start
-class GraphManager {
-    constructor(canvasId, width, height) {
-        this.canvas = document.getElementById(canvasId);
-        this.ctx = this.canvas.getContext('2d');
-        this.width = width;
-        this.height = height;
-        this.canvas.width = this.width;
-        this.canvas.height = this.height;
-        this.selectedPoint = document.getElementById('selectedPoint');
-        this.songList = document.getElementById('songs');
-    }
+function drawGraph() {
+    ctx.clearRect(0, 0, width, height);
 
-    drawGraph() {
-        this.ctx.clearRect(0, 0, this.width, this.height);
+    ctx.strokeStyle = '#F5F5F7';
+    ctx.lineWidth = 0.1;
+    ctx.beginPath();
+    ctx.moveTo(0, height / 2);
+    ctx.lineTo(width, height / 2);
+    ctx.stroke();
 
-        this.ctx.strokeStyle = '#F5F5F7';
-        this.ctx.lineWidth = 0.1;
-        this.ctx.beginPath();
-        this.ctx.moveTo(0, this.height / 2);
-        this.ctx.lineTo(this.width, this.height / 2);
-        this.ctx.stroke();
+    ctx.beginPath();
+    ctx.moveTo(width / 2, 0);
+    ctx.lineTo(width / 2, height);
+    ctx.stroke();
+ }
 
-        this.ctx.beginPath();
-        this.ctx.moveTo(this.width / 2, 0);
-        this.ctx.lineTo(this.width / 2, this.height);
-        this.ctx.stroke();
-    }
-
-    drawDot(x, y) {
-        // Draw the white background
-        this.ctx.beginPath();
-        this.ctx.arc(x, y, 12, 0, 2 * Math.PI);
-        this.ctx.fillStyle = '#fff';
-        this.ctx.fill();
-        
-        // Draw the colored dot on top
-        this.ctx.beginPath();
-        this.ctx.arc(x, y, 10, 0, 2 * Math.PI); // Reduced the radius a bit to create a border effect
-        this.ctx.fillStyle = '#8639DB';
-        this.ctx.fill();
-    }
-
-    handleClick(event, songManager) {
-        const rect = this.canvas.getBoundingClientRect();
-        const x = event.clientX - rect.left;
-        const y = event.clientY - rect.top;
-        // Ranging at [1,10]
-        const energy = (x / this.width) * 9 + 1; // Change the scaling factor and add 1
-        const popularity = ((this.height - y) / this.height) * 9 + 1; // Change the scaling factor and add 1
-
-        const energyRounded = Math.round(energy); // Change the scaling factor and add 1
-        const popularityRounded = Math.round(popularity); 
-        this.drawGraph(); // Clear and redraw the graph
-        this.drawDot(x, y); // Draw the new dot
-
-        this.selectedPoint.textContent = `Selected Point: Energy ${energyRounded}, Popularity ${popularityRounded}`;
-
-        songManager.updateSongList(energy, popularity);
-    }
-
-    initializeInteraction(songManager) {
-        this.canvas.addEventListener('click', (event) => this.handleClick(event, songManager));
-    }
+function drawDot(x, y) {
+    // Draw the white background
+    ctx.beginPath();
+    ctx.arc(x, y, 12, 0, 2 * Math.PI);
+    ctx.fillStyle = '#fff';
+    ctx.fill();
+    
+    // Draw the colored dot on top
+    ctx.beginPath();
+    ctx.arc(x, y, 10, 0, 2 * Math.PI); // Reduced the radius a bit to create a border effect
+    ctx.fillStyle = '#8639DB';
+    ctx.fill();
 }
 
 
 
+canvas.addEventListener('click', (event) => {
+    const rect = canvas.getBoundingClientRect();
+    const x = event.clientX - rect.left;
+    const y = event.clientY - rect.top;
+    // Ranging at [1,10]
+    const energy = (x / width) * 9 + 1; // Change the scaling factor and add 1
+    const popularity = ((height - y) / height) * 9 + 1; // Change the scaling factor and add 1
 
+    const energyRounded = Math.round(energy); // Change the scaling factor and add 1
+    const popularityRounded = Math.round(popularity); 
+    drawGraph(); // Clear and redraw the graph
+    drawDot(x, y); // Draw the new dot
+
+    selectedPoint.textContent = `Selected Point: Energy ${energyRounded}, Popularity ${popularityRounded}`;
+
+    // Removed the `getSongs` function call and directly use the `songs` array
+    
+    songManager.updateSongList(energy, popularity);
+});
 
 // __________________________ Graph ____________________ End
 
 
-songList.addEventListener('click', (event) => songManager.handleListClick(event));
+songList.addEventListener('click', (event) => {
+    // If the copy button was clicked, don't do anything.
+    if (event.target.classList.contains('copy-button')) {
+        return;
+    }
 
+    // Find the closest parent li of the clicked element
+    const listItem = event.target.closest('li');
+    
+    if (listItem) {
+        const song = JSON.parse(listItem.dataset.song); // Retrieve the song object from the dataset
+
+        if (listItem.querySelector('.song-details')) { // If it's already open, close it.
+            listItem.removeChild(listItem.querySelector('.song-details'));
+        } else {
+            showSongDetails(song, listItem);
+        }
+    }
+});
 function showToast(message) {
     const toast = document.createElement('div');
     toast.className = 'toast';
@@ -423,16 +305,20 @@ function showToast(message) {
 }
 
 
+
+
+drawGraph();
+
 /* _______________ BPM SLIDERS___________________ START */
 
 
 class BpmSlider {
-    constructor(songManager) {
+    constructor() {
       this.sliderRange = document.getElementById("slider-range");
       this.sliderThumb = document.getElementById("slider-thumb");
       this.rangeValueElement = document.getElementById("range-value");
       this.dataBubble = document.getElementById("data-bubble");
-      this.songManager = songManager
+  
       this.min = 60;
       this.max = 140;
       this.rangeValues = [2, 6, 12]; // Range values
@@ -469,7 +355,7 @@ class BpmSlider {
     updateUI() {
       const minValue = Math.max(this.min, this.currentValue - this.currentRangeValue);
       const maxValue = Math.min(this.max, this.currentValue + this.currentRangeValue);
-      this.songManager.setBpmRange([minValue, maxValue]);
+      songManager.setBpmRange([minValue, maxValue]);
       this.updateThumbPosition(this.currentValue);
       this.updateValuePosition();
       this.updateCurrentValue(this.currentValue);
@@ -524,30 +410,8 @@ class BpmSlider {
       }
     }
     
-
-let songs = []; 
-let songManager;
-let graphManager;
-let bpmSlider;
-
-canvas.style.pointerEvents = 'none'; // Disable click events
-
-createSongExamplesFromJson().then((result) => {
-    songs = result;
-    songManager = new SongManager(songs);
-    canvas.style.pointerEvents = 'auto'; // Enable click events
-    graphManager = new GraphManager('musicGraph', 400, 200);
-    graphManager.drawGraph();
-    graphManager.initializeInteraction(songManager);
-    
-    // Instantiate the BpmSlider here
-    bpmSlider = new BpmSlider(songManager);
-
-});
-    
-    
-    // Creating the instance after fetching the songs from the json
-
+    // Usage
+new BpmSlider();
 
 
 /* _______________ BPM SLIDERS___________________ END */
