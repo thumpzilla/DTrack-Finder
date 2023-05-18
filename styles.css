@@ -10,7 +10,7 @@ body {
     color: #F5F5F7; /* Light text color for better contrast on dark background */
 }
 html{
-    font-size:14px;
+    font-size:15px;
     }
     
 h1 {
@@ -29,6 +29,7 @@ h2 {
  
 .container {
     display: flex;
+    position: relative;
     flex-direction: column;
     align-items: center;
     max-width: 30rem;
@@ -65,7 +66,7 @@ canvas {
 .song-list {
     width: 100%;
     max-width: 100%;
-    max-height: 35rem; /* Corresponding to 3 elements (each has 1 rem padding, and 0.5 rem margin*/
+    height: 35rem; /* Corresponding to 3 elements (each has 1 rem padding, and 0.5 rem margin*/
     overflow-y: auto;
 
 }
@@ -132,6 +133,107 @@ li:hover {
     text-overflow: ellipsis; /* Display ellipsis when the text overflows */
 }
 
+/*________________________ FilterTags - Passed __________________ 18May ___________ START */
+#tags-filtering-div {
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+}
+
+#active-tags {
+    display: flex;
+    justify-content: flex-start; /* Change from space-between to flex-start */
+    padding: 0.5rem;
+    background-color: #282944;
+    color: #F5F5F7;
+    border-radius: 0.625rem;
+    flex-wrap: wrap; /* Add this line to wrap the tags and button if they don't fit on one line */
+}
+
+.active-filter-tag {
+    margin: 0.2rem;  /* Adjust this to manage the margin of individual tag */
+    align-self: flex-start; /* Add this line to prevent stretching */
+    border-radius: 1.2rem !important;
+    background-color: #8639DB;;
+    padding: 0.3rem 0.9rem !important;
+    white-space: nowrap; /* Prevents the text inside the tag from wrapping to the next line */
+    overflow: hidden; /* Hide overflowed text */
+    text-overflow: ellipsis; /* Display ellipsis when the text overflows */
+    
+}
+
+
+#add-tag {
+    font-size: 2rem;
+    margin-right: 2rem;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 50%;
+    color: #cccccc;
+    width: 2rem;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    margin-left: auto; /* Add this line to push the button to the end of the line */
+    order: 2; /* Add this line to always keep the button at the end of the line */
+}
+
+
+
+
+.categories-container {
+    display: flex;
+    overflow-x: auto;
+    white-space: nowrap;
+    padding: 0.5rem 0;
+    /* margin-bottom: 1rem; */
+
+}
+
+.category-tab {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    color: #cccccc;
+    transition: color 0.3s ease;
+}
+
+.category-tab.active {
+    color: #ffffff;
+    font-size: 110%;
+    font-weight: bold !important;
+    text-decoration: underline;
+}
+
+
+.filter-tag {
+            /* top | right | bottom | left */
+    margin: 0rem 0.2rem 0.6rem 0.2rem; /* Adjust top and bottom margin to manage the distance between rows */
+    border-radius: 1.2rem !important;
+    background-color: #8639DB;
+    padding: 0.3rem 0.9rem !important;
+    white-space: nowrap; /* Prevents the text inside the tag from wrapping to the next line */
+    overflow: hidden; /* Hide overflowed text */
+    text-overflow: ellipsis; /* Display ellipsis when the text overflows */
+}
+
+.tags-container{
+    display: flex;
+    align-items: flex-start; /* Align child elements to the top */
+    align-content: flex-start; /* Align rows to the top */
+    flex-wrap: wrap;
+    padding: 0.5rem;
+    background-color: #282944;
+    color: #F5F5F7;
+    height: 11rem;
+    border-radius: 0.625rem;
+    overflow-y: auto;
+}
+
+/*________________________ FilterTags - Passed __________________ 18May ___________ END */
+
+
 /* _______________________ Copy BTN ___________________ Start*/
 /* Add your custom button styles */
 .copy-btn-container {
@@ -163,7 +265,7 @@ li:hover {
 }
 
 .copy-icon {  /* Added this class to style the image */
-    width: 0.8rem;  /* Set the size of the image */
+    width: 1rem;  /* Set the size of the image */
     height: auto;  /* Maintain the aspect ratio of the image */
 }
 
@@ -229,7 +331,7 @@ li:hover {
   /* border: 0.5rem solid #803780; */
   box-sizing: border-box;
   width: 25rem;
-  height: 10rem;
+  height: 9rem;
 }
 
 .slider-range {
@@ -357,3 +459,12 @@ li:hover {
 
 
 } */
+
+/*
+Learing:
+Starting with a hash (#) - ID selector:
+Starting with a dot (.) - Class selector:
+Starting with nothing: selector targets all h2 elements (For example)
+
+
+*/
