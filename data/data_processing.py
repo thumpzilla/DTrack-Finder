@@ -1,5 +1,5 @@
 
-# Cell 1
+# Cell 1 ________________________________ Read the text file & Create pandas dataframe
 import pandas as pd
 
 # Assuming your data is in a file named 'data.txt'
@@ -10,7 +10,7 @@ df['My Tag'] = df['My Tag'].apply(lambda x: x.split(' / '))
 
 df.head()  # Display the first few rows
 
-#Cell 2
+#Cell 2 ________________________________ Covert Energy and Popularity tags to 1-10 scale
 def create_energy_popularity_columns(df):
     translation_energy_from_6scale_to_10scale = {
         "": "-1",
@@ -47,7 +47,7 @@ def create_energy_popularity_columns(df):
 # Apply the function to the DataFrame
 df = create_energy_popularity_columns(df)
 
-# Cell 3
+# Cell 3 __________________________________ Save the Dataframe as JSON
 
 # Save the DF as a JSON (prepare for javascript)
 df.to_json('DTRacks All 1200 DTracks.json', orient='records')
