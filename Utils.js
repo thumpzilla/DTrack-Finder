@@ -40,3 +40,27 @@ export async function createSongExamplesFromJson() {
         console.error("Problem with fetch operation: ", error);
     }
 }
+
+export function createTagUI(tagName, tagDescription) {
+    const tag = document.createElement('span');
+    tag.className = 'tag';
+    tag.textContent = tagName;
+
+    // Create the tooltip element
+    const tooltip = document.createElement('span');
+    tooltip.className = 'tooltip';
+    tooltip.textContent = tagDescription;
+
+    // Append the tooltip to the tag
+    tag.appendChild(tooltip);
+
+    // Set up the hover event
+    tag.addEventListener('mouseover', () => {
+        tooltip.style.display = 'block';
+    });
+    tag.addEventListener('mouseout', () => {
+        tooltip.style.display = 'none';
+    });
+
+    return tag;
+}

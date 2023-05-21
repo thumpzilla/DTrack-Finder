@@ -8,7 +8,6 @@ export default class GraphManager {
         this.canvas.width = this.width;
         this.canvas.height = this.height;
         this.canvas.style.pointerEvents = 'auto'; // Enable click events
-        this.selectedPoint = document.getElementById('selectedPoint');
         this.listOfSongs_UI = document.getElementById('songs');
     }
 
@@ -29,16 +28,34 @@ export default class GraphManager {
     }
 
     drawDot(x, y) {
-        // Draw the white background
+        // // Draw the white background
+        // this.ctx.beginPath();
+        // this.ctx.arc(x, y, 12, 0, 2 * Math.PI);
+        // this.ctx.fillStyle = '#fff';
+        // this.ctx.fill();
+        
+        // // Draw the colored dot on top
+        // this.ctx.beginPath();
+        // this.ctx.arc(x, y, 10, 0, 2 * Math.PI); // Reduced the radius a bit to create a border effect
+        // this.ctx.fillStyle = '#8639DB';
+        // this.ctx.fill();
+
+            // Draw the white background
         this.ctx.beginPath();
-        this.ctx.arc(x, y, 12, 0, 2 * Math.PI);
+        this.ctx.arc(x, y, 14, 0, 2 * Math.PI);
         this.ctx.fillStyle = '#fff';
         this.ctx.fill();
         
         // Draw the colored dot on top
         this.ctx.beginPath();
-        this.ctx.arc(x, y, 10, 0, 2 * Math.PI); // Reduced the radius a bit to create a border effect
-        this.ctx.fillStyle = '#8639DB';
+        this.ctx.arc(x, y, 11, 0, 2 * Math.PI);
+
+        // Create radial gradient
+        let gradient = this.ctx.createRadialGradient(x, y, 0, x, y, 10);
+        gradient.addColorStop(0, '#EB5CE4');
+        gradient.addColorStop(1, '#D545F6');
+
+        this.ctx.fillStyle = gradient;
         this.ctx.fill();
     }
 
@@ -55,11 +72,9 @@ export default class GraphManager {
         this.drawGraph(); // Clear and redraw the graph
         this.drawDot(x, y); // Draw the new dot
 
-        this.selectedPoint.textContent = `Selected Point: Energy ${energyRounded}, Popularity ${popularityRounded}`;
-
         songManager.updateSongList(energy, popularity);
     }
-
+    
     initializeInteraction(songManager) {
         let dragging = false;
     
@@ -74,6 +89,24 @@ export default class GraphManager {
         });
     
         this.canvas.addEventListener('click', (event) => this.handleClick(event, songManager));
+        this.initializeDefaultSelection()
     }
+
+
+    initializeDefaultSelection() {
+        /* NOTE THAT THE DEFAULT Energy=4 and Popularity=8 Are in SongManager.updateSongList*/
+        const energy = 4;
+        const popularity = 8;
+        
+        // Convert energy and popularity to x, y coordinates
+        const x = (energy - 1) / 9 * this.width;
+        const y = this.height - ((popularity - 1) / 9 * this.height);
+    
+        // Draw the graph and the dot
+        this.drawGraph();
+        this.drawDot(x, y);
+    }
+    
+
     
 }

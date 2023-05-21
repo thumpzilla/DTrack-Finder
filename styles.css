@@ -1,6 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@100;200;300;400;600;700;900&display=swap');
+
 * {
     box-sizing: border-box;
+    /* Preventing text selecting on the entire application */
+    user-select: none; /* Standard syntax */
+    -webkit-user-select: none; /* Chrome, Safari and Opera syntax */
+    -moz-user-select: none; /* Firefox syntax */
+    -ms-user-select: none; /* IE 10+ syntax */
 }
+/* Will enalbe it throught using  <div class="selectable"> this text is selectable </div>*/
+.selectable {
+    user-select: text;
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+  }
 
 body {
     font-family: 'Nunito', sans-serif;
@@ -9,9 +23,10 @@ body {
     background-color: #222F3E; /* Dark background, similar to Rekordbox */
     color: #F5F5F7; /* Light text color for better contrast on dark background */
 }
+
 html{
     font-size:15px;
-    }
+}
     
 h1 {
     font-size: 2rem;
@@ -32,17 +47,28 @@ h2 {
     position: relative;
     flex-direction: column;
     align-items: center;
-    max-width: 30rem;
+    width: 30rem;
+    height: 65rem;
     margin: 0 auto;
     padding: 1rem;
     border-radius: 1.25rem;
     overflow: hidden;
     background: url("../images/Dark-background.svg");
     background-size: 400%;
-    
 
+}
 
-    
+.tooltip {
+    display: none;
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 5px;
+    border-radius: 3px;
+    background-color: purple;
+    color: white;
+    white-space: nowrap;
 }
 /* _______________________ Graph 2d selector ___________________ Start*/
 .graph {
@@ -51,8 +77,7 @@ h2 {
     max-width: 100%;
     background-color: #282944;
     border-radius: 0.625rem;
-    background: linear-gradient(45deg, rgb(108, 75, 243) 50%, rgb(254, 0, 255) 170%);
-
+    background: linear-gradient(45deg, #712AC8 ,#C63BFB, #FA74D7);
 }
 
 
@@ -66,9 +91,27 @@ canvas {
 .song-list {
     width: 100%;
     max-width: 100%;
-    height: 35rem; /* Corresponding to 3 elements (each has 1 rem padding, and 0.5 rem margin*/
+    height: 100%; /* Corresponding to 3 elements (each has 1 rem padding, and 0.5 rem margin*/
     overflow-y: auto;
 
+}
+.song-title {
+    font-size: 1rem;
+    font-weight: 600 !important;
+    font-weight: bold;
+    margin-bottom: 0.1rem;
+    overflow: hidden;
+}
+
+.song-artist {
+    font-size: 0.9rem;
+    font-weight: 200; /* Light/thin weight */
+}
+
+.song-rating {
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+    font-weight: 100; /* Light/thin weight */
 }
 
 ul {
@@ -82,6 +125,13 @@ ol {
     padding: 0;
     margin: 0;
 }
+
+.song-count {
+    text-align: center;
+    margin-top: 1rem;
+    color: #F5F5F7;
+}
+
  /* _______________________ List Item ___________________ Start*/
 li {
     background-color: rgba(255, 255, 255, 0.1); /* Light background with low opacity */
@@ -154,7 +204,7 @@ li:hover {
     margin: 0.2rem;  /* Adjust this to manage the margin of individual tag */
     align-self: flex-start; /* Add this line to prevent stretching */
     border-radius: 1.2rem !important;
-    background-color: #8639DB;;
+    background: linear-gradient(20deg, #712AC8 ,#C63BFB);
     padding: 0.3rem 0.9rem !important;
     white-space: nowrap; /* Prevents the text inside the tag from wrapping to the next line */
     overflow: hidden; /* Hide overflowed text */
@@ -165,20 +215,32 @@ li:hover {
 
 #add-tag {
     font-size: 2rem;
-    margin-right: 2rem;
-    background-color: rgba(255, 255, 255, 0.1);
+    margin-right: 1.5rem;
+    background: radial-gradient(#C23DF2, #B142CD);
     border-radius: 50%;
-    color: #cccccc;
+    color: #F5F5F7; /* Changed the color of + sign to #F5F5F7 */
     width: 2rem;
     height: 2rem;
+    transform: 3rem left;
     display: flex;
     align-items: center;
     justify-content: center;
     cursor: pointer;
     margin-left: auto; /* Add this line to push the button to the end of the line */
     order: 2; /* Add this line to always keep the button at the end of the line */
-}
+    transition: transform 0.3s; /* Add transition for smooth rotation */
+    border: none;  /* Add this line to remove the border */
+    position: relative;
+    line-height: 2rem;
+    text-align: center;
 
+}
+#add-tag::before {
+    content: '+';
+    position: absolute;
+    left: 21%;
+    bottom: -4%;
+}
 
 
 
@@ -201,9 +263,10 @@ li:hover {
 
 .category-tab.active {
     color: #ffffff;
-    font-size: 110%;
-    font-weight: bold !important;
-    text-decoration: underline;
+    font-size: 105%;
+    font-weight: 900;  /* adjust this as needed */
+    border-bottom: 1px solid #ffffff; /* acts as underline */
+    padding-bottom: 0.3rem;  /* adjusts distance of underline from text */
 }
 
 
@@ -211,25 +274,55 @@ li:hover {
             /* top | right | bottom | left */
     margin: 0rem 0.2rem 0.6rem 0.2rem; /* Adjust top and bottom margin to manage the distance between rows */
     border-radius: 1.2rem !important;
-    background-color: #8639DB;
+    background-color: #323E5C;
+    color: #ffffff;
     padding: 0.3rem 0.9rem !important;
     white-space: nowrap; /* Prevents the text inside the tag from wrapping to the next line */
     overflow: hidden; /* Hide overflowed text */
     text-overflow: ellipsis; /* Display ellipsis when the text overflows */
 }
 
+.active-in-catalog {
+    background: linear-gradient(20deg, #712AC8 ,#C63BFB);
+}
 .tags-container{
     display: flex;
     align-items: flex-start; /* Align child elements to the top */
     align-content: flex-start; /* Align rows to the top */
     flex-wrap: wrap;
     padding: 0.5rem;
-    background-color: #282944;
+    background: linear-gradient(40deg, #2B2445 ,#412A56, #563063, #79427B);
     color: #F5F5F7;
     height: 11rem;
     border-radius: 0.625rem;
     overflow-y: auto;
 }
+/* _______ Animation for tags _________ Start */
+.filter-tag, .active-filter-tag {
+    /* Other styles... */
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    
+}
+
+.filter-tag:hover, .active-filter-tag:hover {
+    transform: scale(1.05);
+    background-color: #A142D6; /* A slightly different purple color */
+}
+
+.filter-tag:active, .active-filter-tag:active {
+    transform: rotate(20deg);
+}
+.category-tab {
+    /* Other styles... */
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.category-tab:hover {
+    color: #F5F5F7; /* A slightly different purple color */
+}
+
+
+/* _______ Animation for tags _________ Finish */
 
 /*________________________ FilterTags - Passed __________________ 18May ___________ END */
 
@@ -249,7 +342,7 @@ li:hover {
     display: flex;
     justify-content: center;
     align-items: center;  /* Center the image vertically */
-    background-color: #F34DFF;
+    background: linear-gradient(20deg, #AA32F8 ,#C23DF2, #B142CD);
     border: none;
     border-radius: 0.31rem;
     color: white;
@@ -318,7 +411,6 @@ li:hover {
 }
 
 /* _______________ BPM SLIDERS___________________ START */
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&display=swap');
 
 
 #slider-container {
@@ -337,7 +429,7 @@ li:hover {
 .slider-range {
   position: relative;
   background-color: #9b9bac !important;
-  width: 70%;
+  width: 80%;
   height: 0.6rem;
   border-radius: 4rem;
 }
@@ -345,12 +437,12 @@ li:hover {
 .slider-active-range {
   position: absolute;
   height: 100%;
-  background-color: #6C4BF3 !important;
+  background: linear-gradient(20deg, #B145AC ,#FD92C0, #B145AC);
 }
 
 .slider-thumb {
   position: absolute;
-  background-color: #8639DB;
+  background: radial-gradient(#EB5CE4, #D545F6);
   border: solid 0.2rem #fff !important;
   border-radius: 50%;
   height: 2rem !important;
@@ -362,7 +454,7 @@ li:hover {
 
 .data-thumb {
   position: absolute;
-  background-color: rgba(134, 57, 219, 0.7);
+  background: linear-gradient(20deg, #AA32F8 ,#C23DF2, #B142CD);
   padding: 0.4rem 1.2rem;
   font-size: 1.2rem;
   font-weight: 700;
@@ -394,32 +486,80 @@ li:hover {
   color: #ffffff !important;
 }
 
-/* 
-.bpm-range {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 100%;
-    max-width: 960px;
-    margin: 1rem auto;
-    padding: 1rem;
+
+/* _______ Animation for BPMs _________ Start */
+
+.slider-thumb {
+    /* Your previous styles */
+    transition: transform 0.3s ease; /* Add this line */
+  }
+  
+  .slider-thumb:hover {
+    transform: translate(-50%, -50%) scale(0.9);
+  }
+  
+  .slider-thumb:active {
+    transform: translateX(-50%) scale(1.2);
+
+  }
+
+
+  .data-thumb {
+    /* Your previous styles */
+    transition: transform 0.3s ease; /* Add this line */
+  }
+  
+  .data-thumb:hover {
+    transform: translateX(-50%) scale(1.05);
+  }
+  
+  .data-thumb:active {
+    transform: translateX(-50%) scale(0.95);
+  }
+  
+
+
+
+/* _______ Animation for BPMs _________ Finish */
+
+/* ______________ BPM State collapsedState ________ Start*/
+
+
+  .data-thumb.collapsed #collapsed-content::before {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+
+
+.data-thumb.collapsed #expand-arrow::before {
+    display: none;
 }
 
-.range-width-selector {
-    flex-grow: 1;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
+
+#expand-arrow {
+    width: 1.2rem; /* adjust as needed */
+    height: 1.2rem; /* adjust as needed */
+    content: '';
+    border: solid #B145AC;
+    border-width: 0 5px 5px 0; /* Increased font opacity*/
+    display: inline-block;
+    padding: 8px; /* Increased padding */
+    position: absolute;
+    top: 2.5rem;
+    right: -1rem; /* adjust as needed */
+
+    right: 3rem;
+    z-index: 999;
+    transition: transform 0.3s ease-in-out;
+    /* transform: translateY(-50%); */
 }
 
-.slider {
-    flex-grow: 2;
-}
-
-#bpmRange {
-    flex-grow: 1;
-    text-align: right;
+/* #expand-arrow:hover {
+    transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
 } */
+/* ______________ BPM State collapsedState ________ End */
+
 
 /* _______________ BPM SLIDERS___________________ END */
 /* Add keyframes for a fade-in-up animation */
@@ -436,32 +576,9 @@ li:hover {
 }
 
 
-/*Colors: */
-
-
-/* .pricing-card[data-plan="The Party Starter"] {
-    --card-default-color: #F34DFF;
-    --card-hover-color: #EE00FF;
-}
-
-.pricing-card[data-plan="Party Road Trip"] {
-    --card-default-color: #8769FF;
-    --card-hover-color: #6C4BF3;
-}
-
-.pricing-card[data-plan="Party Factory"] {
-    --card-default-color: #4A5057;
-    --card-hover-color: #222F3E;
-
-
-    Total white: #F5F5F7
-    Grey 1: #E6E6EA
-
-
-} */
 
 /*
-Learing:
+Learning:
 Starting with a hash (#) - ID selector:
 Starting with a dot (.) - Class selector:
 Starting with nothing: selector targets all h2 elements (For example)

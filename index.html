@@ -4,37 +4,19 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="preconnect" href="https://fonts.gstatic.com">
-        <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="styles.css">
         <title>Party Music Selector</title>
         <script type="module" src="app.js"></script>
     </head>
   <body>  
       <div class="container">
-        <div class="bpm-range">
-          <div id="slider-container">
-              <div id="slider-range" class="slider-range">
-                <div id="slider-active-range" class="slider-active-range" style="left: 0%; width: 100%;"></div>
-                <div id="slider-thumb" class="slider-thumb" style="left: 50%;">
-                  <div id="data-bubble" class="data-thumb" style="left: 50%;">
-                    <div id="slider-value" class="slider-value" style="left: 50%;">
-                        <span id="picked-value"> -BPM- </span>
-                      </div>
-                    <div id="range-value-container" class="range-value-container">
-                      <span id="range-value" class="range-value"> </span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-          </div>
-        </div>
+        <div class="bpm-range" id="bpm-range"></div>
         <div class="song-list">
           <ul id="songs"></ul>
         </div>
         <div id="tags-filtering-div"></div>
           <div id="2dSelector" class="graph">
               <canvas id="musicGraph"></canvas>
-              <div id="selectedPoint">Selected Point: None</div>
           </div>
       </div>
   </body>

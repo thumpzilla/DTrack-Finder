@@ -5,7 +5,7 @@ export default class TagFilter {
         this.tagWCategories = {
             'Hot':  [
                 "Happy", "Fool Around", "Sing", "Pool", "Sexy", "Club", "EDM", "Hip Hop", "Latin",
-                "Dance Remixes" , "Pop","PEGI 4 [Age]"
+                "Dance Remixes" , "Pop", "Jump", "PEGI 4 [Age]", "Wedding", "Flying High"
             ], 
             'Vibes':  [
                 "Wedding", "Pool", "Bars", "Club", "Strip Club", "Build up", "Jump", "Sing", "Fool Around", "Flying High", "Happy", "Cheer Competitors",
@@ -21,13 +21,13 @@ export default class TagFilter {
                 
             ],
             'Extra': [
-                "Girl Power", "Instruments", "Beat", "Vocal - Acapella", "Darbuka",
-                "Israel[Loc]", "California[Loc]", "Morning", "Sunset", "PEGI 16 [Age]", "PEGI 4 [Age]",
+                "Girl Power", "Darbuka", "Israel [Loc]", "California [Loc]", 
+                "Morning", "Sunset", "PEGI 16 [Age]", "PEGI 4 [Age]",
             ],
         };
         this.twoDSelector = document.getElementById('2dSelector'); // style.display - 'block' or 'none'
         this.songManager = songManager;
-        this.activeTags = ["Pool", "Happy", "Sing"]; // Default active tags
+        this.activeTags = ["Happy", "Sing","Hip Hop", "Sexy"]; // Default active tags
 
 
         this.filterElement = document.getElementById('tags-filtering-div');
@@ -44,8 +44,7 @@ export default class TagFilter {
 
         this.addTagButton = document.createElement('button');
         this.addTagButton.id = 'add-tag';
-        this.addTagButton.textContent = '+';
-
+    
         // Create div for tag catalog
         this.tagCatalogElement = document.createElement('div');
         this.tagCatalogElement.id = 'tag-catalog';
@@ -79,7 +78,7 @@ export default class TagFilter {
     collapseTags() {
         this.tagCatalogElement.style.display = 'none';
         this.twoDSelector.style.display = 'block';
-        this.addTagButton.textContent = '+';
+        this.addTagButton.style.transform = 'rotate(0deg)'; // Reset the rotation
     }
 
     expandTags() {  
@@ -88,7 +87,8 @@ export default class TagFilter {
         // hide selector2d
         this.twoDSelector.style.display = 'none';
         // Convert the + button to close button
-        this.addTagButton.textContent = 'x';
+          // Rotate the + button by 45 degrees
+        this.addTagButton.style.transform = 'rotate(45deg)';
 
 
         // Create a container for the tabs
@@ -149,6 +149,11 @@ export default class TagFilter {
             tagElement.textContent = tag;
             tagElement.classList.add('filter-tag');
 
+        // If the tag is active, add a different CSS class
+        if (this.activeTags.includes(tag)) {
+            tagElement.classList.add('active-in-catalog');
+        }
+
             tagElement.addEventListener('click', () => {
                 this.addTag(tag);
             });
@@ -162,6 +167,10 @@ export default class TagFilter {
         if (!this.activeTags.includes(tag)) {
             this.activeTags.push(tag);
             this.updateUI();
+            this.updateTagStatusInCatalog();
+        }
+        else{
+            this.removeTag(tag);
         }
     }
 
@@ -171,7 +180,19 @@ export default class TagFilter {
         if (index !== -1) {
             this.activeTags.splice(index, 1);
             this.updateUI();
+            this.updateTagStatusInCatalog();
         }
+    }
+    
+    updateTagStatusInCatalog() {
+        // Update the classes of the tag elements in the catalog
+        document.querySelectorAll('.filter-tag').forEach(tagElement => {
+            if (this.activeTags.includes(tagElement.textContent)) {
+                tagElement.classList.add('active-in-catalog');
+            } else {
+                tagElement.classList.remove('active-in-catalog');
+            }
+        });
     }
 
     updateUI() {
@@ -182,6 +203,7 @@ export default class TagFilter {
             tagElement.textContent = tag;
             tagElement.classList.add('active-filter-tag');
             this.activeTagsElement.appendChild(tagElement);
+            
         });
         this.activeTagsElement.appendChild(this.addTagButton);
 

@@ -19,13 +19,11 @@ export default class SongListItemUI {
         title.className = 'song-title';
         title.textContent = `${this.song.trackTitle}`;
         leftContainer.appendChild(title);
-
-        // Tags
-        const tagNames = [`🥁${this.song.bpm}`, `🎻${this.song.key}`,
-         `⚡️${this.song.energy}`, `💡${this.song.popularity}`, `▶️${this.song.djPlayCount}`];
-        const tagsContainer = this.createUIListOfTags(tagNames);
-        leftContainer.appendChild(tagsContainer);
-
+    
+        const artist = document.createElement('div');
+        artist.className = 'song-artist';
+        artist.textContent = `${this.song.artist}`;
+        leftContainer.appendChild(artist);
         container.appendChild(leftContainer);
 
         const copyButton = this.createCopyButton();
@@ -41,17 +39,22 @@ export default class SongListItemUI {
     createExpandedState(listItem) {
         const detailsContainer = document.createElement('div');
         detailsContainer.className = 'song-details';
+        // If rating is empty (for some reason the length of it is 5 when it's empty...)
+        if ((this.song.rating).length > 5 ){
+            const ratingDiv = document.createElement('div');
+            ratingDiv.className = 'song-rating';
+            ratingDiv.textContent = `rating : ${this.song.rating}`;
+            detailsContainer.appendChild(ratingDiv);
+        }
 
-        const artist = document.createElement('p');
-        artist.textContent = `By: ${this.song.artist}`;
-        detailsContainer.appendChild(artist);
+        // Tags
+        const tagNames = [`🥁${this.song.bpm}`, `🎻${this.song.key}`,
+         `⚡️${this.song.energy}`, `💡${this.song.popularity}`, `▶️${this.song.djPlayCount}`];
+        const tagsContainer = this.createUIListOfTags(tagNames);
+        detailsContainer.appendChild(tagsContainer);
+
 
         listItem.appendChild(detailsContainer);
-
-        // My Tag
-        const myTag = document.createElement('p');
-        const myTagsList = this.createUIListOfTags(this.song.myTags);
-        detailsContainer.appendChild(myTagsList);
 
         return listItem;
     }
@@ -84,6 +87,7 @@ export default class SongListItemUI {
     createUIListOfTags(tagsList) {
         const tagsContainer = document.createElement('div');
         tagsContainer.className = 'song-tags';
+        tagsContainer.title = "🥁=BPM, 🎻=Key, ⚡️=Energy, 💡=Popularity "
 
         
         for (let tagName of tagsList) {
@@ -94,7 +98,7 @@ export default class SongListItemUI {
         return tagsContainer;
     }
 
-    createTagUI(tagName) {
+    createTagUI(tagName, tagDescription = "") {
         const tag = document.createElement('span');
         tag.className = 'tag';
         tag.textContent = tagName;

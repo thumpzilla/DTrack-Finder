@@ -1,3 +1,4 @@
+
 import Song from './Song.js'
 import SongListItemUI from './SongList_UI.js';
 
@@ -5,11 +6,33 @@ export default class SongManager {
     constructor(songs) {
         this.allSongs = songs;
         this.bpmRange = [60, 140]; // Default BPM range
-        this.activeTags = ['Wedding', 'Club']; // Active tags
+        this.activeTags = []; // Active tags
         this.filteredByTagsSongs = songs;
         this.listOfSongs_UI = document.getElementById('songs');//'#song-list'
         this.listOfSongs_UI.addEventListener('click', (event) => this.handleListClick(event));
+
+        this.createSongCountDiv();
+       
     }
+
+    // changeSonglistContainerSizeInRem(newSize){
+    //     this.listOfSongs_UI.style.height='${newSize}rem'
+
+    // }
+    createSongCountDiv(){
+        // Create song count display
+        this.songCountContainer = document.createElement('div');
+        this.songCountContainer.id = 'song-count-container';
+        this.songCountContainer.style.textAlign = 'center'; // or any other styles you want
+        this.songCountDisplay = document.createElement('p');
+        this.songCountDisplay.id = 'song-count-display';
+        this.songCountContainer.appendChild(this.songCountDisplay);
+        
+    // Placing in the UI to container
+    const container = document.querySelector('.container');
+    container.insertBefore(this.songCountContainer, container.childNodes[4]); // inserting after song-list
+    }
+
     // __________________________________ BPM __________________________________
     // Set the BPM range and update the song list
     
@@ -60,22 +83,23 @@ export default class SongManager {
         });
     }
 
-
-    
     // Update the song list based on the current BPM range
-    updateSongList(energy, popularity) {
+    updateSongList(energy = 4, popularity = 8) {
+        /* NOTE THAT THE DEFAULT canvas drawing of Energy=4 and Popularity=8 Are in GraphManager2D.initializeDefaultSelection*/
         // Clear the existing song list
         while (this.listOfSongs_UI.firstChild) {
             this.listOfSongs_UI.removeChild(this.listOfSongs_UI.firstChild);
         }
         this.applyTagsFilterToSongs(this.filteredByTagsSongs);
         let songsFilteredByBPM = this.getSongsWithinBpmRange(); //BPM Filger
+        const summaryText =  `${songsFilteredByBPM.length} results,      sorted by ⚡️ ${Math.round(energy)}, 💡 ${Math.round(popularity)}`;
+        this.songCountDisplay.innerText = summaryText
 
         // Sort songs based on their distance to the selected point
         const sortedSongs = this.sortByProximity(energy, popularity, songsFilteredByBPM);
 
         // Display sorted songs (only first 5)
-        sortedSongs.slice(0, 4).forEach((song, index) => {
+        sortedSongs.slice(0,30).forEach((song, index) => {
             const songUI = new SongListItemUI(song);
             const listItem = songUI.createCollapsedState();
             listItem.dataset.index = index;
@@ -103,4 +127,4 @@ export default class SongManager {
             }
         }
     }
-}
+} 
