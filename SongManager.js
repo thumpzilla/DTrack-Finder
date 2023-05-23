@@ -21,13 +21,39 @@ export default class SongManager {
     // }
     createSongCountDiv(){
         // Create song count display
+    // Create song count display
         this.songCountContainer = document.createElement('div');
         this.songCountContainer.id = 'song-count-container';
         this.songCountContainer.style.textAlign = 'center'; // or any other styles you want
+        
         this.songCountDisplay = document.createElement('p');
         this.songCountDisplay.id = 'song-count-display';
+        this.songCountDisplay.style.color = 'white'; // Default color
+        this.songCountDisplay.classList.add('gradient-hover'); // Class for hover effect
+
         this.songCountContainer.appendChild(this.songCountDisplay);
+
+        // add click listener to rotate and increase size temporarily
+        this.songCountDisplay.addEventListener('click', () => {
+            this.songCountDisplay.classList.add('clicked');
+            setTimeout(() => {
+                this.songCountDisplay.classList.remove('clicked');
+            }, 200); // Remove the 'clicked' class after 1 second
+        });        /// add click listener between sort and tags
+        this.twoDSelector = document.getElementById('2dSelector'); // style.display - 'block' or 'none'
+        this.tagCatalogElement = document.getElementById('tag-catalog'); // style.display - 'block' or 'none'
         
+        // Update the event listener for addTagButton
+        this.songCountContainer.addEventListener('click', () => {
+            // If its closed now
+            if (this.twoDSelector.style.display === 'none') {
+                this.tagCatalogElement.style.display = 'none';
+                this.twoDSelector.style.display = 'block';
+            } else {
+                this.tagCatalogElement.style.display = 'block';
+                this.twoDSelector.style.display = 'none';
+            }
+        });
     // Placing in the UI to container
     const container = document.querySelector('.container');
     container.insertBefore(this.songCountContainer, container.childNodes[4]); // inserting after song-list

@@ -27,13 +27,14 @@ export default class TagFilter {
         };
         this.twoDSelector = document.getElementById('2dSelector'); // style.display - 'block' or 'none'
         this.songManager = songManager;
-        this.activeTags = ["Happy", "Sing","Hip Hop", "Sexy"]; // Default active tags
+        this.activeTags = ["Happy", "Sing","Flying High", "Sexy"]; // Default active tags
 
 
         this.filterElement = document.getElementById('tags-filtering-div');
 
         this.createFilterElements();
-        
+        this.buildTagCatalog(); // Build the tag catalog once
+
         this.updateUI();
     }
 
@@ -46,13 +47,11 @@ export default class TagFilter {
         this.addTagButton.id = 'add-tag';
     
         // Create div for tag catalog
-        this.tagCatalogElement = document.createElement('div');
-        this.tagCatalogElement.id = 'tag-catalog';
-        this.tagCatalogElement.style.display = 'none';
+        this.tagCatalogElement = document.getElementById('tag-catalog');
+
 
         // Add elements to filter element
         this.filterElement.appendChild(this.activeTagsElement);
-        this.filterElement.appendChild(this.tagCatalogElement);
 
         
 
@@ -67,78 +66,36 @@ export default class TagFilter {
         this.addTagButton.addEventListener('click', () => {
             // If its closed now
             if (this.tagCatalogElement.style.display === 'none') {
-                this.expandTags();
+                this.showTagCatalog(); // Show the tag catalog
             } else {
-                this.collapseTags();
+                this.collapseTagCatalog();
             }
         });
     }
+
     
 
-    collapseTags() {
+    collapseTagCatalog() {
         this.tagCatalogElement.style.display = 'none';
         this.twoDSelector.style.display = 'block';
         this.addTagButton.style.transform = 'rotate(0deg)'; // Reset the rotation
     }
 
-    expandTags() {  
-        // Clear tag catalog element
-        this.tagCatalogElement.innerHTML = '';
+    showTagCatalog() {  
+        // this.twoDSelector = document.getElementById('2dSelector'); // style.display - 'block' or 'none'
+        // this.tagCatalog = document.getElementById(''tag-catalog'); // style.display - 'block' or 'none'
+        
         // hide selector2d
         this.twoDSelector.style.display = 'none';
         // Convert the + button to close button
           // Rotate the + button by 45 degrees
         this.addTagButton.style.transform = 'rotate(45deg)';
-
-
-        // Create a container for the tabs
-        const categoriesContainer = document.createElement('div');
-        categoriesContainer.classList.add('categories-container');
-
-        // Create a container for the tags
-        const tagsContainer = document.createElement('div');
-        tagsContainer.classList.add('tags-container');
-
-        // Iterate over tag categories and create a tab for each one
-        Object.keys(this.tagWCategories).forEach((category, index) => {
-            const categoryTab = document.createElement('div');
-            categoryTab.textContent = category;
-            categoryTab.classList.add('category-tab');
-
-            // Set the first tab as active initially
-            if (index === 0) {
-                categoryTab.classList.add('active');
-            }
-
-            categoryTab.addEventListener('click', () => {
-                // Remove 'active' class from all tabs
-                document.querySelectorAll('.category-tab').forEach(tab => {
-                    tab.classList.remove('active');
-                });
-
-                // Add 'active' class to the clicked tab
-                categoryTab.classList.add('active');
-
-                // Show the tags for the clicked tab
-                this.showCategoryTags(category);
-            });
-
-            categoriesContainer.appendChild(categoryTab);
-        });
-
-        // Add the categories and tags containers to the tag catalog element
-        this.tagCatalogElement.appendChild(categoriesContainer);
-        this.tagCatalogElement.appendChild(tagsContainer);
-
-        // Show the tags for the first category initially
-        this.showCategoryTags(Object.keys(this.tagWCategories)[0]);
-
         // Show the tag catalog
         this.tagCatalogElement.style.display = 'block';
     }
 
     showCategoryTags(category) {
-        const tagsContainer = document.querySelector('.tags-container');
+        const tagsContainer = this.tagsContainer
 
         // Clear previous tags
         tagsContainer.innerHTML = '';
@@ -182,6 +139,50 @@ export default class TagFilter {
             this.updateUI();
             this.updateTagStatusInCatalog();
         }
+    }
+
+    buildTagCatalog() {
+        // Create a container for the tabs
+        const categoriesContainer = document.createElement('div');
+        categoriesContainer.classList.add('categories-container');
+
+        // Create a container for the tags
+        this.tagsContainer = document.createElement('div');
+        this.tagsContainer.classList.add('tags-container');
+
+        // Iterate over tag categories and create a tab for each one
+        Object.keys(this.tagWCategories).forEach((category, index) => {
+            const categoryTab = document.createElement('div');
+            categoryTab.textContent = category;
+            categoryTab.classList.add('category-tab');
+
+            // Set the first tab as active initially
+            if (index === 0) {
+                categoryTab.classList.add('active');
+            }
+
+            categoryTab.addEventListener('click', () => {
+                // Remove 'active' class from all tabs
+                document.querySelectorAll('.category-tab').forEach(tab => {
+                    tab.classList.remove('active');
+                });
+
+                // Add 'active' class to the clicked tab
+                categoryTab.classList.add('active');
+
+                // Show the tags for the clicked tab
+                this.showCategoryTags(category);
+            });
+
+            categoriesContainer.appendChild(categoryTab);
+        });
+
+        // Add the categories and tags containers to the tag catalog element
+        this.tagCatalogElement.appendChild(categoriesContainer);
+        this.tagCatalogElement.appendChild(this.tagsContainer);
+
+        // Show the tags for the first category initially
+        this.showCategoryTags(Object.keys(this.tagWCategories)[0]);
     }
     
     updateTagStatusInCatalog() {

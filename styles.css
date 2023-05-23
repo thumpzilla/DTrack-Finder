@@ -183,6 +183,28 @@ li:hover {
     text-overflow: ellipsis; /* Display ellipsis when the text overflows */
 }
 
+/* _____________________________ Results count and sorting _______________________ START */
+.gradient-hover {
+    transition: color 0.5s ease;
+}
+
+.gradient-hover:hover {
+    background: linear-gradient(#B145AC ,#FD92C0, #B145AC);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.gradient-hover {
+    transition: color 0.5s ease, transform 0.5s ease;
+}
+
+#song-count-display.clicked {
+    transform: scale(1.2) rotate(2deg);
+    transition: transform 0.2s ease;
+}
+/* _____________________________ Results count and sorting _______________________ END */
+
+
 /*________________________ FilterTags - Passed __________________ 18May ___________ START */
 #tags-filtering-div {
     display: flex;
@@ -216,6 +238,7 @@ li:hover {
 #add-tag {
     font-size: 2rem;
     margin-right: 1.5rem;
+    margin-top: 0.1rem;
     background: radial-gradient(#C23DF2, #B142CD);
     border-radius: 50%;
     color: #F5F5F7; /* Changed the color of + sign to #F5F5F7 */
@@ -293,7 +316,7 @@ li:hover {
     padding: 0.5rem;
     background: linear-gradient(40deg, #2B2445 ,#412A56, #563063, #79427B);
     color: #F5F5F7;
-    height: 11rem;
+    height: 10rem;
     border-radius: 0.625rem;
     overflow-y: auto;
 }
