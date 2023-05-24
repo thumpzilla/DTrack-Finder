@@ -43,8 +43,8 @@ export default class TagFilter {
         this.activeTagsElement = document.createElement('div');
         this.activeTagsElement.id = 'active-tags';
 
-        this.addTagButton = document.createElement('button');
-        this.addTagButton.id = 'add-tag';
+
+
     
         // Create div for tag catalog
         this.tagCatalogElement = document.getElementById('tag-catalog');
@@ -62,18 +62,6 @@ export default class TagFilter {
             }
         });
 
-        // Update the event listener for addTagButton
-        this.addTagButton.addEventListener('click', () => {
-            // If its closed now
-            if (this.tagCatalogElement.style.display === 'none') {
-                this.addTagButton.style.transform = 'rotate(45deg)';
-
-                this.showTagCatalog(); // Show the tag catalog
-            } else {
-                this.addTagButton.style.transform = 'rotate(0deg)'; // Reset the rotation
-                this.collapseTagCatalog();
-            }
-        });
     }
 
     
@@ -207,7 +195,7 @@ export default class TagFilter {
             this.activeTagsElement.appendChild(tagElement);
             
         });
-        this.activeTagsElement.appendChild(this.addTagButton);
+        
 
 
 

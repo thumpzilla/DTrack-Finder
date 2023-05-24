@@ -261,40 +261,6 @@ li:hover {
 }
 
 
-#add-tag {
-    font-size: 2rem;
-    margin-right: 1.5rem;
-    margin-top: 0.1rem;
-    background: radial-gradient(#C23DF2, #B142CD);
-    border-radius: 50%;
-    color: #F5F5F7; /* Changed the color of + sign to #F5F5F7 */
-    width: 2rem;
-    height: 2rem;
-    transform: 3rem left;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
-    margin-left: auto; /* Add this line to push the button to the end of the line */
-    order: 2; /* Add this line to always keep the button at the end of the line */
-    transition: transform 0.3s; /* Add transition for smooth rotation */
-    border: none;  /* Add this line to remove the border */
-    position: relative;
-    line-height: 2rem;
-    text-align: center;
-    align-self: flex-start;
-
-
-}
-#add-tag::before {
-    content: '+';
-    position: absolute;
-    left: 21%;
-    bottom: -4%;
-}
-
-
-
 .categories-container {
     display: flex;
     overflow-x: auto;
