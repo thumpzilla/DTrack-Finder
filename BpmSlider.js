@@ -39,29 +39,31 @@ export default class BpmSlider {
       this.bpmRange.appendChild(this.expandArrow);
   }
 
-  toggleExpandedCollapsedStates(){
+  toggleExpandedCollapsedStates() {
     // Get all child elements in bpmRange
-    let children = Array.from(this.bpmRange.children); 
-
+    let children = Array.from(this.bpmRange.children);
+  
     // Loop through all children and remove them if their id is not 'expand-arrow'
     children.forEach((child) => {
-        if (child.id !== 'expand-arrow') {
-            this.bpmRange.removeChild(child); 
-        }
+      if (child.id !== 'expand-arrow') {
+        this.bpmRange.removeChild(child); 
+      }
     });
-
+  
     // Toggle states
-    if(this.currentState == 1){
-        this.createCollapsedState();
-        this.currentState = 0;
-        this.expandArrow.style.transform = 'rotate(225deg)'; // Rotate to collapsed state
+    if(this.currentState == 1) {
+      this.createCollapsedState();
+      this.currentState = 0;
+      this.expandArrow.style.transform = 'rotate(225deg)'; // Rotate to collapsed state
+      this.bpmRange.style.height = '5rem'; // Change the height to the height of the collapsed state
     } else {
-        this.createExpandedState();
-        this.currentState = 1;
-        this.expandArrow.style.transform = 'rotate(45deg)'; // Rotate back to expanded state
+      this.createExpandedState();
+      this.updateUI();  // Add this line to update the UI
+      this.currentState = 1;
+      this.expandArrow.style.transform = 'rotate(45deg)'; // Rotate back to expanded state
+      this.bpmRange.style.height = '15rem'; // Change the height back to the height of the expanded state
     }
-}
-
+  }
     createExpandedState(){
           // Create required elements
     this.bpmRange = document.getElementById('bpm-range');
@@ -136,6 +138,7 @@ export default class BpmSlider {
     this.dataBubble.classList.remove('collapsed');
     this.bpmRange.style.height = '9rem';
     
+    this.sliderThumb.addEventListener("touchstart", this.moveSliderThumb.bind(this));
 
 
   }
@@ -226,34 +229,50 @@ export default class BpmSlider {
         sliderActiveRange.style.width = (rightPercentage - leftPercentage) + "%";
     }
   
+    moveSliderThumb(event) {
+      event.preventDefault();
   
-moveSliderThumb(event) {
-    event.preventDefault();
-
-    const sliderRect = this.sliderRange.getBoundingClientRect();
-    const minPos = sliderRect.left;
-    const maxPos = sliderRect.right;
-    const sliderWidth = maxPos - minPos;
-
-    const onMouseMove = (e) => {
-        let position = e.clientX - minPos;
-        position = Math.max(0, Math.min(position, sliderWidth));
-        const percentage = (position / sliderWidth) * 100;
-        this.sliderThumb.style.left = percentage + "%";
-        const value = Math.round(((this.max - this.min) * percentage) / 100) + this.min;
-        this.currentValue = value;
-        this.updateUI();
-    };
-
-    const onMouseUp = () => {
-        document.removeEventListener("mousemove", onMouseMove);
-        document.removeEventListener("mouseup", onMouseUp);
-    };
-
-    document.addEventListener("mousemove", onMouseMove);
-    document.addEventListener("mouseup", onMouseUp);
-
-}
+      const sliderRect = this.sliderRange.getBoundingClientRect();
+      const minPos = sliderRect.left;
+      const maxPos = sliderRect.right;
+      const sliderWidth = maxPos - minPos;
+  
+      const updatePosition = (clientX) => {
+          let position = clientX - minPos;
+          position = Math.max(0, Math.min(position, sliderWidth));
+          const percentage = (position / sliderWidth) * 100;
+          this.sliderThumb.style.left = percentage + "%";
+          const value = Math.round(((this.max - this.min) * percentage) / 100) + this.min;
+          this.currentValue = value;
+          this.updateUI();
+      };
+  
+      const onMouseMove = (e) => {
+          updatePosition(e.clientX);
+      };
+  
+      const onTouchMove = (e) => {
+          const touch = e.touches[0];
+          updatePosition(touch.clientX);
+      };
+  
+      const cleanup = () => {
+          document.removeEventListener("mousemove", onMouseMove);
+          document.removeEventListener("touchmove", onTouchMove);
+          document.removeEventListener("mouseup", onMouseUp);
+          document.removeEventListener("touchend", onMouseUp);
+      };
+  
+      const onMouseUp = cleanup;
+      const onTouchEnd = cleanup;
+  
+      document.addEventListener("mousemove", onMouseMove);
+      document.addEventListener("touchmove", onTouchMove);
+      document.addEventListener("mouseup", onMouseUp);
+      document.addEventListener("touchend", onTouchEnd);
+  }
+  
+  
   
     updateRange(event) {
       // Stop event propagation

@@ -48,7 +48,7 @@ h2 {
     flex-direction: column;
     align-items: center;
     width: 30rem;
-    height: 65rem;
+    height: 60rem;
     margin: 0 auto;
     padding: 1rem;
     border-radius: 1.25rem;
@@ -186,15 +186,17 @@ li:hover {
 /* _____________________________ Results count and sorting _______________________ START */
 #song-count-container {
     display: flex;
-    width: 75%;
+    width: 90%;
     justify-content: space-between;
     align-items: center;
 }
 #song-count-display,
-#sorting-criteria-display,
-#separator {
-    flex: 1;
+#sorting-criteria-display
+{    flex: 1;
     text-align: center;
+}
+#separator {
+    width: 2rem;
 }
 
 #song-count-container:hover #separator {
@@ -458,6 +460,7 @@ li:hover {
 }
 
 .slider-thumb {
+  touch-action: none;
   position: absolute;
   background: radial-gradient(#EB5CE4, #D545F6);
   border: solid 0.2rem #fff !important;
@@ -509,12 +512,14 @@ li:hover {
 .slider-thumb {
     /* Your previous styles */
     transition: transform 0.3s ease; /* Add this line */
+    z-index: 999;
+    touch-action: none;
+
   }
   
   .slider-thumb:hover {
-    transform: translate(-50%, -50%) scale(0.9);
+    transform: translate(-50%, -50%) scale(1.2);
   }
-  
   .slider-thumb:active {
     transform: translateX(-50%) scale(1.2);
 
@@ -540,7 +545,11 @@ li:hover {
 /* _______ Animation for BPMs _________ Finish */
 
 /* ______________ BPM State collapsedState ________ Start*/
-
+#bpm-range {
+    /* add this to your existing styles */
+    overflow: hidden; 
+    transition: height 0.3s ease-in-out; 
+}
 
   .data-thumb.collapsed #collapsed-content::before {
     transform: rotate(45deg);
