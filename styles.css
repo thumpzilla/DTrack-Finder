@@ -53,7 +53,7 @@ h2 {
     padding: 1rem;
     border-radius: 1.25rem;
     overflow: hidden;
-    background: url("../images/Dark-background.svg");
+    background: linear-gradient(70deg,  #040422 ,#040437, #040549 200%);
     background-size: 400%;
 
 }
