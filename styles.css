@@ -184,24 +184,50 @@ li:hover {
 }
 
 /* _____________________________ Results count and sorting _______________________ START */
-.gradient-hover {
-    transition: color 0.5s ease;
+#song-count-container {
+    display: flex;
+    width: 75%;
+    justify-content: space-between;
+    align-items: center;
+}
+#song-count-display,
+#sorting-criteria-display,
+#separator {
+    flex: 1;
+    text-align: center;
 }
 
-.gradient-hover:hover {
+#song-count-container:hover #separator {
+    transform: scale(1.5);
+}
+#song-count-container:active #separator, #song-count-container:focus #separator {
+    transform: scale(1.8) rotate(180deg);
+    transition: transform 0.2s ease;
     background: linear-gradient(#B145AC ,#FD92C0, #B145AC);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
-.gradient-hover {
-    transition: color 0.5s ease, transform 0.5s ease;
+/* Transition from the bold to the normal text */
+#song-count-display, #sorting-criteria-display {
+    transition: color 0.3s ease, font-weight 0.3s ease;
 }
 
-#song-count-display.clicked {
+
+/* Separator grows when the song-count-container is hovered */
+
+/* Applying gradient on click/tap */
+#song-count-display:active, #song-count-display:focus,
+#sorting-criteria-display:active, #sorting-criteria-display:focus {
     transform: scale(1.2) rotate(2deg);
     transition: transform 0.2s ease;
+    background: linear-gradient(#B145AC ,#FD92C0, #B145AC);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
+
+
+
 /* _____________________________ Results count and sorting _______________________ END */
 
 
@@ -256,6 +282,8 @@ li:hover {
     position: relative;
     line-height: 2rem;
     text-align: center;
+    align-self: flex-start;
+
 
 }
 #add-tag::before {

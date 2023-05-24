@@ -66,8 +66,11 @@ export default class TagFilter {
         this.addTagButton.addEventListener('click', () => {
             // If its closed now
             if (this.tagCatalogElement.style.display === 'none') {
+                this.addTagButton.style.transform = 'rotate(45deg)';
+
                 this.showTagCatalog(); // Show the tag catalog
             } else {
+                this.addTagButton.style.transform = 'rotate(0deg)'; // Reset the rotation
                 this.collapseTagCatalog();
             }
         });
@@ -78,7 +81,6 @@ export default class TagFilter {
     collapseTagCatalog() {
         this.tagCatalogElement.style.display = 'none';
         this.twoDSelector.style.display = 'block';
-        this.addTagButton.style.transform = 'rotate(0deg)'; // Reset the rotation
     }
 
     showTagCatalog() {  
@@ -89,7 +91,6 @@ export default class TagFilter {
         this.twoDSelector.style.display = 'none';
         // Convert the + button to close button
           // Rotate the + button by 45 degrees
-        this.addTagButton.style.transform = 'rotate(45deg)';
         // Show the tag catalog
         this.tagCatalogElement.style.display = 'block';
     }

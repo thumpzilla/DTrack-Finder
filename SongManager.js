@@ -28,11 +28,35 @@ export default class SongManager {
         
         this.songCountDisplay = document.createElement('p');
         this.songCountDisplay.id = 'song-count-display';
+
+        this.sortingCriteriaDisplay = document.createElement('p');
+        this.sortingCriteriaDisplay.id = 'sorting-criteria-display';
+    
+
+    
         this.songCountDisplay.style.color = 'white'; // Default color
-        this.songCountDisplay.classList.add('gradient-hover'); // Class for hover effect
 
+        const separator = document.createElement('span');
+        separator.id = 'separator';
+        separator.textContent = '|';
+        separator.style.color = 'white'; // Default color
+        separator.style.fontWeight = '200';
+        separator.style.fontSize = '1.5rem';
+        
+        // Append elements
         this.songCountContainer.appendChild(this.songCountDisplay);
+        this.songCountContainer.appendChild(separator);
+        this.songCountContainer.appendChild(this.sortingCriteriaDisplay);
+    
+        // Default state
+        this.state = 'song-count'; // Either 'song-count' or 'sorting-criteria'
 
+        this.songCountContainer.addEventListener('click', () => {
+            this.state = this.state === 'song-count' ? 'sorting-criteria' : 'song-count';
+            this.updateParagraphStyles();
+            
+        });
+    
         // add click listener to rotate and increase size temporarily
         this.songCountDisplay.addEventListener('click', () => {
             this.songCountDisplay.classList.add('clicked');
@@ -40,9 +64,10 @@ export default class SongManager {
                 this.songCountDisplay.classList.remove('clicked');
             }, 200); // Remove the 'clicked' class after 1 second
         });        /// add click listener between sort and tags
+       
+       
         this.twoDSelector = document.getElementById('2dSelector'); // style.display - 'block' or 'none'
         this.tagCatalogElement = document.getElementById('tag-catalog'); // style.display - 'block' or 'none'
-        
         // Update the event listener for addTagButton
         this.songCountContainer.addEventListener('click', () => {
             // If its closed now
@@ -58,6 +83,23 @@ export default class SongManager {
     const container = document.querySelector('.container');
     container.insertBefore(this.songCountContainer, container.childNodes[4]); // inserting after song-list
     }
+
+    updateParagraphStyles() {
+        requestAnimationFrame(() => {
+            if (this.state === 'song-count') {
+                this.sortingCriteriaDisplay.style.color = 'white';
+                this.sortingCriteriaDisplay.style.fontWeight = '600';
+                this.songCountDisplay.style.color = 'gray';
+                this.songCountDisplay.style.fontWeight = '200';
+            } else {
+                this.songCountDisplay.style.color = 'white';
+                this.songCountDisplay.style.fontWeight = '600';
+                this.sortingCriteriaDisplay.style.color = 'gray';
+                this.sortingCriteriaDisplay.style.fontWeight = '200';
+            }
+        });
+    }
+    
 
     // __________________________________ BPM __________________________________
     // Set the BPM range and update the song list
@@ -118,9 +160,9 @@ export default class SongManager {
         }
         this.applyTagsFilterToSongs(this.filteredByTagsSongs);
         let songsFilteredByBPM = this.getSongsWithinBpmRange(); //BPM Filger
-        const summaryText =  `${songsFilteredByBPM.length} results,      sorted by ⚡️ ${Math.round(energy)}, 💡 ${Math.round(popularity)}`;
-        this.songCountDisplay.innerText = summaryText
-
+    
+        this.songCountDisplay.innerText = `${songsFilteredByBPM.length} results`;
+        this.sortingCriteriaDisplay.innerText= `↑↓ ⚡️ ${Math.round(energy)}, 💡 ${Math.round(popularity)}`;
         // Sort songs based on their distance to the selected point
         const sortedSongs = this.sortByProximity(energy, popularity, songsFilteredByBPM);
 
