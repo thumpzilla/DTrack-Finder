@@ -136,7 +136,7 @@ export default class BpmSlider {
 
     // Update the class for dataBubble and bpmRange
     this.dataBubble.classList.remove('collapsed');
-    this.bpmRange.style.height = '9rem';
+    this.bpmRange.style.height = '15rem';
     
     this.sliderThumb.addEventListener("touchstart", this.moveSliderThumb.bind(this));
 
