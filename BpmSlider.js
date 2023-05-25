@@ -12,8 +12,8 @@ export default class BpmSlider {
       this.max = 140;
       this.rangeValues = [2, 6, 12, 100]; // Range values // 100 would be any BPM (Eliminating this filtering)
       this.currentValue = 100; // Default value
-      this.currentRangeValue = this.rangeValues[2]; // Default range
-      this.rangeValueIndex = 2; // Start with the first value
+      this.currentRangeValue = this.rangeValues[3]; // Default range
+      this.rangeValueIndex = 3; // Start with the first value
       this.currentState = 1; // 1 = expanded, 0 = collapsed
 
 
@@ -139,6 +139,7 @@ export default class BpmSlider {
     this.bpmRange.style.height = '15rem';
     
     this.sliderThumb.addEventListener("touchstart", this.moveSliderThumb.bind(this));
+    this.dataBubble.addEventListener("touchstart", this.updateRange.bind(this));
 
 
   }
