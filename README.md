@@ -6,11 +6,13 @@ This is a simple web application that allows users to select a mood and then dis
 
 
 # clone the repository and install the dependencies:
-'''
+
 git clone https://github.com/DonRaz/Song-Instant-Selector.git
+
 cd Song-Instant-Selector
+
 npm install
-'''
+
 
 # Demo 
 https://youtu.be/r5v5RHf9te4
