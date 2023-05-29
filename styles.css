@@ -53,7 +53,7 @@ h2 {
     padding: 1rem;
     border-radius: 1.25rem;
     overflow: hidden;
-    background: linear-gradient(70deg,  #040422 ,#040437, #040549 200%);
+    background: linear-gradient(70deg,  #030547 ,#030545, #03063D 200%);
     background-size: 400%;
 
 }
@@ -127,6 +127,8 @@ ol {
 }
 
 .song-count {
+    position: relative;
+
     text-align: center;
     margin-top: 1rem;
     color: #F5F5F7;
@@ -184,31 +186,43 @@ li:hover {
 }
 
 /* _____________________________ Results count and sorting _______________________ START */
-#song-count-container {
+#filter-sorting-switch-container {
+    position: relative;
     display: flex;
-    width: 90%;
+    width: 100%;
     justify-content: space-between;
     align-items: center;
 }
+
 #song-count-display,
 #sorting-criteria-display
 {    flex: 1;
     text-align: center;
-}
-#separator {
-    width: 2rem;
+    z-index: 3;
 }
 
-#song-count-container:hover #separator {
-    transform: scale(1.5);
+
+#filter-sorting-switch-container{
+    /* background: linear-gradient(#79427B #BDAFC2, #79427B) !important; */
+    background: linear-gradient(40deg,#03042F ,#03042E) !important;
+    border-radius: 1.2rem;
+
 }
-#song-count-container:active #separator, #song-count-container:focus #separator {
-    transform: scale(1.8) rotate(180deg);
-    transition: transform 0.2s ease;
-    background: linear-gradient(#B145AC ,#FD92C0, #B145AC);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+
+.highlight {
+    position: absolute;
+    top: 0.35rem;
+    left: 0;
+    width: 50%;  
+    height: 80%;
+    align-items: center;
+    border: 6px solid #8739db00;
+    background: radial-gradient(#282944 ,#33345b) !important;
+    transition: transform 0.3s ease;
+    border-radius: 1rem;
+    z-index:1; 
 }
+
 
 /* Transition from the bold to the normal text */
 #song-count-display, #sorting-criteria-display {

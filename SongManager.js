@@ -11,7 +11,7 @@ export default class SongManager {
         this.listOfSongs_UI = document.getElementById('songs');//'#song-list'
         this.listOfSongs_UI.addEventListener('click', (event) => this.handleListClick(event));
 
-        this.createSongCountDiv();
+        this.createfilterSortingSwitch();
        
     }
 
@@ -19,12 +19,12 @@ export default class SongManager {
     //     this.listOfSongs_UI.style.height='${newSize}rem'
 
     // }
-    createSongCountDiv(){
+    createfilterSortingSwitch(){
         // Create song count display
     // Create song count display
-        this.songCountContainer = document.createElement('div');
-        this.songCountContainer.id = 'song-count-container';
-        this.songCountContainer.style.textAlign = 'center'; // or any other styles you want
+        this.filterSortingSwitchContainer = document.createElement('div');
+        this.filterSortingSwitchContainer.id = 'filter-sorting-switch-container' //'song-count-container';
+        this.filterSortingSwitchContainer.style.textAlign = 'center'; // or any other styles you want
         
         this.songCountDisplay = document.createElement('p');
         this.songCountDisplay.id = 'song-count-display';
@@ -36,22 +36,20 @@ export default class SongManager {
     
         this.songCountDisplay.style.color = 'white'; // Default color
 
-        const separator = document.createElement('span');
-        separator.id = 'separator';
-        separator.textContent = '|';
-        separator.style.color = 'white'; // Default color
-        separator.style.fontWeight = '200';
-        separator.style.fontSize = '1.5rem';
+
+        this.highlight = document.createElement('div');
+        this.highlight.classList.add('highlight');
         
+        // Append highlight to the filterSortingSwitchContainer
+        this.filterSortingSwitchContainer.appendChild(this.highlight);  
         // Append elements
-        this.songCountContainer.appendChild(this.songCountDisplay);
-        this.songCountContainer.appendChild(separator);
-        this.songCountContainer.appendChild(this.sortingCriteriaDisplay);
+        this.filterSortingSwitchContainer.appendChild(this.songCountDisplay);
+        this.filterSortingSwitchContainer.appendChild(this.sortingCriteriaDisplay);
     
         // Default state
         this.state = 'song-count'; // Either 'song-count' or 'sorting-criteria'
 
-        this.songCountContainer.addEventListener('click', () => {
+        this.filterSortingSwitchContainer.addEventListener('click', () => {
             this.state = this.state === 'song-count' ? 'sorting-criteria' : 'song-count';
             this.updateParagraphStyles();
             
@@ -69,7 +67,7 @@ export default class SongManager {
         this.twoDSelector = document.getElementById('2dSelector'); // style.display - 'block' or 'none'
         this.tagCatalogElement = document.getElementById('tag-catalog'); // style.display - 'block' or 'none'
         // Update the event listener for addTagButton
-        this.songCountContainer.addEventListener('click', () => {
+        this.filterSortingSwitchContainer.addEventListener('click', () => {
             // If its closed now
             if (this.twoDSelector.style.display === 'none') {
                 this.tagCatalogElement.style.display = 'none';
@@ -81,7 +79,7 @@ export default class SongManager {
         });
     // Placing in the UI to container
     const container = document.querySelector('.container');
-    container.insertBefore(this.songCountContainer, container.childNodes[4]); // inserting after song-list
+    container.insertBefore(this.filterSortingSwitchContainer, container.childNodes[4]); // inserting after song-list
     }
 
     updateParagraphStyles() {
@@ -91,11 +89,19 @@ export default class SongManager {
                 this.sortingCriteriaDisplay.style.fontWeight = '600';
                 this.songCountDisplay.style.color = 'gray';
                 this.songCountDisplay.style.fontWeight = '200';
+                // highlight
+                this.highlight.style.transform = 'translateX(100%)';
+
+
             } else {
                 this.songCountDisplay.style.color = 'white';
                 this.songCountDisplay.style.fontWeight = '600';
                 this.sortingCriteriaDisplay.style.color = 'gray';
                 this.sortingCriteriaDisplay.style.fontWeight = '200';
+
+                //highlight
+                this.highlight.style.transform = 'translateX(0%)';
+
             }
         });
     }
