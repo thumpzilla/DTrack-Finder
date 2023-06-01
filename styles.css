@@ -25,7 +25,7 @@ body {
 }
 
 html{
-    font-size:15px;
+    font-size:16px;
 }
     
 h1 {
@@ -97,15 +97,15 @@ canvas {
 }
 .song-title {
     font-size: 1rem;
-    font-weight: 600 !important;
+    font-weight: 600;
     font-weight: bold;
     margin-bottom: 0.1rem;
     overflow: hidden;
 }
 
 .song-artist {
-    font-size: 0.9rem;
-    font-weight: 200; /* Light/thin weight */
+    font-size: 0.784rem;
+    font-weight: 300; /* Light/thin weight */
 }
 
 .song-rating {
@@ -196,7 +196,8 @@ li:hover {
 
 #song-count-display,
 #sorting-criteria-display
-{    flex: 1;
+{    
+    flex: 1;
     text-align: center;
     z-index: 3;
 }
@@ -211,15 +212,14 @@ li:hover {
 
 .highlight {
     position: absolute;
-    top: 0.35rem;
-    left: 0;
-    width: 50%;  
+    top: 10%;
+    left: 2%;
+    width: 48%;  
     height: 80%;
     align-items: center;
-    border: 6px solid #8739db00;
     background: radial-gradient(#282944 ,#33345b) !important;
     transition: transform 0.3s ease;
-    border-radius: 1rem;
+    border-radius: 0.7rem;
     z-index:1; 
 }
 

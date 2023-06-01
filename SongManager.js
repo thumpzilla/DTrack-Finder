@@ -90,14 +90,14 @@ export default class SongManager {
                 this.songCountDisplay.style.color = 'gray';
                 this.songCountDisplay.style.fontWeight = '200';
                 // highlight
-                this.highlight.style.transform = 'translateX(100%)';
+                this.highlight.style.transform = 'translateX(102%)';
 
 
             } else {
                 this.songCountDisplay.style.color = 'white';
                 this.songCountDisplay.style.fontWeight = '600';
                 this.sortingCriteriaDisplay.style.color = 'gray';
-                this.sortingCriteriaDisplay.style.fontWeight = '200';
+                this.sortingCriteriaDisplay.style.fontWeight = '300';
 
                 //highlight
                 this.highlight.style.transform = 'translateX(0%)';
