@@ -1,0 +1,446 @@
+[
+    {
+        "#": 1,
+        "Track Title": "Wait A Minute - TroyBoi Remix",
+        "Artist": "Party Favor, A$AP Ferg, Juicy J, TroyBoi",
+        "Key": "11B",
+        "Energy": 6.111999999999999,
+        "Popularity": 3.25,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party, EDM, Sexy",
+            "2010s",
+            "Hip Hop",
+            "EDM",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3GUBvmwGQS7z0d1VBqy94n",
+            "explicit": true,
+            "album": "Layers (Remixed)",
+            "release_date": "2019-08-15",
+            "genres": [
+                "brostep",
+                "edm",
+                "electro house",
+                "electronic trap",
+                "hip hop",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap",
+                "crunk",
+                "memphis hip hop",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap",
+                "bass trap",
+                "electronic trap"
+            ],
+            "duration": 214154,
+            "acousticness": 0.0168,
+            "danceability": 8.875,
+            "instrumentalness": 0,
+            "liveness": 0.458,
+            "loudness": -3.641,
+            "speechiness": 0.19,
+            "time_signature": 4,
+            "happiness": 5.59
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Forever",
+        "Artist": "Labrinth",
+        "Key": "12A",
+        "Energy": 5.131,
+        "Popularity": 7.75,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party, EDM, Sexy",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "6potEImiklXkwD9qFzpu15",
+            "explicit": false,
+            "album": "Euphoria (Original Score from the HBO Series)",
+            "release_date": "2019-10-04",
+            "genres": [
+                "indie poptimism",
+                "pop"
+            ],
+            "duration": 202536,
+            "acousticness": 0.92,
+            "danceability": 6.066999999999999,
+            "instrumentalness": 0.724,
+            "liveness": 0.11,
+            "loudness": -7.781,
+            "speechiness": 0.0292,
+            "time_signature": 4,
+            "happiness": 2.773
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "Back To You",
+        "Artist": "Smoke Trees, Lito Akari",
+        "Key": "4A",
+        "Energy": 5.761,
+        "Popularity": 1.72,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party, EDM, Sexy",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "7zhtyfJ3PjHXQDixq08QkF",
+            "explicit": false,
+            "album": "Sirens",
+            "release_date": "2020-09-25",
+            "genres": [
+                "chillhop",
+                "lo-fi beats",
+                "lo-fi jazzhop"
+            ],
+            "duration": 180129,
+            "acousticness": 0.251,
+            "danceability": 5.509,
+            "instrumentalness": 0.814,
+            "liveness": 0.0935,
+            "loudness": -13.938,
+            "speechiness": 0.0299,
+            "time_signature": 4,
+            "happiness": 2.98
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Still Don't Know My Name",
+        "Artist": "Labrinth",
+        "Key": "7B",
+        "Energy": 6.67,
+        "Popularity": 8.2,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party, EDM, Sexy",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "6N22FZs2ZhPBYi3b9XPajV",
+            "explicit": false,
+            "album": "Euphoria (Original Score from the HBO Series)",
+            "release_date": "2019-10-04",
+            "genres": [
+                "indie poptimism",
+                "pop"
+            ],
+            "duration": 153294,
+            "acousticness": 0.471,
+            "danceability": 3.844,
+            "instrumentalness": 0.262,
+            "liveness": 0.205,
+            "loudness": -5.963,
+            "speechiness": 0.117,
+            "time_signature": 1,
+            "happiness": 3.817
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Slow Motion",
+        "Artist": "SLANDER, Bret James",
+        "Key": "12B",
+        "Energy": 7.0840000000000005,
+        "Popularity": 5.140000000000001,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party, EDM, Sexy",
+            "2010s",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "4IJJTkfEo5D4HJ9jqggc3Z",
+            "explicit": false,
+            "album": "Slow Motion",
+            "release_date": "2018-06-01",
+            "genres": [
+                "brostep",
+                "dubstep"
+            ],
+            "duration": 206000,
+            "acousticness": 0.0436,
+            "danceability": 5.374,
+            "instrumentalness": 2.43e-05,
+            "liveness": 0.0812,
+            "loudness": -8.377,
+            "speechiness": 0.0974,
+            "time_signature": 4,
+            "happiness": 3.637
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Mmmm",
+        "Artist": "TroyBoi",
+        "Key": "4B",
+        "Energy": 8.460999999999999,
+        "Popularity": 1.0,
+        "BPM": 148,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party, EDM, Sexy",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1dfdPmrD0O3oiRl8uvwbKS",
+            "explicit": false,
+            "album": "Mmmm",
+            "release_date": "2020-01-20",
+            "genres": [
+                "bass trap",
+                "electronic trap"
+            ],
+            "duration": 192973,
+            "acousticness": 0.021,
+            "danceability": 8.083,
+            "instrumentalness": 0.693,
+            "liveness": 0.115,
+            "loudness": -5.911,
+            "speechiness": 0.0852,
+            "time_signature": 4,
+            "happiness": 8.776
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Desire - Slowed",
+        "Artist": "Hucci",
+        "Key": "2A",
+        "Energy": 5.338,
+        "Popularity": 1.0,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party, EDM, Sexy",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "4ZCxG8ZNlJoeAvAD6kdPuB",
+            "explicit": true,
+            "album": "Desire (Slowed)",
+            "release_date": "2020-06-12",
+            "genres": [
+                "electronic trap"
+            ],
+            "duration": 247685,
+            "acousticness": 0.0568,
+            "danceability": 5.851,
+            "instrumentalness": 0.591,
+            "liveness": 0.0642,
+            "loudness": -9.922,
+            "speechiness": 0.0568,
+            "time_signature": 4,
+            "happiness": 1.3402
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "When I R.I.P.",
+        "Artist": "Labrinth",
+        "Key": "4A",
+        "Energy": 5.9590000000000005,
+        "Popularity": 7.66,
+        "BPM": 88,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party, EDM, Sexy",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2t16D9V5FmmRAJjsSpwvZf",
+            "explicit": true,
+            "album": "Euphoria (Original Score from the HBO Series)",
+            "release_date": "2019-10-04",
+            "genres": [
+                "indie poptimism",
+                "pop"
+            ],
+            "duration": 174568,
+            "acousticness": 0.73,
+            "danceability": 4.753,
+            "instrumentalness": 0.00166,
+            "liveness": 0.0907,
+            "loudness": -6.456,
+            "speechiness": 0.174,
+            "time_signature": 4,
+            "happiness": 4.996
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Tranquilizer (feat. Adekunle Gold)",
+        "Artist": "TroyBoi, Adekunle Gold",
+        "Key": "11A",
+        "Energy": 6.886,
+        "Popularity": 4.42,
+        "BPM": 106,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party, EDM, Sexy",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "1d0W70RISx0isVNckqYV8d",
+            "explicit": false,
+            "album": "Tranquilizer (feat. Adekunle Gold)",
+            "release_date": "2019-11-15",
+            "genres": [
+                "bass trap",
+                "electronic trap",
+                "afrobeats",
+                "afropop",
+                "alte",
+                "azontobeats",
+                "nigerian hip hop",
+                "nigerian pop"
+            ],
+            "duration": 194717,
+            "acousticness": 0.57,
+            "danceability": 8.100999999999999,
+            "instrumentalness": 8.17e-06,
+            "liveness": 0.126,
+            "loudness": -4.415,
+            "speechiness": 0.0788,
+            "time_signature": 4,
+            "happiness": 4.4830000000000005
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Stay Hollow (with mossy.)",
+        "Artist": "Ekali, mossy.",
+        "Key": "3B",
+        "Energy": 7.075,
+        "Popularity": 5.5,
+        "BPM": 135,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party, EDM, Sexy",
+            "2010s",
+            "EDM",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "1u3SkEgGroT2Kcfnd4v4ON",
+            "explicit": false,
+            "album": "Crystal Eyes",
+            "release_date": "2018-09-28",
+            "genres": [
+                "brostep",
+                "canadian electronic",
+                "edm",
+                "electro house",
+                "electronic trap",
+                "future bass",
+                "vapor twitch"
+            ],
+            "duration": 184889,
+            "acousticness": 0.131,
+            "danceability": 7.335999999999999,
+            "instrumentalness": 0.394,
+            "liveness": 0.371,
+            "loudness": -5.841,
+            "speechiness": 0.06,
+            "time_signature": 4,
+            "happiness": 1.585
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Goosebumps - Electro Remix",
+        "Artist": "Eduardo Luzquiños",
+        "Key": "12A",
+        "Energy": 6.94,
+        "Popularity": 4.0600000000000005,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party, EDM, Sexy",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1DStj5Szpwfi1BnxHLCk0S",
+            "explicit": false,
+            "album": "Goosebumps (Electro Remix)",
+            "release_date": "2020-10-06",
+            "genres": [
+                "slowed and reverb"
+            ],
+            "duration": 190283,
+            "acousticness": 0.00128,
+            "danceability": 8.686,
+            "instrumentalness": 0,
+            "liveness": 0.308,
+            "loudness": -9.501,
+            "speechiness": 0.113,
+            "time_signature": 4,
+            "happiness": 5.266
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "Deep End - SIDEPIECE Remix",
+        "Artist": "John Summit, SIDEPIECE",
+        "Key": "1A",
+        "Energy": 6.868,
+        "Popularity": 6.67,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party, EDM, Sexy",
+            "2020s",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "5WNa0eaGNwQ1ZXTHVlULpd",
+            "explicit": false,
+            "album": "Deep End (SIDEPIECE Remix)",
+            "release_date": "2020-10-16",
+            "genres": [
+                "house",
+                "tech house",
+                "uk dance",
+                "edm",
+                "tech house"
+            ],
+            "duration": 196687,
+            "acousticness": 0.143,
+            "danceability": 7.957,
+            "instrumentalness": 0.024,
+            "liveness": 0.44,
+            "loudness": -9.187,
+            "speechiness": 0.0807,
+            "time_signature": 4,
+            "happiness": 5.077
+        }
+    }
+]

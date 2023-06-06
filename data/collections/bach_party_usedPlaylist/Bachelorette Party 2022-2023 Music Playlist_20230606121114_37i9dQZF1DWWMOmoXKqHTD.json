@@ -1,0 +1,3671 @@
+[
+    {
+        "#": 1,
+        "Track Title": "Bachelorettes on Broadway",
+        "Artist": "Willie Jones",
+        "Key": "11B",
+        "Energy": 8.559999999999999,
+        "Popularity": 5.140000000000001,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "277YJPrwcN4a1W3xaP06T0",
+            "explicit": true,
+            "album": "Bachelorettes on Broadway",
+            "release_date": "2019-09-06",
+            "genres": [
+                "black americana",
+                "contemporary country"
+            ],
+            "duration": 208405,
+            "acousticness": 0.0158,
+            "danceability": 6.787,
+            "instrumentalness": 0,
+            "liveness": 0.154,
+            "loudness": -3.057,
+            "speechiness": 0.0965,
+            "time_signature": 4,
+            "happiness": 8.254000000000001
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Just the Way",
+        "Artist": "Parmalee, Blanco Brown",
+        "Key": "11B",
+        "Energy": 8.460999999999999,
+        "Popularity": 7.39,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3FE6cfCDhmhOraeSLPe6Vj",
+            "explicit": false,
+            "album": "For You",
+            "release_date": "2021-07-30",
+            "genres": [
+                "contemporary country",
+                "country road",
+                "modern country rock",
+                "modern uplift",
+                "black americana",
+                "country rap"
+            ],
+            "duration": 193880,
+            "acousticness": 0.107,
+            "danceability": 5.896000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.317,
+            "loudness": -2.84,
+            "speechiness": 0.0404,
+            "time_signature": 4,
+            "happiness": 8.334999999999999
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "Fancy Like",
+        "Artist": "Walker Hayes",
+        "Key": "3B",
+        "Energy": 7.84,
+        "Popularity": 5.68,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0lnpnsrVaW9elGgRxpDCgE",
+            "explicit": false,
+            "album": "Fancy Like (feat. Kesha)",
+            "release_date": "2021-09-10",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 161853,
+            "acousticness": 0.114,
+            "danceability": 6.841,
+            "instrumentalness": 0,
+            "liveness": 0.317,
+            "loudness": -6.487,
+            "speechiness": 0.0574,
+            "time_signature": 4,
+            "happiness": 8.587
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Big, Big Plans",
+        "Artist": "Chris Lane",
+        "Key": "9B",
+        "Energy": 6.22,
+        "Popularity": 7.209999999999999,
+        "BPM": 150,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "7yNJCsUH3tXlpQiHSsAc5l",
+            "explicit": false,
+            "album": "Big, Big Plans",
+            "release_date": "2019-06-28",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 187307,
+            "acousticness": 0.076,
+            "danceability": 6.1659999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.12,
+            "loudness": -6.091,
+            "speechiness": 0.0278,
+            "time_signature": 4,
+            "happiness": 4.6
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "You Got It",
+        "Artist": "Ryan Robinette",
+        "Key": "2B",
+        "Energy": 7.534,
+        "Popularity": 4.33,
+        "BPM": 86,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7jydBWPQZZEioR4dSbntvP",
+            "explicit": false,
+            "album": "You Got It",
+            "release_date": "2021-12-03",
+            "genres": [
+                "country pop"
+            ],
+            "duration": 182166,
+            "acousticness": 0.512,
+            "danceability": 3.979,
+            "instrumentalness": 0,
+            "liveness": 0.135,
+            "loudness": -4.31,
+            "speechiness": 0.0677,
+            "time_signature": 4,
+            "happiness": 7.579
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Leave Her Wild",
+        "Artist": "Tyler Rich",
+        "Key": "8B",
+        "Energy": 7.75,
+        "Popularity": 6.58,
+        "BPM": 87,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "4oFAJvXFB2W9FWgaww9cQo",
+            "explicit": false,
+            "album": "Two Thousand Miles",
+            "release_date": "2020-09-04",
+            "genres": [
+                "contemporary country",
+                "country pop",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 199107,
+            "acousticness": 0.046,
+            "danceability": 4.555,
+            "instrumentalness": 0,
+            "liveness": 0.128,
+            "loudness": -5.104,
+            "speechiness": 0.0552,
+            "time_signature": 4,
+            "happiness": 5.788
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Dicked Down in Dallas",
+        "Artist": "Trey Lewis",
+        "Key": "2B",
+        "Energy": 9.361,
+        "Popularity": 7.39,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1yhft6ZqYadd4GOrKrmK3a",
+            "explicit": true,
+            "album": "Dicked Down in Dallas",
+            "release_date": "2020-12-01",
+            "genres": [
+                "modern country pop"
+            ],
+            "duration": 201350,
+            "acousticness": 0.0608,
+            "danceability": 5.59,
+            "instrumentalness": 5.39e-06,
+            "liveness": 0.101,
+            "loudness": -4.685,
+            "speechiness": 0.0456,
+            "time_signature": 4,
+            "happiness": 4.942
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Good as Hell (feat. Ariana Grande)",
+        "Artist": "Lizzo, Ariana Grande",
+        "Key": "7A",
+        "Energy": 9.028,
+        "Popularity": 6.94,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2rjjNUYONZqC7wSd1i6OFq",
+            "explicit": false,
+            "album": "Cuz I Love You (Super Deluxe)",
+            "release_date": "2019-04-17",
+            "genres": [
+                "escape room",
+                "minnesota hip hop",
+                "pop",
+                "trap queen",
+                "pop"
+            ],
+            "duration": 159011,
+            "acousticness": 0.298,
+            "danceability": 7.0120000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.735,
+            "loudness": -3.001,
+            "speechiness": 0.0645,
+            "time_signature": 4,
+            "happiness": 5.302
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Whiskey Glasses",
+        "Artist": "Morgan Wallen",
+        "Key": "2B",
+        "Energy": 7.12,
+        "Popularity": 8.559999999999999,
+        "BPM": 150,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6foY66mWZN0pSRjZ408c00",
+            "explicit": false,
+            "album": "If I Know Me",
+            "release_date": "2018-04-27",
+            "genres": [
+                "contemporary country"
+            ],
+            "duration": 234347,
+            "acousticness": 0.369,
+            "danceability": 6.526,
+            "instrumentalness": 1.84e-06,
+            "liveness": 0.115,
+            "loudness": -4.58,
+            "speechiness": 0.0289,
+            "time_signature": 4,
+            "happiness": 7.3629999999999995
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Mood (feat. iann dior)",
+        "Artist": "24kGoldn, iann dior",
+        "Key": "9A",
+        "Energy": 7.497999999999999,
+        "Popularity": 1.72,
+        "BPM": 91,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3tjFYV6RSFtuktYl3ZtYcq",
+            "explicit": true,
+            "album": "Mood (feat. iann dior)",
+            "release_date": "2020-07-24",
+            "genres": [
+                "cali rap",
+                "melodic rap"
+            ],
+            "duration": 140526,
+            "acousticness": 0.221,
+            "danceability": 7.3,
+            "instrumentalness": 0,
+            "liveness": 0.272,
+            "loudness": -3.558,
+            "speechiness": 0.0369,
+            "time_signature": 4,
+            "happiness": 7.804
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Champagne Night - From Songland",
+        "Artist": "Lady A",
+        "Key": "12B",
+        "Energy": 9.343,
+        "Popularity": 6.22,
+        "BPM": 150,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "48F2xnWq3LuzYWML327Z2r",
+            "explicit": false,
+            "album": "Champagne Night (From Songland)",
+            "release_date": "2020-06-12",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country dawn",
+                "country pop",
+                "country road"
+            ],
+            "duration": 185070,
+            "acousticness": 0.0272,
+            "danceability": 5.707,
+            "instrumentalness": 5.98e-06,
+            "liveness": 0.168,
+            "loudness": -2.796,
+            "speechiness": 0.0489,
+            "time_signature": 4,
+            "happiness": 9.450999999999999
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "WAP (feat. Megan Thee Stallion)",
+        "Artist": "Cardi B, Megan Thee Stallion",
+        "Key": "3B",
+        "Energy": 5.086,
+        "Popularity": 8.290000000000001,
+        "BPM": 133,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "4Oun2ylbjFKMPTiaSbbCih",
+            "explicit": true,
+            "album": "WAP (feat. Megan Thee Stallion)",
+            "release_date": "2020-08-07",
+            "genres": [
+                "pop",
+                "rap",
+                "houston rap",
+                "pop",
+                "rap",
+                "trap queen"
+            ],
+            "duration": 187541,
+            "acousticness": 0.0194,
+            "danceability": 9.415000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.0824,
+            "loudness": -7.509,
+            "speechiness": 0.375,
+            "time_signature": 4,
+            "happiness": 4.213
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "If You're Drinkin'",
+        "Artist": "Ryan Robinette",
+        "Key": "3B",
+        "Energy": 8.542,
+        "Popularity": 3.97,
+        "BPM": 76,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2O2c8E5L6eBaH3lWV6VEw5",
+            "explicit": false,
+            "album": "If You're Drinkin'",
+            "release_date": "2019-06-07",
+            "genres": [
+                "country pop"
+            ],
+            "duration": 177829,
+            "acousticness": 0.0667,
+            "danceability": 5.032,
+            "instrumentalness": 0,
+            "liveness": 0.0781,
+            "loudness": -3.919,
+            "speechiness": 0.0522,
+            "time_signature": 4,
+            "happiness": 7.353999999999999
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "Troublemaker (feat. Flo Rida)",
+        "Artist": "Olly Murs, Flo Rida",
+        "Key": "8A",
+        "Energy": 8.767,
+        "Popularity": 7.84,
+        "BPM": 106,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6s8nHXTJVqFjXE4yVZPDHR",
+            "explicit": false,
+            "album": "Right Place Right Time (Expanded Edition)",
+            "release_date": "2012-11-26",
+            "genres": [
+                "dance pop",
+                "pop",
+                "talent show",
+                "dance pop",
+                "miami hip hop",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 185587,
+            "acousticness": 0.015,
+            "danceability": 7.8580000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.125,
+            "loudness": -3.689,
+            "speechiness": 0.0561,
+            "time_signature": 4,
+            "happiness": 9.685
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Magic In The Hamptons (feat. Lil Yachty)",
+        "Artist": "Social House, Lil Yachty",
+        "Key": "3B",
+        "Energy": 5.311,
+        "Popularity": 7.84,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2Yer0p7uB2lVBUAtANuuQp",
+            "explicit": false,
+            "album": "Magic In The Hamptons (feat. Lil Yachty)",
+            "release_date": "2018-06-08",
+            "genres": [
+                "atl hip hop",
+                "melodic rap",
+                "rap",
+                "trap"
+            ],
+            "duration": 164640,
+            "acousticness": 0.66,
+            "danceability": 7.921,
+            "instrumentalness": 0,
+            "liveness": 0.0914,
+            "loudness": -5.339,
+            "speechiness": 0.0385,
+            "time_signature": 4,
+            "happiness": 8.227
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "Take It Off",
+        "Artist": "Kesha",
+        "Key": "7A",
+        "Energy": 7.075,
+        "Popularity": 7.3,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0WCiI0ddWiu5F2kSHgfw5S",
+            "explicit": false,
+            "album": "Animal (Expanded Edition)",
+            "release_date": "2010-01-01",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 215200,
+            "acousticness": 4.14e-05,
+            "danceability": 7.561,
+            "instrumentalness": 0.00126,
+            "liveness": 0.0867,
+            "loudness": -5.292,
+            "speechiness": 0.0286,
+            "time_signature": 4,
+            "happiness": 7.66
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "Classic",
+        "Artist": "MKTO",
+        "Key": "3B",
+        "Energy": 8.119,
+        "Popularity": 8.469999999999999,
+        "BPM": 102,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6FE2iI43OZnszFLuLtvvmg",
+            "explicit": false,
+            "album": "MKTO",
+            "release_date": "2012",
+            "genres": [
+                "pop",
+                "post-teen pop"
+            ],
+            "duration": 175427,
+            "acousticness": 0.0384,
+            "danceability": 7.4799999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.157,
+            "loudness": -4.689,
+            "speechiness": 0.124,
+            "time_signature": 4,
+            "happiness": 7.804
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "Talking Body",
+        "Artist": "Tove Lo",
+        "Key": "12A",
+        "Energy": 8.254000000000001,
+        "Popularity": 1.3599999999999999,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Pop",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "3N0E39wunSlbas7JZPhD7Q",
+            "explicit": true,
+            "album": "Spring Break",
+            "release_date": "2021-03-12",
+            "genres": [
+                "metropopolis",
+                "pop",
+                "swedish electropop",
+                "swedish pop",
+                "swedish synthpop"
+            ],
+            "duration": 237333,
+            "acousticness": 0.0704,
+            "danceability": 7.507,
+            "instrumentalness": 0,
+            "liveness": 0.0817,
+            "loudness": -4.364,
+            "speechiness": 0.0342,
+            "time_signature": 4,
+            "happiness": 1.7578
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "JEWELZ",
+        "Artist": "Anderson .Paak",
+        "Key": "1A",
+        "Energy": 6.877000000000001,
+        "Popularity": 6.49,
+        "BPM": 109,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2IFFKj9orAsQOOS0JRhHAW",
+            "explicit": true,
+            "album": "JEWELZ",
+            "release_date": "2020-10-06",
+            "genres": [
+                "escape room",
+                "hip hop",
+                "indie soul",
+                "neo soul"
+            ],
+            "duration": 174213,
+            "acousticness": 0.371,
+            "danceability": 8.956,
+            "instrumentalness": 0.00135,
+            "liveness": 0.812,
+            "loudness": -7.653,
+            "speechiness": 0.0586,
+            "time_signature": 4,
+            "happiness": 7.894
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "Like That Bitch",
+        "Artist": "Flo Milli",
+        "Key": "6A",
+        "Energy": 8.596,
+        "Popularity": 5.2299999999999995,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7zoZd2MuTaQEdF1rlq6Vv1",
+            "explicit": true,
+            "album": "Ho, why is you here ?",
+            "release_date": "2020-07-24",
+            "genres": [
+                "viral rap"
+            ],
+            "duration": 203044,
+            "acousticness": 0.107,
+            "danceability": 8.038,
+            "instrumentalness": 1.12e-06,
+            "liveness": 0.295,
+            "loudness": -4.142,
+            "speechiness": 0.23,
+            "time_signature": 4,
+            "happiness": 7.84
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Little Things (with Quinn XCII & Chelsea Cutler)",
+        "Artist": "Louis The Child, Quinn XCII, Chelsea Cutler",
+        "Key": "2B",
+        "Energy": 6.724,
+        "Popularity": 5.32,
+        "BPM": 83,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "EDM",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "1OeEpViPwVi1FfdNkOoIci",
+            "explicit": true,
+            "album": "Little Things (with Quinn XCII & Chelsea Cutler)",
+            "release_date": "2020-04-03",
+            "genres": [
+                "edm",
+                "electropop",
+                "indie pop rap",
+                "alt z"
+            ],
+            "duration": 197448,
+            "acousticness": 0.191,
+            "danceability": 6.598,
+            "instrumentalness": 0,
+            "liveness": 0.0782,
+            "loudness": -4.38,
+            "speechiness": 0.122,
+            "time_signature": 4,
+            "happiness": 5.752000000000001
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "For Awhile",
+        "Artist": "Ryan Robinette",
+        "Key": "9B",
+        "Energy": 6.589,
+        "Popularity": 4.0600000000000005,
+        "BPM": 150,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "771AUJbh8HBRvfdeLpEjQu",
+            "explicit": false,
+            "album": "Progression",
+            "release_date": "2016-08-26",
+            "genres": [
+                "country pop"
+            ],
+            "duration": 203200,
+            "acousticness": 0.0705,
+            "danceability": 5.662,
+            "instrumentalness": 0,
+            "liveness": 0.354,
+            "loudness": -6.334,
+            "speechiness": 0.0278,
+            "time_signature": 4,
+            "happiness": 6.093999999999999
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "Don't Like Me (feat. Don Toliver & Gucci Mane)",
+        "Artist": "Rico Nasty, Don Toliver, Gucci Mane",
+        "Key": "12A",
+        "Energy": 8.587,
+        "Popularity": 4.0600000000000005,
+        "BPM": 146,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4U1EoTpL6rVEFpdhQgTHP2",
+            "explicit": true,
+            "album": "Don't Like Me (feat. Don Toliver & Gucci Mane)",
+            "release_date": "2020-10-15",
+            "genres": [
+                "alternative r&b",
+                "dmv rap",
+                "trap queen",
+                "rap",
+                "atl hip hop",
+                "dirty south rap",
+                "hip hop",
+                "rap",
+                "southern hip hop",
+                "trap"
+            ],
+            "duration": 165400,
+            "acousticness": 0.0871,
+            "danceability": 9.136000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.0766,
+            "loudness": -3.226,
+            "speechiness": 0.0985,
+            "time_signature": 4,
+            "happiness": 9.433
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "3 Sum",
+        "Artist": "Mark Dohner",
+        "Key": "8B",
+        "Energy": 5.491,
+        "Popularity": 5.59,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0QWe786CWm4PVKRdaehQoB",
+            "explicit": true,
+            "album": "3 Sum",
+            "release_date": "2020-07-31",
+            "genres": [
+                "social media pop"
+            ],
+            "duration": 110068,
+            "acousticness": 0.0545,
+            "danceability": 9.487,
+            "instrumentalness": 0,
+            "liveness": 0.0985,
+            "loudness": -8.735,
+            "speechiness": 0.157,
+            "time_signature": 4,
+            "happiness": 8.929
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "One Too Many",
+        "Artist": "Keith Urban, P!nk",
+        "Key": "12B",
+        "Energy": 5.815,
+        "Popularity": 7.12,
+        "BPM": 83,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "5NUXE8W12lWcUXgJRCjeEw",
+            "explicit": false,
+            "album": "One Too Many",
+            "release_date": "2020-09-16",
+            "genres": [
+                "australian country",
+                "australian pop",
+                "contemporary country",
+                "country",
+                "country road",
+                "dance pop",
+                "pop"
+            ],
+            "duration": 203893,
+            "acousticness": 0.247,
+            "danceability": 7.273,
+            "instrumentalness": 0,
+            "liveness": 0.569,
+            "loudness": -6.504,
+            "speechiness": 0.068,
+            "time_signature": 4,
+            "happiness": 6.346
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "Trumpets",
+        "Artist": "Jason Derulo",
+        "Key": "8B",
+        "Energy": 7.218999999999999,
+        "Popularity": 6.8500000000000005,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "5KONnBIQ9LqCxyeSPin26k",
+            "explicit": false,
+            "album": "Talk Dirty",
+            "release_date": "2013-09-10",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 217419,
+            "acousticness": 0.555,
+            "danceability": 6.715,
+            "instrumentalness": 0,
+            "liveness": 0.097,
+            "loudness": -4.862,
+            "speechiness": 0.258,
+            "time_signature": 4,
+            "happiness": 6.742
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "Dance with Me Tonight",
+        "Artist": "Olly Murs",
+        "Key": "1A",
+        "Energy": 7.732,
+        "Popularity": 7.57,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1FSWSs9CL01RCYxXtm08Rf",
+            "explicit": false,
+            "album": "In Case You Didn't Know",
+            "release_date": "2011-11-28",
+            "genres": [
+                "dance pop",
+                "pop",
+                "talent show"
+            ],
+            "duration": 202227,
+            "acousticness": 0.305,
+            "danceability": 7.048,
+            "instrumentalness": 0,
+            "liveness": 0.0811,
+            "loudness": -5.922,
+            "speechiness": 0.0589,
+            "time_signature": 4,
+            "happiness": 9.676
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "No Smoke - Benzi & Blush Remix",
+        "Artist": "YoungBoy Never Broke Again, Benzi, Blush",
+        "Key": "11A",
+        "Energy": 9.604,
+        "Popularity": 4.87,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "1K9QXJtypYRMVrfHixmHh3",
+            "explicit": true,
+            "album": "No Smoke (Benzi & Blush Remix)",
+            "release_date": "2018-06-28",
+            "genres": [
+                "baton rouge rap",
+                "rap"
+            ],
+            "duration": 185600,
+            "acousticness": 0.0117,
+            "danceability": 5.788,
+            "instrumentalness": 0,
+            "liveness": 0.0528,
+            "loudness": -0.902,
+            "speechiness": 0.591,
+            "time_signature": 4,
+            "happiness": 6.5169999999999995
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "Meet Me in the City",
+        "Artist": "Adam Doleac",
+        "Key": "9B",
+        "Energy": 7.6419999999999995,
+        "Popularity": 5.2299999999999995,
+        "BPM": 87,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "0swbLEe8Z5CKqvglG9zzmZ",
+            "explicit": false,
+            "album": "Meet Me in the City",
+            "release_date": "2020-09-18",
+            "genres": [
+                "contemporary country",
+                "country pop",
+                "modern country pop"
+            ],
+            "duration": 176461,
+            "acousticness": 0.246,
+            "danceability": 5.509,
+            "instrumentalness": 0,
+            "liveness": 0.204,
+            "loudness": -6.301,
+            "speechiness": 0.0803,
+            "time_signature": 4,
+            "happiness": 5.68
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Keep Up",
+        "Artist": "RaeLynn",
+        "Key": "2B",
+        "Energy": 9.136000000000001,
+        "Popularity": 1.09,
+        "BPM": 114,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3aovdUeqO2HyVch1GHzBlm",
+            "explicit": true,
+            "album": "Keep Up",
+            "release_date": "2020-02-21",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "deep talent show"
+            ],
+            "duration": 184623,
+            "acousticness": 0.253,
+            "danceability": 6.949,
+            "instrumentalness": 0,
+            "liveness": 0.139,
+            "loudness": -2.922,
+            "speechiness": 0.036,
+            "time_signature": 4,
+            "happiness": 9.091000000000001
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "Wild Ones (feat. Sia)",
+        "Artist": "Flo Rida, Sia",
+        "Key": "7A",
+        "Energy": 8.74,
+        "Popularity": 8.290000000000001,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "1NpW5kyvO4XrNJ3rnfcNy3",
+            "explicit": false,
+            "album": "Wild Ones",
+            "release_date": "2012-06-22",
+            "genres": [
+                "dance pop",
+                "miami hip hop",
+                "pop",
+                "pop rap",
+                "australian dance",
+                "australian pop",
+                "pop"
+            ],
+            "duration": 232947,
+            "acousticness": 0.0991,
+            "danceability": 6.4719999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.262,
+            "loudness": -5.324,
+            "speechiness": 0.0554,
+            "time_signature": 4,
+            "happiness": 4.933
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "TiK ToK",
+        "Artist": "Kesha",
+        "Key": "10A",
+        "Energy": 8.488,
+        "Popularity": 1.0,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5OMwQFBcte0aWFJFqrr5oj",
+            "explicit": false,
+            "album": "Animal",
+            "release_date": "2010",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 199693,
+            "acousticness": 0.0746,
+            "danceability": 7.795,
+            "instrumentalness": 1.27e-06,
+            "liveness": 0.291,
+            "loudness": -2.741,
+            "speechiness": 0.116,
+            "time_signature": 4,
+            "happiness": 7.615
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "do it like",
+        "Artist": "Jesslee",
+        "Key": "1A",
+        "Energy": 7.696,
+        "Popularity": 2.8899999999999997,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1RdalWN3KYCWv48bZPmeWx",
+            "explicit": false,
+            "album": "do it like",
+            "release_date": "2020-03-27",
+            "genres": [],
+            "duration": 168952,
+            "acousticness": 0.0309,
+            "danceability": 6.066999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.0766,
+            "loudness": -4.426,
+            "speechiness": 0.0813,
+            "time_signature": 5,
+            "happiness": 6.058000000000001
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "House Party",
+        "Artist": "Sam Hunt",
+        "Key": "4B",
+        "Energy": 8.748999999999999,
+        "Popularity": 7.66,
+        "BPM": 104,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1TwLKNsCnhi1HxbIi4bAW0",
+            "explicit": false,
+            "album": "Montevallo",
+            "release_date": "2014-10-27",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country pop"
+            ],
+            "duration": 190240,
+            "acousticness": 0.113,
+            "danceability": 7.723,
+            "instrumentalness": 0,
+            "liveness": 0.026,
+            "loudness": -5.251,
+            "speechiness": 0.0514,
+            "time_signature": 4,
+            "happiness": 8.731
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "Hard To Forget",
+        "Artist": "Sam Hunt",
+        "Key": "12B",
+        "Energy": 7.201,
+        "Popularity": 6.94,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "10xuH52YSXHWFwCaF1fsDd",
+            "explicit": false,
+            "album": "SOUTHSIDE",
+            "release_date": "2020-04-03",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country pop"
+            ],
+            "duration": 204760,
+            "acousticness": 0.23,
+            "danceability": 7.201,
+            "instrumentalness": 0,
+            "liveness": 0.57,
+            "loudness": -5.517,
+            "speechiness": 0.045,
+            "time_signature": 4,
+            "happiness": 6.976
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "Almost Maybes",
+        "Artist": "Jordan Davis",
+        "Key": "1B",
+        "Energy": 8.812000000000001,
+        "Popularity": 6.76,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "14JFKtBSqefxfMiKhq6JT8",
+            "explicit": false,
+            "album": "Almost Maybes",
+            "release_date": "2020-05-08",
+            "genres": [
+                "contemporary country",
+                "country road"
+            ],
+            "duration": 179153,
+            "acousticness": 0.146,
+            "danceability": 6.2379999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.103,
+            "loudness": -3.927,
+            "speechiness": 0.0522,
+            "time_signature": 4,
+            "happiness": 5.995
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "Every Little Thing",
+        "Artist": "Russell Dickerson",
+        "Key": "3B",
+        "Energy": 8.677,
+        "Popularity": 7.209999999999999,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3kgCJPXDlnL5bl1HFesHUi",
+            "explicit": false,
+            "album": "Yours",
+            "release_date": "2017-06-16",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 190640,
+            "acousticness": 0.216,
+            "danceability": 6.7330000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.0357,
+            "loudness": -4.664,
+            "speechiness": 0.109,
+            "time_signature": 4,
+            "happiness": 8.748999999999999
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "Hotel Key",
+        "Artist": "Old Dominion",
+        "Key": "1B",
+        "Energy": 8.803,
+        "Popularity": 7.3,
+        "BPM": 102,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "33471tzU1VghDg9zNgGRpz",
+            "explicit": false,
+            "album": "Happy Endings",
+            "release_date": "2017-08-25",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 166573,
+            "acousticness": 0.152,
+            "danceability": 7.822,
+            "instrumentalness": 0,
+            "liveness": 0.308,
+            "loudness": -5.087,
+            "speechiness": 0.0475,
+            "time_signature": 4,
+            "happiness": 9.676
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "Don't Need Fun",
+        "Artist": "Jake Rose",
+        "Key": "4B",
+        "Energy": 7.452999999999999,
+        "Popularity": 3.25,
+        "BPM": 107,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2JQxg91chcpkR8Moz2PFjP",
+            "explicit": false,
+            "album": "Don't Need Fun",
+            "release_date": "2020-05-08",
+            "genres": [
+                "country pop"
+            ],
+            "duration": 193680,
+            "acousticness": 0.141,
+            "danceability": 8.344,
+            "instrumentalness": 0,
+            "liveness": 0.0906,
+            "loudness": -5.351,
+            "speechiness": 0.0318,
+            "time_signature": 4,
+            "happiness": 9.379000000000001
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "One That Got Away",
+        "Artist": "Michael Ray",
+        "Key": "6B",
+        "Energy": 8.425,
+        "Popularity": 5.86,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2TLDilmv1UmRTfyb7f2Hrx",
+            "explicit": false,
+            "album": "Amos",
+            "release_date": "2018-06-01",
+            "genres": [
+                "contemporary country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 218733,
+            "acousticness": 0.00303,
+            "danceability": 6.084999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.0779,
+            "loudness": -4.245,
+            "speechiness": 0.0417,
+            "time_signature": 4,
+            "happiness": 6.481
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "Slower",
+        "Artist": "Filmore",
+        "Key": "1B",
+        "Energy": 7.75,
+        "Popularity": 3.88,
+        "BPM": 99,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5EX2jXTTdUdNg8w4UWRgEG",
+            "explicit": false,
+            "album": "Slower",
+            "release_date": "2018-02-02",
+            "genres": [
+                "contemporary country",
+                "country pop"
+            ],
+            "duration": 172534,
+            "acousticness": 0.107,
+            "danceability": 7.183000000000001,
+            "instrumentalness": 3.05e-06,
+            "liveness": 0.161,
+            "loudness": -4.537,
+            "speechiness": 0.0964,
+            "time_signature": 4,
+            "happiness": 9.199
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "For The First Time",
+        "Artist": "Darius Rucker",
+        "Key": "2B",
+        "Energy": 8.236,
+        "Popularity": 6.58,
+        "BPM": 142,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "0LG2cFomCi8Fb664Lvr3Nu",
+            "explicit": false,
+            "album": "When Was The Last Time",
+            "release_date": "2017-10-20",
+            "genres": [
+                "black americana",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 197053,
+            "acousticness": 0.00738,
+            "danceability": 5.923,
+            "instrumentalness": 0,
+            "liveness": 0.0308,
+            "loudness": -5.268,
+            "speechiness": 0.0361,
+            "time_signature": 4,
+            "happiness": 6.994000000000001
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "Famous",
+        "Artist": "Adam Doleac",
+        "Key": "9B",
+        "Energy": 5.2749999999999995,
+        "Popularity": 5.5,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1m8Vr5xZ80ALZS42c5YJsD",
+            "explicit": false,
+            "album": "Famous - EP",
+            "release_date": "2020-04-17",
+            "genres": [
+                "contemporary country",
+                "country pop",
+                "modern country pop"
+            ],
+            "duration": 186960,
+            "acousticness": 0.356,
+            "danceability": 7.705,
+            "instrumentalness": 0,
+            "liveness": 0.115,
+            "loudness": -5.574,
+            "speechiness": 0.0386,
+            "time_signature": 4,
+            "happiness": 4.879
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "Love That About You",
+        "Artist": "Filmore",
+        "Key": "11B",
+        "Energy": 6.157,
+        "Popularity": 4.42,
+        "BPM": 91,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2OE6UYA8bk6gX817olf79c",
+            "explicit": false,
+            "album": "Love That About You",
+            "release_date": "2018-06-29",
+            "genres": [
+                "contemporary country",
+                "country pop"
+            ],
+            "duration": 157422,
+            "acousticness": 0.0463,
+            "danceability": 5.968,
+            "instrumentalness": 0,
+            "liveness": 0.105,
+            "loudness": -6.585,
+            "speechiness": 0.0949,
+            "time_signature": 4,
+            "happiness": 5.7250000000000005
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "LA 2 ME",
+        "Artist": "PJ North",
+        "Key": "11B",
+        "Energy": 7.507,
+        "Popularity": 1.81,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "72bihM0hiqQouF1WnkOFm2",
+            "explicit": false,
+            "album": "LA 2 ME",
+            "release_date": "2020-10-23",
+            "genres": [
+                "redneck"
+            ],
+            "duration": 221061,
+            "acousticness": 0.0496,
+            "danceability": 6.958,
+            "instrumentalness": 8.49e-05,
+            "liveness": 0.305,
+            "loudness": -6.42,
+            "speechiness": 0.039,
+            "time_signature": 4,
+            "happiness": 5.581
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "Singles You Up",
+        "Artist": "Jordan Davis",
+        "Key": "9B",
+        "Energy": 9.163,
+        "Popularity": 7.57,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "4LiMQ6G9n84rDUBs9wtwz6",
+            "explicit": false,
+            "album": "Home State",
+            "release_date": "2018-03-23",
+            "genres": [
+                "contemporary country",
+                "country road"
+            ],
+            "duration": 182667,
+            "acousticness": 0.0491,
+            "danceability": 5.419,
+            "instrumentalness": 0,
+            "liveness": 0.242,
+            "loudness": -3.594,
+            "speechiness": 0.0481,
+            "time_signature": 4,
+            "happiness": 6.679
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "Eyes On You",
+        "Artist": "Chase Rice",
+        "Key": "11B",
+        "Energy": 6.868,
+        "Popularity": 7.3,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "5AnSllIrgGsCZzZJkVnApx",
+            "explicit": false,
+            "album": "Lambs & Lions",
+            "release_date": "2017-11-17",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 182493,
+            "acousticness": 0.323,
+            "danceability": 6.454,
+            "instrumentalness": 0,
+            "liveness": 0.201,
+            "loudness": -6.982,
+            "speechiness": 0.0281,
+            "time_signature": 4,
+            "happiness": 5.284
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "I Like It Like That (feat. New Boyz)",
+        "Artist": "Hot Chelle Rae, New Boyz",
+        "Key": "3B",
+        "Energy": 8.056000000000001,
+        "Popularity": 6.58,
+        "BPM": 101,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Pop",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "6eFahAdQgABBj1XOM99cBG",
+            "explicit": false,
+            "album": "Whatever",
+            "release_date": "2011-11-25",
+            "genres": [
+                "dance rock",
+                "neon pop punk",
+                "post-teen pop",
+                "pop rap"
+            ],
+            "duration": 188200,
+            "acousticness": 0.0308,
+            "danceability": 7.678,
+            "instrumentalness": 0,
+            "liveness": 0.354,
+            "loudness": -5.458,
+            "speechiness": 0.0552,
+            "time_signature": 4,
+            "happiness": 6.8500000000000005
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "Your Love Is My Drug",
+        "Artist": "Kesha",
+        "Key": "3B",
+        "Energy": 6.508,
+        "Popularity": 7.4799999999999995,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6vc2Jq2vaGu8z326kSrw92",
+            "explicit": false,
+            "album": "Animal (Expanded Edition)",
+            "release_date": "2010-01-01",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 187133,
+            "acousticness": 0.00681,
+            "danceability": 8.434,
+            "instrumentalness": 0,
+            "liveness": 0.0889,
+            "loudness": -3.891,
+            "speechiness": 0.0982,
+            "time_signature": 4,
+            "happiness": 7.804
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "Good Girls Go Bad (feat. Leighton Meester)",
+        "Artist": "Cobra Starship, Leighton Meester",
+        "Key": "8B",
+        "Energy": 8.866,
+        "Popularity": 7.03,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2000s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "7kMfu3KUydmrFVGEAhjtyl",
+            "explicit": false,
+            "album": "Hot Mess",
+            "release_date": "2009-07-07",
+            "genres": [
+                "neon pop punk",
+                "pop punk",
+                "post-teen pop"
+            ],
+            "duration": 196413,
+            "acousticness": 0.0116,
+            "danceability": 6.346,
+            "instrumentalness": 0,
+            "liveness": 0.549,
+            "loudness": -3.716,
+            "speechiness": 0.0815,
+            "time_signature": 4,
+            "happiness": 6.652
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "Tonight Tonight",
+        "Artist": "Hot Chelle Rae",
+        "Key": "12B",
+        "Energy": 8.047,
+        "Popularity": 7.57,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Pop",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2i0AUcEnsDm3dsqLrFWUCq",
+            "explicit": false,
+            "album": "Whatever",
+            "release_date": "2011-11-25",
+            "genres": [
+                "dance rock",
+                "neon pop punk",
+                "post-teen pop"
+            ],
+            "duration": 200467,
+            "acousticness": 0.0764,
+            "danceability": 7.174,
+            "instrumentalness": 0,
+            "liveness": 0.163,
+            "loudness": -4.977,
+            "speechiness": 0.119,
+            "time_signature": 4,
+            "happiness": 8.326
+        }
+    },
+    {
+        "#": 52,
+        "Track Title": "Burn The House Down",
+        "Artist": "AJR",
+        "Key": "8B",
+        "Energy": 6.94,
+        "Popularity": 7.3,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "0TkJIyL69RAUIbNwGub6uR",
+            "explicit": true,
+            "album": "The Click (Deluxe Edition)",
+            "release_date": "2018-09-21",
+            "genres": [
+                "pov: indie"
+            ],
+            "duration": 212374,
+            "acousticness": 0.0364,
+            "danceability": 5.086,
+            "instrumentalness": 0,
+            "liveness": 0.181,
+            "loudness": -4.357,
+            "speechiness": 0.168,
+            "time_signature": 4,
+            "happiness": 6.111999999999999
+        }
+    },
+    {
+        "#": 53,
+        "Track Title": "Cruise - Remix",
+        "Artist": "Florida Georgia Line, Nelly",
+        "Key": "8A",
+        "Energy": 9.235,
+        "Popularity": 6.3999999999999995,
+        "BPM": 149,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "0jHSdjxn9LfzNL0WkDu93W",
+            "explicit": false,
+            "album": "Here's To The Good Times...This Is How We Roll",
+            "release_date": "2013-01-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country pop",
+                "country road",
+                "modern country rock",
+                "dance pop",
+                "gangster rap",
+                "hip hop",
+                "pop rap",
+                "rap",
+                "st louis rap",
+                "urban contemporary"
+            ],
+            "duration": 208787,
+            "acousticness": 0.0156,
+            "danceability": 5.7250000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.66,
+            "loudness": -4.351,
+            "speechiness": 0.0789,
+            "time_signature": 4,
+            "happiness": 6.607
+        }
+    },
+    {
+        "#": 54,
+        "Track Title": "Girl Talks - Frank Legeay Remix",
+        "Artist": "Ryan Robinette, Frank Legeay",
+        "Key": "6B",
+        "Energy": 8.668,
+        "Popularity": 3.25,
+        "BPM": 78,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "4qXuHal19KKani7T9NtOz7",
+            "explicit": false,
+            "album": "Girl Talks (Frank Legeay Remix)",
+            "release_date": "2019-09-20",
+            "genres": [
+                "country pop"
+            ],
+            "duration": 194044,
+            "acousticness": 0.0477,
+            "danceability": 6.832,
+            "instrumentalness": 8.91e-05,
+            "liveness": 0.389,
+            "loudness": -5.752,
+            "speechiness": 0.125,
+            "time_signature": 4,
+            "happiness": 6.931
+        }
+    },
+    {
+        "#": 55,
+        "Track Title": "Intentions (feat. Quavo)",
+        "Artist": "Justin Bieber, Quavo",
+        "Key": "11B",
+        "Energy": 5.914000000000001,
+        "Popularity": 7.93,
+        "BPM": 148,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Pop",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4umIPjkehX1r7uhmGvXiSV",
+            "explicit": false,
+            "album": "Changes",
+            "release_date": "2020-02-14",
+            "genres": [
+                "canadian pop",
+                "pop",
+                "atl hip hop",
+                "melodic rap",
+                "rap",
+                "trap"
+            ],
+            "duration": 212867,
+            "acousticness": 0.3,
+            "danceability": 8.254000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.102,
+            "loudness": -6.637,
+            "speechiness": 0.0575,
+            "time_signature": 4,
+            "happiness": 8.866
+        }
+    },
+    {
+        "#": 56,
+        "Track Title": "Rich Girl$",
+        "Artist": "Down With Webster",
+        "Key": "7B",
+        "Energy": 8.83,
+        "Popularity": 5.140000000000001,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0MzzUbsxedRyso4TQnTtXW",
+            "explicit": false,
+            "album": "Time To Win Vol. I",
+            "release_date": "2009-01-01",
+            "genres": [
+                "canadian rock"
+            ],
+            "duration": 220560,
+            "acousticness": 0.00863,
+            "danceability": 6.697,
+            "instrumentalness": 0,
+            "liveness": 0.259,
+            "loudness": -5.222,
+            "speechiness": 0.0411,
+            "time_signature": 4,
+            "happiness": 8.677
+        }
+    },
+    {
+        "#": 57,
+        "Track Title": "You & Me",
+        "Artist": "Marc E. Bassy, G-Eazy",
+        "Key": "3B",
+        "Energy": 6.715,
+        "Popularity": 6.58,
+        "BPM": 84,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Pop",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "7yCqehT9dKACTFy7YugP0J",
+            "explicit": true,
+            "album": "Gossip Columns",
+            "release_date": "2017-10-13",
+            "genres": [
+                "indie pop rap",
+                "indie pop rap",
+                "oakland hip hop",
+                "pop rap",
+                "rap"
+            ],
+            "duration": 218493,
+            "acousticness": 0.0413,
+            "danceability": 5.041,
+            "instrumentalness": 0,
+            "liveness": 0.188,
+            "loudness": -8.301,
+            "speechiness": 0.275,
+            "time_signature": 4,
+            "happiness": 6.4719999999999995
+        }
+    },
+    {
+        "#": 58,
+        "Track Title": "Playinwitme (feat. Kehlani)",
+        "Artist": "KYLE, Kehlani",
+        "Key": "3A",
+        "Energy": 6.255999999999999,
+        "Popularity": 6.67,
+        "BPM": 78,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Pop",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4F1yvJfQ7gJkrcgFJQDjOr",
+            "explicit": false,
+            "album": "Light of Mine",
+            "release_date": "2018-05-18",
+            "genres": [
+                "deep underground hip hop",
+                "indie pop rap",
+                "pop rap",
+                "viral trap",
+                "pop",
+                "r&b"
+            ],
+            "duration": 191680,
+            "acousticness": 0.339,
+            "danceability": 7.201,
+            "instrumentalness": 0,
+            "liveness": 0.297,
+            "loudness": -5.768,
+            "speechiness": 0.119,
+            "time_signature": 4,
+            "happiness": 7.0840000000000005
+        }
+    },
+    {
+        "#": 59,
+        "Track Title": "We Do Us",
+        "Artist": "Ryan Hurd",
+        "Key": "9B",
+        "Energy": 8.857,
+        "Popularity": 4.33,
+        "BPM": 148,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0BOgOGUvHKVIqFlchaOowo",
+            "explicit": false,
+            "album": "Ryan Hurd - EP",
+            "release_date": "2017-04-07",
+            "genres": [
+                "contemporary country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 196773,
+            "acousticness": 0.0018,
+            "danceability": 6.364,
+            "instrumentalness": 2.11e-06,
+            "liveness": 0.389,
+            "loudness": -6.604,
+            "speechiness": 0.034,
+            "time_signature": 4,
+            "happiness": 8.02
+        }
+    },
+    {
+        "#": 60,
+        "Track Title": "MY PYT",
+        "Artist": "Wale",
+        "Key": "8B",
+        "Energy": 4.726,
+        "Popularity": 5.32,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Pop",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "4jK1VQQGDnNOLfyVXCxGsR",
+            "explicit": true,
+            "album": "MY PYT",
+            "release_date": "2016-05-20",
+            "genres": [
+                "pop rap",
+                "r&b",
+                "rap",
+                "southern hip hop",
+                "trap"
+            ],
+            "duration": 235652,
+            "acousticness": 0.0298,
+            "danceability": 6.066999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.0854,
+            "loudness": -11.409,
+            "speechiness": 0.37,
+            "time_signature": 4,
+            "happiness": 5.014
+        }
+    },
+    {
+        "#": 61,
+        "Track Title": "Something 'Bout You",
+        "Artist": "Sir Rosevelt",
+        "Key": "10B",
+        "Energy": 7.228,
+        "Popularity": 4.96,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2VdKelTyQHxQKyeTbimoHS",
+            "explicit": false,
+            "album": "Sir Rosevelt",
+            "release_date": "2017-12-15",
+            "genres": [],
+            "duration": 160107,
+            "acousticness": 0.189,
+            "danceability": 7.228,
+            "instrumentalness": 0,
+            "liveness": 0.0884,
+            "loudness": -6.065,
+            "speechiness": 0.0818,
+            "time_signature": 4,
+            "happiness": 7.75
+        }
+    },
+    {
+        "#": 62,
+        "Track Title": "All We Know",
+        "Artist": "The Chainsmokers, Phoebe Ryan",
+        "Key": "8B",
+        "Energy": 6.274,
+        "Popularity": 7.57,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "EDM",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "2rizacJSyD9S1IQUxUxnsK",
+            "explicit": false,
+            "album": "All We Know",
+            "release_date": "2016-09-29",
+            "genres": [
+                "electropop",
+                "pop",
+                "alt z",
+                "indie poptimism"
+            ],
+            "duration": 194080,
+            "acousticness": 0.097,
+            "danceability": 6.958,
+            "instrumentalness": 0.00272,
+            "liveness": 0.115,
+            "loudness": -8.821,
+            "speechiness": 0.0307,
+            "time_signature": 4,
+            "happiness": 3.6639999999999997
+        }
+    },
+    {
+        "#": 63,
+        "Track Title": "Rum n Tequila",
+        "Artist": "John K",
+        "Key": "11B",
+        "Energy": 7.2909999999999995,
+        "Popularity": 6.22,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3kSmaObYtsjFbusk0HBBuX",
+            "explicit": false,
+            "album": "if we never met",
+            "release_date": "2019-04-26",
+            "genres": [],
+            "duration": 137720,
+            "acousticness": 0.117,
+            "danceability": 6.499,
+            "instrumentalness": 0,
+            "liveness": 0.0632,
+            "loudness": -5.183,
+            "speechiness": 0.0365,
+            "time_signature": 4,
+            "happiness": 7.741
+        }
+    },
+    {
+        "#": 64,
+        "Track Title": "I Like Me Better",
+        "Artist": "Lauv",
+        "Key": "11B",
+        "Energy": 5.545,
+        "Popularity": 1.18,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "1wjzFQodRWrPcQ0AnYnvQ9",
+            "explicit": false,
+            "album": "I Like Me Better",
+            "release_date": "2017-05-19",
+            "genres": [
+                "pop"
+            ],
+            "duration": 197437,
+            "acousticness": 0.535,
+            "danceability": 7.768,
+            "instrumentalness": 2.55e-06,
+            "liveness": 0.104,
+            "loudness": -7.621,
+            "speechiness": 0.253,
+            "time_signature": 4,
+            "happiness": 4.771
+        }
+    },
+    {
+        "#": 65,
+        "Track Title": "T-Shirt",
+        "Artist": "Thomas Rhett",
+        "Key": "10B",
+        "Energy": 8.758,
+        "Popularity": 4.51,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7BEo8CzYf5Fcfa9RuoPwIa",
+            "explicit": false,
+            "album": "Tangled Up (Deluxe)",
+            "release_date": "2016-10-28",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 227693,
+            "acousticness": 0.0285,
+            "danceability": 6.697,
+            "instrumentalness": 0,
+            "liveness": 0.0217,
+            "loudness": -5.337,
+            "speechiness": 0.0377,
+            "time_signature": 4,
+            "happiness": 7.912
+        }
+    },
+    {
+        "#": 66,
+        "Track Title": "Empty Cups",
+        "Artist": "Charlie Puth",
+        "Key": "12B",
+        "Energy": 5.995,
+        "Popularity": 6.22,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7k7JKDjCd9zuL0iF7iWaNs",
+            "explicit": false,
+            "album": "Voicenotes",
+            "release_date": "2018-05-11",
+            "genres": [
+                "pop",
+                "viral pop"
+            ],
+            "duration": 170947,
+            "acousticness": 0.224,
+            "danceability": 7.93,
+            "instrumentalness": 1.78e-06,
+            "liveness": 0.0754,
+            "loudness": -6.361,
+            "speechiness": 0.0754,
+            "time_signature": 4,
+            "happiness": 7.984
+        }
+    },
+    {
+        "#": 67,
+        "Track Title": "Werewolf (feat. Yoshi Flower)",
+        "Artist": "Quinn XCII, Yoshi Flower",
+        "Key": "4B",
+        "Energy": 6.013000000000001,
+        "Popularity": 5.140000000000001,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5foPGlyY3O4uSrFGhfUKGW",
+            "explicit": false,
+            "album": "From Michigan With Love",
+            "release_date": "2019-02-15",
+            "genres": [
+                "indie pop rap",
+                "detroit indie"
+            ],
+            "duration": 191893,
+            "acousticness": 0.0403,
+            "danceability": 7.255,
+            "instrumentalness": 0,
+            "liveness": 0.0832,
+            "loudness": -6.686,
+            "speechiness": 0.396,
+            "time_signature": 4,
+            "happiness": 7.156000000000001
+        }
+    },
+    {
+        "#": 68,
+        "Track Title": "Holy (feat. Chance The Rapper)",
+        "Artist": "Justin Bieber, Chance the Rapper",
+        "Key": "2B",
+        "Energy": 7.335999999999999,
+        "Popularity": 7.57,
+        "BPM": 87,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Pop",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "5u1n1kITHCxxp8twBcZxWy",
+            "explicit": false,
+            "album": "Holy",
+            "release_date": "2020-09-18",
+            "genres": [
+                "canadian pop",
+                "pop",
+                "chicago rap",
+                "conscious hip hop",
+                "hip hop",
+                "pop rap",
+                "rap"
+            ],
+            "duration": 212093,
+            "acousticness": 0.196,
+            "danceability": 7.057,
+            "instrumentalness": 0,
+            "liveness": 0.0898,
+            "loudness": -8.056,
+            "speechiness": 0.36,
+            "time_signature": 4,
+            "happiness": 4.348
+        }
+    },
+    {
+        "#": 69,
+        "Track Title": "I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",
+        "Artist": "DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, Lil Wayne",
+        "Key": "9B",
+        "Energy": 7.003,
+        "Popularity": 6.94,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1jYiIOC5d6soxkJP81fxq2",
+            "explicit": true,
+            "album": "Grateful",
+            "release_date": "2017-06-22",
+            "genres": [
+                "hip hop",
+                "miami hip hop",
+                "pop rap",
+                "rap",
+                "canadian pop",
+                "pop",
+                "atl hip hop",
+                "melodic rap",
+                "rap",
+                "trap",
+                "chicago rap",
+                "conscious hip hop",
+                "hip hop",
+                "pop rap",
+                "rap",
+                "hip hop",
+                "new orleans rap",
+                "pop rap",
+                "rap",
+                "trap"
+            ],
+            "duration": 288877,
+            "acousticness": 0.0533,
+            "danceability": 6.391,
+            "instrumentalness": 0,
+            "liveness": 0.134,
+            "loudness": -4.267,
+            "speechiness": 0.0367,
+            "time_signature": 4,
+            "happiness": 8.353
+        }
+    },
+    {
+        "#": 70,
+        "Track Title": "Tell Me All Your Secrets",
+        "Artist": "MOD SUN",
+        "Key": "12B",
+        "Energy": 7.5969999999999995,
+        "Popularity": 3.25,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5cbPbxwkTCFvlcqPjO3TEL",
+            "explicit": true,
+            "album": "Tell Me All Your Secrets",
+            "release_date": "2019-01-13",
+            "genres": [
+                "indie pop rap",
+                "minnesota hip hop"
+            ],
+            "duration": 192500,
+            "acousticness": 0.0133,
+            "danceability": 6.571,
+            "instrumentalness": 0,
+            "liveness": 0.393,
+            "loudness": -7.97,
+            "speechiness": 0.061,
+            "time_signature": 4,
+            "happiness": 8.119
+        }
+    },
+    {
+        "#": 71,
+        "Track Title": "The Middle",
+        "Artist": "Zedd, Maren Morris, Grey",
+        "Key": "9B",
+        "Energy": 6.913,
+        "Popularity": 8.290000000000001,
+        "BPM": 107,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "EDM",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "09IStsImFySgyp0pIQdqAc",
+            "explicit": false,
+            "album": "The Middle",
+            "release_date": "2018-01-23",
+            "genres": [
+                "complextro",
+                "edm",
+                "german techno",
+                "pop",
+                "pop dance",
+                "classic texas country",
+                "contemporary country"
+            ],
+            "duration": 184732,
+            "acousticness": 0.171,
+            "danceability": 7.777,
+            "instrumentalness": 0,
+            "liveness": 0.112,
+            "loudness": -3.061,
+            "speechiness": 0.0449,
+            "time_signature": 4,
+            "happiness": 4.933
+        }
+    },
+    {
+        "#": 72,
+        "Track Title": "Daphne Blue",
+        "Artist": "The Band CAMINO",
+        "Key": "3A",
+        "Energy": 9.325000000000001,
+        "Popularity": 6.040000000000001,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2FhJvFKyZng57iVQmFayVw",
+            "explicit": false,
+            "album": "tryhard",
+            "release_date": "2019-08-23",
+            "genres": [
+                "hopebeat",
+                "pov: indie"
+            ],
+            "duration": 182840,
+            "acousticness": 0.00239,
+            "danceability": 6.103,
+            "instrumentalness": 0.0054,
+            "liveness": 0.348,
+            "loudness": -2.775,
+            "speechiness": 0.0906,
+            "time_signature": 4,
+            "happiness": 7.335999999999999
+        }
+    },
+    {
+        "#": 73,
+        "Track Title": "positions",
+        "Artist": "Ariana Grande",
+        "Key": "8B",
+        "Energy": 8.218,
+        "Popularity": 8.559999999999999,
+        "BPM": 144,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "35mvY5S1H3J2QZyna3TFe0",
+            "explicit": true,
+            "album": "Positions",
+            "release_date": "2020-10-30",
+            "genres": [
+                "pop"
+            ],
+            "duration": 172325,
+            "acousticness": 0.468,
+            "danceability": 7.633,
+            "instrumentalness": 0,
+            "liveness": 0.0931,
+            "loudness": -4.771,
+            "speechiness": 0.0878,
+            "time_signature": 4,
+            "happiness": 7.138000000000001
+        }
+    },
+    {
+        "#": 74,
+        "Track Title": "Come & Go (with Marshmello)",
+        "Artist": "Juice WRLD, Marshmello",
+        "Key": "8B",
+        "Energy": 8.326,
+        "Popularity": 1.0,
+        "BPM": 145,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Hip Hop",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "7y7w4tl4MaRC2UMEj1mPtr",
+            "explicit": true,
+            "album": "Legends Never Die",
+            "release_date": "2020-07-10",
+            "genres": [
+                "chicago rap",
+                "melodic rap",
+                "rap",
+                "brostep",
+                "edm",
+                "pop",
+                "progressive electro house"
+            ],
+            "duration": 205485,
+            "acousticness": 0.0172,
+            "danceability": 6.625,
+            "instrumentalness": 0,
+            "liveness": 0.158,
+            "loudness": -5.181,
+            "speechiness": 0.0657,
+            "time_signature": 4,
+            "happiness": 5.815
+        }
+    },
+    {
+        "#": 75,
+        "Track Title": "ROCKSTAR (feat. Roddy Ricch)",
+        "Artist": "DaBaby, Roddy Ricch",
+        "Key": "1B",
+        "Energy": 7.209999999999999,
+        "Popularity": 8.2,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "7ytR5pFWmSjzHJIeQkgog4",
+            "explicit": true,
+            "album": "BLAME IT ON BABY",
+            "release_date": "2020-04-17",
+            "genres": [
+                "hip hop",
+                "north carolina hip hop",
+                "rap",
+                "melodic rap",
+                "rap",
+                "trap"
+            ],
+            "duration": 181733,
+            "acousticness": 0.247,
+            "danceability": 7.714,
+            "instrumentalness": 0,
+            "liveness": 0.101,
+            "loudness": -7.956,
+            "speechiness": 0.164,
+            "time_signature": 4,
+            "happiness": 5.473
+        }
+    },
+    {
+        "#": 76,
+        "Track Title": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
+        "Artist": "Jack Harlow, Tory Lanez, DaBaby, Lil Wayne",
+        "Key": "1A",
+        "Energy": 7.507,
+        "Popularity": 7.75,
+        "BPM": 145,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Pop",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2MbdDtCv5LUVjYy9RuGTgC",
+            "explicit": true,
+            "album": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
+            "release_date": "2020-06-24",
+            "genres": [
+                "deep underground hip hop",
+                "kentucky hip hop",
+                "pop rap",
+                "rap",
+                "canadian hip hop",
+                "canadian trap",
+                "melodic rap",
+                "r&b",
+                "rap",
+                "toronto rap",
+                "trap",
+                "hip hop",
+                "north carolina hip hop",
+                "rap",
+                "hip hop",
+                "new orleans rap",
+                "pop rap",
+                "rap",
+                "trap"
+            ],
+            "duration": 227478,
+            "acousticness": 0.0631,
+            "danceability": 9.136000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.185,
+            "loudness": -5.224,
+            "speechiness": 0.26,
+            "time_signature": 4,
+            "happiness": 8.515
+        }
+    },
+    {
+        "#": 77,
+        "Track Title": "Watermelon Sugar",
+        "Artist": "Harry Styles",
+        "Key": "8B",
+        "Energy": 8.344,
+        "Popularity": 9.1,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "6UelLqGlWMcVH1E5c4H7lY",
+            "explicit": false,
+            "album": "Fine Line",
+            "release_date": "2019-12-13",
+            "genres": [
+                "pop"
+            ],
+            "duration": 174000,
+            "acousticness": 0.122,
+            "danceability": 5.932,
+            "instrumentalness": 0,
+            "liveness": 0.335,
+            "loudness": -4.209,
+            "speechiness": 0.0465,
+            "time_signature": 4,
+            "happiness": 6.013000000000001
+        }
+    },
+    {
+        "#": 78,
+        "Track Title": "THICK",
+        "Artist": "DJ Chose, BeatKing",
+        "Key": "12B",
+        "Energy": 7.768,
+        "Popularity": 5.7700000000000005,
+        "BPM": 145,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "0YYNIGKgAk34vZkV2NySie",
+            "explicit": true,
+            "album": "THICK",
+            "release_date": "2020-07-10",
+            "genres": [
+                "houston rap",
+                "houston rap"
+            ],
+            "duration": 178834,
+            "acousticness": 0.0352,
+            "danceability": 8.83,
+            "instrumentalness": 1.1e-06,
+            "liveness": 0.269,
+            "loudness": -6.615,
+            "speechiness": 0.372,
+            "time_signature": 4,
+            "happiness": 6.319
+        }
+    },
+    {
+        "#": 79,
+        "Track Title": "Tap In",
+        "Artist": "Saweetie",
+        "Key": "6A",
+        "Energy": 7.263999999999999,
+        "Popularity": 7.12,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "4Hpib09wXgD84w4uwTPnYD",
+            "explicit": true,
+            "album": "Tap In",
+            "release_date": "2020-06-17",
+            "genres": [
+                "cali rap",
+                "trap queen"
+            ],
+            "duration": 139413,
+            "acousticness": 0.00576,
+            "danceability": 9.586,
+            "instrumentalness": 0.000498,
+            "liveness": 0.0754,
+            "loudness": -7.117,
+            "speechiness": 0.204,
+            "time_signature": 4,
+            "happiness": 4.888
+        }
+    },
+    {
+        "#": 80,
+        "Track Title": "Don't Start Now",
+        "Artist": "Dua Lipa",
+        "Key": "1A",
+        "Energy": 8.137,
+        "Popularity": 8.11,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6WrI0LAC5M1Rw2MnX2ZvEg",
+            "explicit": false,
+            "album": "Don't Start Now",
+            "release_date": "2019-10-31",
+            "genres": [
+                "dance pop",
+                "pop",
+                "uk pop"
+            ],
+            "duration": 183290,
+            "acousticness": 0.0125,
+            "danceability": 8.146,
+            "instrumentalness": 0,
+            "liveness": 0.0952,
+            "loudness": -4.521,
+            "speechiness": 0.0842,
+            "time_signature": 4,
+            "happiness": 7.093
+        }
+    },
+    {
+        "#": 81,
+        "Track Title": "ROXANNE",
+        "Artist": "Arizona Zervas",
+        "Key": "2A",
+        "Energy": 6.409,
+        "Popularity": 1.0,
+        "BPM": 117,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1ZPWWSwCkxKfqdp4H0RFCo",
+            "explicit": true,
+            "album": "ROXANNE",
+            "release_date": "2019-10-10",
+            "genres": [
+                "pop rap",
+                "rhode island rap"
+            ],
+            "duration": 163636,
+            "acousticness": 0.0522,
+            "danceability": 6.589,
+            "instrumentalness": 0,
+            "liveness": 0.46,
+            "loudness": -5.616,
+            "speechiness": 0.148,
+            "time_signature": 5,
+            "happiness": 5.113
+        }
+    },
+    {
+        "#": 82,
+        "Track Title": "Dance Monkey",
+        "Artist": "Tones And I",
+        "Key": "2A",
+        "Energy": 6.337,
+        "Popularity": 6.76,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "1rgnBhdG2JDFTbYkYRZAku",
+            "explicit": false,
+            "album": "Dance Monkey",
+            "release_date": "2019-05-10",
+            "genres": [
+                "australian pop"
+            ],
+            "duration": 209755,
+            "acousticness": 0.688,
+            "danceability": 8.434,
+            "instrumentalness": 0.000161,
+            "liveness": 0.17,
+            "loudness": -6.401,
+            "speechiness": 0.0976,
+            "time_signature": 4,
+            "happiness": 5.869000000000001
+        }
+    },
+    {
+        "#": 83,
+        "Track Title": "Good as Hell",
+        "Artist": "Lizzo",
+        "Key": "7A",
+        "Energy": 9.163,
+        "Popularity": 1.0,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2gzAuNf6GjNiu51sDiEz2R",
+            "explicit": false,
+            "album": "Served Like a Girl (Music from and Inspired by the Documentary Film)",
+            "release_date": "2017-11-03",
+            "genres": [
+                "escape room",
+                "minnesota hip hop",
+                "pop",
+                "trap queen"
+            ],
+            "duration": 159287,
+            "acousticness": 0.257,
+            "danceability": 5.518,
+            "instrumentalness": 0,
+            "liveness": 0.276,
+            "loudness": -3.272,
+            "speechiness": 0.177,
+            "time_signature": 3,
+            "happiness": 5.365
+        }
+    },
+    {
+        "#": 84,
+        "Track Title": "Truth Hurts",
+        "Artist": "Lizzo",
+        "Key": "12A",
+        "Energy": 6.616,
+        "Popularity": 6.67,
+        "BPM": 79,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "5qmq61DAAOUaW8AUo8xKhh",
+            "explicit": true,
+            "album": "Cuz I Love You (Deluxe)",
+            "release_date": "2019-05-03",
+            "genres": [
+                "escape room",
+                "minnesota hip hop",
+                "pop",
+                "trap queen"
+            ],
+            "duration": 173325,
+            "acousticness": 0.11,
+            "danceability": 7.435,
+            "instrumentalness": 0,
+            "liveness": 0.123,
+            "loudness": -3.046,
+            "speechiness": 0.114,
+            "time_signature": 4,
+            "happiness": 4.708
+        }
+    },
+    {
+        "#": 85,
+        "Track Title": "Better Now",
+        "Artist": "Post Malone",
+        "Key": "6B",
+        "Energy": 6.202,
+        "Popularity": 8.469999999999999,
+        "BPM": 145,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "7dt6x5M1jzdTEt8oCbisTK",
+            "explicit": true,
+            "album": "beerbongs & bentleys",
+            "release_date": "2018-04-27",
+            "genres": [
+                "dfw rap",
+                "melodic rap",
+                "pop",
+                "rap"
+            ],
+            "duration": 231267,
+            "acousticness": 0.331,
+            "danceability": 7.12,
+            "instrumentalness": 0,
+            "liveness": 0.135,
+            "loudness": -5.804,
+            "speechiness": 0.04,
+            "time_signature": 4,
+            "happiness": 4.069000000000001
+        }
+    },
+    {
+        "#": 86,
+        "Track Title": "Old Town Road - Remix",
+        "Artist": "Lil Nas X, Billy Ray Cyrus",
+        "Key": "2B",
+        "Energy": 6.571,
+        "Popularity": 8.11,
+        "BPM": 136,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2YpeDb67231RjR0MgVLzsG",
+            "explicit": false,
+            "album": "7 EP",
+            "release_date": "2019-06-21",
+            "genres": [
+                "lgbtq+ hip hop",
+                "country rock"
+            ],
+            "duration": 157067,
+            "acousticness": 0.0533,
+            "danceability": 8.902000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.113,
+            "loudness": -5.56,
+            "speechiness": 0.102,
+            "time_signature": 4,
+            "happiness": 6.751
+        }
+    },
+    {
+        "#": 87,
+        "Track Title": "Old Town Road - Remix",
+        "Artist": "Lil Nas X, Billy Ray Cyrus, Mason Ramsey, Young Thug",
+        "Key": "2B",
+        "Energy": 5.527,
+        "Popularity": 5.86,
+        "BPM": 136,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6jmZlyf9DxcIoRrjw02YXm",
+            "explicit": false,
+            "album": "Old Town Road (Remix)",
+            "release_date": "2019-07-12",
+            "genres": [
+                "lgbtq+ hip hop",
+                "country rock",
+                "contemporary country",
+                "country",
+                "atl hip hop",
+                "atl trap",
+                "gangster rap",
+                "melodic rap",
+                "rap",
+                "trap"
+            ],
+            "duration": 171293,
+            "acousticness": 0.0576,
+            "danceability": 9.019,
+            "instrumentalness": 0,
+            "liveness": 0.0763,
+            "loudness": -5.777,
+            "speechiness": 0.226,
+            "time_signature": 4,
+            "happiness": 7.066000000000001
+        }
+    },
+    {
+        "#": 88,
+        "Track Title": "If You're Drinkin' - Frank Legeay Remix",
+        "Artist": "Ryan Robinette, Frank Legeay",
+        "Key": "4B",
+        "Energy": 8.191,
+        "Popularity": 3.61,
+        "BPM": 76,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2kWpS7UYtmaQOhgo7g3qjm",
+            "explicit": false,
+            "album": "If You're Drinkin' (Frank Legeay Remix)",
+            "release_date": "2020-11-10",
+            "genres": [
+                "country pop"
+            ],
+            "duration": 180200,
+            "acousticness": 0.133,
+            "danceability": 5.689,
+            "instrumentalness": 0,
+            "liveness": 0.105,
+            "loudness": -6.389,
+            "speechiness": 0.0545,
+            "time_signature": 4,
+            "happiness": 3.781
+        }
+    },
+    {
+        "#": 89,
+        "Track Title": "Habits (Stay High) - Hippie Sabotage Remix",
+        "Artist": "Tove Lo, Hippie Sabotage",
+        "Key": "12A",
+        "Energy": 7.174,
+        "Popularity": 6.8500000000000005,
+        "BPM": 121,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Pop",
+            "EDM",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "62N2JSA0jHmSH7Va9t7hIf",
+            "explicit": false,
+            "album": "Queen Of The Clouds",
+            "release_date": "2014-01-01",
+            "genres": [
+                "metropopolis",
+                "pop",
+                "swedish electropop",
+                "swedish pop",
+                "swedish synthpop",
+                "edm",
+                "electronic trap"
+            ],
+            "duration": 258933,
+            "acousticness": 0.00108,
+            "danceability": 7.615,
+            "instrumentalness": 0.874,
+            "liveness": 0.0933,
+            "loudness": -7.562,
+            "speechiness": 0.0366,
+            "time_signature": 4,
+            "happiness": 1.5904
+        }
+    },
+    {
+        "#": 90,
+        "Track Title": "UCLA",
+        "Artist": "RL Grime, 24hrs",
+        "Key": "3B",
+        "Energy": 8.911,
+        "Popularity": 7.12,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "3OaunNUlXXs5e2PXtNAzzG",
+            "explicit": true,
+            "album": "NOVA",
+            "release_date": "2018-07-27",
+            "genres": [
+                "brostep",
+                "edm",
+                "electro house",
+                "electronic trap",
+                "trap soul",
+                "vapor trap"
+            ],
+            "duration": 192000,
+            "acousticness": 0.0742,
+            "danceability": 5.824,
+            "instrumentalness": 0,
+            "liveness": 0.0847,
+            "loudness": -3.019,
+            "speechiness": 0.0621,
+            "time_signature": 4,
+            "happiness": 4.006
+        }
+    },
+    {
+        "#": 91,
+        "Track Title": "Rude Boy",
+        "Artist": "Rihanna",
+        "Key": "1B",
+        "Energy": 7.75,
+        "Popularity": 1.0,
+        "BPM": 87,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2000s",
+            "Pop",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5hlWtrnVUyAze5WkxF9P56",
+            "explicit": true,
+            "album": "Rated R",
+            "release_date": "2009-11-20",
+            "genres": [
+                "barbadian pop",
+                "pop",
+                "urban contemporary"
+            ],
+            "duration": 222920,
+            "acousticness": 0.113,
+            "danceability": 6.066999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.0788,
+            "loudness": -4.496,
+            "speechiness": 0.127,
+            "time_signature": 4,
+            "happiness": 8.308
+        }
+    },
+    {
+        "#": 92,
+        "Track Title": "What I Wasn't Lookin' for - SEGØ Remix",
+        "Artist": "Ryan Robinette, SEGØ",
+        "Key": "2B",
+        "Energy": 7.201,
+        "Popularity": 3.6999999999999997,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "7qgp7DuA61w7Ve351Nag37",
+            "explicit": false,
+            "album": "What I Wasn't Lookin' for (SEGØ Remix)",
+            "release_date": "2020-12-11",
+            "genres": [
+                "country pop"
+            ],
+            "duration": 171789,
+            "acousticness": 0.0201,
+            "danceability": 6.093999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.105,
+            "loudness": -5.512,
+            "speechiness": 0.0359,
+            "time_signature": 4,
+            "happiness": 5.797000000000001
+        }
+    },
+    {
+        "#": 93,
+        "Track Title": "All on Me - PHZES Remix",
+        "Artist": "Sammy Adams, TJ Hickey, PHZES",
+        "Key": "4B",
+        "Energy": 9.541,
+        "Popularity": 3.6999999999999997,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "3xF86TktJM2xl32EleFMDF",
+            "explicit": false,
+            "album": "All on Me (PHZES Remix)",
+            "release_date": "2020-06-12",
+            "genres": [
+                "indie pop rap",
+                "indie pop rap"
+            ],
+            "duration": 181017,
+            "acousticness": 0.00637,
+            "danceability": 6.607,
+            "instrumentalness": 0.00929,
+            "liveness": 0.118,
+            "loudness": -4.429,
+            "speechiness": 0.0366,
+            "time_signature": 4,
+            "happiness": 5.482
+        }
+    },
+    {
+        "#": 94,
+        "Track Title": "Country Club",
+        "Artist": "Daniella",
+        "Key": "1B",
+        "Energy": 7.263999999999999,
+        "Popularity": 1.27,
+        "BPM": 87,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1PXdZOtckU2T5s10Y4HO2r",
+            "explicit": false,
+            "album": "Country Club",
+            "release_date": "2021-01-01",
+            "genres": [],
+            "duration": 202069,
+            "acousticness": 0.404,
+            "danceability": 6.634,
+            "instrumentalness": 0,
+            "liveness": 0.0777,
+            "loudness": -5.04,
+            "speechiness": 0.0679,
+            "time_signature": 4,
+            "happiness": 7.39
+        }
+    },
+    {
+        "#": 95,
+        "Track Title": "Best Friend (feat. Doja Cat)",
+        "Artist": "Saweetie, Doja Cat",
+        "Key": "12B",
+        "Energy": 7.894,
+        "Popularity": 7.66,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "2etHQJxIbV0soyPhelVs9Y",
+            "explicit": true,
+            "album": "Best Friend (feat. Doja Cat)",
+            "release_date": "2021-01-07",
+            "genres": [
+                "cali rap",
+                "trap queen",
+                "dance pop",
+                "pop"
+            ],
+            "duration": 155884,
+            "acousticness": 0.00302,
+            "danceability": 8.559999999999999,
+            "instrumentalness": 3.61e-06,
+            "liveness": 0.0684,
+            "loudness": -4.12,
+            "speechiness": 0.136,
+            "time_signature": 4,
+            "happiness": 4.618
+        }
+    },
+    {
+        "#": 96,
+        "Track Title": "I Don't Belong In This Club",
+        "Artist": "Why Don't We, Macklemore",
+        "Key": "1B",
+        "Energy": 5.8870000000000005,
+        "Popularity": 1.0,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "45ZGEdLxCZvdMX9jWlsAAx",
+            "explicit": false,
+            "album": "I Don't Belong In This Club",
+            "release_date": "2019-03-20",
+            "genres": [
+                "boy band",
+                "pop",
+                "pop rap",
+                "seattle hip hop"
+            ],
+            "duration": 222621,
+            "acousticness": 0.0202,
+            "danceability": 8.173,
+            "instrumentalness": 0,
+            "liveness": 0.0726,
+            "loudness": -5.744,
+            "speechiness": 0.0439,
+            "time_signature": 4,
+            "happiness": 2.476
+        }
+    },
+    {
+        "#": 97,
+        "Track Title": "Come & Get It",
+        "Artist": "Selena Gomez",
+        "Key": "9A",
+        "Energy": 8.047,
+        "Popularity": 1.6300000000000001,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "725u0LTkux5ql7iHD3yDn4",
+            "explicit": false,
+            "album": "Spring Break",
+            "release_date": "2021-03-12",
+            "genres": [
+                "pop",
+                "post-teen pop"
+            ],
+            "duration": 231413,
+            "acousticness": 0.00887,
+            "danceability": 5.968,
+            "instrumentalness": 0.00026,
+            "liveness": 0.0954,
+            "loudness": -4.138,
+            "speechiness": 0.0504,
+            "time_signature": 4,
+            "happiness": 6.175
+        }
+    },
+    {
+        "#": 98,
+        "Track Title": "Sorry Not Sorry",
+        "Artist": "Demi Lovato",
+        "Key": "1A",
+        "Energy": 6.787,
+        "Popularity": 1.18,
+        "BPM": 144,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5CerWTWDRlR113wY6hcehf",
+            "explicit": true,
+            "album": "Spring Break",
+            "release_date": "2021-03-12",
+            "genres": [
+                "pop",
+                "post-teen pop"
+            ],
+            "duration": 203760,
+            "acousticness": 0.0242,
+            "danceability": 7.345,
+            "instrumentalness": 0,
+            "liveness": 0.262,
+            "loudness": -6.929,
+            "speechiness": 0.232,
+            "time_signature": 4,
+            "happiness": 8.956
+        }
+    },
+    {
+        "#": 99,
+        "Track Title": "I Gotta Feeling",
+        "Artist": "Black Eyed Peas",
+        "Key": "8B",
+        "Energy": 8.137,
+        "Popularity": 1.27,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "7DhvCrHzgfZMWFtNNCEapT",
+            "explicit": false,
+            "album": "Spring Break",
+            "release_date": "2021-03-12",
+            "genres": [
+                "dance pop",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 289493,
+            "acousticness": 0.0519,
+            "danceability": 7.714,
+            "instrumentalness": 0,
+            "liveness": 0.421,
+            "loudness": -5.725,
+            "speechiness": 0.0265,
+            "time_signature": 4,
+            "happiness": 6.904
+        }
+    },
+    {
+        "#": 100,
+        "Track Title": "Sun Ain't Kissed",
+        "Artist": "Ryan Robinette, Tana Matz",
+        "Key": "12A",
+        "Energy": 7.5249999999999995,
+        "Popularity": 4.51,
+        "BPM": 148,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2ZLCyR5iRHHfEG6gQ3nYJz",
+            "explicit": false,
+            "album": "Sun Ain't Kissed",
+            "release_date": "2021-05-14",
+            "genres": [
+                "country pop"
+            ],
+            "duration": 161351,
+            "acousticness": 0.112,
+            "danceability": 5.581,
+            "instrumentalness": 0,
+            "liveness": 0.146,
+            "loudness": -5.644,
+            "speechiness": 0.0301,
+            "time_signature": 4,
+            "happiness": 3.007
+        }
+    }
+]

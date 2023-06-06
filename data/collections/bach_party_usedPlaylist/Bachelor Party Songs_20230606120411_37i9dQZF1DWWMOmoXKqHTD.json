@@ -1,0 +1,3020 @@
+[
+    {
+        "#": 1,
+        "Track Title": "STAY (with Justin Bieber)",
+        "Artist": "The Kid LAROI, Justin Bieber",
+        "Key": "3B",
+        "Energy": 7.876,
+        "Popularity": 4.6,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Hip Hop",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5PjdY0CKGZdEuoNab3yDmX",
+            "explicit": true,
+            "album": "F*CK LOVE 3: OVER YOU",
+            "release_date": "2021-07-23",
+            "genres": [
+                "australian hip hop",
+                "canadian pop",
+                "pop"
+            ],
+            "duration": 141806,
+            "acousticness": 0.0383,
+            "danceability": 6.319,
+            "instrumentalness": 0,
+            "liveness": 0.103,
+            "loudness": -5.484,
+            "speechiness": 0.0483,
+            "time_signature": 4,
+            "happiness": 5.302
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "INDUSTRY BABY (feat. Jack Harlow)",
+        "Artist": "Lil Nas X, Jack Harlow",
+        "Key": "5A",
+        "Energy": 7.335999999999999,
+        "Popularity": 8.469999999999999,
+        "BPM": 150,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Pop",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "27NovPIUIRrOZoCHxABJwK",
+            "explicit": true,
+            "album": "INDUSTRY BABY (feat. Jack Harlow)",
+            "release_date": "2021-07-23",
+            "genres": [
+                "lgbtq+ hip hop",
+                "deep underground hip hop",
+                "kentucky hip hop",
+                "pop rap",
+                "rap"
+            ],
+            "duration": 212000,
+            "acousticness": 0.0203,
+            "danceability": 7.624,
+            "instrumentalness": 0,
+            "liveness": 0.0501,
+            "loudness": -7.409,
+            "speechiness": 0.0615,
+            "time_signature": 4,
+            "happiness": 9.046
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "POPSTAR (feat. Drake)",
+        "Artist": "DJ Khaled, Drake",
+        "Key": "7A",
+        "Energy": 6.040000000000001,
+        "Popularity": 7.75,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Hip Hop",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6EDO9iiTtwNv6waLwa1UUq",
+            "explicit": true,
+            "album": "POPSTAR (feat. Drake)",
+            "release_date": "2020-07-17",
+            "genres": [
+                "hip hop",
+                "miami hip hop",
+                "pop rap",
+                "rap",
+                "canadian hip hop",
+                "canadian pop",
+                "hip hop",
+                "rap",
+                "toronto rap"
+            ],
+            "duration": 200221,
+            "acousticness": 0.057,
+            "danceability": 8.2,
+            "instrumentalness": 0,
+            "liveness": 0.134,
+            "loudness": -4.818,
+            "speechiness": 0.261,
+            "time_signature": 4,
+            "happiness": 5.05
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Intentions",
+        "Artist": "Justin Bieber, Quavo",
+        "Key": "11B",
+        "Energy": 5.977,
+        "Popularity": 7.57,
+        "BPM": 148,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Pop",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "364dI1bYnvamSnBJ8JcNzN",
+            "explicit": false,
+            "album": "Intentions",
+            "release_date": "2020-02-07",
+            "genres": [
+                "canadian pop",
+                "pop",
+                "atl hip hop",
+                "melodic rap",
+                "rap",
+                "trap"
+            ],
+            "duration": 212869,
+            "acousticness": 0.317,
+            "danceability": 8.299,
+            "instrumentalness": 0,
+            "liveness": 0.105,
+            "loudness": -6.644,
+            "speechiness": 0.0552,
+            "time_signature": 4,
+            "happiness": 8.74
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Caroline",
+        "Artist": "Aminé",
+        "Key": "7A",
+        "Energy": 4.015000000000001,
+        "Popularity": 7.75,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Pop",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5hTpBe8h35rJ67eAWHQsJx",
+            "explicit": true,
+            "album": "Good For You",
+            "release_date": "2017-07-28",
+            "genres": [
+                "pop rap",
+                "portland hip hop",
+                "rap",
+                "underground hip hop"
+            ],
+            "duration": 209640,
+            "acousticness": 0.17,
+            "danceability": 9.459999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.262,
+            "loudness": -10.179,
+            "speechiness": 0.505,
+            "time_signature": 4,
+            "happiness": 7.3629999999999995
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Death of a Bachelor",
+        "Artist": "Panic! At The Disco",
+        "Key": "8B",
+        "Energy": 5.8420000000000005,
+        "Popularity": 7.3,
+        "BPM": 139,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "1BECwm5qkaBwlbfo4kpYx8",
+            "explicit": false,
+            "album": "Death of a Bachelor",
+            "release_date": "2016-01-15",
+            "genres": [
+                "pop"
+            ],
+            "duration": 203507,
+            "acousticness": 0.0137,
+            "danceability": 5.158,
+            "instrumentalness": 0,
+            "liveness": 0.429,
+            "loudness": -5.527,
+            "speechiness": 0.059,
+            "time_signature": 4,
+            "happiness": 4.6450000000000005
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Turn Down for What",
+        "Artist": "DJ Snake, Lil Jon",
+        "Key": "3A",
+        "Energy": 8.191,
+        "Popularity": 7.57,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop",
+            "EDM",
+            "Dance Remixes",
+            "Pop",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "67awxiNHNyjMXhVgsHuIrs",
+            "explicit": false,
+            "album": "Turn Down for What",
+            "release_date": "2013-12-18",
+            "genres": [
+                "edm",
+                "electronic trap",
+                "pop",
+                "pop dance",
+                "atl hip hop",
+                "crunk",
+                "dance pop",
+                "dirty south rap",
+                "old school atlanta hip hop",
+                "pop rap",
+                "southern hip hop",
+                "trap"
+            ],
+            "duration": 213733,
+            "acousticness": 0.00107,
+            "danceability": 8.361999999999998,
+            "instrumentalness": 0.128,
+            "liveness": 0.057,
+            "loudness": -4.1,
+            "speechiness": 0.156,
+            "time_signature": 4,
+            "happiness": 1.7335
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Party Rock Anthem",
+        "Artist": "LMFAO, Lauren Bennett, GoonRock",
+        "Key": "7A",
+        "Energy": 7.543,
+        "Popularity": 7.39,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "0IkKz2J93C94Ei4BvDop7P",
+            "explicit": false,
+            "album": "Sorry For Party Rocking",
+            "release_date": "2011-01-01",
+            "genres": [
+                "dance pop",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 262173,
+            "acousticness": 0.0189,
+            "danceability": 7.75,
+            "instrumentalness": 0,
+            "liveness": 0.266,
+            "loudness": -4.21,
+            "speechiness": 0.142,
+            "time_signature": 4,
+            "happiness": 4.231
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Friends in Low Places",
+        "Artist": "Brooks Jefferson",
+        "Key": "11B",
+        "Energy": 6.8950000000000005,
+        "Popularity": 6.8500000000000005,
+        "BPM": 108,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "4OMj5QWwvYSUs9O0hsymts",
+            "explicit": false,
+            "album": "Strummin' On Garth",
+            "release_date": "2015-03-13",
+            "genres": [],
+            "duration": 258508,
+            "acousticness": 0.617,
+            "danceability": 5.977,
+            "instrumentalness": 0,
+            "liveness": 0.0825,
+            "loudness": -5.837,
+            "speechiness": 0.0355,
+            "time_signature": 4,
+            "happiness": 6.616
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Chicken Fried",
+        "Artist": "Zac Brown Band",
+        "Key": "2B",
+        "Energy": 7.417,
+        "Popularity": 1.3599999999999999,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3eBnEo9WL34ulBCZlLpUQO",
+            "explicit": false,
+            "album": "The Foundation",
+            "release_date": "2008-11-17",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 238147,
+            "acousticness": 0.645,
+            "danceability": 6.093999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.114,
+            "loudness": -4.25,
+            "speechiness": 0.0418,
+            "time_signature": 4,
+            "happiness": 8.245000000000001
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Gold Digger",
+        "Artist": "Kanye West, Jamie Foxx",
+        "Key": "3A",
+        "Energy": 7.263999999999999,
+        "Popularity": 8.379999999999999,
+        "BPM": 93,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2000s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "1PS1QMdUqOal0ai3Gt7sDQ",
+            "explicit": true,
+            "album": "Late Registration",
+            "release_date": "2005-08-30",
+            "genres": [
+                "chicago rap",
+                "hip hop",
+                "rap",
+                "contemporary r&b",
+                "hip pop",
+                "r&b",
+                "southern hip hop",
+                "trap",
+                "urban contemporary"
+            ],
+            "duration": 207627,
+            "acousticness": 0.0195,
+            "danceability": 6.661,
+            "instrumentalness": 0,
+            "liveness": 0.0554,
+            "loudness": -5.572,
+            "speechiness": 0.348,
+            "time_signature": 4,
+            "happiness": 6.607
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "That's What I Like",
+        "Artist": "Bruno Mars",
+        "Key": "3B",
+        "Energy": 6.040000000000001,
+        "Popularity": 8.74,
+        "BPM": 134,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0KKkJNfGyhkQ5aFogxQAPU",
+            "explicit": false,
+            "album": "24K Magic",
+            "release_date": "2016-11-17",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 206693,
+            "acousticness": 0.013,
+            "danceability": 8.677,
+            "instrumentalness": 0,
+            "liveness": 0.0944,
+            "loudness": -4.961,
+            "speechiness": 0.0406,
+            "time_signature": 4,
+            "happiness": 8.74
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "Can't Feel My Face",
+        "Artist": "The Weeknd",
+        "Key": "11A",
+        "Energy": 7.921,
+        "Popularity": 8.559999999999999,
+        "BPM": 108,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "22VdIZQfgXJea34mQxlt81",
+            "explicit": false,
+            "album": "Beauty Behind The Madness",
+            "release_date": "2015-08-28",
+            "genres": [
+                "canadian contemporary r&b",
+                "canadian pop",
+                "pop"
+            ],
+            "duration": 213520,
+            "acousticness": 0.113,
+            "danceability": 7.345,
+            "instrumentalness": 0,
+            "liveness": 0.105,
+            "loudness": -5.526,
+            "speechiness": 0.0425,
+            "time_signature": 4,
+            "happiness": 6.247
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "God's Plan",
+        "Artist": "Drake",
+        "Key": "9B",
+        "Energy": 5.041,
+        "Popularity": 8.83,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Pop",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "6DCZcSspjsKoFjzjrWoCdn",
+            "explicit": true,
+            "album": "Scorpion",
+            "release_date": "2018-06-29",
+            "genres": [
+                "canadian hip hop",
+                "canadian pop",
+                "hip hop",
+                "rap",
+                "toronto rap"
+            ],
+            "duration": 198973,
+            "acousticness": 0.0332,
+            "danceability": 7.786,
+            "instrumentalness": 8.29e-05,
+            "liveness": 0.552,
+            "loudness": -9.211,
+            "speechiness": 0.109,
+            "time_signature": 4,
+            "happiness": 4.213
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
+        "Artist": "Jack Harlow, Tory Lanez, DaBaby, Lil Wayne",
+        "Key": "1A",
+        "Energy": 7.507,
+        "Popularity": 7.75,
+        "BPM": 145,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Pop",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2MbdDtCv5LUVjYy9RuGTgC",
+            "explicit": true,
+            "album": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
+            "release_date": "2020-06-24",
+            "genres": [
+                "deep underground hip hop",
+                "kentucky hip hop",
+                "pop rap",
+                "rap",
+                "canadian hip hop",
+                "canadian trap",
+                "melodic rap",
+                "r&b",
+                "rap",
+                "toronto rap",
+                "trap",
+                "hip hop",
+                "north carolina hip hop",
+                "rap",
+                "hip hop",
+                "new orleans rap",
+                "pop rap",
+                "rap",
+                "trap"
+            ],
+            "duration": 227478,
+            "acousticness": 0.0631,
+            "danceability": 9.136000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.185,
+            "loudness": -5.224,
+            "speechiness": 0.26,
+            "time_signature": 4,
+            "happiness": 8.515
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "I Believe in a Thing Called Love",
+        "Artist": "The Darkness",
+        "Key": "12B",
+        "Energy": 8.614,
+        "Popularity": 7.4799999999999995,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2000s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "756CJtQRFSxEx9jV4P9hpA",
+            "explicit": false,
+            "album": "Permission to Land",
+            "release_date": "2003-07-07",
+            "genres": [
+                "glam metal",
+                "hard rock"
+            ],
+            "duration": 217653,
+            "acousticness": 0.0538,
+            "danceability": 4.978,
+            "instrumentalness": 4.71e-06,
+            "liveness": 0.282,
+            "loudness": -5.214,
+            "speechiness": 0.0764,
+            "time_signature": 4,
+            "happiness": 6.598
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "Circles",
+        "Artist": "Post Malone",
+        "Key": "8B",
+        "Energy": 7.8580000000000005,
+        "Popularity": 8.92,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "21jGcNKet2qwijlDFuPiPb",
+            "explicit": false,
+            "album": "Hollywood's Bleeding",
+            "release_date": "2019-09-06",
+            "genres": [
+                "dfw rap",
+                "melodic rap",
+                "pop",
+                "rap"
+            ],
+            "duration": 215280,
+            "acousticness": 0.192,
+            "danceability": 7.255,
+            "instrumentalness": 0.00244,
+            "liveness": 0.0863,
+            "loudness": -3.497,
+            "speechiness": 0.0395,
+            "time_signature": 4,
+            "happiness": 5.977
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "Dirt Road Anthem",
+        "Artist": "Jason Aldean",
+        "Key": "10B",
+        "Energy": 7.669,
+        "Popularity": 7.84,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2qYsSHsYkihWx043HVJQRV",
+            "explicit": false,
+            "album": "My Kinda Party",
+            "release_date": "2010-11-02",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 229400,
+            "acousticness": 0.347,
+            "danceability": 7.12,
+            "instrumentalness": 1.87e-06,
+            "liveness": 0.117,
+            "loudness": -5.055,
+            "speechiness": 0.0357,
+            "time_signature": 4,
+            "happiness": 6.715
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Where the Party At (feat. Nelly)",
+        "Artist": "Jagged Edge, Nelly",
+        "Key": "7A",
+        "Energy": 6.949,
+        "Popularity": 7.12,
+        "BPM": 129,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2000s",
+            "Hip Hop",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5mNV8Mz59bzyuQ53gTw0c0",
+            "explicit": false,
+            "album": "Jagged Little Thrill",
+            "release_date": "2001-07-03",
+            "genres": [
+                "atl hip hop",
+                "contemporary r&b",
+                "r&b",
+                "urban contemporary",
+                "dance pop",
+                "gangster rap",
+                "hip hop",
+                "pop rap",
+                "rap",
+                "st louis rap",
+                "urban contemporary"
+            ],
+            "duration": 232573,
+            "acousticness": 0.31,
+            "danceability": 6.364,
+            "instrumentalness": 0,
+            "liveness": 0.0847,
+            "loudness": -6.239,
+            "speechiness": 0.226,
+            "time_signature": 5,
+            "happiness": 8.74
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "Can't Hold Us (feat. Ray Dalton)",
+        "Artist": "Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Ray Dalton",
+        "Key": "10B",
+        "Energy": 9.298,
+        "Popularity": 8.559999999999999,
+        "BPM": 146,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3bidbhpOYeV4knp8AIu8Xn",
+            "explicit": false,
+            "album": "The Heist",
+            "release_date": "2012-10-09",
+            "genres": [
+                "pop rap",
+                "seattle hip hop",
+                "pop rap",
+                "seattle hip hop",
+                "pop rap"
+            ],
+            "duration": 258343,
+            "acousticness": 0.0291,
+            "danceability": 6.769,
+            "instrumentalness": 0,
+            "liveness": 0.0862,
+            "loudness": -4.457,
+            "speechiness": 0.0786,
+            "time_signature": 4,
+            "happiness": 8.623
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "High Hopes",
+        "Artist": "Panic! At The Disco",
+        "Key": "7B",
+        "Energy": 9.136000000000001,
+        "Popularity": 8.469999999999999,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1rqqCSm0Qe4I9rUvWncaom",
+            "explicit": false,
+            "album": "Pray for the Wicked",
+            "release_date": "2018-06-22",
+            "genres": [
+                "pop"
+            ],
+            "duration": 190947,
+            "acousticness": 0.193,
+            "danceability": 6.210999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.064,
+            "loudness": -2.729,
+            "speechiness": 0.0618,
+            "time_signature": 4,
+            "happiness": 7.1290000000000004
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "Peaches (feat. Daniel Caesar & Giveon)",
+        "Artist": "Justin Bieber, Daniel Caesar, Giveon",
+        "Key": "8B",
+        "Energy": 7.263999999999999,
+        "Popularity": 8.559999999999999,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Pop",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "4iJyoBOLtHqaGxP12qzhQI",
+            "explicit": true,
+            "album": "Justice",
+            "release_date": "2021-03-19",
+            "genres": [
+                "canadian pop",
+                "pop",
+                "canadian contemporary r&b",
+                "r&b"
+            ],
+            "duration": 198082,
+            "acousticness": 0.321,
+            "danceability": 7.093,
+            "instrumentalness": 0,
+            "liveness": 0.42,
+            "loudness": -6.181,
+            "speechiness": 0.119,
+            "time_signature": 4,
+            "happiness": 5.176
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "I Don't Fuck With You",
+        "Artist": "Big Sean, E-40",
+        "Key": "3B",
+        "Energy": 7.5969999999999995,
+        "Popularity": 7.84,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "7FYH5AW3bVfZHJIQpq3UOA",
+            "explicit": true,
+            "album": "Dark Sky Paradise",
+            "release_date": "2015-02-24",
+            "genres": [
+                "detroit hip hop",
+                "hip hop",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap",
+                "cali rap",
+                "gangster rap",
+                "hyphy",
+                "oakland hip hop",
+                "west coast rap"
+            ],
+            "duration": 284387,
+            "acousticness": 0.0362,
+            "danceability": 8.416,
+            "instrumentalness": 0,
+            "liveness": 0.325,
+            "loudness": -5.474,
+            "speechiness": 0.0613,
+            "time_signature": 4,
+            "happiness": 4.555
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "Hey Look Ma, I Made It",
+        "Artist": "Panic! At The Disco",
+        "Key": "7B",
+        "Energy": 8.497,
+        "Popularity": 7.209999999999999,
+        "BPM": 108,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "22oEJW6r2rMb9z4IntfyEa",
+            "explicit": false,
+            "album": "Pray for the Wicked",
+            "release_date": "2018-06-22",
+            "genres": [
+                "pop"
+            ],
+            "duration": 169667,
+            "acousticness": 0.0137,
+            "danceability": 6.193,
+            "instrumentalness": 0,
+            "liveness": 0.121,
+            "loudness": -3.337,
+            "speechiness": 0.0695,
+            "time_signature": 4,
+            "happiness": 6.22
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "My House",
+        "Artist": "Flo Rida",
+        "Key": "9A",
+        "Energy": 7.318,
+        "Popularity": 8.11,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6Knv6wdA0luoMUuuoYi2i1",
+            "explicit": false,
+            "album": "My House",
+            "release_date": "2015-04-07",
+            "genres": [
+                "dance pop",
+                "miami hip hop",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 192191,
+            "acousticness": 0.0215,
+            "danceability": 7.191999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.128,
+            "loudness": -4.792,
+            "speechiness": 0.0499,
+            "time_signature": 4,
+            "happiness": 7.66
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",
+        "Artist": "DJ Khaled",
+        "Key": "6B",
+        "Energy": 8.029,
+        "Popularity": 7.39,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "12PNcnMsjsZ3eHm62t8hiy",
+            "explicit": true,
+            "album": "Victory",
+            "release_date": "2010-03-02",
+            "genres": [
+                "hip hop",
+                "miami hip hop",
+                "pop rap",
+                "rap"
+            ],
+            "duration": 232507,
+            "acousticness": 0.0139,
+            "danceability": 5.905,
+            "instrumentalness": 0,
+            "liveness": 0.161,
+            "loudness": -3.616,
+            "speechiness": 0.185,
+            "time_signature": 4,
+            "happiness": 3.4930000000000003
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "iSpy (feat. Lil Yachty)",
+        "Artist": "KYLE, Lil Yachty",
+        "Key": "8B",
+        "Energy": 6.886,
+        "Popularity": 6.94,
+        "BPM": 150,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Pop",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6xbraxG0bSBOuAr5IUXmtM",
+            "explicit": true,
+            "album": "Light of Mine",
+            "release_date": "2018-05-18",
+            "genres": [
+                "deep underground hip hop",
+                "indie pop rap",
+                "pop rap",
+                "viral trap",
+                "atl hip hop",
+                "melodic rap",
+                "rap",
+                "trap"
+            ],
+            "duration": 252240,
+            "acousticness": 0.384,
+            "danceability": 7.507,
+            "instrumentalness": 0,
+            "liveness": 0.384,
+            "loudness": -6.82,
+            "speechiness": 0.298,
+            "time_signature": 4,
+            "happiness": 7.075
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "Ni**as In Paris",
+        "Artist": "JAY-Z, Kanye West",
+        "Key": "3B",
+        "Energy": 8.731,
+        "Popularity": 4.87,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2Zb7wnGUnNPCas2E0wWSQ5",
+            "explicit": true,
+            "album": "Watch The Throne (Deluxe)",
+            "release_date": "2011-08-08",
+            "genres": [
+                "east coast hip hop",
+                "gangster rap",
+                "hip hop",
+                "pop rap",
+                "rap",
+                "chicago rap",
+                "hip hop",
+                "rap"
+            ],
+            "duration": 219333,
+            "acousticness": 0.127,
+            "danceability": 8.092,
+            "instrumentalness": 0,
+            "liveness": 0.348,
+            "loudness": -5.542,
+            "speechiness": 0.315,
+            "time_signature": 4,
+            "happiness": 7.921
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "Trap Queen",
+        "Artist": "Fetty Wap",
+        "Key": "9B",
+        "Energy": 8.857,
+        "Popularity": 7.84,
+        "BPM": 148,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Pop",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2d8JP84HNLKhmd6IYOoupQ",
+            "explicit": true,
+            "album": "Fetty Wap (Deluxe)",
+            "release_date": "2015-09-25",
+            "genres": [
+                "new jersey rap",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap"
+            ],
+            "duration": 222093,
+            "acousticness": 0.0244,
+            "danceability": 7.714,
+            "instrumentalness": 0,
+            "liveness": 0.354,
+            "loudness": -3.803,
+            "speechiness": 0.128,
+            "time_signature": 4,
+            "happiness": 8.353
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Gin And Juice (feat. Dat Nigga Daz)",
+        "Artist": "Snoop Dogg, Daz Dillinger",
+        "Key": "9B",
+        "Energy": 8.605,
+        "Popularity": 1.0,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "90s",
+            "Hip Hop",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5vWZtlWxxmOlpbDUZgA9Ig",
+            "explicit": false,
+            "album": "Doggystyle",
+            "release_date": "1993",
+            "genres": [
+                "g funk",
+                "gangster rap",
+                "hip hop",
+                "pop rap",
+                "rap",
+                "west coast rap",
+                "g funk",
+                "west coast rap"
+            ],
+            "duration": 211493,
+            "acousticness": 0.0287,
+            "danceability": 5.941000000000001,
+            "instrumentalness": 0.000492,
+            "liveness": 0.67,
+            "loudness": -4.279,
+            "speechiness": 0.2,
+            "time_signature": 4,
+            "happiness": 4.159
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "Big Pimpin'",
+        "Artist": "JAY-Z, UGK",
+        "Key": "1A",
+        "Energy": 8.344,
+        "Popularity": 1.0,
+        "BPM": 138,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "90s",
+            "Hip Hop",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "22uZ8sPzkovoQG4Cu39Pqe",
+            "explicit": true,
+            "album": "Vol. 3... Life And Times Of S. Carter",
+            "release_date": "1999-12-28",
+            "genres": [
+                "east coast hip hop",
+                "gangster rap",
+                "hip hop",
+                "pop rap",
+                "rap",
+                "dirty south rap"
+            ],
+            "duration": 284640,
+            "acousticness": 0.192,
+            "danceability": 8.92,
+            "instrumentalness": 0.00309,
+            "liveness": 0.0406,
+            "loudness": -6.269,
+            "speechiness": 0.158,
+            "time_signature": 4,
+            "happiness": 9.226
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "I'm Upset",
+        "Artist": "Drake",
+        "Key": "1A",
+        "Energy": 6.2829999999999995,
+        "Popularity": 1.0,
+        "BPM": 150,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Pop",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "1iSZPndzmY6NvL1jAtIvY1",
+            "explicit": true,
+            "album": "Scorpion",
+            "release_date": "2018-06-29",
+            "genres": [
+                "canadian hip hop",
+                "canadian pop",
+                "hip hop",
+                "rap",
+                "toronto rap"
+            ],
+            "duration": 214467,
+            "acousticness": 0.279,
+            "danceability": 9.091000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.0835,
+            "loudness": -7.866,
+            "speechiness": 0.338,
+            "time_signature": 4,
+            "happiness": 5.41
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "Rollout (My Business)",
+        "Artist": "Ludacris",
+        "Key": "9B",
+        "Energy": 7.0120000000000005,
+        "Popularity": 6.76,
+        "BPM": 131,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2000s",
+            "Hip Hop",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4SyadrABZJIjeND1HPJS31",
+            "explicit": true,
+            "album": "Word Of Mouf",
+            "release_date": "2001-01-01",
+            "genres": [
+                "atl hip hop",
+                "dance pop",
+                "dirty south rap",
+                "hip hop",
+                "old school atlanta hip hop",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap"
+            ],
+            "duration": 296587,
+            "acousticness": 0.0949,
+            "danceability": 9.289,
+            "instrumentalness": 0,
+            "liveness": 0.592,
+            "loudness": -8.73,
+            "speechiness": 0.235,
+            "time_signature": 4,
+            "happiness": 9.028
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "Everyday",
+        "Artist": "Logic, Marshmello",
+        "Key": "3B",
+        "Energy": 7.669,
+        "Popularity": 7.209999999999999,
+        "BPM": 150,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop",
+            "Pop",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "4EAV2cKiqKP5UPZmY6dejk",
+            "explicit": true,
+            "album": "Bobby Tarantino II",
+            "release_date": "2018-03-09",
+            "genres": [
+                "conscious hip hop",
+                "dmv rap",
+                "hip hop",
+                "pop rap",
+                "rap",
+                "brostep",
+                "edm",
+                "pop",
+                "progressive electro house"
+            ],
+            "duration": 204747,
+            "acousticness": 0.0425,
+            "danceability": 7.003,
+            "instrumentalness": 0,
+            "liveness": 0.0761,
+            "loudness": -4.099,
+            "speechiness": 0.0378,
+            "time_signature": 4,
+            "happiness": 4.798
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "I Get the Bag (feat. Migos)",
+        "Artist": "Gucci Mane, Migos",
+        "Key": "1B",
+        "Energy": 6.697,
+        "Popularity": 7.57,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "1XRgIKC5TPwo7nWGyKqgG0",
+            "explicit": true,
+            "album": "Mr. Davis",
+            "release_date": "2017-10-13",
+            "genres": [
+                "atl hip hop",
+                "dirty south rap",
+                "hip hop",
+                "rap",
+                "southern hip hop",
+                "trap",
+                "atl hip hop",
+                "hip hop",
+                "rap",
+                "trap"
+            ],
+            "duration": 233087,
+            "acousticness": 0.0232,
+            "danceability": 9.01,
+            "instrumentalness": 0.000343,
+            "liveness": 0.0993,
+            "loudness": -5.475,
+            "speechiness": 0.168,
+            "time_signature": 4,
+            "happiness": 4.824999999999999
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "Both (feat. Drake)",
+        "Artist": "Gucci Mane, Drake",
+        "Key": "9A",
+        "Energy": 4.6450000000000005,
+        "Popularity": 7.3,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5tFep7dXGd7vEJ668wTPux",
+            "explicit": true,
+            "album": "The Return of East Atlanta Santa",
+            "release_date": "2016-12-16",
+            "genres": [
+                "atl hip hop",
+                "dirty south rap",
+                "hip hop",
+                "rap",
+                "southern hip hop",
+                "trap",
+                "canadian hip hop",
+                "canadian pop",
+                "hip hop",
+                "rap",
+                "toronto rap"
+            ],
+            "duration": 190312,
+            "acousticness": 0.119,
+            "danceability": 8.649999999999999,
+            "instrumentalness": 0.000118,
+            "liveness": 0.0707,
+            "loudness": -7.509,
+            "speechiness": 0.225,
+            "time_signature": 4,
+            "happiness": 4.096
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "rockstar (feat. 21 Savage)",
+        "Artist": "Post Malone, 21 Savage",
+        "Key": "7A",
+        "Energy": 5.68,
+        "Popularity": 8.74,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "0e7ipj03S05BNilyu5bRzt",
+            "explicit": true,
+            "album": "beerbongs & bentleys",
+            "release_date": "2018-04-27",
+            "genres": [
+                "dfw rap",
+                "melodic rap",
+                "pop",
+                "rap",
+                "atl hip hop",
+                "hip hop",
+                "rap",
+                "trap"
+            ],
+            "duration": 218147,
+            "acousticness": 0.124,
+            "danceability": 6.265,
+            "instrumentalness": 7.01e-05,
+            "liveness": 0.131,
+            "loudness": -6.136,
+            "speechiness": 0.0712,
+            "time_signature": 4,
+            "happiness": 2.161
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "Sabotage",
+        "Artist": "Beastie Boys",
+        "Key": "2A",
+        "Energy": 9.442,
+        "Popularity": 7.93,
+        "BPM": 84,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "90s",
+            "Hip Hop",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "0Puj4YlTm6xNzDDADXHMI9",
+            "explicit": true,
+            "album": "Ill Communication",
+            "release_date": "1994-05-23",
+            "genres": [
+                "alternative rock",
+                "east coast hip hop",
+                "golden age hip hop",
+                "hip hop",
+                "old school hip hop",
+                "rap",
+                "rap rock",
+                "rock"
+            ],
+            "duration": 178440,
+            "acousticness": 0.032,
+            "danceability": 3.916,
+            "instrumentalness": 0.0321,
+            "liveness": 0.0961,
+            "loudness": -7.332,
+            "speechiness": 0.102,
+            "time_signature": 4,
+            "happiness": 5.8870000000000005
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "Brass Monkey",
+        "Artist": "Beastie Boys",
+        "Key": "2A",
+        "Energy": 6.274,
+        "Popularity": 7.12,
+        "BPM": 116,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "80s",
+            "Hip Hop",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "2tY1gxCKslfXLFpFofYmJQ",
+            "explicit": false,
+            "album": "Licensed To Ill",
+            "release_date": "1986-11-15",
+            "genres": [
+                "alternative rock",
+                "east coast hip hop",
+                "golden age hip hop",
+                "hip hop",
+                "old school hip hop",
+                "rap",
+                "rap rock",
+                "rock"
+            ],
+            "duration": 157440,
+            "acousticness": 0.00203,
+            "danceability": 9.226,
+            "instrumentalness": 1.58e-06,
+            "liveness": 0.0992,
+            "loudness": -8.435,
+            "speechiness": 0.33,
+            "time_signature": 4,
+            "happiness": 6.8950000000000005
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "Young, Wild & Free (feat. Bruno Mars)",
+        "Artist": "Snoop Dogg, Wiz Khalifa, Bruno Mars",
+        "Key": "8B",
+        "Energy": 6.868,
+        "Popularity": 7.3,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "6YbhspuOar1D9WSSnfe7ds",
+            "explicit": false,
+            "album": "Mac and Devin Go to High School (Music from and Inspired by the Movie)",
+            "release_date": "2011-12-12",
+            "genres": [
+                "g funk",
+                "gangster rap",
+                "hip hop",
+                "pop rap",
+                "rap",
+                "west coast rap",
+                "hip hop",
+                "pittsburgh rap",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap",
+                "dance pop",
+                "pop"
+            ],
+            "duration": 207347,
+            "acousticness": 0.0897,
+            "danceability": 5.977,
+            "instrumentalness": 0,
+            "liveness": 0.111,
+            "loudness": -6.685,
+            "speechiness": 0.206,
+            "time_signature": 4,
+            "happiness": 5.9590000000000005
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "Weekend (feat. Miguel)",
+        "Artist": "Mac Miller, Miguel",
+        "Key": "4B",
+        "Energy": 4.915,
+        "Popularity": 8.11,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "6GnhWMhgJb7uyiiPEiEkDA",
+            "explicit": true,
+            "album": "GO:OD AM",
+            "release_date": "2015-09-18",
+            "genres": [
+                "hip hop",
+                "pittsburgh rap",
+                "rap",
+                "r&b"
+            ],
+            "duration": 208080,
+            "acousticness": 0.47,
+            "danceability": 8.587,
+            "instrumentalness": 0,
+            "liveness": 0.147,
+            "loudness": -8.442,
+            "speechiness": 0.178,
+            "time_signature": 4,
+            "happiness": 2.71
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "DNA.",
+        "Artist": "Kendrick Lamar",
+        "Key": "3B",
+        "Energy": 5.707,
+        "Popularity": 8.379999999999999,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "6HZILIRieu8S0iqY8kIKhj",
+            "explicit": true,
+            "album": "DAMN.",
+            "release_date": "2017-04-14",
+            "genres": [
+                "conscious hip hop",
+                "hip hop",
+                "rap",
+                "west coast rap"
+            ],
+            "duration": 185947,
+            "acousticness": 0.00454,
+            "danceability": 6.742,
+            "instrumentalness": 0,
+            "liveness": 0.0842,
+            "loudness": -6.664,
+            "speechiness": 0.357,
+            "time_signature": 4,
+            "happiness": 4.798
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "I Got 5 On It",
+        "Artist": "Luniz",
+        "Key": "6A",
+        "Energy": 7.228,
+        "Popularity": 6.49,
+        "BPM": 87,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "7vfvZp6KZJpxiaW6rI9ieM",
+            "explicit": true,
+            "album": "Yukmouth Presents: 420",
+            "release_date": "2010-04-20",
+            "genres": [
+                "g funk",
+                "oakland hip hop",
+                "west coast rap"
+            ],
+            "duration": 253533,
+            "acousticness": 0.193,
+            "danceability": 6.247,
+            "instrumentalness": 0,
+            "liveness": 0.121,
+            "loudness": -7.932,
+            "speechiness": 0.362,
+            "time_signature": 4,
+            "happiness": 6.3549999999999995
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "Ghetto Supastar (That is What You Are) (feat. Ol' Dirty Bastard & Mýa)",
+        "Artist": "Pras, Ol' Dirty Bastard, Mýa",
+        "Key": "3B",
+        "Energy": 6.877000000000001,
+        "Popularity": 7.3,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "90s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "31bf9SEOppLU6lQ85d8om6",
+            "explicit": false,
+            "album": "Ghetto Supastar",
+            "release_date": "1998-10-03",
+            "genres": [
+                "new jersey rap",
+                "east coast hip hop",
+                "hardcore hip hop",
+                "hip hop",
+                "contemporary r&b",
+                "hip pop",
+                "r&b",
+                "urban contemporary"
+            ],
+            "duration": 261133,
+            "acousticness": 0.0335,
+            "danceability": 8.361999999999998,
+            "instrumentalness": 5.46e-06,
+            "liveness": 0.22,
+            "loudness": -8.396,
+            "speechiness": 0.204,
+            "time_signature": 4,
+            "happiness": 5.797000000000001
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "What Do You Mean?",
+        "Artist": "Justin Bieber",
+        "Key": "7A",
+        "Energy": 6.138999999999999,
+        "Popularity": 1.0,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6nRwc5GgNvBMkKaynhQzrm",
+            "explicit": false,
+            "album": "What Do You Mean?",
+            "release_date": "2015-08-28",
+            "genres": [
+                "canadian pop",
+                "pop"
+            ],
+            "duration": 207547,
+            "acousticness": 0.65,
+            "danceability": 8.568999999999999,
+            "instrumentalness": 0.00033,
+            "liveness": 0.0895,
+            "loudness": -8.066,
+            "speechiness": 0.102,
+            "time_signature": 4,
+            "happiness": 7.948
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "Pretty Fly (For A White Guy)",
+        "Artist": "The Offspring",
+        "Key": "1A",
+        "Energy": 9.055,
+        "Popularity": 1.0,
+        "BPM": 143,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "90s",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "51T1wGHtx6hXW89UCzw1Rc",
+            "explicit": false,
+            "album": "Americana",
+            "release_date": "1998-11-16",
+            "genres": [
+                "alternative metal",
+                "permanent wave",
+                "post-grunge",
+                "punk",
+                "rock",
+                "skate punk",
+                "socal pop punk"
+            ],
+            "duration": 188667,
+            "acousticness": 0.101,
+            "danceability": 7.497999999999999,
+            "instrumentalness": 1.27e-06,
+            "liveness": 0.0695,
+            "loudness": -3.684,
+            "speechiness": 0.118,
+            "time_signature": 4,
+            "happiness": 9.667
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "Crazy Train",
+        "Artist": "Ozzy Osbourne",
+        "Key": "11B",
+        "Energy": 9.145,
+        "Popularity": 1.09,
+        "BPM": 138,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "80s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "2b9lp5A6CqSzwOrBfAFhof",
+            "explicit": false,
+            "album": "Blizzard of Ozz (Expanded Edition)",
+            "release_date": "1980-09-20",
+            "genres": [
+                "album rock",
+                "alternative metal",
+                "birmingham metal",
+                "classic rock",
+                "glam metal",
+                "hard rock",
+                "metal",
+                "nu metal",
+                "rock"
+            ],
+            "duration": 296200,
+            "acousticness": 0.36,
+            "danceability": 5.077,
+            "instrumentalness": 0.000569,
+            "liveness": 0.26,
+            "loudness": -4.001,
+            "speechiness": 0.115,
+            "time_signature": 4,
+            "happiness": 5.266
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "APESHIT",
+        "Artist": "The Carters",
+        "Key": "10B",
+        "Energy": 8.056000000000001,
+        "Popularity": 6.49,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "0E6PsO3ymCfUh7pJQjBgkj",
+            "explicit": true,
+            "album": "EVERYTHING IS LOVE",
+            "release_date": "2018-06-16",
+            "genres": [
+                "r&b"
+            ],
+            "duration": 264853,
+            "acousticness": 0.0133,
+            "danceability": 7.345,
+            "instrumentalness": 0,
+            "liveness": 0.168,
+            "loudness": -6.477,
+            "speechiness": 0.271,
+            "time_signature": 4,
+            "happiness": 4.393
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "goosebumps",
+        "Artist": "Travis Scott",
+        "Key": "9B",
+        "Energy": 7.552,
+        "Popularity": 8.74,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "6gBFPUFcJLzWGx4lenP6h2",
+            "explicit": true,
+            "album": "Birds In The Trap Sing McKnight",
+            "release_date": "2016-09-16",
+            "genres": [
+                "hip hop",
+                "rap",
+                "slap house"
+            ],
+            "duration": 243837,
+            "acousticness": 0.0847,
+            "danceability": 8.568999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.149,
+            "loudness": -3.37,
+            "speechiness": 0.0484,
+            "time_signature": 4,
+            "happiness": 4.87
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "Say Aah (feat. Fabolous)",
+        "Artist": "Trey Songz, Fabolous",
+        "Key": "3A",
+        "Energy": 8.83,
+        "Popularity": 6.76,
+        "BPM": 93,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2000s",
+            "Hip Hop",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2fQ6sBFWaLv2Gxos4igHLy",
+            "explicit": false,
+            "album": "Ready (Deluxe)",
+            "release_date": "2009-08-31",
+            "genres": [
+                "dance pop",
+                "r&b",
+                "southern hip hop",
+                "trap",
+                "urban contemporary",
+                "gangster rap",
+                "hip hop",
+                "pop rap",
+                "rap",
+                "trap",
+                "urban contemporary"
+            ],
+            "duration": 207547,
+            "acousticness": 0.00453,
+            "danceability": 7.516,
+            "instrumentalness": 0,
+            "liveness": 0.833,
+            "loudness": -3.614,
+            "speechiness": 0.113,
+            "time_signature": 4,
+            "happiness": 8.290000000000001
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "HUMBLE.",
+        "Artist": "Kendrick Lamar",
+        "Key": "3A",
+        "Energy": 6.589,
+        "Popularity": 8.74,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "7KXjTSCq5nL1LoYtL7XAwS",
+            "explicit": true,
+            "album": "DAMN.",
+            "release_date": "2017-04-14",
+            "genres": [
+                "conscious hip hop",
+                "hip hop",
+                "rap",
+                "west coast rap"
+            ],
+            "duration": 177000,
+            "acousticness": 0.000282,
+            "danceability": 9.172,
+            "instrumentalness": 5.39e-05,
+            "liveness": 0.0958,
+            "loudness": -6.638,
+            "speechiness": 0.102,
+            "time_signature": 4,
+            "happiness": 4.789
+        }
+    },
+    {
+        "#": 52,
+        "Track Title": "Congratulations",
+        "Artist": "Post Malone, Quavo",
+        "Key": "2B",
+        "Energy": 8.128,
+        "Popularity": 1.0,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "0TnmrW9L8GSaBMhTtEQtCK",
+            "explicit": true,
+            "album": "Congratulations",
+            "release_date": "2016-11-04",
+            "genres": [
+                "dfw rap",
+                "melodic rap",
+                "pop",
+                "rap",
+                "atl hip hop",
+                "melodic rap",
+                "rap",
+                "trap"
+            ],
+            "duration": 220320,
+            "acousticness": 0.198,
+            "danceability": 6.652,
+            "instrumentalness": 0,
+            "liveness": 0.261,
+            "loudness": -4.205,
+            "speechiness": 0.0365,
+            "time_signature": 4,
+            "happiness": 5.473
+        }
+    },
+    {
+        "#": 53,
+        "Track Title": "Redbone",
+        "Artist": "Childish Gambino",
+        "Key": "3B",
+        "Energy": 4.204,
+        "Popularity": 1.0,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "3kxfsdsCpFgN412fpnW85Y",
+            "explicit": true,
+            "album": "\"Awaken, My Love!\"",
+            "release_date": "2016-12-02",
+            "genres": [
+                "atl hip hop",
+                "hip hop",
+                "rap"
+            ],
+            "duration": 326933,
+            "acousticness": 0.172,
+            "danceability": 7.705,
+            "instrumentalness": 0.00943,
+            "liveness": 0.123,
+            "loudness": -10.425,
+            "speechiness": 0.0941,
+            "time_signature": 4,
+            "happiness": 6.463
+        }
+    },
+    {
+        "#": 54,
+        "Track Title": "Panda",
+        "Artist": "Desiigner",
+        "Key": "6A",
+        "Energy": 7.894,
+        "Popularity": 7.39,
+        "BPM": 145,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Pop",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "5YEOzOojehCqxGQCcQiyR4",
+            "explicit": true,
+            "album": "New English",
+            "release_date": "2016-06-26",
+            "genres": [
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap",
+                "viral trap"
+            ],
+            "duration": 246761,
+            "acousticness": 0.028,
+            "danceability": 6.183999999999999,
+            "instrumentalness": 1.68e-06,
+            "liveness": 0.366,
+            "loudness": -4.943,
+            "speechiness": 0.449,
+            "time_signature": 4,
+            "happiness": 3.1239999999999997
+        }
+    },
+    {
+        "#": 55,
+        "Track Title": "Dem Boyz",
+        "Artist": "Boyz N Da Hood",
+        "Key": "3B",
+        "Energy": 6.67,
+        "Popularity": 5.95,
+        "BPM": 79,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2000s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "59xyRqG06dGbTmmJFVFbyQ",
+            "explicit": true,
+            "album": "Boyz N Da Hood",
+            "release_date": "2005-06-21",
+            "genres": [
+                "atl hip hop",
+                "dirty south rap",
+                "southern hip hop"
+            ],
+            "duration": 256800,
+            "acousticness": 0.00161,
+            "danceability": 8.038,
+            "instrumentalness": 0,
+            "liveness": 0.151,
+            "loudness": -5.683,
+            "speechiness": 0.162,
+            "time_signature": 4,
+            "happiness": 3.655
+        }
+    },
+    {
+        "#": 56,
+        "Track Title": "So Fresh, So Clean",
+        "Artist": "Outkast",
+        "Key": "7A",
+        "Energy": 6.76,
+        "Popularity": 7.75,
+        "BPM": 83,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2000s",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6glsMWIMIxQ4BedzLqGVi4",
+            "explicit": true,
+            "album": "Stankonia",
+            "release_date": "2000-10-31",
+            "genres": [
+                "atl hip hop",
+                "dirty south rap",
+                "hip hop",
+                "old school atlanta hip hop",
+                "rap",
+                "southern hip hop"
+            ],
+            "duration": 240027,
+            "acousticness": 0.0281,
+            "danceability": 7.5249999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.099,
+            "loudness": -7.905,
+            "speechiness": 0.332,
+            "time_signature": 3,
+            "happiness": 9.235
+        }
+    },
+    {
+        "#": 57,
+        "Track Title": "Joker And The Thief",
+        "Artist": "Wolfmother",
+        "Key": "8B",
+        "Energy": 8.02,
+        "Popularity": 7.209999999999999,
+        "BPM": 78,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2000s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "7ISL3LO8AWP3fKIXunvqTa",
+            "explicit": false,
+            "album": "Wolfmother",
+            "release_date": "2006-01-01",
+            "genres": [
+                "alternative rock",
+                "australian psych",
+                "garage rock",
+                "modern blues rock",
+                "modern rock",
+                "rock"
+            ],
+            "duration": 280467,
+            "acousticness": 0.0452,
+            "danceability": 3.3760000000000003,
+            "instrumentalness": 0.0222,
+            "liveness": 0.376,
+            "loudness": -2.741,
+            "speechiness": 0.0517,
+            "time_signature": 4,
+            "happiness": 5.104
+        }
+    },
+    {
+        "#": 58,
+        "Track Title": "Slide (feat. Frank Ocean & Migos)",
+        "Artist": "Calvin Harris, Frank Ocean, Migos",
+        "Key": "3A",
+        "Energy": 8.155000000000001,
+        "Popularity": 7.75,
+        "BPM": 104,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop",
+            "EDM",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "6gpcs5eMhJwax4mIfKDYQk",
+            "explicit": true,
+            "album": "Slide (feat. Frank Ocean & Migos)",
+            "release_date": "2017-02-24",
+            "genres": [
+                "dance pop",
+                "edm",
+                "electro house",
+                "house",
+                "pop",
+                "progressive house",
+                "uk dance",
+                "lgbtq+ hip hop",
+                "neo soul",
+                "atl hip hop",
+                "hip hop",
+                "rap",
+                "trap"
+            ],
+            "duration": 230813,
+            "acousticness": 0.498,
+            "danceability": 7.624,
+            "instrumentalness": 1.21e-06,
+            "liveness": 0.254,
+            "loudness": -3.299,
+            "speechiness": 0.0545,
+            "time_signature": 4,
+            "happiness": 5.599
+        }
+    },
+    {
+        "#": 59,
+        "Track Title": "Dirt Off Your Shoulder",
+        "Artist": "JAY-Z",
+        "Key": "3B",
+        "Energy": 6.913,
+        "Popularity": 7.03,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2000s",
+            "Hip Hop",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3IrkbGQCoEPAkzJ0Tkv8nm",
+            "explicit": true,
+            "album": "The Black Album",
+            "release_date": "2003-11-14",
+            "genres": [
+                "east coast hip hop",
+                "gangster rap",
+                "hip hop",
+                "pop rap",
+                "rap"
+            ],
+            "duration": 245173,
+            "acousticness": 0.0321,
+            "danceability": 8.02,
+            "instrumentalness": 2.56e-06,
+            "liveness": 0.339,
+            "loudness": -7.149,
+            "speechiness": 0.317,
+            "time_signature": 4,
+            "happiness": 6.832
+        }
+    },
+    {
+        "#": 60,
+        "Track Title": "South of the Border (feat. Camila Cabello & Cardi B) - Cheat Codes Remix",
+        "Artist": "Ed Sheeran, Cardi B, Camila Cabello, Cheat Codes",
+        "Key": "10A",
+        "Energy": 7.894,
+        "Popularity": 6.94,
+        "BPM": 114,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Pop",
+            "Hip Hop",
+            "Dance Remixes",
+            "EDM",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "19TOAlTFq0NDHvUPQR0tkr",
+            "explicit": false,
+            "album": "South of the Border (feat. Camila Cabello & Cardi B) [Cheat Codes Remix]",
+            "release_date": "2019-09-27",
+            "genres": [
+                "pop",
+                "uk pop",
+                "pop",
+                "rap",
+                "dance pop",
+                "pop",
+                "edm",
+                "pop",
+                "pop dance"
+            ],
+            "duration": 195924,
+            "acousticness": 0.212,
+            "danceability": 8.605,
+            "instrumentalness": 0,
+            "liveness": 0.111,
+            "loudness": -5.727,
+            "speechiness": 0.0658,
+            "time_signature": 4,
+            "happiness": 8.038
+        }
+    },
+    {
+        "#": 61,
+        "Track Title": "High Hopes - Don Diablo Remix",
+        "Artist": "Panic! At The Disco, Don Diablo",
+        "Key": "7B",
+        "Energy": 8.992,
+        "Popularity": 5.95,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "EDM",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "1FlIzyCvRFQUE4pc7PiaIo",
+            "explicit": false,
+            "album": "High Hopes (Don Diablo Remix)",
+            "release_date": "2019-01-11",
+            "genres": [
+                "pop",
+                "dutch house",
+                "edm",
+                "electro house",
+                "future house",
+                "pop dance",
+                "progressive electro house",
+                "progressive house"
+            ],
+            "duration": 185714,
+            "acousticness": 0.0216,
+            "danceability": 6.31,
+            "instrumentalness": 0,
+            "liveness": 0.487,
+            "loudness": -2.851,
+            "speechiness": 0.0765,
+            "time_signature": 4,
+            "happiness": 3.5919999999999996
+        }
+    },
+    {
+        "#": 62,
+        "Track Title": "Don't You Worry Child - Radio Edit",
+        "Artist": "Swedish House Mafia, John Martin",
+        "Key": "1A",
+        "Energy": 8.559999999999999,
+        "Popularity": 8.559999999999999,
+        "BPM": 129,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "EDM",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "2V65y3PX4DkRhy1djlxd9p",
+            "explicit": false,
+            "album": "Don't You Worry Child",
+            "release_date": "2012-09-14",
+            "genres": [
+                "edm",
+                "pop dance",
+                "progressive electro house",
+                "pop edm"
+            ],
+            "duration": 212862,
+            "acousticness": 0.112,
+            "danceability": 6.508,
+            "instrumentalness": 0,
+            "liveness": 0.116,
+            "loudness": -3.145,
+            "speechiness": 0.0509,
+            "time_signature": 4,
+            "happiness": 4.942
+        }
+    },
+    {
+        "#": 63,
+        "Track Title": "Sex on Fire",
+        "Artist": "Kings of Leon",
+        "Key": "11B",
+        "Energy": 9.145,
+        "Popularity": 8.559999999999999,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2000s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "0ntQJM78wzOLVeCUAW7Y45",
+            "explicit": false,
+            "album": "Only By The Night",
+            "release_date": "2008-09-23",
+            "genres": [
+                "modern rock",
+                "rock"
+            ],
+            "duration": 203347,
+            "acousticness": 0.00172,
+            "danceability": 5.878,
+            "instrumentalness": 0.0104,
+            "liveness": 0.136,
+            "loudness": -5.653,
+            "speechiness": 0.054,
+            "time_signature": 4,
+            "happiness": 4.366
+        }
+    },
+    {
+        "#": 64,
+        "Track Title": "Country Girl (Shake It For Me)",
+        "Artist": "Luke Bryan",
+        "Key": "10B",
+        "Energy": 9.136000000000001,
+        "Popularity": 1.09,
+        "BPM": 106,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6aNy9Afzm7Fi6ysMskocBf",
+            "explicit": false,
+            "album": "Tailgates & Tanlines",
+            "release_date": "2011-01-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 225560,
+            "acousticness": 0.0293,
+            "danceability": 6.805,
+            "instrumentalness": 0,
+            "liveness": 0.0834,
+            "loudness": -4.532,
+            "speechiness": 0.0462,
+            "time_signature": 4,
+            "happiness": 7.039000000000001
+        }
+    },
+    {
+        "#": 65,
+        "Track Title": "Low (feat. T-Pain)",
+        "Artist": "Flo Rida, T-Pain",
+        "Key": "6A",
+        "Energy": 6.481,
+        "Popularity": 8.469999999999999,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2000s",
+            "Hip Hop",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "0CAfXk7DXMnon4gLudAp7J",
+            "explicit": false,
+            "album": "Mail on Sunday",
+            "release_date": "2008-03-17",
+            "genres": [
+                "dance pop",
+                "miami hip hop",
+                "pop",
+                "pop rap",
+                "dance pop",
+                "gangster rap",
+                "hip hop",
+                "pop rap",
+                "r&b",
+                "rap",
+                "southern hip hop",
+                "trap",
+                "urban contemporary"
+            ],
+            "duration": 231400,
+            "acousticness": 0.0928,
+            "danceability": 9.262,
+            "instrumentalness": 0,
+            "liveness": 0.139,
+            "loudness": -5.64,
+            "speechiness": 0.0791,
+            "time_signature": 4,
+            "happiness": 3.7359999999999998
+        }
+    },
+    {
+        "#": 66,
+        "Track Title": "It's Going Down For Real",
+        "Artist": "Paul Simpson",
+        "Key": "10A",
+        "Energy": 7.399,
+        "Popularity": 5.140000000000001,
+        "BPM": 73,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "03mdrujTxB56CXdm3ApamU",
+            "explicit": false,
+            "album": "It's Going Down For Real",
+            "release_date": "2015-07-03",
+            "genres": [],
+            "duration": 186194,
+            "acousticness": 0.00399,
+            "danceability": 4.771,
+            "instrumentalness": 0.0393,
+            "liveness": 0.32,
+            "loudness": -5.499,
+            "speechiness": 0.0548,
+            "time_signature": 4,
+            "happiness": 6.247
+        }
+    },
+    {
+        "#": 67,
+        "Track Title": "House Party",
+        "Artist": "Sam Hunt",
+        "Key": "4B",
+        "Energy": 8.748999999999999,
+        "Popularity": 7.66,
+        "BPM": 104,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1TwLKNsCnhi1HxbIi4bAW0",
+            "explicit": false,
+            "album": "Montevallo",
+            "release_date": "2014-10-27",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country pop"
+            ],
+            "duration": 190240,
+            "acousticness": 0.113,
+            "danceability": 7.723,
+            "instrumentalness": 0,
+            "liveness": 0.026,
+            "loudness": -5.251,
+            "speechiness": 0.0514,
+            "time_signature": 4,
+            "happiness": 8.731
+        }
+    },
+    {
+        "#": 68,
+        "Track Title": "Paradise City",
+        "Artist": "Guns N' Roses",
+        "Key": "1B",
+        "Energy": 9.541,
+        "Popularity": 1.0,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "80s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "5Q41NLTmGbVPozwHKK7bk2",
+            "explicit": false,
+            "album": "Appetite For Destruction",
+            "release_date": "1987-07-21",
+            "genres": [
+                "glam metal",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 406307,
+            "acousticness": 0.0214,
+            "danceability": 3.466,
+            "instrumentalness": 0.00778,
+            "liveness": 0.218,
+            "loudness": -8.642,
+            "speechiness": 0.0896,
+            "time_signature": 4,
+            "happiness": 5.473
+        }
+    },
+    {
+        "#": 69,
+        "Track Title": "ROCKSTAR (feat. Roddy Ricch)",
+        "Artist": "DaBaby, Roddy Ricch",
+        "Key": "1B",
+        "Energy": 7.209999999999999,
+        "Popularity": 8.2,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2020s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "7ytR5pFWmSjzHJIeQkgog4",
+            "explicit": true,
+            "album": "BLAME IT ON BABY",
+            "release_date": "2020-04-17",
+            "genres": [
+                "hip hop",
+                "north carolina hip hop",
+                "rap",
+                "melodic rap",
+                "rap",
+                "trap"
+            ],
+            "duration": 181733,
+            "acousticness": 0.247,
+            "danceability": 7.714,
+            "instrumentalness": 0,
+            "liveness": 0.101,
+            "loudness": -7.956,
+            "speechiness": 0.164,
+            "time_signature": 4,
+            "happiness": 5.473
+        }
+    },
+    {
+        "#": 70,
+        "Track Title": "Young Dumb & Broke",
+        "Artist": "Khalid",
+        "Key": "3B",
+        "Energy": 5.851,
+        "Popularity": 8.379999999999999,
+        "BPM": 137,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5Z3GHaZ6ec9bsiI5BenrbY",
+            "explicit": false,
+            "album": "American Teen",
+            "release_date": "2017-04-27",
+            "genres": [
+                "pop",
+                "pop r&b"
+            ],
+            "duration": 202547,
+            "acousticness": 0.199,
+            "danceability": 8.191,
+            "instrumentalness": 1.66e-05,
+            "liveness": 0.165,
+            "loudness": -6.351,
+            "speechiness": 0.0421,
+            "time_signature": 4,
+            "happiness": 4.546
+        }
+    },
+    {
+        "#": 71,
+        "Track Title": "Yes Indeed",
+        "Artist": "Lil Baby, Drake",
+        "Key": "7A",
+        "Energy": 4.114,
+        "Popularity": 8.469999999999999,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6vN77lE9LK6HP2DewaN6HZ",
+            "explicit": true,
+            "album": "Harder Than Ever",
+            "release_date": "2018-05-18",
+            "genres": [
+                "atl hip hop",
+                "atl trap",
+                "rap",
+                "trap",
+                "canadian hip hop",
+                "canadian pop",
+                "hip hop",
+                "rap",
+                "toronto rap"
+            ],
+            "duration": 142273,
+            "acousticness": 0.0355,
+            "danceability": 9.667,
+            "instrumentalness": 0,
+            "liveness": 0.108,
+            "loudness": -9.309,
+            "speechiness": 0.53,
+            "time_signature": 4,
+            "happiness": 6.058000000000001
+        }
+    },
+    {
+        "#": 72,
+        "Track Title": "Some Nights",
+        "Artist": "fun.",
+        "Key": "8B",
+        "Energy": 7.6419999999999995,
+        "Popularity": 7.39,
+        "BPM": 108,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "67WTwafOMgegV6ABnBQxcE",
+            "explicit": true,
+            "album": "Some Nights",
+            "release_date": "2012-02-14",
+            "genres": [
+                "baroque pop",
+                "metropopolis"
+            ],
+            "duration": 277040,
+            "acousticness": 0.0178,
+            "danceability": 7.048,
+            "instrumentalness": 6.75e-05,
+            "liveness": 0.0927,
+            "loudness": -7.045,
+            "speechiness": 0.0506,
+            "time_signature": 4,
+            "happiness": 4.5280000000000005
+        }
+    },
+    {
+        "#": 73,
+        "Track Title": "Girls, Girls, Girls",
+        "Artist": "Mötley Crüe",
+        "Key": "9B",
+        "Energy": 9.379000000000001,
+        "Popularity": 1.18,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "80s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "5xLyTbCFONUGUuG0LtUxjn",
+            "explicit": false,
+            "album": "Girls, Girls, Girls",
+            "release_date": "1987",
+            "genres": [
+                "album rock",
+                "alternative metal",
+                "glam metal",
+                "hard rock",
+                "metal",
+                "rock",
+                "sleaze rock"
+            ],
+            "duration": 270427,
+            "acousticness": 0.0296,
+            "danceability": 6.3999999999999995,
+            "instrumentalness": 7.1e-05,
+            "liveness": 0.392,
+            "loudness": -4.647,
+            "speechiness": 0.0734,
+            "time_signature": 4,
+            "happiness": 5.878
+        }
+    },
+    {
+        "#": 74,
+        "Track Title": "Country Grammar (Hot Shit)",
+        "Artist": "Nelly",
+        "Key": "10B",
+        "Energy": 7.057,
+        "Popularity": 1.0,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2000s",
+            "Hip Hop",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "2Lg4kvhOrPhpGEZmSe7VAN",
+            "explicit": true,
+            "album": "Country Grammar",
+            "release_date": "2000-06-27",
+            "genres": [
+                "dance pop",
+                "gangster rap",
+                "hip hop",
+                "pop rap",
+                "rap",
+                "st louis rap",
+                "urban contemporary"
+            ],
+            "duration": 287000,
+            "acousticness": 0.00802,
+            "danceability": 8.847999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.155,
+            "loudness": -6.879,
+            "speechiness": 0.108,
+            "time_signature": 4,
+            "happiness": 5.743
+        }
+    },
+    {
+        "#": 75,
+        "Track Title": "99 Problems",
+        "Artist": "JAY-Z",
+        "Key": "2A",
+        "Energy": 8.983,
+        "Popularity": 7.209999999999999,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2000s",
+            "Hip Hop",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "7sLpSWxQazJzDVG6YGzlVs",
+            "explicit": true,
+            "album": "The Black Album",
+            "release_date": "2003-11-14",
+            "genres": [
+                "east coast hip hop",
+                "gangster rap",
+                "hip hop",
+                "pop rap",
+                "rap"
+            ],
+            "duration": 234627,
+            "acousticness": 0.00661,
+            "danceability": 5.446,
+            "instrumentalness": 0,
+            "liveness": 0.103,
+            "loudness": -4.297,
+            "speechiness": 0.398,
+            "time_signature": 4,
+            "happiness": 5.932
+        }
+    },
+    {
+        "#": 76,
+        "Track Title": "Suit & Tie (feat. JAY Z) (feat. Jay-Z) - [Radio Edit]",
+        "Artist": "Justin Timberlake, JAY-Z",
+        "Key": "1A",
+        "Energy": 6.499,
+        "Popularity": 6.3999999999999995,
+        "BPM": 102,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Bach Party",
+            "2010s",
+            "Hip Hop",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "4mQVHEjrnuUd7G5IVhSYTk",
+            "explicit": false,
+            "album": "Suit & Tie (feat. JAY Z) (feat. Jay-Z) [Radio Edit]",
+            "release_date": "2013-01-15",
+            "genres": [
+                "dance pop",
+                "pop",
+                "east coast hip hop",
+                "gangster rap",
+                "hip hop",
+                "pop rap",
+                "rap"
+            ],
+            "duration": 269147,
+            "acousticness": 0.0927,
+            "danceability": 8.173,
+            "instrumentalness": 1.37e-06,
+            "liveness": 0.259,
+            "loudness": -4.99,
+            "speechiness": 0.183,
+            "time_signature": 4,
+            "happiness": 4.834
+        }
+    }
+]

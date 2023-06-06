@@ -22,11 +22,15 @@ body {
     padding: 0;
     background-color: #222F3E; /* Dark background, similar to Rekordbox */
     color: #F5F5F7; /* Light text color for better contrast on dark background */
+    overflow: hidden; /* Disable dragging the page by mistake*/
+
+    
 }
 
 html{
     font-size:14px;
 }
+
     
 h1 {
     font-size: 2rem;
@@ -47,16 +51,17 @@ h2 {
     position: relative;
     flex-direction: column;
     align-items: center;
-    width: 30rem;
-    height: 65rem;
+    min-height: 100vh; /* adjust this */
+    max-width: 37rem; /* adjust this */
+    min-width: 27rem !important;
     margin: 0 auto;
     padding: 1rem;
     border-radius: 1.25rem;
     overflow: hidden;
     background: linear-gradient(70deg,  #030547 ,#030545, #03063D 200%);
     background-size: 400%;
-
 }
+
 
 .tooltip {
     display: none;
@@ -73,8 +78,8 @@ h2 {
 /* _______________________ Graph 2d selector ___________________ Start*/
 .graph {
     position: relative;
-    min-width: 18.75rem;
-    max-width: 100%;
+    width: 100%;
+    height: 12rem;
     background-color: #282944;
     border-radius: 0.625rem;
     background: linear-gradient(45deg, #712AC8 ,#C63BFB, #FA74D7);
@@ -86,6 +91,8 @@ canvas {
     width: 100%;
     height: 100%;
 }
+
+
 
 /* _______________________ Song List ___________________ Start*/
 .song-list {
@@ -589,7 +596,6 @@ li:hover {
     position: absolute;
     top: 2.5rem;
     right: -1rem; /* adjust as needed */
-
     right: 3rem;
     z-index: 999;
     transition: transform 0.3s ease-in-out;

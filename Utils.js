@@ -26,23 +26,6 @@ export function showToast(message) {
     }, 3000);
 }
 export async function createSongExamplesFromJson() {
-    // export async function createSongExamplesFromJson() {
-    //     try {
-    //         // let response = await fetch('data/DTRacks All 1200 DTracks.json');
-    //         let response = await fetch('data/parites_by_decates_Spotify_rating-combined.json');
-            
-    //         if (!response.ok) { // Check if response went through
-    //             console.error("HTTP Error Response: " + response.status);
-    //             return;
-    //         }
-    //         let data = await response.json();
-    //         let songExamples = data.map(item => new Song(item['Track Title'], item['Artist'], item['BPM'], item['Key'], item['DJ Play Count'], item['Rating'], item['My Tag'], item['Energy'], item['Popularity']));
-    //         return songExamples;
-    //     } catch (error) {
-    //         console.error("Problem with fetch operation: ", error);
-    //     }
-    // }
-    
     try {
         let manifestResponse = await fetch('data/collections/manifest.json');
         if (!manifestResponse.ok) { 

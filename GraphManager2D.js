@@ -1,15 +1,33 @@
 import songManager from './SongManager.js' 
 export default class GraphManager {
-    constructor(width=400, height=200) {
+    constructor() {
         this.canvas = document.getElementById('musicGraph');
         this.ctx = this.canvas.getContext('2d');
-        this.width = width;
-        this.height = height;
-        this.canvas.width = this.width;
-        this.canvas.height = this.height;
+
+        // Update the canvas dimensions to match its display size
+        this.updateDimensions();
+
         this.canvas.style.pointerEvents = 'auto'; // Enable click events
         this.listOfSongs_UI = document.getElementById('songs');
+
+        // Update the canvas dimensions when the window is resized
+        window.addEventListener('resize', this.updateDimensions.bind(this));
     }
+
+    updateDimensions() {
+        // Get the display size of the canvas in pixels
+        const rect = this.canvas.getBoundingClientRect();
+        this.width = rect.width;
+        this.height = rect.height;
+
+        // Set the actual pixel dimensions of the canvas
+        this.canvas.width = this.width;
+        this.canvas.height = this.height;
+
+        // Redraw the graph to fit the new dimensions
+        this.drawGraph();
+    }
+    
 
     drawGraph() {
         this.ctx.clearRect(0, 0, this.width, this.height);
