@@ -28,19 +28,8 @@ export default class GraphManager {
     }
 
     drawDot(x, y) {
-        // // Draw the white background
-        // this.ctx.beginPath();
-        // this.ctx.arc(x, y, 12, 0, 2 * Math.PI);
-        // this.ctx.fillStyle = '#fff';
-        // this.ctx.fill();
-        
-        // // Draw the colored dot on top
-        // this.ctx.beginPath();
-        // this.ctx.arc(x, y, 10, 0, 2 * Math.PI); // Reduced the radius a bit to create a border effect
-        // this.ctx.fillStyle = '#8639DB';
-        // this.ctx.fill();
 
-            // Draw the white background
+        // Draw the white background
         this.ctx.beginPath();
         this.ctx.arc(x, y, 14, 0, 2 * Math.PI);
         this.ctx.fillStyle = '#fff';

@@ -1,5 +1,5 @@
 export default class Song {
-    constructor(trackTitle, artist, bpm, key, djPlayCount, rating, myTag, energy, popularity) {
+    constructor(trackTitle, artist, bpm, key, djPlayCount, rating, myTag, energy, popularity, additional_info = null) {
         this.trackTitle = trackTitle; 
         this.artist = artist ? artist.replace(/;/g, ' & ') : ''; // Replace ';' with ' & ' if artist is not null
         this.bpm = Math.round(bpm);
@@ -11,6 +11,7 @@ export default class Song {
             return !(/^[EP]\d+/.test(tag.trim()));});
         this.energy = energy;
         this.popularity = popularity;
+        this.additional_info = additional_info
     }
 
     // Add methods as needed

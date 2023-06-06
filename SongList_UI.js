@@ -72,7 +72,8 @@ export default class SongListItemUI {
     
         copyButton.addEventListener('click', () => {
             const tempTextarea = document.createElement('textarea');
-            tempTextarea.value = this.song.trackTitle;
+            // take the title + the first word of the artist field
+            tempTextarea.value = this.song.trackTitle + ' - ' + this.song.artist.split(" ")[0];
             document.body.appendChild(tempTextarea);
             tempTextarea.select();
             document.execCommand('copy');

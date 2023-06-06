@@ -33,12 +33,12 @@ export default class SongManager {
         this.sortingCriteriaDisplay.id = 'sorting-criteria-display';
     
 
-    
         this.songCountDisplay.style.color = 'white'; // Default color
 
 
         this.highlight = document.createElement('div');
         this.highlight.classList.add('highlight');
+        this.highlight.style.transform = 'translateX(102%)';
         
         // Append highlight to the filterSortingSwitchContainer
         this.filterSortingSwitchContainer.appendChild(this.highlight);  

@@ -13,21 +13,25 @@ export default class TagFilter {
                 "Drink Up", "MC Hype", "Inspiring" 
             ],
             'Genres':  [
-                "Dance Remixes", "Tribal", "Rock", "Latin", "Hip Hop", "EDM", "Pop", "Club-Hotel",
+                "Pop", "Dance Remixes", "EDM", "Hip Hop", ,"Rock",  "Latin", "Tribal",  "Club-Hotel",
                 "Psy-Trance", "Israeli - Kibutz", "Mizrahit", "Nostalgic"
             ],
             'Eras': [
                 "60s", "70s", "80s", "90s", "2000s", "2010s", "2020s",
                 
             ],
+            'Collections': [
+                "DTracks", "Sp- Party by Eras", "Sp- Sing-Along", "Sp- Kids Party"
+            ],
             'Extra': [
                 "Girl Power", "Darbuka", "Israel [Loc]", "California [Loc]", 
                 "Morning", "Sunset", "PEGI 16 [Age]", "PEGI 4 [Age]",
             ],
+
         };
         this.twoDSelector = document.getElementById('2dSelector'); // style.display - 'block' or 'none'
         this.songManager = songManager;
-        this.activeTags = ["Happy", "Sing","Flying High", "Sexy"]; // Default active tags
+        this.activeTags = ["Happy"]; // Default active tags
 
 
         this.filterElement = document.getElementById('tags-filtering-div');

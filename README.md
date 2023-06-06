@@ -25,17 +25,3 @@ Find the right song for the right moment, easily! [Try it now!](https://donraz.g
 
 
 
-
-
-[Using it as a DJ, to easily find mixable tracks in different genres with ease!](https://youtu.be/EWGzPlen6UQ)
-
-
-# clone the repository and install the dependencies:
-
-git clone https://github.com/DonRaz/Song-Instant-Selector.git
-
-cd Song-Instant-Selector
-
-npm install
-
-

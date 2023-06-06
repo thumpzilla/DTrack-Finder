@@ -1,0 +1,2130 @@
+[
+    {
+        "#": 1,
+        "Track Title": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+        "Artist": "Four Tops",
+        "Key": "8B",
+        "Energy": 6.391,
+        "Popularity": 7.84,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6b6IMqP565TbtFFZg9iFf3",
+            "explicit": false,
+            "album": "Four Tops Second Album",
+            "release_date": "1965",
+            "genres": [
+                "classic soul",
+                "disco",
+                "motown",
+                "quiet storm",
+                "soul"
+            ],
+            "duration": 160280,
+            "acousticness": 0.245,
+            "danceability": 7.003,
+            "instrumentalness": 0,
+            "liveness": 0.107,
+            "loudness": -8.894,
+            "speechiness": 0.0291,
+            "time_signature": 4,
+            "happiness": 9.738999999999999
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "My Girl",
+        "Artist": "The Temptations",
+        "Key": "8B",
+        "Energy": 4.7620000000000005,
+        "Popularity": 8.379999999999999,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "745H5CctFr12Mo7cqa1BMH",
+            "explicit": false,
+            "album": "The Temptations Sing Smokey",
+            "release_date": "1965-03-22",
+            "genres": [
+                "memphis soul",
+                "motown",
+                "soul"
+            ],
+            "duration": 165000,
+            "acousticness": 0.635,
+            "danceability": 6.148,
+            "instrumentalness": 0,
+            "liveness": 0.0961,
+            "loudness": -10.738,
+            "speechiness": 0.0349,
+            "time_signature": 4,
+            "happiness": 7.2459999999999996
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "You Can't Hurry Love",
+        "Artist": "The Supremes",
+        "Key": "6B",
+        "Energy": 7.399,
+        "Popularity": 7.93,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s"
+        ],
+        "Additional Info": {
+            "id": "1OppEieGNdItZbE14gLBEv",
+            "explicit": false,
+            "album": "The Supremes A' Go-Go (Expanded Edition)",
+            "release_date": "1966-08-25",
+            "genres": [
+                "classic girl group",
+                "disco",
+                "motown",
+                "soul"
+            ],
+            "duration": 167933,
+            "acousticness": 0.299,
+            "danceability": 6.67,
+            "instrumentalness": 0,
+            "liveness": 0.0813,
+            "loudness": -9.34,
+            "speechiness": 0.0472,
+            "time_signature": 4,
+            "happiness": 6.931
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Signed, Sealed, Delivered (I'm Yours)",
+        "Artist": "Stevie Wonder",
+        "Key": "7B",
+        "Energy": 6.372999999999999,
+        "Popularity": 8.11,
+        "BPM": 109,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "70s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2eF8pWbiivYsYRpbntYsnc",
+            "explicit": false,
+            "album": "Signed, Sealed And Delivered",
+            "release_date": "1970-08-07",
+            "genres": [
+                "motown",
+                "soul"
+            ],
+            "duration": 161160,
+            "acousticness": 0.0534,
+            "danceability": 7.075,
+            "instrumentalness": 0,
+            "liveness": 0.0986,
+            "loudness": -11.329,
+            "speechiness": 0.0337,
+            "time_signature": 4,
+            "happiness": 8.452
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "The Tracks Of My Tears",
+        "Artist": "Smokey Robinson & The Miracles",
+        "Key": "9B",
+        "Energy": 3.9970000000000003,
+        "Popularity": 6.94,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6QyQmdvQ1ywNccYa0pwLNQ",
+            "explicit": false,
+            "album": "Going To A Go-Go",
+            "release_date": "1965-11-01",
+            "genres": [
+                "classic soul",
+                "motown",
+                "quiet storm",
+                "soul"
+            ],
+            "duration": 174360,
+            "acousticness": 0.699,
+            "danceability": 5.518,
+            "instrumentalness": 0,
+            "liveness": 0.222,
+            "loudness": -10.914,
+            "speechiness": 0.0264,
+            "time_signature": 4,
+            "happiness": 7.561
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Dancing In The Street",
+        "Artist": "Martha Reeves & The Vandellas",
+        "Key": "10B",
+        "Energy": 6.13,
+        "Popularity": 7.12,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s"
+        ],
+        "Additional Info": {
+            "id": "6rLqjzGV5VMLDWEnuUqi8q",
+            "explicit": false,
+            "album": "Dance Party",
+            "release_date": "1965-01-01",
+            "genres": [
+                "classic girl group",
+                "classic soul",
+                "motown",
+                "soul"
+            ],
+            "duration": 165227,
+            "acousticness": 0.0118,
+            "danceability": 6.0040000000000004,
+            "instrumentalness": 0.000526,
+            "liveness": 0.198,
+            "loudness": -9.472,
+            "speechiness": 0.0393,
+            "time_signature": 4,
+            "happiness": 3.7359999999999998
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "The Way You Do The Things You Do",
+        "Artist": "The Temptations",
+        "Key": "12B",
+        "Energy": 7.335999999999999,
+        "Popularity": 6.49,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3496rr5XSGD6n1Z1OKXovb",
+            "explicit": false,
+            "album": "Meet The Temptations",
+            "release_date": "1964",
+            "genres": [
+                "memphis soul",
+                "motown",
+                "soul"
+            ],
+            "duration": 165744,
+            "acousticness": 0.159,
+            "danceability": 6.562,
+            "instrumentalness": 0.000262,
+            "liveness": 0.358,
+            "loudness": -4.686,
+            "speechiness": 0.0321,
+            "time_signature": 4,
+            "happiness": 7.669
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "My Guy",
+        "Artist": "Mary Wells",
+        "Key": "6B",
+        "Energy": 6.228999999999999,
+        "Popularity": 6.49,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4591VqUIXysNlmI5NcAIUd",
+            "explicit": false,
+            "album": "Mary Wells Sings My Guy",
+            "release_date": "1964",
+            "genres": [
+                "classic soul",
+                "motown",
+                "soul"
+            ],
+            "duration": 174440,
+            "acousticness": 0.557,
+            "danceability": 7.218999999999999,
+            "instrumentalness": 4.62e-05,
+            "liveness": 0.147,
+            "loudness": -7.85,
+            "speechiness": 0.065,
+            "time_signature": 4,
+            "happiness": 9.19
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Rhythm Of The Night",
+        "Artist": "DeBarge",
+        "Key": "1A",
+        "Energy": 7.831,
+        "Popularity": 6.94,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "80s",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5yGTQzYbEdY6B9RFZJypgt",
+            "explicit": false,
+            "album": "Rhythm Of The Night",
+            "release_date": "1985",
+            "genres": [
+                "contemporary r&b",
+                "funk",
+                "quiet storm",
+                "r&b",
+                "urban contemporary"
+            ],
+            "duration": 229107,
+            "acousticness": 0.0769,
+            "danceability": 7.3629999999999995,
+            "instrumentalness": 2.84e-05,
+            "liveness": 0.0775,
+            "loudness": -12.328,
+            "speechiness": 0.046,
+            "time_signature": 4,
+            "happiness": 9.594999999999999
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Higher Ground",
+        "Artist": "Stevie Wonder",
+        "Key": "4B",
+        "Energy": 8.649999999999999,
+        "Popularity": 7.209999999999999,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "70s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0dMd4rilfd6gPbXaLpNYhu",
+            "explicit": false,
+            "album": "Innervisions",
+            "release_date": "1973-08-03",
+            "genres": [
+                "motown",
+                "soul"
+            ],
+            "duration": 222600,
+            "acousticness": 0.0631,
+            "danceability": 7.444,
+            "instrumentalness": 0.00133,
+            "liveness": 0.189,
+            "loudness": -9.949,
+            "speechiness": 0.0426,
+            "time_signature": 4,
+            "happiness": 8.389
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "I Just Want To Celebrate",
+        "Artist": "Rare Earth",
+        "Key": "11B",
+        "Energy": 9.361,
+        "Popularity": 5.59,
+        "BPM": 88,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "70s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "4iW98ZK1gNzcXmQ5TgTD9X",
+            "explicit": false,
+            "album": "One World",
+            "release_date": "1971-06-02",
+            "genres": [
+                "blues rock",
+                "classic rock",
+                "country rock",
+                "psychedelic rock",
+                "psychedelic soul",
+                "southern rock"
+            ],
+            "duration": 217560,
+            "acousticness": 0.105,
+            "danceability": 4.915,
+            "instrumentalness": 1.58e-06,
+            "liveness": 0.015,
+            "loudness": -7.7,
+            "speechiness": 0.235,
+            "time_signature": 4,
+            "happiness": 6.8500000000000005
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "Ain't No Mountain High Enough",
+        "Artist": "Marvin Gaye, Tammi Terrell",
+        "Key": "9B",
+        "Energy": 6.3999999999999995,
+        "Popularity": 8.74,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7tqhbajSfrz2F7E1Z75ASX",
+            "explicit": false,
+            "album": "United",
+            "release_date": "1967-08-29",
+            "genres": [
+                "classic soul",
+                "motown",
+                "neo soul",
+                "northern soul",
+                "quiet storm",
+                "soul",
+                "classic soul",
+                "motown",
+                "soul",
+                "southern soul"
+            ],
+            "duration": 151667,
+            "acousticness": 0.43,
+            "danceability": 6.9670000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.184,
+            "loudness": -10.87,
+            "speechiness": 0.032,
+            "time_signature": 4,
+            "happiness": 8.2
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "This Old Heart Of Mine (Is Weak For You)",
+        "Artist": "The Isley Brothers",
+        "Key": "7B",
+        "Energy": 6.31,
+        "Popularity": 7.12,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5c33j1xFVOL4G24zxYhssB",
+            "explicit": false,
+            "album": "This Old Heart Of Mine",
+            "release_date": "1966",
+            "genres": [
+                "classic soul",
+                "funk",
+                "motown",
+                "quiet storm",
+                "soul"
+            ],
+            "duration": 172733,
+            "acousticness": 0.346,
+            "danceability": 6.688,
+            "instrumentalness": 0,
+            "liveness": 0.24,
+            "loudness": -10.206,
+            "speechiness": 0.0305,
+            "time_signature": 4,
+            "happiness": 9.577
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "Sir Duke",
+        "Artist": "Stevie Wonder",
+        "Key": "2B",
+        "Energy": 6.111999999999999,
+        "Popularity": 7.75,
+        "BPM": 107,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "70s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4pNiE4LCVV74vfIBaUHm1b",
+            "explicit": false,
+            "album": "Songs In The Key Of Life",
+            "release_date": "1976-09-28",
+            "genres": [
+                "motown",
+                "soul"
+            ],
+            "duration": 232760,
+            "acousticness": 0.16,
+            "danceability": 6.292,
+            "instrumentalness": 0,
+            "liveness": 0.0792,
+            "loudness": -9.766,
+            "speechiness": 0.0672,
+            "time_signature": 4,
+            "happiness": 9.568
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Money (That's What I Want) - Single Version / Mono",
+        "Artist": "Barrett Strong",
+        "Key": "7B",
+        "Energy": 7.741,
+        "Popularity": 3.97,
+        "BPM": 133,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1nuxlcT2IQOzzz8hPB1MZw",
+            "explicit": false,
+            "album": "NOW That's What I Call Motown",
+            "release_date": "2009-01-13",
+            "genres": [
+                "motown"
+            ],
+            "duration": 156187,
+            "acousticness": 0.159,
+            "danceability": 7.147,
+            "instrumentalness": 0,
+            "liveness": 0.139,
+            "loudness": -7.864,
+            "speechiness": 0.033,
+            "time_signature": 4,
+            "happiness": 9.685
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "I'm Coming Out",
+        "Artist": "Diana Ross",
+        "Key": "7B",
+        "Energy": 8.452,
+        "Popularity": 7.66,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "80s",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3SnGymj6ijE2iuUfWxLo1q",
+            "explicit": false,
+            "album": "Diana",
+            "release_date": "1980-05-22",
+            "genres": [
+                "adult standards",
+                "disco",
+                "motown",
+                "quiet storm",
+                "soft rock",
+                "soul"
+            ],
+            "duration": 323347,
+            "acousticness": 0.185,
+            "danceability": 7.4799999999999995,
+            "instrumentalness": 0.429,
+            "liveness": 0.0839,
+            "loudness": -9.211,
+            "speechiness": 0.0462,
+            "time_signature": 4,
+            "happiness": 7.912
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "Do You Love Me",
+        "Artist": "The Contours",
+        "Key": "7B",
+        "Energy": 8.191,
+        "Popularity": 3.97,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4TuS29oERAnYEvokiCYUkI",
+            "explicit": false,
+            "album": "NOW That's What I Call Motown",
+            "release_date": "2009-01-13",
+            "genres": [
+                "classic soul",
+                "motown",
+                "northern soul"
+            ],
+            "duration": 173147,
+            "acousticness": 0.471,
+            "danceability": 6.571,
+            "instrumentalness": 0,
+            "liveness": 0.0835,
+            "loudness": -7.14,
+            "speechiness": 0.0367,
+            "time_signature": 4,
+            "happiness": 8.164000000000001
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "Motownphilly",
+        "Artist": "Boyz II Men",
+        "Key": "10B",
+        "Energy": 8.713000000000001,
+        "Popularity": 6.58,
+        "BPM": 114,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "90s",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4LxIGAVfcQIw0zAQRyFhU8",
+            "explicit": false,
+            "album": "Cooleyhighharmony (Bonus Tracks Version)",
+            "release_date": "1991-04-30",
+            "genres": [
+                "boy band",
+                "contemporary r&b",
+                "new jack swing",
+                "r&b",
+                "urban contemporary"
+            ],
+            "duration": 235227,
+            "acousticness": 0.0143,
+            "danceability": 7.786,
+            "instrumentalness": 2.14e-05,
+            "liveness": 0.278,
+            "loudness": -9.699,
+            "speechiness": 0.0605,
+            "time_signature": 4,
+            "happiness": 8.065000000000001
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Baby I Need Your Loving",
+        "Artist": "Four Tops",
+        "Key": "8A",
+        "Energy": 7.174,
+        "Popularity": 6.94,
+        "BPM": 121,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s"
+        ],
+        "Additional Info": {
+            "id": "3aCbwWCYCT3MJjZeUnlcp4",
+            "explicit": false,
+            "album": "Four Tops",
+            "release_date": "1965-01-01",
+            "genres": [
+                "classic soul",
+                "disco",
+                "motown",
+                "quiet storm",
+                "soul"
+            ],
+            "duration": 166027,
+            "acousticness": 0.437,
+            "danceability": 6.688,
+            "instrumentalness": 0,
+            "liveness": 0.193,
+            "loudness": -6.116,
+            "speechiness": 0.0395,
+            "time_signature": 4,
+            "happiness": 6.8500000000000005
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "Easy",
+        "Artist": "Commodores",
+        "Key": "6A",
+        "Energy": 4.4559999999999995,
+        "Popularity": 8.02,
+        "BPM": 133,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "70s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "1JQ6Xm1JrvHfvAqhl5pwaA",
+            "explicit": false,
+            "album": "Commodores",
+            "release_date": "1977-01-01",
+            "genres": [
+                "adult standards",
+                "disco",
+                "funk",
+                "mellow gold",
+                "motown",
+                "quiet storm",
+                "soft rock",
+                "soul"
+            ],
+            "duration": 256427,
+            "acousticness": 0.112,
+            "danceability": 6.301,
+            "instrumentalness": 2.8e-05,
+            "liveness": 0.0596,
+            "loudness": -15.075,
+            "speechiness": 0.0332,
+            "time_signature": 4,
+            "happiness": 4.186
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Where Did Our Love Go",
+        "Artist": "The Supremes",
+        "Key": "8B",
+        "Energy": 5.41,
+        "Popularity": 7.12,
+        "BPM": 135,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "69RH84na5iUNwrwxpgjC5j",
+            "explicit": false,
+            "album": "Where Did Our Love Go",
+            "release_date": "1964-08-31",
+            "genres": [
+                "classic girl group",
+                "disco",
+                "motown",
+                "soul"
+            ],
+            "duration": 153333,
+            "acousticness": 0.791,
+            "danceability": 6.093999999999999,
+            "instrumentalness": 1.42e-05,
+            "liveness": 0.0919,
+            "loudness": -10.867,
+            "speechiness": 0.0414,
+            "time_signature": 4,
+            "happiness": 8.623
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "Nowhere To Run",
+        "Artist": "Martha Reeves & The Vandellas",
+        "Key": "10A",
+        "Energy": 8.334999999999999,
+        "Popularity": 6.76,
+        "BPM": 129,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1WPqawIF9HCKfSOt7mN6X0",
+            "explicit": false,
+            "album": "Dance Party",
+            "release_date": "1965-01-01",
+            "genres": [
+                "classic girl group",
+                "classic soul",
+                "motown",
+                "soul"
+            ],
+            "duration": 181640,
+            "acousticness": 0.104,
+            "danceability": 6.454,
+            "instrumentalness": 0.00566,
+            "liveness": 0.0515,
+            "loudness": -9.377,
+            "speechiness": 0.0485,
+            "time_signature": 4,
+            "happiness": 8.893
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "Please Mr. Postman - Single Version / Mono",
+        "Artist": "The Marvelettes",
+        "Key": "10B",
+        "Energy": 7.984,
+        "Popularity": 7.03,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6jX5mso4x00c1EiNMrTU9U",
+            "explicit": false,
+            "album": "Please Mr. Postman",
+            "release_date": "1961",
+            "genres": [
+                "classic girl group",
+                "classic soul",
+                "motown",
+                "soul"
+            ],
+            "duration": 148040,
+            "acousticness": 0.729,
+            "danceability": 8.065000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.181,
+            "loudness": -5.259,
+            "speechiness": 0.0312,
+            "time_signature": 4,
+            "happiness": 9.703
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "Superstition",
+        "Artist": "Stevie Wonder",
+        "Key": "3B",
+        "Energy": 6.202,
+        "Popularity": 7.209999999999999,
+        "BPM": 101,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "70s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4N0TP4Rmj6QQezWV88ARNJ",
+            "explicit": false,
+            "album": "Talking Book",
+            "release_date": "1972-10-28",
+            "genres": [
+                "motown",
+                "soul"
+            ],
+            "duration": 266133,
+            "acousticness": 0.0598,
+            "danceability": 6.499,
+            "instrumentalness": 0.0219,
+            "liveness": 0.0983,
+            "loudness": -14.171,
+            "speechiness": 0.0676,
+            "time_signature": 4,
+            "happiness": 8.956
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "Shout, Pts. 1 & 2",
+        "Artist": "The Isley Brothers",
+        "Key": "6B",
+        "Energy": 8.794,
+        "Popularity": 6.49,
+        "BPM": 139,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "50s"
+        ],
+        "Additional Info": {
+            "id": "2ZNTPtYmAhN9vCwnAgqKn1",
+            "explicit": false,
+            "album": "Shout!",
+            "release_date": "1959-08-21",
+            "genres": [
+                "classic soul",
+                "funk",
+                "motown",
+                "quiet storm",
+                "soul"
+            ],
+            "duration": 268560,
+            "acousticness": 0.753,
+            "danceability": 5.401,
+            "instrumentalness": 0,
+            "liveness": 0.876,
+            "loudness": -7.433,
+            "speechiness": 0.0933,
+            "time_signature": 4,
+            "happiness": 4.744
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "How Sweet It Is (To Be Loved By You)",
+        "Artist": "Marvin Gaye",
+        "Key": "8B",
+        "Energy": 5.41,
+        "Popularity": 6.67,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2zF8ro2hX0aEYaqXQdEKW1",
+            "explicit": false,
+            "album": "How Sweet It Is To Be Loved By You",
+            "release_date": "1965",
+            "genres": [
+                "classic soul",
+                "motown",
+                "neo soul",
+                "northern soul",
+                "quiet storm",
+                "soul"
+            ],
+            "duration": 177773,
+            "acousticness": 0.323,
+            "danceability": 6.877000000000001,
+            "instrumentalness": 4.13e-06,
+            "liveness": 0.0832,
+            "loudness": -10.106,
+            "speechiness": 0.0408,
+            "time_signature": 4,
+            "happiness": 9.667
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "Stop! In The Name Of Love",
+        "Artist": "The Supremes",
+        "Key": "8B",
+        "Energy": 4.996,
+        "Popularity": 6.76,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s"
+        ],
+        "Additional Info": {
+            "id": "52FlwUMMDnTK8TGkCag9Jd",
+            "explicit": false,
+            "album": "More Hits By The Supremes",
+            "release_date": "1965-07-23",
+            "genres": [
+                "classic girl group",
+                "disco",
+                "motown",
+                "soul"
+            ],
+            "duration": 172907,
+            "acousticness": 0.531,
+            "danceability": 6.508,
+            "instrumentalness": 0,
+            "liveness": 0.126,
+            "loudness": -12.752,
+            "speechiness": 0.0293,
+            "time_signature": 4,
+            "happiness": 5.527
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "Lady (You Bring Me Up)",
+        "Artist": "Commodores",
+        "Key": "8A",
+        "Energy": 6.337,
+        "Popularity": 6.22,
+        "BPM": 121,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "80s",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5CLozJK4pKWoPpFf2Z1Mye",
+            "explicit": false,
+            "album": "In The Pocket",
+            "release_date": "1981-01-01",
+            "genres": [
+                "adult standards",
+                "disco",
+                "funk",
+                "mellow gold",
+                "motown",
+                "quiet storm",
+                "soft rock",
+                "soul"
+            ],
+            "duration": 293227,
+            "acousticness": 0.2,
+            "danceability": 9.028,
+            "instrumentalness": 0.000339,
+            "liveness": 0.0996,
+            "loudness": -9.429,
+            "speechiness": 0.0405,
+            "time_signature": 4,
+            "happiness": 8.803
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "I Say A Little Prayer",
+        "Artist": "Martha Reeves & The Vandellas",
+        "Key": "9B",
+        "Energy": 4.968999999999999,
+        "Popularity": 4.6,
+        "BPM": 141,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4hdNtxRuhVgewZuIJRIs7A",
+            "explicit": false,
+            "album": "Ridin' High",
+            "release_date": "1968",
+            "genres": [
+                "classic girl group",
+                "classic soul",
+                "motown",
+                "soul"
+            ],
+            "duration": 184693,
+            "acousticness": 0.249,
+            "danceability": 6.372999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.133,
+            "loudness": -10.494,
+            "speechiness": 0.0341,
+            "time_signature": 4,
+            "happiness": 7.9030000000000005
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Ain't Too Proud To Beg",
+        "Artist": "The Temptations",
+        "Key": "8B",
+        "Energy": 6.904,
+        "Popularity": 7.12,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4CoGNqLap7UGU5Q3VdKug0",
+            "explicit": false,
+            "album": "Gettin' Ready (Expanded Edition)",
+            "release_date": "1966",
+            "genres": [
+                "memphis soul",
+                "motown",
+                "soul"
+            ],
+            "duration": 156173,
+            "acousticness": 0.549,
+            "danceability": 7.867,
+            "instrumentalness": 0,
+            "liveness": 0.125,
+            "loudness": -6.86,
+            "speechiness": 0.0417,
+            "time_signature": 4,
+            "happiness": 9.334
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "I Heard It Through The Grapevine",
+        "Artist": "Marvin Gaye",
+        "Key": "5A",
+        "Energy": 4.258,
+        "Popularity": 7.75,
+        "BPM": 117,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "1tqT6DhmsrtQgyCKUwotiw",
+            "explicit": false,
+            "album": "In The Groove",
+            "release_date": "1968-08-26",
+            "genres": [
+                "classic soul",
+                "motown",
+                "neo soul",
+                "northern soul",
+                "quiet storm",
+                "soul"
+            ],
+            "duration": 194293,
+            "acousticness": 0.272,
+            "danceability": 7.399,
+            "instrumentalness": 0,
+            "liveness": 0.127,
+            "loudness": -10.851,
+            "speechiness": 0.0381,
+            "time_signature": 4,
+            "happiness": 6.544
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "Can't Take My Eyes Off You",
+        "Artist": "Diana Ross & The Supremes, Mary Wilson",
+        "Key": "9B",
+        "Energy": 6.436,
+        "Popularity": 3.79,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "5pGfZLAljV8ZMXrGNMAbFg",
+            "explicit": false,
+            "album": "Joined Together: The Complete Studio Sessions",
+            "release_date": "2004-01-01",
+            "genres": [
+                "classic girl group",
+                "motown"
+            ],
+            "duration": 192173,
+            "acousticness": 0.00734,
+            "danceability": 5.536,
+            "instrumentalness": 5.9e-06,
+            "liveness": 0.0833,
+            "loudness": -6.185,
+            "speechiness": 0.0331,
+            "time_signature": 4,
+            "happiness": 4.51
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "It's The Same Old Song",
+        "Artist": "Four Tops",
+        "Key": "10A",
+        "Energy": 7.102,
+        "Popularity": 6.49,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7d1ustAIlXG7ht5Q4IOv7s",
+            "explicit": false,
+            "album": "Four Tops Second Album",
+            "release_date": "1965",
+            "genres": [
+                "classic soul",
+                "disco",
+                "motown",
+                "quiet storm",
+                "soul"
+            ],
+            "duration": 166400,
+            "acousticness": 0.143,
+            "danceability": 7.335999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.119,
+            "loudness": -9.121,
+            "speechiness": 0.0295,
+            "time_signature": 4,
+            "happiness": 9.793
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "It's A Shame",
+        "Artist": "The Spinners",
+        "Key": "1B",
+        "Energy": 6.7780000000000005,
+        "Popularity": 7.12,
+        "BPM": 99,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "70s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1l1YTy9nJ0trwhsCGcimly",
+            "explicit": false,
+            "album": "2nd Time Around (Expanded Edition)",
+            "release_date": "1970",
+            "genres": [
+                "classic soul",
+                "disco",
+                "funk",
+                "motown",
+                "philly soul",
+                "quiet storm",
+                "soul"
+            ],
+            "duration": 190058,
+            "acousticness": 0.0947,
+            "danceability": 4.348,
+            "instrumentalness": 0,
+            "liveness": 0.117,
+            "loudness": -11.955,
+            "speechiness": 0.0594,
+            "time_signature": 4,
+            "happiness": 7.345
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "All Night Long (All Night) - Single Version",
+        "Artist": "Lionel Richie",
+        "Key": "3B",
+        "Energy": 6.183999999999999,
+        "Popularity": 6.58,
+        "BPM": 109,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "2000s",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2Wb9ejnmy27DUTUe9YF5Ew",
+            "explicit": false,
+            "album": "The Definitive Collection",
+            "release_date": "2003",
+            "genres": [
+                "soft rock"
+            ],
+            "duration": 260427,
+            "acousticness": 0.122,
+            "danceability": 7.651,
+            "instrumentalness": 0.00206,
+            "liveness": 0.0482,
+            "loudness": -12.024,
+            "speechiness": 0.0472,
+            "time_signature": 4,
+            "happiness": 8.02
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "Someday We'll Be Together",
+        "Artist": "Diana Ross & The Supremes",
+        "Key": "3B",
+        "Energy": 7.138000000000001,
+        "Popularity": 4.33,
+        "BPM": 107,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4OS8sQZgai4XAJv91EjWgL",
+            "explicit": false,
+            "album": "The Definitive Collection",
+            "release_date": "2008-09-28",
+            "genres": [
+                "classic girl group"
+            ],
+            "duration": 212547,
+            "acousticness": 0.104,
+            "danceability": 7.048,
+            "instrumentalness": 3.79e-06,
+            "liveness": 0.0555,
+            "loudness": -7.485,
+            "speechiness": 0.0295,
+            "time_signature": 4,
+            "happiness": 8.218
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "Don't Leave Me This Way",
+        "Artist": "Thelma Houston",
+        "Key": "8A",
+        "Energy": 8.551,
+        "Popularity": 6.22,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "90s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2rBBhFXtuMoGuwYTSDpAdF",
+            "explicit": false,
+            "album": "The Best Of",
+            "release_date": "1998-01-01",
+            "genres": [
+                "disco",
+                "diva house",
+                "motown",
+                "post-disco"
+            ],
+            "duration": 217733,
+            "acousticness": 0.153,
+            "danceability": 5.977,
+            "instrumentalness": 6e-05,
+            "liveness": 0.13,
+            "loudness": -5.844,
+            "speechiness": 0.116,
+            "time_signature": 4,
+            "happiness": 7.057
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "Your Precious Love",
+        "Artist": "Marvin Gaye, Tammi Terrell",
+        "Key": "6B",
+        "Energy": 3.3850000000000002,
+        "Popularity": 6.040000000000001,
+        "BPM": 102,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "3uMJcNcxcp801NLwgYrj9k",
+            "explicit": false,
+            "album": "United",
+            "release_date": "1967-08-29",
+            "genres": [
+                "classic soul",
+                "motown",
+                "neo soul",
+                "northern soul",
+                "quiet storm",
+                "soul",
+                "classic soul",
+                "motown",
+                "soul",
+                "southern soul"
+            ],
+            "duration": 187267,
+            "acousticness": 0.245,
+            "danceability": 4.861,
+            "instrumentalness": 0,
+            "liveness": 0.0884,
+            "loudness": -14.701,
+            "speechiness": 0.0359,
+            "time_signature": 3,
+            "happiness": 6.9670000000000005
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "Dancing On The Ceiling",
+        "Artist": "Lionel Richie",
+        "Key": "8B",
+        "Energy": 7.345,
+        "Popularity": 4.0600000000000005,
+        "BPM": 133,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "2000s",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6QueWxs5YJnRtqIdsH0EGR",
+            "explicit": false,
+            "album": "The Definitive Collection",
+            "release_date": "2003",
+            "genres": [
+                "soft rock"
+            ],
+            "duration": 275613,
+            "acousticness": 0.0713,
+            "danceability": 7.327,
+            "instrumentalness": 1.41e-05,
+            "liveness": 0.345,
+            "loudness": -10.129,
+            "speechiness": 0.0456,
+            "time_signature": 4,
+            "happiness": 7.894
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "Just My Imagination (Running Away With Me)",
+        "Artist": "The Temptations",
+        "Key": "8B",
+        "Energy": 3.178,
+        "Popularity": 6.8500000000000005,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "70s"
+        ],
+        "Additional Info": {
+            "id": "39Bd345OWEhRNyfayhp9gv",
+            "explicit": false,
+            "album": "Sky's The Limit",
+            "release_date": "1971-01-01",
+            "genres": [
+                "memphis soul",
+                "motown",
+                "soul"
+            ],
+            "duration": 228160,
+            "acousticness": 0.88,
+            "danceability": 4.824999999999999,
+            "instrumentalness": 0.0118,
+            "liveness": 0.195,
+            "loudness": -15.424,
+            "speechiness": 0.0267,
+            "time_signature": 4,
+            "happiness": 5.293
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "(Love Is Like A) Heat Wave",
+        "Artist": "Martha Reeves & The Vandellas",
+        "Key": "8A",
+        "Energy": 6.616,
+        "Popularity": 6.8500000000000005,
+        "BPM": 83,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3VgrSJEKBRT3xmwzpaxxEF",
+            "explicit": false,
+            "album": "Heat Wave",
+            "release_date": "1963",
+            "genres": [
+                "classic girl group",
+                "classic soul",
+                "motown",
+                "soul"
+            ],
+            "duration": 163053,
+            "acousticness": 0.513,
+            "danceability": 5.626,
+            "instrumentalness": 0.00517,
+            "liveness": 0.307,
+            "loudness": -9.287,
+            "speechiness": 0.0842,
+            "time_signature": 4,
+            "happiness": 7.795
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "Don't Leave Me This Way",
+        "Artist": "Thelma Houston",
+        "Key": "8A",
+        "Energy": 8.551,
+        "Popularity": 6.22,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "90s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2rBBhFXtuMoGuwYTSDpAdF",
+            "explicit": false,
+            "album": "The Best Of",
+            "release_date": "1998-01-01",
+            "genres": [
+                "disco",
+                "diva house",
+                "motown",
+                "post-disco"
+            ],
+            "duration": 217733,
+            "acousticness": 0.153,
+            "danceability": 5.977,
+            "instrumentalness": 6e-05,
+            "liveness": 0.13,
+            "loudness": -5.844,
+            "speechiness": 0.116,
+            "time_signature": 4,
+            "happiness": 7.057
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "I Second That Emotion",
+        "Artist": "Smokey Robinson & The Miracles",
+        "Key": "10B",
+        "Energy": 6.9670000000000005,
+        "Popularity": 6.8500000000000005,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "90s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6Hd8mrDwBQ8rLo70FwFG5C",
+            "explicit": false,
+            "album": "The 35th Anniversary Collection",
+            "release_date": "1994-02-22",
+            "genres": [
+                "classic soul",
+                "motown",
+                "quiet storm",
+                "soul"
+            ],
+            "duration": 161227,
+            "acousticness": 0.26,
+            "danceability": 7.399,
+            "instrumentalness": 1.23e-06,
+            "liveness": 0.0291,
+            "loudness": -9.262,
+            "speechiness": 0.0308,
+            "time_signature": 4,
+            "happiness": 9.064
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "Come See About Me",
+        "Artist": "The Supremes",
+        "Key": "9B",
+        "Energy": 5.554,
+        "Popularity": 6.67,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "307kcWJQNMdiYYKj1LgClU",
+            "explicit": false,
+            "album": "Where Did Our Love Go",
+            "release_date": "1964-08-31",
+            "genres": [
+                "classic girl group",
+                "disco",
+                "motown",
+                "soul"
+            ],
+            "duration": 163093,
+            "acousticness": 0.688,
+            "danceability": 7.588,
+            "instrumentalness": 1.04e-06,
+            "liveness": 0.146,
+            "loudness": -11.735,
+            "speechiness": 0.0462,
+            "time_signature": 4,
+            "happiness": 8.803
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "Midnight Train to Georgia",
+        "Artist": "Gladys Knight & The Pips",
+        "Key": "6A",
+        "Energy": 4.411,
+        "Popularity": 7.57,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "70s"
+        ],
+        "Additional Info": {
+            "id": "7MF7QAodbGzNYav5ZfIhAY",
+            "explicit": false,
+            "album": "Imagination (Expanded Edition)",
+            "release_date": "1973",
+            "genres": [
+                "classic soul",
+                "disco",
+                "funk",
+                "motown",
+                "quiet storm",
+                "soul"
+            ],
+            "duration": 279333,
+            "acousticness": 0.271,
+            "danceability": 6.3549999999999995,
+            "instrumentalness": 2.81e-05,
+            "liveness": 0.1,
+            "loudness": -12.058,
+            "speechiness": 0.0454,
+            "time_signature": 4,
+            "happiness": 5.032
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "The Tears Of A Clown",
+        "Artist": "Smokey Robinson & The Miracles",
+        "Key": "3B",
+        "Energy": 6.463,
+        "Popularity": 6.3999999999999995,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4Dq749x2QP6OXTURJ9GGY8",
+            "explicit": false,
+            "album": "Make It Happen",
+            "release_date": "1967-08-29",
+            "genres": [
+                "classic soul",
+                "motown",
+                "quiet storm",
+                "soul"
+            ],
+            "duration": 181800,
+            "acousticness": 0.147,
+            "danceability": 6.337,
+            "instrumentalness": 0,
+            "liveness": 0.128,
+            "loudness": -9.886,
+            "speechiness": 0.0283,
+            "time_signature": 4,
+            "happiness": 9.577
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "You Are The Sunshine Of My Life",
+        "Artist": "Stevie Wonder",
+        "Key": "1B",
+        "Energy": 5.140000000000001,
+        "Popularity": 7.4799999999999995,
+        "BPM": 132,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "70s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0n2pjCIMKwHSXoYfEbYMfX",
+            "explicit": false,
+            "album": "Talking Book",
+            "release_date": "1972-10-28",
+            "genres": [
+                "motown",
+                "soul"
+            ],
+            "duration": 178200,
+            "acousticness": 0.823,
+            "danceability": 5.671,
+            "instrumentalness": 5.97e-05,
+            "liveness": 0.243,
+            "loudness": -14.53,
+            "speechiness": 0.0688,
+            "time_signature": 4,
+            "happiness": 7.075
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "Jimmy Mack",
+        "Artist": "Martha Reeves & The Vandellas",
+        "Key": "10B",
+        "Energy": 5.6530000000000005,
+        "Popularity": 6.040000000000001,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7N3UAu6FkwdBg9J7OONBBP",
+            "explicit": false,
+            "album": "Watchout!",
+            "release_date": "1966",
+            "genres": [
+                "classic girl group",
+                "classic soul",
+                "motown",
+                "soul"
+            ],
+            "duration": 163733,
+            "acousticness": 0.765,
+            "danceability": 7.308999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.385,
+            "loudness": -7.951,
+            "speechiness": 0.0357,
+            "time_signature": 4,
+            "happiness": 7.191999999999999
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "You Keep Me Hangin' On",
+        "Artist": "The Supremes",
+        "Key": "4A",
+        "Energy": 6.508,
+        "Popularity": 6.3999999999999995,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4a01ClusxuZiloOK5UgLUn",
+            "explicit": false,
+            "album": "The Supremes Sing Holland, Dozier, Holland",
+            "release_date": "1967-01-23",
+            "genres": [
+                "classic girl group",
+                "disco",
+                "motown",
+                "soul"
+            ],
+            "duration": 163280,
+            "acousticness": 0.284,
+            "danceability": 7.138000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.0783,
+            "loudness": -7.004,
+            "speechiness": 0.0381,
+            "time_signature": 4,
+            "happiness": 8.605
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "It's Your Thing",
+        "Artist": "The Isley Brothers",
+        "Key": "6B",
+        "Energy": 7.03,
+        "Popularity": 6.58,
+        "BPM": 93,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3ZxfehzRtB3oJcBuxWXFZQ",
+            "explicit": false,
+            "album": "It's Our Thing",
+            "release_date": "1969-08-21",
+            "genres": [
+                "classic soul",
+                "funk",
+                "motown",
+                "quiet storm",
+                "soul"
+            ],
+            "duration": 169293,
+            "acousticness": 0.0727,
+            "danceability": 4.384,
+            "instrumentalness": 2.52e-06,
+            "liveness": 0.0718,
+            "loudness": -9.273,
+            "speechiness": 0.0854,
+            "time_signature": 4,
+            "happiness": 8.533
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "Get Ready - Single Version",
+        "Artist": "Rare Earth",
+        "Key": "10A",
+        "Energy": 9.459999999999999,
+        "Popularity": 4.96,
+        "BPM": 137,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "2000s",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5F6XsffCcDXwJmJXiuPRle",
+            "explicit": false,
+            "album": "Fill Your Head: The Studio Albums 1969-1974",
+            "release_date": "2005-01-07",
+            "genres": [
+                "blues rock",
+                "classic rock",
+                "country rock",
+                "psychedelic rock",
+                "psychedelic soul",
+                "southern rock"
+            ],
+            "duration": 166707,
+            "acousticness": 0.0426,
+            "danceability": 6.58,
+            "instrumentalness": 0.000828,
+            "liveness": 0.275,
+            "loudness": -4.098,
+            "speechiness": 0.0311,
+            "time_signature": 4,
+            "happiness": 9.631
+        }
+    },
+    {
+        "#": 52,
+        "Track Title": "You've Really Got A Hold On Me - Alternate Stereo Mix",
+        "Artist": "Smokey Robinson & The Miracles",
+        "Key": "11A",
+        "Energy": 4.429,
+        "Popularity": 6.13,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7ifcJ5DDytGf8aITxmgsLN",
+            "explicit": false,
+            "album": "OOO Baby Baby: The Anthlogy",
+            "release_date": "2002-09-17",
+            "genres": [
+                "classic soul",
+                "motown",
+                "quiet storm",
+                "soul"
+            ],
+            "duration": 192133,
+            "acousticness": 0.131,
+            "danceability": 6.76,
+            "instrumentalness": 0,
+            "liveness": 0.17,
+            "loudness": -13.265,
+            "speechiness": 0.03,
+            "time_signature": 3,
+            "happiness": 7.093
+        }
+    },
+    {
+        "#": 53,
+        "Track Title": "Reach Out I'll Be There",
+        "Artist": "Four Tops",
+        "Key": "5A",
+        "Energy": 6.391,
+        "Popularity": 6.8500000000000005,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6Pkj4nv5K53i64cLVgkVyY",
+            "explicit": false,
+            "album": "Reach Out",
+            "release_date": "1967-07-01",
+            "genres": [
+                "classic soul",
+                "disco",
+                "motown",
+                "quiet storm",
+                "soul"
+            ],
+            "duration": 178533,
+            "acousticness": 0.0253,
+            "danceability": 6.463,
+            "instrumentalness": 0,
+            "liveness": 0.188,
+            "loudness": -8.908,
+            "speechiness": 0.0282,
+            "time_signature": 4,
+            "happiness": 7.615
+        }
+    },
+    {
+        "#": 54,
+        "Track Title": "You Are",
+        "Artist": "Lionel Richie",
+        "Key": "3B",
+        "Energy": 4.627000000000001,
+        "Popularity": 4.42,
+        "BPM": 112,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "2000s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "41xY0XOmX8DF8GKoPi4oF3",
+            "explicit": false,
+            "album": "The Definitive Collection",
+            "release_date": "2003",
+            "genres": [
+                "soft rock"
+            ],
+            "duration": 246787,
+            "acousticness": 0.333,
+            "danceability": 8.092,
+            "instrumentalness": 0.000243,
+            "liveness": 0.0585,
+            "loudness": -12.776,
+            "speechiness": 0.0345,
+            "time_signature": 4,
+            "happiness": 6.679
+        }
+    },
+    {
+        "#": 55,
+        "Track Title": "Baby Love",
+        "Artist": "The Supremes",
+        "Key": "7B",
+        "Energy": 6.787,
+        "Popularity": 7.3,
+        "BPM": 136,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5uES1C2NgkdrNHiCwf9jRr",
+            "explicit": false,
+            "album": "Where Did Our Love Go",
+            "release_date": "1964-08-31",
+            "genres": [
+                "classic girl group",
+                "disco",
+                "motown",
+                "soul"
+            ],
+            "duration": 158040,
+            "acousticness": 0.76,
+            "danceability": 6.3549999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.538,
+            "loudness": -9.275,
+            "speechiness": 0.0365,
+            "time_signature": 4,
+            "happiness": 7.57
+        }
+    },
+    {
+        "#": 56,
+        "Track Title": "What Becomes Of The Brokenhearted",
+        "Artist": "Jimmy Ruffin",
+        "Key": "10A",
+        "Energy": 4.987,
+        "Popularity": 6.040000000000001,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0wBaPbJ2qsbGqgnGbqBDgP",
+            "explicit": false,
+            "album": "Sings Top Ten",
+            "release_date": "2004-01-01",
+            "genres": [
+                "classic soul",
+                "motown",
+                "soul",
+                "southern soul"
+            ],
+            "duration": 178440,
+            "acousticness": 0.678,
+            "danceability": 7.5969999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.519,
+            "loudness": -12.017,
+            "speechiness": 0.0252,
+            "time_signature": 4,
+            "happiness": 7.308999999999999
+        }
+    },
+    {
+        "#": 57,
+        "Track Title": "Ain't Nothing Like The Real Thing",
+        "Artist": "Marvin Gaye, Tammi Terrell",
+        "Key": "4B",
+        "Energy": 5.68,
+        "Popularity": 6.22,
+        "BPM": 93,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "PEGI 4 [Age]",
+            "60s",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "37soQoNhEEIrhhYgHWK1xU",
+            "explicit": false,
+            "album": "You're All I Need",
+            "release_date": "1968-01-01",
+            "genres": [
+                "classic soul",
+                "motown",
+                "neo soul",
+                "northern soul",
+                "quiet storm",
+                "soul",
+                "classic soul",
+                "motown",
+                "soul",
+                "southern soul"
+            ],
+            "duration": 138533,
+            "acousticness": 0.0356,
+            "danceability": 6.454,
+            "instrumentalness": 0.000628,
+            "liveness": 0.354,
+            "loudness": -11.312,
+            "speechiness": 0.036,
+            "time_signature": 4,
+            "happiness": 7.885
+        }
+    }
+]
