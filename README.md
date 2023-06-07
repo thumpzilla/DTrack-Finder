@@ -25,3 +25,4 @@ Find the right song for the right moment, easily! [Try it now!](https://donraz.g
 
 
 
+Simply choose your target vibes, favorite genres, and desired BPM, and find the selector will offer you the best songs! Just press the copy button, and paste it to your DJ software / your Spotify Playlist.

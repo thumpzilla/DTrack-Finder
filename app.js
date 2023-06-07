@@ -11,13 +11,14 @@ import { showToast, createSongExamplesFromJson, generateRandomFloats } from './U
 // // Function to adjust the container size
 function adjustContainerSize() {
     const container = document.querySelector('.container');
+    const rootFontSize = parseFloat(getComputedStyle(document.documentElement).fontSize);
 
     // Get the viewport height and width, and convert them to 'rem' units
     let viewportHeight = window.innerHeight;
     let viewportWidth = window.innerWidth;
-    
-    let vhInRem = Math.min(viewportHeight / 16, 70); // 16 is the root font-size
-    let vwInRem = Math.min(viewportWidth / 16, 60); // 16 is the root font-size
+    console.log(rootFontSize)
+    let vhInRem = Math.min(viewportHeight /rootFontSize, 70); // 16 is the root font-size
+    let vwInRem = Math.min(viewportWidth / rootFontSize, 45); // 16 is the root font-size
 
     // Apply the styles
     container.style.height = `${vhInRem}rem`;
@@ -27,7 +28,7 @@ function adjustContainerSize() {
 window.onload = adjustContainerSize;
 window.onresize = adjustContainerSize;
 
-// ________________________ Prevent zoom in with double tag __________________________
+// ________________________ Prevent zoom on double tap on mobile devices __________________________
 let lastTouchEnd = 0;
 window.addEventListener('touchend', function (event) {
   let now = (new Date()).getTime();
@@ -42,8 +43,6 @@ if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('/service-worker_forPWA.js')
     .then(function() { console.log('Service Worker Registered'); });
   }
-
-
 
 // _____________________________ Start Program ________________________________ START
 

@@ -1,7 +1,7 @@
 {
-    "short_name": "Music Selector",
-    "name": "Party Music Selector",
-    "description": "An awesome Party Music Selector",
+    "short_name": "DTrack finder",
+    "name": "DTrack Music Selector",
+    "description": "Find the best song based on energy, popularity, genres and more - fast!",
     "icons": [
       {
         "src": "/images/resized_192.png",
