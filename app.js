@@ -1,4 +1,3 @@
-
 import Song from './Song.js'
 import TagFilter from './TagFilter_UI.js';
 import SongManager from './SongManager.js';
@@ -37,12 +36,11 @@ window.addEventListener('touchend', function (event) {
   lastTouchEnd = now;
 }, false);
 // ___________________________________ PWA ___________________________________ 
-// Checks if the user's browser supports PWA
+
 if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('/service-worker_forPWA.js')
+    navigator.serviceWorker.register('service-worker_forPWA.js')
     .then(function() { console.log('Service Worker Registered'); });
   }
-
 // _____________________________ Start Program ________________________________ START
 
 let songs = []; 

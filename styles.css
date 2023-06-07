@@ -85,8 +85,7 @@ h2 {
 .graph {
     position: relative;
     width: 100%;
-    min-height: 12rem !important;
-    max-height: 20rem;
+    height: 12rem;
     background-color: #282944;
     border-radius: 0.625rem;
     background: linear-gradient(45deg, #712AC8 ,#C63BFB, #FA74D7);
