@@ -85,7 +85,8 @@ h2 {
 .graph {
     position: relative;
     width: 100%;
-    height: 12rem;
+    min-height: 12rem !important;
+    max-height: 20rem;
     background-color: #282944;
     border-radius: 0.625rem;
     background: linear-gradient(45deg, #712AC8 ,#C63BFB, #FA74D7);
@@ -264,14 +265,14 @@ li:hover {
 #tags-filtering-div {
     display: flex;
     flex-direction: column;
-    width: 95%;
+    width: 100%;
 }
 
 #active-tags {
     display: flex;
     justify-content: flex-start; /* Change from space-between to flex-start */
     padding: 0.5rem;
-    background-color: #282944;
+    background: linear-gradient(#030545, #03063D 200%);
     color: #F5F5F7;
     border-radius: 0.625rem;
     flex-wrap: wrap; /* Add this line to wrap the tags and button if they don't fit on one line */
