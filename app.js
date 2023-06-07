@@ -27,6 +27,22 @@ function adjustContainerSize() {
 window.onload = adjustContainerSize;
 window.onresize = adjustContainerSize;
 
+// ________________________ Prevent zoom in with double tag __________________________
+let lastTouchEnd = 0;
+window.addEventListener('touchend', function (event) {
+  let now = (new Date()).getTime();
+  if (now - lastTouchEnd <= 200) {
+    event.preventDefault();
+  }
+  lastTouchEnd = now;
+}, false);
+// ___________________________________ PWA ___________________________________
+
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/service-worker_forPWA.js')
+    .then(function() { console.log('Service Worker Registered'); });
+  }
+
 
 
 // _____________________________ Start Program ________________________________ START
@@ -60,3 +76,51 @@ createSongExamplesFromJson().then((result) => {
 /*
 http://192.168.0.210:5500/index.html 
 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// __________________________ Full Screen _______________________________________
+// // var docElm = document.documentElement;
+// // if (docElm.requestFullscreen) {
+// //     docElm.requestFullscreen();
+// // }
+// // else if (docElm.mozRequestFullScreen) { // Firefox
+// //     docElm.mozRequestFullScreen();
+// // }
+// // else if (docElm.webkitRequestFullScreen) { // Chrome, Safari and Opera
+// //     docElm.webkitRequestFullScreen();
+// // }
+// // else if (docElm.msRequestFullscreen) { // IE/Edge
+// //     docElm.msRequestFullscreen();
+// // }
+
+// window.addEventListener("load",function() { 
+//     setTimeout(function(){
+//       // This hides the address bar:
+//       window.scrollTo(0, 1); 
+//     }, 0); 
+//   });

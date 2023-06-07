@@ -51,15 +51,21 @@ h2 {
     position: relative;
     flex-direction: column;
     align-items: center;
-    min-height: 100vh; /* adjust this */
-    max-width: 37rem; /* adjust this */
-    min-width: 27rem !important;
+    min-height: 100vh;
+    width: 100%; /* Use 100% width as default for smaller devices */
     margin: 0 auto;
     padding: 1rem;
     border-radius: 1.25rem;
     overflow: hidden;
     background: linear-gradient(70deg,  #030547 ,#030545, #03063D 200%);
     background-size: 400%;
+}
+
+/* For larger screens */
+@media (min-width: 720px) {
+  .container {
+    max-width: 40rem; /* Limit the maximum width for larger devices */
+  }
 }
 
 

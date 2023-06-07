@@ -85,15 +85,27 @@ export default class GraphManager {
     initializeInteraction(songManager) {
         let dragging = false;
     
+        // Existing mouse events
         this.canvas.addEventListener('mousedown', () => dragging = true);
         this.canvas.addEventListener('mouseup', () => dragging = false);
         this.canvas.addEventListener('mouseleave', () => dragging = false);
-    
         this.canvas.addEventListener('mousemove', (event) => {
             if (dragging) {
                 this.handleClick(event, songManager);
             }
         });
+    
+        // New touch events
+        this.canvas.addEventListener('touchstart', () => dragging = true);
+        this.canvas.addEventListener('touchend', () => dragging = false);
+        this.canvas.addEventListener('touchcancel', () => dragging = false);
+        this.canvas.addEventListener('touchmove', (event) => {
+            if (dragging) {
+                // For touch events, the coordinates are in event.touches[0]
+                this.handleClick(event.touches[0], songManager);
+            }
+            event.preventDefault(); // Prevent scrolling while dragging
+        }, { passive: false }); // Enable preventDefault in passive event listener
     
         this.canvas.addEventListener('click', (event) => this.handleClick(event, songManager));
         this.initializeDefaultSelection()
