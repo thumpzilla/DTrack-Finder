@@ -16,7 +16,6 @@ function adjustContainerSize() {
     // Get the viewport height and width, and convert them to 'rem' units
     let viewportHeight = window.innerHeight;
     let viewportWidth = window.innerWidth;
-    console.log(rootFontSize)
     let vhInRem = Math.min(viewportHeight /rootFontSize, 70); // 16 is the root font-size
     let vwInRem = Math.min(viewportWidth / rootFontSize, 45); // 16 is the root font-size
 

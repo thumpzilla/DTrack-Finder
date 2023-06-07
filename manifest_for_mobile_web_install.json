@@ -4,12 +4,12 @@
     "description": "Find the best song based on energy, popularity, genres and more - fast!",
     "icons": [
       {
-        "src": "/images/resized_192.png",
+        "src": "/images/output_192.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "/images/resized_512.png",
+        "src": "/images/output_512.png",
         "type": "image/png",
         "sizes": "512x512"
       }
@@ -19,4 +19,5 @@
     "display": "standalone",
     "scope": "/",
     "theme_color": "#6C4BF3"
-  }
+  
+}

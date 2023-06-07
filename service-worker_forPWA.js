@@ -22,8 +22,6 @@ self.addEventListener('install', function(e) {
           "/images/tags.svg",
           "/images/stopwatch.js",
           "/images/copy.png",
-          "/.vscode/settings.json",
-          "/.vscode/launch.json",
           "/data/TagsDict.json",
           "/data/collections/Sp- Bach Party.json",
           "/data/collections/Sp- Kids Party.json",
@@ -32,7 +30,9 @@ self.addEventListener('install', function(e) {
           "/data/collections/manifest.json",
           "/data/collections/Sp - Party by decades.json",
           // and so on, for all your files
-        ]);
+        ]).catch(function(error) {
+          console.log('Failed to add files to cache:', error);
+      });
       })
     );
   });
