@@ -4,12 +4,12 @@
     "description": "Find the best song based on energy, popularity, genres and more - fast!",
     "icons": [
       {
-        "src": "/images/output_192.png",
+        "src": "https://github.com/DonRaz/Song-Instant-Selector/blob/main/images/output_192.png?raw=true",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "/images/output_512.png",
+        "src": "https://github.com/DonRaz/Song-Instant-Selector/blob/main/images/output_512.png?raw=true",
         "type": "image/png",
         "sizes": "512x512"
       }
