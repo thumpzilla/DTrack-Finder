@@ -14,10 +14,10 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://donraz.github.io/Song-Instant-Selector/",
+  "start_url": "/Song-Instant-Selector/",
   "background_color": "#8639DB",
   "display": "standalone",
-  "scope": "/",
+  "scope": "/Song-Instant-Selector/",
   "theme_color": "#6C4BF3"
-
+  
 }

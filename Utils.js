@@ -15,16 +15,20 @@ export function showToast(message) {
     const toast = document.createElement('div');
     toast.className = 'toast';
     toast.textContent = message;
-    document.body.appendChild(toast);
+
+    // Find the main container
+    const container = document.querySelector('.container');
+    container.appendChild(toast);
 
     // Set a timeout to remove the toast after 3 seconds
     setTimeout(() => {
         toast.classList.add('fade-out');
         setTimeout(() => {
-            document.body.removeChild(toast);
+            container.removeChild(toast);
         }, 1000);
     }, 3000);
 }
+
 export async function createSongExamplesFromJson() {
     try {
         let manifestResponse = await fetch('data/collections/manifest.json');

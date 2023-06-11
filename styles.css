@@ -415,18 +415,21 @@ li:hover {
 }
 /* _______________________ Toast ___________________ Start*/
 .toast {
-    position: fixed;
-    bottom: 1.2rem;
-    left: 50%;
-    transform: translateX(-50%);
-    background-color: rgba(255, 255, 255, 0.3);
+    position: absolute;  /* change from fixed to absolute */
+    top: 2rem;
+    left: 10%;  /* change from 50% to 10% */
+    transform: none;  /* remove transform property */
+    width: 80%;
+    background: linear-gradient(270deg, #800080, #E60073);
     color: white;
     padding: 0.5rem 1rem;
-    border-radius: 0.31rem;
+    border-radius: 0.71rem;
     font-size: 1rem;
     opacity: 1;
     transition: opacity 1s ease;
-    animation: fadeInUp 0.5s ease forwards;
+    animation: fadeInDown 0.5s ease forwards;
+    text-align: center;
+    z-index: 9999;
 }
 
 .toast.fade-out {
@@ -628,7 +631,17 @@ li:hover {
         transform: translate3d(0, 0, 0);
     }
 }
+@keyframes fadeInDown {
+    from {
+        opacity: 0;
+        transform: translate3d(0, -2rem, 0);
+    }
 
+    to {
+        opacity: 1;
+        transform: translate3d(0, 0, 0);
+    }
+}
 
 
 /*
