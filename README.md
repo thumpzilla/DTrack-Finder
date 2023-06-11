@@ -1,8 +1,6 @@
 # Song Instant Selector
 Find the right song for the right moment, easily! [Try it now!](https://donraz.github.io/Song-Instant-Selector/)
 
-[Install On iOS in 10 seconds](https://youtube.com/shorts/541auwnZml0)
-
 
 
 # Features Demo 
