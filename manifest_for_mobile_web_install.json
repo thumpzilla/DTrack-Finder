@@ -14,8 +14,8 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/",
-  "background_color": "#7A6400",
+  "start_url": "/Song-Instant-Selector/",
+  "background_color": "#8639DB",
   "display": "standalone",
   "scope": "/",
   "theme_color": "#6C4BF3"
