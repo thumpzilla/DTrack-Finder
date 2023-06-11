@@ -1,0 +1,3564 @@
+[
+    {
+        "#": 1,
+        "Track Title": "Throne",
+        "Artist": "Bring Me The Horizon",
+        "Key": "8A",
+        "Energy": 8.992,
+        "Popularity": 7.93,
+        "BPM": 144,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0M3adYbGtyRHACP86dey1H",
+            "explicit": false,
+            "album": "That's The Spirit",
+            "release_date": "2015-09-11",
+            "genres": [
+                "melodic metalcore",
+                "metalcore",
+                "modern rock",
+                "pop punk",
+                "rock",
+                "uk metalcore"
+            ],
+            "duration": 191520,
+            "acousticness": 0.000455,
+            "danceability": 4.834,
+            "instrumentalness": 0,
+            "liveness": 0.306,
+            "loudness": -3.72,
+            "speechiness": 0.0987,
+            "time_signature": 4,
+            "happiness": 4.4830000000000005
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Can't Be Touched (feat. Mr. Magic & Trouble)",
+        "Artist": "Roy Jones Jr., Mr Magic, Trouble",
+        "Key": "12A",
+        "Energy": 7.993,
+        "Popularity": 7.66,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "3zmduBNsQ6BPDTZAkXzG5K",
+            "explicit": true,
+            "album": "Body Head Bangerz, Vol. 1",
+            "release_date": "2004-10-26",
+            "genres": [],
+            "duration": 214400,
+            "acousticness": 0.00323,
+            "danceability": 6.7780000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.227,
+            "loudness": -4.809,
+            "speechiness": 0.094,
+            "time_signature": 4,
+            "happiness": 4.717
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "Scars That I'm Hiding (feat. Anders Fridén of In Flames)",
+        "Artist": "From Ashes to New, In Flames",
+        "Key": "10A",
+        "Energy": 9.370000000000001,
+        "Popularity": 6.13,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2020s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "0UOtF2ojhKGYEjvZ28ZA6d",
+            "explicit": false,
+            "album": "Scars That I'm Hiding (feat. Anders Fridén of In Flames)",
+            "release_date": "2020-07-31",
+            "genres": [
+                "alternative metal",
+                "gothenburg metal",
+                "melodic death metal",
+                "melodic metalcore",
+                "metal",
+                "nu metal",
+                "swedish alternative rock",
+                "swedish death metal",
+                "swedish melodeath",
+                "swedish metal"
+            ],
+            "duration": 175603,
+            "acousticness": 1.17e-05,
+            "danceability": 5.428,
+            "instrumentalness": 0,
+            "liveness": 0.307,
+            "loudness": -3.826,
+            "speechiness": 0.0396,
+            "time_signature": 4,
+            "happiness": 4.879
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Over And Under",
+        "Artist": "Egypt Central",
+        "Key": "3A",
+        "Energy": 9.847,
+        "Popularity": 6.13,
+        "BPM": 103,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "6Lah64e21cUytn0QXfuOoF",
+            "explicit": false,
+            "album": "Egypt Central",
+            "release_date": "2005-04-26",
+            "genres": [
+                "alternative metal",
+                "christian rock",
+                "post-grunge"
+            ],
+            "duration": 175053,
+            "acousticness": 7.29e-05,
+            "danceability": 4.618,
+            "instrumentalness": 0,
+            "liveness": 0.294,
+            "loudness": -3.816,
+            "speechiness": 0.0721,
+            "time_signature": 4,
+            "happiness": 4.2669999999999995
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Remember Why You Started",
+        "Artist": "Fearless Motivation, Alpha, Brendan Woodroff, Jones 2.0",
+        "Key": "10A",
+        "Energy": 8.065000000000001,
+        "Popularity": 5.41,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "2siqSsVoviIIkwb9D4A9wj",
+            "explicit": false,
+            "album": "Headphones on World Off",
+            "release_date": "2019-07-08",
+            "genres": [
+                "hard motivation",
+                "motivation"
+            ],
+            "duration": 230000,
+            "acousticness": 0.00219,
+            "danceability": 4.393,
+            "instrumentalness": 0.0408,
+            "liveness": 0.155,
+            "loudness": -7.891,
+            "speechiness": 0.0812,
+            "time_signature": 4,
+            "happiness": 2.224
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Lost in Echoes",
+        "Artist": "Caskets",
+        "Key": "9A",
+        "Energy": 9.433,
+        "Popularity": 6.94,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "13YWByXibBltt3T5u3IcT7",
+            "explicit": false,
+            "album": "Lost Souls",
+            "release_date": "2021-08-13",
+            "genres": [
+                "metalcore"
+            ],
+            "duration": 217815,
+            "acousticness": 0.00368,
+            "danceability": 4.978,
+            "instrumentalness": 0.000116,
+            "liveness": 0.0814,
+            "loudness": -6.693,
+            "speechiness": 0.0723,
+            "time_signature": 4,
+            "happiness": 4.996
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Remember the Name (feat. Styles of Beyond)",
+        "Artist": "Fort Minor, Styles Of Beyond",
+        "Key": "4B",
+        "Energy": 8.515,
+        "Popularity": 7.66,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6ndmKwWqMozN2tcZqzCX4K",
+            "explicit": true,
+            "album": "The Rising Tied",
+            "release_date": "2005-11-21",
+            "genres": [
+                "rap rock",
+                "cali rap"
+            ],
+            "duration": 230493,
+            "acousticness": 0.0583,
+            "danceability": 7.191999999999999,
+            "instrumentalness": 2.87e-06,
+            "liveness": 0.0795,
+            "loudness": -4.162,
+            "speechiness": 0.0911,
+            "time_signature": 4,
+            "happiness": 8.92
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Terrified",
+        "Artist": "Versus Me",
+        "Key": "10A",
+        "Energy": 9.703,
+        "Popularity": 6.040000000000001,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "0wCT2ivXYnHssIDf2n3LV6",
+            "explicit": false,
+            "album": "Terrified",
+            "release_date": "2022-09-23",
+            "genres": [
+                "american metalcore",
+                "metalcore"
+            ],
+            "duration": 206000,
+            "acousticness": 3.38e-05,
+            "danceability": 4.573,
+            "instrumentalness": 1.98e-06,
+            "liveness": 0.282,
+            "loudness": -2.982,
+            "speechiness": 0.185,
+            "time_signature": 4,
+            "happiness": 4.879
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "The Resistance",
+        "Artist": "Skillet",
+        "Key": "10A",
+        "Energy": 9.469,
+        "Popularity": 7.39,
+        "BPM": 78,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "5O9Dz0h08LuBi0aVvDcylh",
+            "explicit": false,
+            "album": "Unleashed",
+            "release_date": "2016-08-05",
+            "genres": [
+                "alternative metal",
+                "christian alternative rock",
+                "christian music",
+                "christian rock",
+                "post-grunge"
+            ],
+            "duration": 232067,
+            "acousticness": 0.000526,
+            "danceability": 5.3469999999999995,
+            "instrumentalness": 3.5e-06,
+            "liveness": 0.31,
+            "loudness": -3.598,
+            "speechiness": 0.0575,
+            "time_signature": 4,
+            "happiness": 5.527
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Struggle Made Me Stronger",
+        "Artist": "Fearless Motivation, Alpha",
+        "Key": "11A",
+        "Energy": 8.974,
+        "Popularity": 5.68,
+        "BPM": 87,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "3vMtLNMANvkPuDthcLuQzJ",
+            "explicit": false,
+            "album": "Headphones on World Off",
+            "release_date": "2019-07-08",
+            "genres": [
+                "hard motivation",
+                "motivation"
+            ],
+            "duration": 213000,
+            "acousticness": 0.000645,
+            "danceability": 4.2219999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.113,
+            "loudness": -4.48,
+            "speechiness": 0.25,
+            "time_signature": 4,
+            "happiness": 3.142
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Viking Death March",
+        "Artist": "Billy Talent",
+        "Key": "9A",
+        "Energy": 9.667,
+        "Popularity": 6.67,
+        "BPM": 109,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "6l78mUZ86r0NrfRgni0LuM",
+            "explicit": false,
+            "album": "Dead Silence",
+            "release_date": "2012-09-07",
+            "genres": [
+                "canadian punk"
+            ],
+            "duration": 242990,
+            "acousticness": 0.00319,
+            "danceability": 4.339,
+            "instrumentalness": 0,
+            "liveness": 0.448,
+            "loudness": -2.85,
+            "speechiness": 0.125,
+            "time_signature": 3,
+            "happiness": 4.339
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "Ready for War",
+        "Artist": "T. Powell",
+        "Key": "3B",
+        "Energy": 8.524000000000001,
+        "Popularity": 5.41,
+        "BPM": 83,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5aZceoAnPoEdxwFaim3jqf",
+            "explicit": false,
+            "album": "Game Day Motivation",
+            "release_date": "2016-01-01",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 189416,
+            "acousticness": 0.226,
+            "danceability": 7.380999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.103,
+            "loudness": -5.55,
+            "speechiness": 0.32,
+            "time_signature": 4,
+            "happiness": 7.353999999999999
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "Drowned in Emotion",
+        "Artist": "Caskets",
+        "Key": "8A",
+        "Energy": 9.504999999999999,
+        "Popularity": 6.94,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "5nxcR7W60CU3cvmGX1jBzQ",
+            "explicit": false,
+            "album": "Lost Souls",
+            "release_date": "2021-08-13",
+            "genres": [
+                "metalcore"
+            ],
+            "duration": 222568,
+            "acousticness": 0.0015,
+            "danceability": 4.996,
+            "instrumentalness": 2.84e-05,
+            "liveness": 0.0661,
+            "loudness": -6.389,
+            "speechiness": 0.0714,
+            "time_signature": 4,
+            "happiness": 3.9970000000000003
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "Savior",
+        "Artist": "Rise Against",
+        "Key": "7A",
+        "Energy": 9.388,
+        "Popularity": 8.11,
+        "BPM": 112,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1vcxF91pWs9uNwDROuiCPB",
+            "explicit": false,
+            "album": "Appeal To Reason",
+            "release_date": "2008-01-01",
+            "genres": [
+                "alternative metal",
+                "chicago hardcore",
+                "chicago punk",
+                "hardcore punk",
+                "modern rock",
+                "nu metal",
+                "pop punk",
+                "post-grunge",
+                "punk"
+            ],
+            "duration": 242280,
+            "acousticness": 0.00154,
+            "danceability": 5.986000000000001,
+            "instrumentalness": 0.000142,
+            "liveness": 0.425,
+            "loudness": -3.424,
+            "speechiness": 0.0485,
+            "time_signature": 4,
+            "happiness": 5.302
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Fight Back",
+        "Artist": "NEFFEX",
+        "Key": "3B",
+        "Energy": 9.514,
+        "Popularity": 7.75,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "6KigD0mlF4VGDYiSEzAyYw",
+            "explicit": true,
+            "album": "Fight Back: The Collection",
+            "release_date": "2018-11-30",
+            "genres": [],
+            "duration": 200571,
+            "acousticness": 0.094,
+            "danceability": 7.444,
+            "instrumentalness": 6.63e-05,
+            "liveness": 0.0825,
+            "loudness": -3.412,
+            "speechiness": 0.261,
+            "time_signature": 4,
+            "happiness": 6.2829999999999995
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "The Other Side",
+        "Artist": "Awake At Last",
+        "Key": "7B",
+        "Energy": 8.155000000000001,
+        "Popularity": 4.87,
+        "BPM": 143,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "4mxCVpoOijEYRDCtEdVFkM",
+            "explicit": false,
+            "album": "The Other Side",
+            "release_date": "2022-09-30",
+            "genres": [
+                "gymcore",
+                "post-screamo"
+            ],
+            "duration": 241960,
+            "acousticness": 0.00967,
+            "danceability": 4.717,
+            "instrumentalness": 2.84e-06,
+            "liveness": 0.234,
+            "loudness": -3.872,
+            "speechiness": 0.0641,
+            "time_signature": 4,
+            "happiness": 3.7359999999999998
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "Hero",
+        "Artist": "Skillet",
+        "Key": "3B",
+        "Energy": 9.703,
+        "Popularity": 6.3999999999999995,
+        "BPM": 142,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0sdeLSxygcjyMyWPhZBdFs",
+            "explicit": false,
+            "album": "Awake (Deluxe Edition)",
+            "release_date": "2009-08-24",
+            "genres": [
+                "alternative metal",
+                "christian alternative rock",
+                "christian music",
+                "christian rock",
+                "post-grunge"
+            ],
+            "duration": 186813,
+            "acousticness": 0.00791,
+            "danceability": 5.797000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.336,
+            "loudness": -2.543,
+            "speechiness": 0.0995,
+            "time_signature": 4,
+            "happiness": 8.038
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "Chris Tucker",
+        "Artist": "LaLion",
+        "Key": "7A",
+        "Energy": 6.265,
+        "Popularity": 3.0700000000000003,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3tbayNU3N2dxF7nUi3A9yo",
+            "explicit": true,
+            "album": "Chris Tucker",
+            "release_date": "2022-06-23",
+            "genres": [],
+            "duration": 147356,
+            "acousticness": 0.38,
+            "danceability": 9.073,
+            "instrumentalness": 0,
+            "liveness": 0.129,
+            "loudness": -10.532,
+            "speechiness": 0.0527,
+            "time_signature": 4,
+            "happiness": 7.786
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Make It Stop (September's Children)",
+        "Artist": "Rise Against",
+        "Key": "3B",
+        "Energy": 9.775,
+        "Popularity": 6.58,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0wHNrrefyaeVewm4NxjxrX",
+            "explicit": false,
+            "album": "Endgame",
+            "release_date": "2011-01-01",
+            "genres": [
+                "alternative metal",
+                "chicago hardcore",
+                "chicago punk",
+                "hardcore punk",
+                "modern rock",
+                "nu metal",
+                "pop punk",
+                "post-grunge",
+                "punk"
+            ],
+            "duration": 234787,
+            "acousticness": 0.000578,
+            "danceability": 4.663,
+            "instrumentalness": 1.42e-05,
+            "liveness": 0.112,
+            "loudness": -3.176,
+            "speechiness": 0.0779,
+            "time_signature": 4,
+            "happiness": 6.076
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "My Fight",
+        "Artist": "From Ashes to New",
+        "Key": "4B",
+        "Energy": 9.748,
+        "Popularity": 5.86,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "5HDG2PPLki6wowJvZbAH9d",
+            "explicit": true,
+            "album": "My Fight",
+            "release_date": "2013-08-08",
+            "genres": [],
+            "duration": 201340,
+            "acousticness": 0.000994,
+            "danceability": 5.482,
+            "instrumentalness": 0,
+            "liveness": 0.213,
+            "loudness": -3.443,
+            "speechiness": 0.196,
+            "time_signature": 4,
+            "happiness": 4.006
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Fast Lane",
+        "Artist": "Bad Meets Evil",
+        "Key": "3B",
+        "Energy": 8.839,
+        "Popularity": 7.57,
+        "BPM": 119,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2c5Isyd07hWsl7AQia2Dig",
+            "explicit": true,
+            "album": "Hell: The Sequel (Deluxe)",
+            "release_date": "2011-01-01",
+            "genres": [
+                "detroit hip hop"
+            ],
+            "duration": 249560,
+            "acousticness": 0.0388,
+            "danceability": 6.535,
+            "instrumentalness": 0,
+            "liveness": 0.246,
+            "loudness": -3.804,
+            "speechiness": 0.281,
+            "time_signature": 5,
+            "happiness": 4.042
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "Shell Shocked (feat. Kill the Noise & Madsonik) - From \"Teenage Mutant Ninja Turtles\"",
+        "Artist": "Juicy J, Wiz Khalifa, Ty Dolla $ign, Kill The Noise, Madsonik",
+        "Key": "2A",
+        "Energy": 8.334999999999999,
+        "Popularity": 6.94,
+        "BPM": 83,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Hip Hop",
+            "Pop",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "7zBQRGpYImAdIZc97FNj3V",
+            "explicit": false,
+            "album": "Shell Shocked (feat. Kill the Noise & Madsonik) [From \"Teenage Mutant Ninja Turtles\"]",
+            "release_date": "2014-07-22",
+            "genres": [
+                "crunk",
+                "memphis hip hop",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap",
+                "hip hop",
+                "pittsburgh rap",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap",
+                "hip hop",
+                "pop rap",
+                "r&b",
+                "southern hip hop",
+                "trap",
+                "trap soul",
+                "brostep",
+                "edm",
+                "electro house",
+                "fidget house"
+            ],
+            "duration": 206567,
+            "acousticness": 0.0111,
+            "danceability": 6.364,
+            "instrumentalness": 0,
+            "liveness": 0.174,
+            "loudness": -5.668,
+            "speechiness": 0.0755,
+            "time_signature": 4,
+            "happiness": 5.131
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "Go Hunt Your Dream",
+        "Artist": "Fearless Motivation",
+        "Key": "3B",
+        "Energy": 8.695,
+        "Popularity": 4.87,
+        "BPM": 88,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2z8ZQQoQayPDvKaVQl7Nkf",
+            "explicit": false,
+            "album": "Go Hunt Your Dream",
+            "release_date": "2019-06-30",
+            "genres": [
+                "hard motivation",
+                "motivation"
+            ],
+            "duration": 245709,
+            "acousticness": 0.00234,
+            "danceability": 4.734999999999999,
+            "instrumentalness": 0.00227,
+            "liveness": 0.106,
+            "loudness": -5.792,
+            "speechiness": 0.135,
+            "time_signature": 4,
+            "happiness": 3.799
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "Of Hopes And Fears",
+        "Artist": "Immunity",
+        "Key": "3B",
+        "Energy": 9.253,
+        "Popularity": 4.15,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "5mIS8DED0axDrzzxQ3niE8",
+            "explicit": false,
+            "album": "Breathe",
+            "release_date": "2022-08-12",
+            "genres": [],
+            "duration": 210300,
+            "acousticness": 0.000195,
+            "danceability": 3.565,
+            "instrumentalness": 4.5e-05,
+            "liveness": 0.126,
+            "loudness": -5.279,
+            "speechiness": 0.0801,
+            "time_signature": 4,
+            "happiness": 4.798
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "Still Waiting",
+        "Artist": "Sum 41",
+        "Key": "9B",
+        "Energy": 9.549999999999999,
+        "Popularity": 7.66,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0jqK7sGTLsHPkQrrcrGuKD",
+            "explicit": true,
+            "album": "Does This Look Infected?",
+            "release_date": "2002-01-01",
+            "genres": [
+                "alternative metal",
+                "canadian pop punk",
+                "canadian punk",
+                "modern rock",
+                "nu metal",
+                "pop punk",
+                "post-grunge",
+                "punk",
+                "rock"
+            ],
+            "duration": 158733,
+            "acousticness": 0.00105,
+            "danceability": 4.879,
+            "instrumentalness": 3.63e-05,
+            "liveness": 0.272,
+            "loudness": -4.918,
+            "speechiness": 0.26,
+            "time_signature": 4,
+            "happiness": 6.040000000000001
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "Courtesy Call",
+        "Artist": "Thousand Foot Krutch",
+        "Key": "1A",
+        "Energy": 6.7330000000000005,
+        "Popularity": 1.0,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "4m5FMVGO6GELhcL0byhQj9",
+            "explicit": false,
+            "album": "The End Is Where We Begin",
+            "release_date": "2014-12-03",
+            "genres": [
+                "alternative metal",
+                "canadian ccm",
+                "canadian metal",
+                "canadian rock",
+                "christian alternative rock",
+                "christian rock",
+                "rap metal"
+            ],
+            "duration": 236898,
+            "acousticness": 0.00402,
+            "danceability": 5.788,
+            "instrumentalness": 0,
+            "liveness": 0.0822,
+            "loudness": -5.145,
+            "speechiness": 0.0812,
+            "time_signature": 4,
+            "happiness": 5.005
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "Bed of Nails",
+        "Artist": "Neko Fuzz, Barbasauce",
+        "Key": "6B",
+        "Energy": 7.3,
+        "Popularity": 4.6,
+        "BPM": 86,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "1drGUJR281HSpGvXIJVBzx",
+            "explicit": false,
+            "album": "Rawk Album 1.0",
+            "release_date": "2019-10-07",
+            "genres": [],
+            "duration": 203840,
+            "acousticness": 4.55e-05,
+            "danceability": 5.293,
+            "instrumentalness": 0.0188,
+            "liveness": 0.0895,
+            "loudness": -10.173,
+            "speechiness": 0.0411,
+            "time_signature": 4,
+            "happiness": 6.58
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "GO!",
+        "Artist": "LaLion",
+        "Key": "4A",
+        "Energy": 8.911,
+        "Popularity": 2.8899999999999997,
+        "BPM": 89,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "7gnZJP4kpR5IIzIhhDupum",
+            "explicit": false,
+            "album": "GO!",
+            "release_date": "2022-01-27",
+            "genres": [],
+            "duration": 143659,
+            "acousticness": 0.0646,
+            "danceability": 6.040000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.591,
+            "loudness": -5.488,
+            "speechiness": 0.0928,
+            "time_signature": 4,
+            "happiness": 5.824
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "Fed Up",
+        "Artist": "Bazanji",
+        "Key": "9A",
+        "Energy": 8.596,
+        "Popularity": 1.18,
+        "BPM": 142,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "23SOLLrMMW31ebUFfuGNW6",
+            "explicit": true,
+            "album": "Mixed Feelings",
+            "release_date": "2017-11-18",
+            "genres": [
+                "indie pop rap"
+            ],
+            "duration": 160084,
+            "acousticness": 0.28,
+            "danceability": 7.912,
+            "instrumentalness": 0,
+            "liveness": 0.117,
+            "loudness": -6.044,
+            "speechiness": 0.209,
+            "time_signature": 4,
+            "happiness": 4.33
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Closing The Wound",
+        "Artist": "Lift The Curse",
+        "Key": "10B",
+        "Energy": 9.82,
+        "Popularity": 4.51,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2020s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "1k1yhHj5QU8yIuuOjgfmNY",
+            "explicit": true,
+            "album": "Closing The Wound",
+            "release_date": "2023-02-17",
+            "genres": [],
+            "duration": 237176,
+            "acousticness": 0.000218,
+            "danceability": 3.601,
+            "instrumentalness": 0,
+            "liveness": 0.0674,
+            "loudness": -4.219,
+            "speechiness": 0.529,
+            "time_signature": 4,
+            "happiness": 1.4599
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "You Can't Stop Me",
+        "Artist": "Andy Mineo",
+        "Key": "5A",
+        "Energy": 8.434,
+        "Popularity": 1.0,
+        "BPM": 146,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "0WwrwEmAXGy6keX7noxBYO",
+            "explicit": false,
+            "album": "Never Land",
+            "release_date": "2014-01-28",
+            "genres": [
+                "christian hip hop"
+            ],
+            "duration": 239962,
+            "acousticness": 0.046,
+            "danceability": 7.93,
+            "instrumentalness": 0,
+            "liveness": 0.266,
+            "loudness": -4.615,
+            "speechiness": 0.159,
+            "time_signature": 4,
+            "happiness": 5.158
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "Red Nation",
+        "Artist": "The Game, Lil Wayne",
+        "Key": "10B",
+        "Energy": 9.001,
+        "Popularity": 6.76,
+        "BPM": 83,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Hip Hop",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "2sYUGgzQfHQ6lOWzbrny8Z",
+            "explicit": true,
+            "album": "The R.E.D. Album",
+            "release_date": "2011-01-01",
+            "genres": [
+                "gangster rap",
+                "hip hop",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap",
+                "hip hop",
+                "new orleans rap",
+                "pop rap",
+                "rap",
+                "trap"
+            ],
+            "duration": 229480,
+            "acousticness": 0.0922,
+            "danceability": 4.6450000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.446,
+            "loudness": -3.303,
+            "speechiness": 0.317,
+            "time_signature": 4,
+            "happiness": 4.042
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "Undead",
+        "Artist": "Hollywood Undead",
+        "Key": "10A",
+        "Energy": 9.487,
+        "Popularity": 1.0,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "4U0p10TUdRyhQ06ZqGAtxx",
+            "explicit": true,
+            "album": "Swan Songs",
+            "release_date": "2008",
+            "genres": [
+                "alternative metal",
+                "modern rock",
+                "post-grunge",
+                "rap metal",
+                "rap rock"
+            ],
+            "duration": 265053,
+            "acousticness": 0.0138,
+            "danceability": 5.6080000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.261,
+            "loudness": -5.185,
+            "speechiness": 0.106,
+            "time_signature": 4,
+            "happiness": 5.365
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "I Go Fuckin' Psycho",
+        "Artist": "BLANK",
+        "Key": "1A",
+        "Energy": 7.633,
+        "Popularity": 1.0,
+        "BPM": 91,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "4WVPpEGS7FX6TVkV0pHskN",
+            "explicit": true,
+            "album": "Shut The Fuck Up",
+            "release_date": "2017-07-13",
+            "genres": [],
+            "duration": 223190,
+            "acousticness": 0.133,
+            "danceability": 6.7330000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.34,
+            "loudness": -2.875,
+            "speechiness": 0.185,
+            "time_signature": 4,
+            "happiness": 1.909
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "Just Jump",
+        "Artist": "LaLion",
+        "Key": "11B",
+        "Energy": 9.073,
+        "Popularity": 4.33,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2tlp86BtVMeIHkXY8Q2nDD",
+            "explicit": true,
+            "album": "Just Jump",
+            "release_date": "2023-05-12",
+            "genres": [],
+            "duration": 213519,
+            "acousticness": 0.168,
+            "danceability": 7.093,
+            "instrumentalness": 0,
+            "liveness": 0.615,
+            "loudness": -6.031,
+            "speechiness": 0.083,
+            "time_signature": 4,
+            "happiness": 6.327999999999999
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "War Of Change",
+        "Artist": "Thousand Foot Krutch",
+        "Key": "7A",
+        "Energy": 8.983,
+        "Popularity": 1.0,
+        "BPM": 104,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "67EfIBpKlV37lSIDOs77AN",
+            "explicit": false,
+            "album": "The End Is Where We Begin",
+            "release_date": "2014-12-03",
+            "genres": [
+                "alternative metal",
+                "canadian ccm",
+                "canadian metal",
+                "canadian rock",
+                "christian alternative rock",
+                "christian rock",
+                "rap metal"
+            ],
+            "duration": 231665,
+            "acousticness": 0.00264,
+            "danceability": 5.779,
+            "instrumentalness": 0.000502,
+            "liveness": 0.0657,
+            "loudness": -4.417,
+            "speechiness": 0.0323,
+            "time_signature": 4,
+            "happiness": 6.589
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "Pull Up",
+        "Artist": "Tundra",
+        "Key": "1B",
+        "Energy": 7.687,
+        "Popularity": 4.42,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5ATxP74ChBhhQBUNzPByGv",
+            "explicit": true,
+            "album": "Pull Up",
+            "release_date": "2022-09-22",
+            "genres": [],
+            "duration": 122775,
+            "acousticness": 0.00955,
+            "danceability": 6.922000000000001,
+            "instrumentalness": 5.43e-05,
+            "liveness": 0.0852,
+            "loudness": -6.083,
+            "speechiness": 0.0449,
+            "time_signature": 4,
+            "happiness": 8.317
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "Losing Control",
+        "Artist": "Villain of the Story",
+        "Key": "1B",
+        "Energy": 9.693999999999999,
+        "Popularity": 6.49,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "10K74dbHDqw7hmtSmLfs7t",
+            "explicit": false,
+            "album": "Divided",
+            "release_date": "2022-07-22",
+            "genres": [
+                "american metalcore",
+                "gymcore",
+                "metalcore"
+            ],
+            "duration": 208920,
+            "acousticness": 0.00101,
+            "danceability": 5.932,
+            "instrumentalness": 0,
+            "liveness": 0.436,
+            "loudness": -4.616,
+            "speechiness": 0.0719,
+            "time_signature": 4,
+            "happiness": 5.266
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "We Are",
+        "Artist": "Hollywood Undead",
+        "Key": "10B",
+        "Energy": 9.802,
+        "Popularity": 1.09,
+        "BPM": 87,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "5txqGXUFEWkbPHE1NznsWe",
+            "explicit": true,
+            "album": "Notes From The Underground",
+            "release_date": "2012-01-01",
+            "genres": [
+                "alternative metal",
+                "modern rock",
+                "post-grunge",
+                "rap metal",
+                "rap rock"
+            ],
+            "duration": 274387,
+            "acousticness": 0.00189,
+            "danceability": 5.401,
+            "instrumentalness": 1.36e-06,
+            "liveness": 0.117,
+            "loudness": -2.123,
+            "speechiness": 0.0801,
+            "time_signature": 4,
+            "happiness": 3.133
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "Brawl",
+        "Artist": "Chubbz, Hari Upfront",
+        "Key": "1A",
+        "Energy": 9.235,
+        "Popularity": 3.88,
+        "BPM": 145,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3pD5e1q5cK8ShQcfHXaXeJ",
+            "explicit": true,
+            "album": "The Cap & The Hoodie",
+            "release_date": "2023-05-05",
+            "genres": [
+                "anime rap",
+                "anime drill"
+            ],
+            "duration": 164258,
+            "acousticness": 0.234,
+            "danceability": 8.137,
+            "instrumentalness": 1.2e-06,
+            "liveness": 0.0701,
+            "loudness": -2.661,
+            "speechiness": 0.287,
+            "time_signature": 4,
+            "happiness": 8.379999999999999
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "The Hatred",
+        "Artist": "Snowgoons, Singapore Kane, Slaine, Lord Lhus",
+        "Key": "3A",
+        "Energy": 9.693999999999999,
+        "Popularity": 4.96,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2iP3AaNoQLvwDZ3sxPfRVI",
+            "explicit": true,
+            "album": "The Best of Snowgoons",
+            "release_date": "2015-08-21",
+            "genres": [
+                "boston hip hop",
+                "flick hop",
+                "underground rap"
+            ],
+            "duration": 232680,
+            "acousticness": 0.0562,
+            "danceability": 5.257,
+            "instrumentalness": 0,
+            "liveness": 0.765,
+            "loudness": -1.953,
+            "speechiness": 0.323,
+            "time_signature": 4,
+            "happiness": 5.6080000000000005
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "Soldier",
+        "Artist": "NEFFEX",
+        "Key": "7B",
+        "Energy": 7.885,
+        "Popularity": 6.76,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "6xbZaeFj8BPE3HGXF7VVjX",
+            "explicit": true,
+            "album": "Fight Back: The Collection",
+            "release_date": "2018-11-30",
+            "genres": [],
+            "duration": 216000,
+            "acousticness": 0.169,
+            "danceability": 7.282,
+            "instrumentalness": 0,
+            "liveness": 0.39,
+            "loudness": -4.562,
+            "speechiness": 0.291,
+            "time_signature": 4,
+            "happiness": 6.301
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "Last Resort",
+        "Artist": "Papa Roach",
+        "Key": "12A",
+        "Energy": 9.01,
+        "Popularity": 8.469999999999999,
+        "BPM": 91,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5W8YXBz9MTIDyrpYaCg2Ky",
+            "explicit": true,
+            "album": "Infest",
+            "release_date": "2001-04-25",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "rap metal",
+                "rap rock",
+                "rock"
+            ],
+            "duration": 199907,
+            "acousticness": 0.000481,
+            "danceability": 6.301,
+            "instrumentalness": 0.00082,
+            "liveness": 0.201,
+            "loudness": -3.719,
+            "speechiness": 0.0603,
+            "time_signature": 4,
+            "happiness": 7.228
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "81 (Thallium)",
+        "Artist": "Above Snakes",
+        "Key": "3B",
+        "Energy": 9.523,
+        "Popularity": 4.96,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "4Jog077ySdARc65pWqtS4r",
+            "explicit": false,
+            "album": "81 (Thallium)",
+            "release_date": "2023-02-17",
+            "genres": [],
+            "duration": 173305,
+            "acousticness": 1.52e-05,
+            "danceability": 5.644,
+            "instrumentalness": 0.00216,
+            "liveness": 0.376,
+            "loudness": -3.331,
+            "speechiness": 0.0459,
+            "time_signature": 4,
+            "happiness": 4.933
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "Live To Win",
+        "Artist": "Paul Stanley",
+        "Key": "7A",
+        "Energy": 9.19,
+        "Popularity": 5.7700000000000005,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "74inHQGjQj6w630tZ9wb2J",
+            "explicit": false,
+            "album": "Live To Win",
+            "release_date": "2006-01-01",
+            "genres": [
+                "glam metal",
+                "hard rock"
+            ],
+            "duration": 187360,
+            "acousticness": 0.0132,
+            "danceability": 5.869000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.578,
+            "loudness": -3.879,
+            "speechiness": 0.0639,
+            "time_signature": 4,
+            "happiness": 5.437
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "Out of My Way",
+        "Artist": "Onlap",
+        "Key": "3A",
+        "Energy": 9.712,
+        "Popularity": 4.87,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "152yLjLT2T0W8kf2hutvo1",
+            "explicit": false,
+            "album": "The Awakening",
+            "release_date": "2012-12-31",
+            "genres": [
+                "gymcore"
+            ],
+            "duration": 224596,
+            "acousticness": 0.00116,
+            "danceability": 4.141,
+            "instrumentalness": 0,
+            "liveness": 0.226,
+            "loudness": -2.734,
+            "speechiness": 0.129,
+            "time_signature": 4,
+            "happiness": 5.329
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "Go Hard or Go Home",
+        "Artist": "Wiz Khalifa, Iggy Azalea",
+        "Key": "12A",
+        "Energy": 7.669,
+        "Popularity": 6.76,
+        "BPM": 84,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Hip Hop",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "4IXiFMhtXEbSEG8UoAeTwD",
+            "explicit": false,
+            "album": "Go Hard or Go Home",
+            "release_date": "2015-02-17",
+            "genres": [
+                "hip hop",
+                "pittsburgh rap",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap",
+                "australian hip hop",
+                "dance pop",
+                "pop"
+            ],
+            "duration": 232773,
+            "acousticness": 0.00293,
+            "danceability": 6.859,
+            "instrumentalness": 1.2e-05,
+            "liveness": 0.217,
+            "loudness": -5.067,
+            "speechiness": 0.0408,
+            "time_signature": 4,
+            "happiness": 4.474
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "Warrior (Ultimate Fighter Theme)",
+        "Artist": "Bonez",
+        "Key": "11A",
+        "Energy": 9.001,
+        "Popularity": 5.05,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "3vTweVhyRgJIjthsLnynQs",
+            "explicit": false,
+            "album": "Warrior (Ultimate Fighter Theme)",
+            "release_date": "2015-02-04",
+            "genres": [],
+            "duration": 200538,
+            "acousticness": 0.0166,
+            "danceability": 6.508,
+            "instrumentalness": 0,
+            "liveness": 0.469,
+            "loudness": -5.793,
+            "speechiness": 0.0431,
+            "time_signature": 4,
+            "happiness": 4.978
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "False Pretense",
+        "Artist": "The Red Jumpsuit Apparatus",
+        "Key": "8A",
+        "Energy": 9.370000000000001,
+        "Popularity": 7.03,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s",
+            "Rock",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2ZICF8SFI5tHttaLJKMY1X",
+            "explicit": false,
+            "album": "Don't You Fake It",
+            "release_date": "2006-01-01",
+            "genres": [
+                "alternative metal",
+                "neon pop punk",
+                "pop punk",
+                "post-grunge",
+                "screamo"
+            ],
+            "duration": 149640,
+            "acousticness": 0.00137,
+            "danceability": 5.581,
+            "instrumentalness": 0,
+            "liveness": 0.152,
+            "loudness": -2.689,
+            "speechiness": 0.0474,
+            "time_signature": 4,
+            "happiness": 8.047
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "Pray For Yourself",
+        "Artist": "Fear of Water, Marcos Leal, Ill Niño, Travis Montgomery, Kill The Lights",
+        "Key": "10B",
+        "Energy": 9.298,
+        "Popularity": 4.33,
+        "BPM": 106,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2020s",
+            "Rock",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "0nljI5fz7m9venyB86zBye",
+            "explicit": true,
+            "album": "Pray For Yourself",
+            "release_date": "2022-12-20",
+            "genres": [
+                "alternative metal",
+                "industrial metal",
+                "latin metal",
+                "nu metal"
+            ],
+            "duration": 256698,
+            "acousticness": 0.000129,
+            "danceability": 5.302,
+            "instrumentalness": 0,
+            "liveness": 0.236,
+            "loudness": -3.569,
+            "speechiness": 0.0641,
+            "time_signature": 4,
+            "happiness": 2.809
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "Under The Knife",
+        "Artist": "Rise Against",
+        "Key": "6A",
+        "Energy": 9.856,
+        "Popularity": 6.67,
+        "BPM": 104,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "7ycK2uijskzxp4cGpGNoCi",
+            "explicit": false,
+            "album": "The Sufferer & The Witness",
+            "release_date": "2006-01-01",
+            "genres": [
+                "alternative metal",
+                "chicago hardcore",
+                "chicago punk",
+                "hardcore punk",
+                "modern rock",
+                "nu metal",
+                "pop punk",
+                "post-grunge",
+                "punk"
+            ],
+            "duration": 165173,
+            "acousticness": 0.00052,
+            "danceability": 6.148,
+            "instrumentalness": 2.48e-06,
+            "liveness": 0.044,
+            "loudness": -3.847,
+            "speechiness": 0.0626,
+            "time_signature": 4,
+            "happiness": 5.716
+        }
+    },
+    {
+        "#": 52,
+        "Track Title": "This My Club (DJ Lil Prince Remix)",
+        "Artist": "Prophit",
+        "Key": "2A",
+        "Energy": 9.289,
+        "Popularity": 4.33,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "1rfgs4royNOYxw269vuTTT",
+            "explicit": true,
+            "album": "This My Club (DJ Lil Prince Remix) - Single",
+            "release_date": "2011-05-26",
+            "genres": [],
+            "duration": 186541,
+            "acousticness": 0.159,
+            "danceability": 8.668,
+            "instrumentalness": 0,
+            "liveness": 0.0546,
+            "loudness": -5.164,
+            "speechiness": 0.0419,
+            "time_signature": 4,
+            "happiness": 6.67
+        }
+    },
+    {
+        "#": 53,
+        "Track Title": "War",
+        "Artist": "Sum 41",
+        "Key": "3B",
+        "Energy": 9.091000000000001,
+        "Popularity": 1.0,
+        "BPM": 88,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "4lUHxbFilSwlkl52me8x1W",
+            "explicit": false,
+            "album": "13 Voices",
+            "release_date": "2016-10-07",
+            "genres": [
+                "alternative metal",
+                "canadian pop punk",
+                "canadian punk",
+                "modern rock",
+                "nu metal",
+                "pop punk",
+                "post-grunge",
+                "punk",
+                "rock"
+            ],
+            "duration": 209667,
+            "acousticness": 0.000811,
+            "danceability": 4.519,
+            "instrumentalness": 0,
+            "liveness": 0.313,
+            "loudness": -4.105,
+            "speechiness": 0.0491,
+            "time_signature": 4,
+            "happiness": 5.851
+        }
+    },
+    {
+        "#": 54,
+        "Track Title": "Greatest",
+        "Artist": "NEFFEX",
+        "Key": "10B",
+        "Energy": 8.686,
+        "Popularity": 6.13,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2SxaA6dhE2lEP1faOFPCu8",
+            "explicit": true,
+            "album": "Fight Back: The Collection",
+            "release_date": "2018-11-30",
+            "genres": [],
+            "duration": 176000,
+            "acousticness": 0.247,
+            "danceability": 8.443,
+            "instrumentalness": 0,
+            "liveness": 0.377,
+            "loudness": -3.508,
+            "speechiness": 0.133,
+            "time_signature": 4,
+            "happiness": 5.158
+        }
+    },
+    {
+        "#": 55,
+        "Track Title": "Fallen Leaves",
+        "Artist": "Billy Talent",
+        "Key": "5B",
+        "Energy": 8.299,
+        "Popularity": 7.3,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3jUTjCISntIUFL8jnAjzgc",
+            "explicit": false,
+            "album": "Billy Talent II",
+            "release_date": "2006-06-23",
+            "genres": [
+                "canadian punk"
+            ],
+            "duration": 199200,
+            "acousticness": 0.00105,
+            "danceability": 7.39,
+            "instrumentalness": 2.08e-06,
+            "liveness": 0.0677,
+            "loudness": -4.079,
+            "speechiness": 0.0431,
+            "time_signature": 4,
+            "happiness": 9.226
+        }
+    },
+    {
+        "#": 56,
+        "Track Title": "Down",
+        "Artist": "Above Snakes",
+        "Key": "10B",
+        "Energy": 9.64,
+        "Popularity": 4.42,
+        "BPM": 89,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "02wXqPYB92VrIAqVdbFGqU",
+            "explicit": false,
+            "album": "Down",
+            "release_date": "2022-10-07",
+            "genres": [],
+            "duration": 199708,
+            "acousticness": 0.000345,
+            "danceability": 5.761,
+            "instrumentalness": 4.32e-06,
+            "liveness": 0.323,
+            "loudness": -3.41,
+            "speechiness": 0.0976,
+            "time_signature": 4,
+            "happiness": 5.455
+        }
+    },
+    {
+        "#": 57,
+        "Track Title": "Take Your Crown",
+        "Artist": "BLANK",
+        "Key": "12B",
+        "Energy": 9.487,
+        "Popularity": 1.0,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1CmVAFQMwKfIOht1KYSNQR",
+            "explicit": true,
+            "album": "Shut The Fuck Up",
+            "release_date": "2017-07-13",
+            "genres": [],
+            "duration": 162717,
+            "acousticness": 0.394,
+            "danceability": 6.949,
+            "instrumentalness": 0,
+            "liveness": 0.246,
+            "loudness": -2.155,
+            "speechiness": 0.349,
+            "time_signature": 4,
+            "happiness": 8.497
+        }
+    },
+    {
+        "#": 58,
+        "Track Title": "Blow Me Away",
+        "Artist": "Breaking Benjamin",
+        "Key": "7B",
+        "Energy": 9.559,
+        "Popularity": 5.05,
+        "BPM": 99,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "0V5lmry5Citfw2drBNpEMy",
+            "explicit": false,
+            "album": "Halo 2, Vol. 1 (Original Soundtrack)",
+            "release_date": "2004-11-09",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "post-grunge"
+            ],
+            "duration": 205333,
+            "acousticness": 0.00058,
+            "danceability": 5.824,
+            "instrumentalness": 0.00165,
+            "liveness": 0.14,
+            "loudness": -4.126,
+            "speechiness": 0.0498,
+            "time_signature": 4,
+            "happiness": 5.419
+        }
+    },
+    {
+        "#": 59,
+        "Track Title": "Not Gonna Die",
+        "Artist": "Skillet",
+        "Key": "7A",
+        "Energy": 9.577,
+        "Popularity": 7.12,
+        "BPM": 86,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "2jfk3m8nq5IvB35s2xIs1O",
+            "explicit": false,
+            "album": "Rise (Deluxe Edition)",
+            "release_date": "2013-06-21",
+            "genres": [
+                "alternative metal",
+                "christian alternative rock",
+                "christian music",
+                "christian rock",
+                "post-grunge"
+            ],
+            "duration": 225280,
+            "acousticness": 0.0106,
+            "danceability": 5.005,
+            "instrumentalness": 0,
+            "liveness": 0.281,
+            "loudness": -2.463,
+            "speechiness": 0.0704,
+            "time_signature": 4,
+            "happiness": 5.2749999999999995
+        }
+    },
+    {
+        "#": 60,
+        "Track Title": "I WANNA BE CONTROLLED",
+        "Artist": "HIGHWAYVES",
+        "Key": "4B",
+        "Energy": 8.893,
+        "Popularity": 3.88,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "3xIGNetnfoPInhCrRANrBf",
+            "explicit": false,
+            "album": "I WANNA BE CONTROLLED",
+            "release_date": "2023-05-19",
+            "genres": [],
+            "duration": 252427,
+            "acousticness": 0.0709,
+            "danceability": 5.0680000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.0619,
+            "loudness": -5.875,
+            "speechiness": 0.053,
+            "time_signature": 4,
+            "happiness": 3.682
+        }
+    },
+    {
+        "#": 61,
+        "Track Title": "Not Afraid",
+        "Artist": "Eminem",
+        "Key": "8A",
+        "Energy": 9.586,
+        "Popularity": 8.379999999999999,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7Ie9W94M7OjPoZVV216Xus",
+            "explicit": true,
+            "album": "Recovery",
+            "release_date": "2010-06-18",
+            "genres": [
+                "detroit hip hop",
+                "hip hop",
+                "rap"
+            ],
+            "duration": 248133,
+            "acousticness": 0.529,
+            "danceability": 8.695,
+            "instrumentalness": 0,
+            "liveness": 0.205,
+            "loudness": -1.19,
+            "speechiness": 0.264,
+            "time_signature": 5,
+            "happiness": 7.0120000000000005
+        }
+    },
+    {
+        "#": 62,
+        "Track Title": "Can You Feel My Heart",
+        "Artist": "Bring Me The Horizon",
+        "Key": "12A",
+        "Energy": 8.731,
+        "Popularity": 8.290000000000001,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0WSa1sucoNRcEeULlZVQXj",
+            "explicit": true,
+            "album": "Sempiternal (Expanded Edition)",
+            "release_date": "2013-04-01",
+            "genres": [
+                "melodic metalcore",
+                "metalcore",
+                "modern rock",
+                "pop punk",
+                "rock",
+                "uk metalcore"
+            ],
+            "duration": 228147,
+            "acousticness": 0.00201,
+            "danceability": 2.3499999999999996,
+            "instrumentalness": 0.194,
+            "liveness": 0.387,
+            "loudness": -2.827,
+            "speechiness": 0.0595,
+            "time_signature": 5,
+            "happiness": 4.186
+        }
+    },
+    {
+        "#": 63,
+        "Track Title": "Lets Get This Started Again",
+        "Artist": "Live My Last",
+        "Key": "9B",
+        "Energy": 9.082,
+        "Popularity": 5.5,
+        "BPM": 103,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "4ofZe3eFWlNKC0FYEFOSvG",
+            "explicit": false,
+            "album": "Convictions",
+            "release_date": "2012-12-20",
+            "genres": [
+                "gymcore"
+            ],
+            "duration": 198365,
+            "acousticness": 0.0049,
+            "danceability": 5.833,
+            "instrumentalness": 0,
+            "liveness": 0.15,
+            "loudness": -1.819,
+            "speechiness": 0.134,
+            "time_signature": 4,
+            "happiness": 6.175
+        }
+    },
+    {
+        "#": 64,
+        "Track Title": "Headstrong",
+        "Artist": "Trapt",
+        "Key": "12A",
+        "Energy": 9.064,
+        "Popularity": 7.66,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "1AEYT6VxrxXPMoQUxsY0E4",
+            "explicit": true,
+            "album": "Trapt",
+            "release_date": "2002-11-05",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "post-grunge"
+            ],
+            "duration": 285570,
+            "acousticness": 0.000172,
+            "danceability": 5.428,
+            "instrumentalness": 2.78e-06,
+            "liveness": 0.189,
+            "loudness": -5.819,
+            "speechiness": 0.117,
+            "time_signature": 4,
+            "happiness": 5.806
+        }
+    },
+    {
+        "#": 65,
+        "Track Title": "Wake Me Up",
+        "Artist": "zebrahead",
+        "Key": "3B",
+        "Energy": 9.829,
+        "Popularity": 4.6,
+        "BPM": 104,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "3mSZz9k6TzRpin74YEipgV",
+            "explicit": false,
+            "album": "Broadcast to the World",
+            "release_date": "2006",
+            "genres": [
+                "funk metal",
+                "skate punk"
+            ],
+            "duration": 229773,
+            "acousticness": 0.000593,
+            "danceability": 5.707,
+            "instrumentalness": 3.66e-06,
+            "liveness": 0.411,
+            "loudness": -3.865,
+            "speechiness": 0.124,
+            "time_signature": 4,
+            "happiness": 5.041
+        }
+    },
+    {
+        "#": 66,
+        "Track Title": "Time of Dying",
+        "Artist": "Three Days Grace",
+        "Key": "8A",
+        "Energy": 8.857,
+        "Popularity": 6.94,
+        "BPM": 99,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "6gPd6brcBXlbGdy1obe234",
+            "explicit": false,
+            "album": "One-X",
+            "release_date": "2006-06-13",
+            "genres": [
+                "alternative metal",
+                "canadian metal",
+                "canadian rock",
+                "nu metal",
+                "post-grunge",
+                "rock"
+            ],
+            "duration": 186373,
+            "acousticness": 0.00105,
+            "danceability": 3.754,
+            "instrumentalness": 0,
+            "liveness": 0.52,
+            "loudness": -3.668,
+            "speechiness": 0.0567,
+            "time_signature": 4,
+            "happiness": 5.0680000000000005
+        }
+    },
+    {
+        "#": 67,
+        "Track Title": "Isis (feat. Logic)",
+        "Artist": "Joyner Lucas, Logic",
+        "Key": "3B",
+        "Energy": 9.424000000000001,
+        "Popularity": 7.4799999999999995,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2020s",
+            "Hip Hop",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4h7qcXBtaOJnmrapxoWxGf",
+            "explicit": true,
+            "album": "ADHD",
+            "release_date": "2020-03-27",
+            "genres": [
+                "boston hip hop",
+                "hip hop",
+                "pop rap",
+                "rap",
+                "conscious hip hop",
+                "dmv rap",
+                "hip hop",
+                "pop rap",
+                "rap"
+            ],
+            "duration": 236501,
+            "acousticness": 0.206,
+            "danceability": 8.956,
+            "instrumentalness": 0,
+            "liveness": 0.262,
+            "loudness": -3.931,
+            "speechiness": 0.167,
+            "time_signature": 4,
+            "happiness": 7.822
+        }
+    },
+    {
+        "#": 68,
+        "Track Title": "The Awakening",
+        "Artist": "Onlap",
+        "Key": "12B",
+        "Energy": 9.766,
+        "Popularity": 5.7700000000000005,
+        "BPM": 102,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "0X0wvZuhTcTU03Roz9fPJA",
+            "explicit": false,
+            "album": "The Awakening",
+            "release_date": "2011-02-04",
+            "genres": [
+                "gymcore"
+            ],
+            "duration": 238379,
+            "acousticness": 0.000385,
+            "danceability": 5.815,
+            "instrumentalness": 1.8e-05,
+            "liveness": 0.0932,
+            "loudness": -4.085,
+            "speechiness": 0.0696,
+            "time_signature": 4,
+            "happiness": 4.402
+        }
+    },
+    {
+        "#": 69,
+        "Track Title": "Bloodline",
+        "Artist": "Awake At Last",
+        "Key": "7A",
+        "Energy": 9.676,
+        "Popularity": 4.33,
+        "BPM": 89,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2JFavDC3z5uk0s6TFwt3Q6",
+            "explicit": false,
+            "album": "Bloodline",
+            "release_date": "2022-04-29",
+            "genres": [
+                "gymcore",
+                "post-screamo"
+            ],
+            "duration": 229000,
+            "acousticness": 0.000155,
+            "danceability": 4.141,
+            "instrumentalness": 0,
+            "liveness": 0.168,
+            "loudness": -2.96,
+            "speechiness": 0.105,
+            "time_signature": 4,
+            "happiness": 4.519
+        }
+    },
+    {
+        "#": 70,
+        "Track Title": "Point of No Return",
+        "Artist": "Immortal Technique",
+        "Key": "7A",
+        "Energy": 8.469999999999999,
+        "Popularity": 1.09,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "5KUiLOgwUB2Y8dzTBv8j7R",
+            "explicit": true,
+            "album": "Revolutionary Vol. 2",
+            "release_date": "2003-11-18",
+            "genres": [
+                "conscious hip hop",
+                "east coast hip hop",
+                "hardcore hip hop",
+                "harlem hip hop",
+                "political hip hop"
+            ],
+            "duration": 241827,
+            "acousticness": 0.296,
+            "danceability": 6.228999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.325,
+            "loudness": -7.032,
+            "speechiness": 0.475,
+            "time_signature": 5,
+            "happiness": 5.68
+        }
+    },
+    {
+        "#": 71,
+        "Track Title": "Whatever It Takes",
+        "Artist": "Hollywood Undead",
+        "Key": "9B",
+        "Energy": 8.758,
+        "Popularity": 6.58,
+        "BPM": 87,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "2ouOVzQTzSsLa2OH1Zxhvu",
+            "explicit": true,
+            "album": "Five",
+            "release_date": "2017-10-27",
+            "genres": [
+                "alternative metal",
+                "modern rock",
+                "post-grunge",
+                "rap metal",
+                "rap rock"
+            ],
+            "duration": 187654,
+            "acousticness": 0.00207,
+            "danceability": 7.174,
+            "instrumentalness": 1.12e-05,
+            "liveness": 0.148,
+            "loudness": -3.426,
+            "speechiness": 0.034,
+            "time_signature": 4,
+            "happiness": 5.247999999999999
+        }
+    },
+    {
+        "#": 72,
+        "Track Title": "Reminder",
+        "Artist": "2Scratch, Young Jae",
+        "Key": "5A",
+        "Energy": 7.9030000000000005,
+        "Popularity": 5.59,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "6S7XekjbMtUQxhgySaIK8W",
+            "explicit": false,
+            "album": "Reminder",
+            "release_date": "2019-04-10",
+            "genres": [
+                "traprun"
+            ],
+            "duration": 291429,
+            "acousticness": 0.243,
+            "danceability": 6.535,
+            "instrumentalness": 4.05e-05,
+            "liveness": 0.144,
+            "loudness": -6.066,
+            "speechiness": 0.123,
+            "time_signature": 4,
+            "happiness": 3.691
+        }
+    },
+    {
+        "#": 73,
+        "Track Title": "Till I Collapse",
+        "Artist": "Eminem, Nate Dogg",
+        "Key": "3B",
+        "Energy": 8.623,
+        "Popularity": 8.83,
+        "BPM": 86,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s",
+            "Hip Hop",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "4xkOaSrkexMciUUogZKVTS",
+            "explicit": true,
+            "album": "The Eminem Show",
+            "release_date": "2002-05-26",
+            "genres": [
+                "detroit hip hop",
+                "hip hop",
+                "rap",
+                "g funk",
+                "gangster rap",
+                "hardcore hip hop",
+                "hip hop",
+                "west coast rap"
+            ],
+            "duration": 297787,
+            "acousticness": 0.0622,
+            "danceability": 5.932,
+            "instrumentalness": 0,
+            "liveness": 0.0816,
+            "loudness": -3.237,
+            "speechiness": 0.186,
+            "time_signature": 4,
+            "happiness": 1.9
+        }
+    },
+    {
+        "#": 74,
+        "Track Title": "From the Inside",
+        "Artist": "Hollow Point Heroes",
+        "Key": "12B",
+        "Energy": 9.352,
+        "Popularity": 1.0,
+        "BPM": 93,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "3OZ0YmANXXnladoGzqAml2",
+            "explicit": false,
+            "album": "Hollow Point Heroes",
+            "release_date": "2013-07-20",
+            "genres": [
+                "gymcore"
+            ],
+            "duration": 178373,
+            "acousticness": 0.036,
+            "danceability": 4.078,
+            "instrumentalness": 0,
+            "liveness": 0.177,
+            "loudness": -3.569,
+            "speechiness": 0.0724,
+            "time_signature": 4,
+            "happiness": 3.5469999999999997
+        }
+    },
+    {
+        "#": 75,
+        "Track Title": "Clear Eyes, Full Heart, Can't Lose",
+        "Artist": "T. Powell",
+        "Key": "3A",
+        "Energy": 8.929,
+        "Popularity": 6.31,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "7qK3sX9MNReAgUQ6jdTAWC",
+            "explicit": false,
+            "album": "Game Day Motivation",
+            "release_date": "2016-01-01",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 176488,
+            "acousticness": 0.549,
+            "danceability": 6.697,
+            "instrumentalness": 0,
+            "liveness": 0.267,
+            "loudness": -3.526,
+            "speechiness": 0.171,
+            "time_signature": 4,
+            "happiness": 6.138999999999999
+        }
+    },
+    {
+        "#": 76,
+        "Track Title": "I Want to Live",
+        "Artist": "Skillet",
+        "Key": "1A",
+        "Energy": 9.658,
+        "Popularity": 6.31,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "4Ahphc0UzRSoMpJRHgnGQK",
+            "explicit": false,
+            "album": "Unleashed",
+            "release_date": "2016-08-05",
+            "genres": [
+                "alternative metal",
+                "christian alternative rock",
+                "christian music",
+                "christian rock",
+                "post-grunge"
+            ],
+            "duration": 208827,
+            "acousticness": 0.00901,
+            "danceability": 5.0680000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.065,
+            "loudness": -3.063,
+            "speechiness": 0.0831,
+            "time_signature": 4,
+            "happiness": 6.093999999999999
+        }
+    },
+    {
+        "#": 77,
+        "Track Title": "Fearless Pt. II",
+        "Artist": "Lost Sky, Chris Linton",
+        "Key": "2B",
+        "Energy": 9.352,
+        "Popularity": 1.18,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "4VZH6OfxPy1nNE7KbtVKyK",
+            "explicit": false,
+            "album": "Fearless Pt. II",
+            "release_date": "2017-12-23",
+            "genres": [
+                "uk dance"
+            ],
+            "duration": 194182,
+            "acousticness": 0.282,
+            "danceability": 7.561,
+            "instrumentalness": 0.00147,
+            "liveness": 0.12,
+            "loudness": -4.279,
+            "speechiness": 0.0515,
+            "time_signature": 4,
+            "happiness": 3.898
+        }
+    },
+    {
+        "#": 78,
+        "Track Title": "Awake and Alive",
+        "Artist": "Skillet",
+        "Key": "12A",
+        "Energy": 9.450999999999999,
+        "Popularity": 6.040000000000001,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "0KCr0VngtbPhpbngIIfiLW",
+            "explicit": false,
+            "album": "Awake (Deluxe Edition)",
+            "release_date": "2009-08-24",
+            "genres": [
+                "alternative metal",
+                "christian alternative rock",
+                "christian music",
+                "christian rock",
+                "post-grunge"
+            ],
+            "duration": 209493,
+            "acousticness": 0.0425,
+            "danceability": 4.906000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.491,
+            "loudness": -2.983,
+            "speechiness": 0.0593,
+            "time_signature": 4,
+            "happiness": 6.1209999999999996
+        }
+    },
+    {
+        "#": 79,
+        "Track Title": "Welcome 2 Detroit",
+        "Artist": "Trick Trick, Eminem",
+        "Key": "2B",
+        "Energy": 8.100999999999999,
+        "Popularity": 6.58,
+        "BPM": 91,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "79t5idiRhbDB1oLaVcTVsD",
+            "explicit": true,
+            "album": "The People Vs.",
+            "release_date": "2005-01-01",
+            "genres": [
+                "detroit hip hop",
+                "detroit hip hop",
+                "hip hop",
+                "rap"
+            ],
+            "duration": 285453,
+            "acousticness": 0.16,
+            "danceability": 6.337,
+            "instrumentalness": 0,
+            "liveness": 0.619,
+            "loudness": -4.48,
+            "speechiness": 0.275,
+            "time_signature": 4,
+            "happiness": 6.22
+        }
+    },
+    {
+        "#": 80,
+        "Track Title": "FEEL NOTHING",
+        "Artist": "The Plot In You",
+        "Key": "12A",
+        "Energy": 8.425,
+        "Popularity": 7.75,
+        "BPM": 144,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "4xDwCYhobDehSBGUmd5H6Y",
+            "explicit": true,
+            "album": "DISPOSE",
+            "release_date": "2018-02-16",
+            "genres": [
+                "metalcore"
+            ],
+            "duration": 216827,
+            "acousticness": 0.00353,
+            "danceability": 5.032,
+            "instrumentalness": 0,
+            "liveness": 0.108,
+            "loudness": -5.307,
+            "speechiness": 0.0621,
+            "time_signature": 4,
+            "happiness": 3.0340000000000003
+        }
+    },
+    {
+        "#": 81,
+        "Track Title": "Best Day",
+        "Artist": "Electric Callboy, Sido",
+        "Key": "7B",
+        "Energy": 9.289,
+        "Popularity": 6.22,
+        "BPM": 107,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "6xrqktHyZEDvPJSEsxuwYz",
+            "explicit": false,
+            "album": "Best Day",
+            "release_date": "2015-02-20",
+            "genres": [
+                "comic metal",
+                "german metalcore",
+                "trancecore",
+                "german hip hop",
+                "german pop"
+            ],
+            "duration": 238213,
+            "acousticness": 5.08e-05,
+            "danceability": 5.851,
+            "instrumentalness": 1.47e-06,
+            "liveness": 0.262,
+            "loudness": -2.688,
+            "speechiness": 0.118,
+            "time_signature": 4,
+            "happiness": 3.088
+        }
+    },
+    {
+        "#": 82,
+        "Track Title": "No More Favors",
+        "Artist": "Jay Kill & The Hustle Standard",
+        "Key": "8B",
+        "Energy": 6.634,
+        "Popularity": 4.6899999999999995,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "5UDIJbA6a3epCgntdODPCl",
+            "explicit": true,
+            "album": "Becoming Animal",
+            "release_date": "2014-09-30",
+            "genres": [
+                "military rap"
+            ],
+            "duration": 287073,
+            "acousticness": 0.0135,
+            "danceability": 7.534,
+            "instrumentalness": 0,
+            "liveness": 0.112,
+            "loudness": -8.884,
+            "speechiness": 0.0332,
+            "time_signature": 4,
+            "happiness": 6.706
+        }
+    },
+    {
+        "#": 83,
+        "Track Title": "Satellite",
+        "Artist": "Rise Against",
+        "Key": "7A",
+        "Energy": 9.459999999999999,
+        "Popularity": 7.3,
+        "BPM": 135,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5sG3G54H21hNfd5etlheoe",
+            "explicit": false,
+            "album": "Endgame",
+            "release_date": "2011-01-01",
+            "genres": [
+                "alternative metal",
+                "chicago hardcore",
+                "chicago punk",
+                "hardcore punk",
+                "modern rock",
+                "nu metal",
+                "pop punk",
+                "post-grunge",
+                "punk"
+            ],
+            "duration": 238573,
+            "acousticness": 0.00369,
+            "danceability": 4.4830000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.0759,
+            "loudness": -4.16,
+            "speechiness": 0.0528,
+            "time_signature": 4,
+            "happiness": 4.996
+        }
+    },
+    {
+        "#": 84,
+        "Track Title": "Leave It All Behind",
+        "Artist": "Cult To Follow",
+        "Key": "11B",
+        "Energy": 9.586,
+        "Popularity": 6.76,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "4I58RPHVzDldHfK3t5HiZA",
+            "explicit": false,
+            "album": "Leave It All Behind - Single",
+            "release_date": "2011-12-20",
+            "genres": [],
+            "duration": 224087,
+            "acousticness": 0.00528,
+            "danceability": 6.787,
+            "instrumentalness": 0,
+            "liveness": 0.466,
+            "loudness": -3.255,
+            "speechiness": 0.108,
+            "time_signature": 4,
+            "happiness": 5.86
+        }
+    },
+    {
+        "#": 85,
+        "Track Title": "Way Of The Warrior Part I - Hard Diss Rap Beat Mix",
+        "Artist": "Fifty Vinc",
+        "Key": "3B",
+        "Energy": 7.84,
+        "Popularity": 5.140000000000001,
+        "BPM": 91,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "6E7mneOYKKKFivxPHeRWE7",
+            "explicit": false,
+            "album": "Hard Rap Beats & Hip Hop Instrumentals",
+            "release_date": "2017-10-13",
+            "genres": [
+                "bboy"
+            ],
+            "duration": 233593,
+            "acousticness": 0.0357,
+            "danceability": 4.0600000000000005,
+            "instrumentalness": 0.0448,
+            "liveness": 0.0955,
+            "loudness": -7.753,
+            "speechiness": 0.129,
+            "time_signature": 4,
+            "happiness": 1.3429
+        }
+    },
+    {
+        "#": 86,
+        "Track Title": "End of Me",
+        "Artist": "Ashes Remain",
+        "Key": "7A",
+        "Energy": 8.407,
+        "Popularity": 1.0,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "3tfTwukbzAVanIvsYeIEmj",
+            "explicit": false,
+            "album": "What I've Become",
+            "release_date": "2011-08-23",
+            "genres": [
+                "christian rock"
+            ],
+            "duration": 170427,
+            "acousticness": 0.00187,
+            "danceability": 6.31,
+            "instrumentalness": 0,
+            "liveness": 0.375,
+            "loudness": -4.606,
+            "speechiness": 0.0394,
+            "time_signature": 4,
+            "happiness": 6.138999999999999
+        }
+    },
+    {
+        "#": 87,
+        "Track Title": "Rap Gamez Callin",
+        "Artist": "Stevie Stone",
+        "Key": "4B",
+        "Energy": 7.236999999999999,
+        "Popularity": 5.2299999999999995,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "3hrh0gPGdpZiNYxkgpYe2Y",
+            "explicit": true,
+            "album": "The New Kid Comin",
+            "release_date": "2009-09-29",
+            "genres": [],
+            "duration": 192813,
+            "acousticness": 0.0168,
+            "danceability": 7.759,
+            "instrumentalness": 0,
+            "liveness": 0.225,
+            "loudness": -6.021,
+            "speechiness": 0.22,
+            "time_signature": 4,
+            "happiness": 6.031000000000001
+        }
+    },
+    {
+        "#": 88,
+        "Track Title": "Feel Invincible",
+        "Artist": "Skillet",
+        "Key": "7A",
+        "Energy": 8.974,
+        "Popularity": 7.75,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "0i8JFpqe9cKwnrcvoNgl1L",
+            "explicit": false,
+            "album": "Unleashed",
+            "release_date": "2016-08-05",
+            "genres": [
+                "alternative metal",
+                "christian alternative rock",
+                "christian music",
+                "christian rock",
+                "post-grunge"
+            ],
+            "duration": 229933,
+            "acousticness": 0.00045,
+            "danceability": 6.427,
+            "instrumentalness": 0,
+            "liveness": 0.26,
+            "loudness": -3.777,
+            "speechiness": 0.0837,
+            "time_signature": 4,
+            "happiness": 4.555
+        }
+    },
+    {
+        "#": 89,
+        "Track Title": "All Night",
+        "Artist": "2Scratch, TAOG",
+        "Key": "4B",
+        "Energy": 6.5169999999999995,
+        "Popularity": 5.86,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "0Y2EhhpZTKChZNerxIt6T9",
+            "explicit": false,
+            "album": "All Night",
+            "release_date": "2018-10-12",
+            "genres": [
+                "traprun"
+            ],
+            "duration": 235000,
+            "acousticness": 0.245,
+            "danceability": 7.4079999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.11,
+            "loudness": -8.512,
+            "speechiness": 0.277,
+            "time_signature": 4,
+            "happiness": 4.429
+        }
+    },
+    {
+        "#": 90,
+        "Track Title": "Whispers in the Dark",
+        "Artist": "Skillet",
+        "Key": "1A",
+        "Energy": 9.442,
+        "Popularity": 7.12,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "6rSuL1ViLO7Aljn2WD09s4",
+            "explicit": false,
+            "album": "Comatose",
+            "release_date": "2006-10-03",
+            "genres": [
+                "alternative metal",
+                "christian alternative rock",
+                "christian music",
+                "christian rock",
+                "post-grunge"
+            ],
+            "duration": 204347,
+            "acousticness": 0.000644,
+            "danceability": 5.581,
+            "instrumentalness": 0.00246,
+            "liveness": 0.14,
+            "loudness": -3.883,
+            "speechiness": 0.0715,
+            "time_signature": 4,
+            "happiness": 4.015000000000001
+        }
+    },
+    {
+        "#": 91,
+        "Track Title": "Let It Burn",
+        "Artist": "STIC.MAN Of Dead Prez (AKA) Stic",
+        "Key": "3B",
+        "Energy": 7.03,
+        "Popularity": 5.32,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "7Kho8NahTcrqnCK5IZGwJb",
+            "explicit": false,
+            "album": "The Workout",
+            "release_date": "2011-04-19",
+            "genres": [
+                "hard motivation"
+            ],
+            "duration": 223253,
+            "acousticness": 0.00253,
+            "danceability": 7.066000000000001,
+            "instrumentalness": 0.0119,
+            "liveness": 0.35,
+            "loudness": -6.36,
+            "speechiness": 0.0449,
+            "time_signature": 4,
+            "happiness": 3.133
+        }
+    },
+    {
+        "#": 92,
+        "Track Title": "Painkiller",
+        "Artist": "Three Days Grace",
+        "Key": "11B",
+        "Energy": 9.549999999999999,
+        "Popularity": 7.4799999999999995,
+        "BPM": 89,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "6OMO6WdRhSfjMPAiPT94wH",
+            "explicit": false,
+            "album": "Human",
+            "release_date": "2015-03-27",
+            "genres": [
+                "alternative metal",
+                "canadian metal",
+                "canadian rock",
+                "nu metal",
+                "post-grunge",
+                "rock"
+            ],
+            "duration": 179160,
+            "acousticness": 0.00021,
+            "danceability": 4.384,
+            "instrumentalness": 0,
+            "liveness": 0.0377,
+            "loudness": -4.067,
+            "speechiness": 0.0641,
+            "time_signature": 4,
+            "happiness": 4.942
+        }
+    },
+    {
+        "#": 93,
+        "Track Title": "Red Flag",
+        "Artist": "Billy Talent",
+        "Key": "10B",
+        "Energy": 8.785,
+        "Popularity": 7.209999999999999,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2RZWdE8kYPlCAcRUYDeuLC",
+            "explicit": false,
+            "album": "Billy Talent II",
+            "release_date": "2006-06-23",
+            "genres": [
+                "canadian punk"
+            ],
+            "duration": 198173,
+            "acousticness": 0.000583,
+            "danceability": 6.076,
+            "instrumentalness": 0,
+            "liveness": 0.056,
+            "loudness": -7.384,
+            "speechiness": 0.121,
+            "time_signature": 4,
+            "happiness": 7.534
+        }
+    },
+    {
+        "#": 94,
+        "Track Title": "Lights Go Down",
+        "Artist": "Bazanji",
+        "Key": "10B",
+        "Energy": 7.318,
+        "Popularity": 1.0,
+        "BPM": 136,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "48KQyOEsDflKNbt4yq6HgY",
+            "explicit": true,
+            "album": "Mixed Feelings",
+            "release_date": "2017-11-18",
+            "genres": [
+                "indie pop rap"
+            ],
+            "duration": 185294,
+            "acousticness": 0.0925,
+            "danceability": 8.254000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.0948,
+            "loudness": -7.578,
+            "speechiness": 0.195,
+            "time_signature": 4,
+            "happiness": 1.909
+        }
+    },
+    {
+        "#": 95,
+        "Track Title": "The Perfect Crime",
+        "Artist": "zebrahead",
+        "Key": "11B",
+        "Energy": 9.766,
+        "Popularity": 5.59,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "5rRwE8PjHsBXfvQ2toLAA9",
+            "explicit": false,
+            "album": "The Perfect Crime",
+            "release_date": "2019-12-11",
+            "genres": [
+                "funk metal",
+                "skate punk"
+            ],
+            "duration": 206826,
+            "acousticness": 0.00123,
+            "danceability": 3.952,
+            "instrumentalness": 0,
+            "liveness": 0.3,
+            "loudness": -2.863,
+            "speechiness": 0.169,
+            "time_signature": 4,
+            "happiness": 4.006
+        }
+    },
+    {
+        "#": 96,
+        "Track Title": "Hard Aggressive Choir Rap Beat - Joker",
+        "Artist": "BeatBrothers",
+        "Key": "2A",
+        "Energy": 5.9590000000000005,
+        "Popularity": 5.59,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "28Fn2CkqbzXYC5PSkh0k91",
+            "explicit": false,
+            "album": "Hard Aggressive Choir Rap Beat (Joker)",
+            "release_date": "2018-07-13",
+            "genres": [
+                "beats"
+            ],
+            "duration": 227394,
+            "acousticness": 0.000705,
+            "danceability": 4.888,
+            "instrumentalness": 0.824,
+            "liveness": 0.0674,
+            "loudness": -7.922,
+            "speechiness": 0.326,
+            "time_signature": 4,
+            "happiness": 5.734
+        }
+    },
+    {
+        "#": 97,
+        "Track Title": "Go Hard, Go Home (feat. Giz, Swellz & Choppa)",
+        "Artist": "Roy Jones Jr., Giz, Swellz, Choppa",
+        "Key": "3B",
+        "Energy": 7.426,
+        "Popularity": 6.22,
+        "BPM": 88,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "0Cw5iiA8OHWIhuIIA8u8N5",
+            "explicit": true,
+            "album": "Body Head Bangerz, Vol. 1",
+            "release_date": "2004-10-26",
+            "genres": [
+                "bounce"
+            ],
+            "duration": 325333,
+            "acousticness": 0.0381,
+            "danceability": 6.3549999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.08,
+            "loudness": -5.705,
+            "speechiness": 0.0609,
+            "time_signature": 4,
+            "happiness": 2.269
+        }
+    },
+    {
+        "#": 98,
+        "Track Title": "The Broken Ones",
+        "Artist": "Above Snakes",
+        "Key": "2B",
+        "Energy": 9.549999999999999,
+        "Popularity": 4.33,
+        "BPM": 109,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2XKMVUbr0ALVuugLI6BUH3",
+            "explicit": false,
+            "album": "The Broken Ones",
+            "release_date": "2022-02-11",
+            "genres": [],
+            "duration": 217824,
+            "acousticness": 7.44e-05,
+            "danceability": 6.255999999999999,
+            "instrumentalness": 0.000201,
+            "liveness": 0.487,
+            "loudness": -4.542,
+            "speechiness": 0.0485,
+            "time_signature": 4,
+            "happiness": 4.573
+        }
+    },
+    {
+        "#": 99,
+        "Track Title": "Anthem",
+        "Artist": "zebrahead",
+        "Key": "8B",
+        "Energy": 9.865,
+        "Popularity": 5.68,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "5vB0cxSvzXuVh15EDD0Cej",
+            "explicit": false,
+            "album": "Broadcast to the World",
+            "release_date": "2006",
+            "genres": [
+                "funk metal",
+                "skate punk"
+            ],
+            "duration": 213133,
+            "acousticness": 0.00827,
+            "danceability": 4.402,
+            "instrumentalness": 0,
+            "liveness": 0.534,
+            "loudness": -3.86,
+            "speechiness": 0.262,
+            "time_signature": 4,
+            "happiness": 4.6899999999999995
+        }
+    },
+    {
+        "#": 100,
+        "Track Title": "Body Head Anthem (feat. Mr. Magic & Choppa)",
+        "Artist": "Roy Jones Jr., Mr Magic, Choppa",
+        "Key": "3B",
+        "Energy": 7.4079999999999995,
+        "Popularity": 5.86,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "4EcF55fGcfwbZhGM7K1yLA",
+            "explicit": true,
+            "album": "Body Head Bangerz, Vol. 1",
+            "release_date": "2004-10-26",
+            "genres": [
+                "bounce"
+            ],
+            "duration": 231573,
+            "acousticness": 0.0903,
+            "danceability": 8.695,
+            "instrumentalness": 0,
+            "liveness": 0.0873,
+            "loudness": -6.17,
+            "speechiness": 0.161,
+            "time_signature": 4,
+            "happiness": 6.013000000000001
+        }
+    }
+]

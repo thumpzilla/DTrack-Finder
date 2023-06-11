@@ -21,7 +21,7 @@ export default class TagFilter {
                 
             ],
             'Collections': [
-                "DTracks", "Sp- Party by Eras", "Sp- Sing-Along", "Sp- Kids Party", "Sp- Bach Party"
+                "DTracks", "Sp- Sing-Along", "Sp- Kids Party", "Sp- Bach Party", "Sp- Workout", "Sp- Bach Israel",
             ],
             'Extra': [
                 "Girl Power", "Darbuka", "Israel [Loc]", "California [Loc]", 

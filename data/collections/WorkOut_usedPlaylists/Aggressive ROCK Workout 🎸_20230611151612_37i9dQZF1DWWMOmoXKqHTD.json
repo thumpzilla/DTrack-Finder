@@ -1,0 +1,3929 @@
+[
+    {
+        "#": 1,
+        "Track Title": "Chop Suey!",
+        "Artist": "System Of A Down",
+        "Key": "9A",
+        "Energy": 9.406,
+        "Popularity": 8.74,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "2DlHlPMa4M17kufBvI2lEN",
+            "explicit": false,
+            "album": "Toxicity",
+            "release_date": "2001-09-04",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "rap metal",
+                "rock"
+            ],
+            "duration": 210240,
+            "acousticness": 0.000278,
+            "danceability": 4.753,
+            "instrumentalness": 0.0015,
+            "liveness": 0.132,
+            "loudness": -3.908,
+            "speechiness": 0.119,
+            "time_signature": 4,
+            "happiness": 3.5829999999999997
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Aerials",
+        "Artist": "System Of A Down",
+        "Key": "8A",
+        "Energy": 9.298,
+        "Popularity": 8.290000000000001,
+        "BPM": 79,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "4e9eGQYsOiBcftrWXwsVco",
+            "explicit": false,
+            "album": "Toxicity",
+            "release_date": "2001-09-04",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "rap metal",
+                "rock"
+            ],
+            "duration": 235053,
+            "acousticness": 0.000915,
+            "danceability": 4.276,
+            "instrumentalness": 0.0346,
+            "liveness": 0.0697,
+            "loudness": -4.217,
+            "speechiness": 0.0567,
+            "time_signature": 4,
+            "happiness": 3.043
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "B.Y.O.B.",
+        "Artist": "System Of A Down",
+        "Key": "3A",
+        "Energy": 9.829,
+        "Popularity": 8.11,
+        "BPM": 101,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0EYOdF5FCkgOJJla8DI2Md",
+            "explicit": true,
+            "album": "Mezmerize",
+            "release_date": "2005-05-17",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "rap metal",
+                "rock"
+            ],
+            "duration": 255467,
+            "acousticness": 0.00662,
+            "danceability": 5.8420000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.219,
+            "loudness": -2.688,
+            "speechiness": 0.14,
+            "time_signature": 4,
+            "happiness": 7.399
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Lonely Day",
+        "Artist": "System Of A Down",
+        "Key": "4A",
+        "Energy": 8.047,
+        "Popularity": 7.3,
+        "BPM": 113,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "4xBHZ2Mr0gCdFYXrPZuYXO",
+            "explicit": false,
+            "album": "Hypnotize",
+            "release_date": "2005-11-18",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "rap metal",
+                "rock"
+            ],
+            "duration": 167907,
+            "acousticness": 0.346,
+            "danceability": 5.122,
+            "instrumentalness": 6.14e-06,
+            "liveness": 0.13,
+            "loudness": -3.226,
+            "speechiness": 0.0322,
+            "time_signature": 3,
+            "happiness": 3.016
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Toxicity",
+        "Artist": "System Of A Down",
+        "Key": "4B",
+        "Energy": 8.857,
+        "Popularity": 8.559999999999999,
+        "BPM": 117,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "0snQkGI5qnAmohLE7jTsTn",
+            "explicit": false,
+            "album": "Toxicity",
+            "release_date": "2001-09-04",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "rap metal",
+                "rock"
+            ],
+            "duration": 218933,
+            "acousticness": 0.000264,
+            "danceability": 4.717,
+            "instrumentalness": 0.00249,
+            "liveness": 0.204,
+            "loudness": -4.151,
+            "speechiness": 0.0536,
+            "time_signature": 3,
+            "happiness": 5.32
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Enter Sandman",
+        "Artist": "Metallica",
+        "Key": "2A",
+        "Energy": 8.452,
+        "Popularity": 8.469999999999999,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "90s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "5sICkBXVmaCQk5aISGR3x1",
+            "explicit": false,
+            "album": "Metallica",
+            "release_date": "1991-08-12",
+            "genres": [
+                "hard rock",
+                "metal",
+                "old school thrash",
+                "rock",
+                "thrash metal"
+            ],
+            "duration": 331267,
+            "acousticness": 0.00213,
+            "danceability": 6.193,
+            "instrumentalness": 0.0114,
+            "liveness": 0.0581,
+            "loudness": -8.691,
+            "speechiness": 0.0298,
+            "time_signature": 4,
+            "happiness": 6.436
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Master Of Puppets",
+        "Artist": "Metallica",
+        "Key": "12A",
+        "Energy": 8.524000000000001,
+        "Popularity": 8.2,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "80s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "2MuWTIM3b0YEAskbeeFE1i",
+            "explicit": false,
+            "album": "Master Of Puppets (Remastered)",
+            "release_date": "1986-03-03",
+            "genres": [
+                "hard rock",
+                "metal",
+                "old school thrash",
+                "rock",
+                "thrash metal"
+            ],
+            "duration": 515387,
+            "acousticness": 0.000647,
+            "danceability": 5.8870000000000005,
+            "instrumentalness": 0.431,
+            "liveness": 0.153,
+            "loudness": -9.11,
+            "speechiness": 0.0353,
+            "time_signature": 4,
+            "happiness": 6.040000000000001
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Smells Like Teen Spirit",
+        "Artist": "Nirvana",
+        "Key": "3B",
+        "Energy": 9.208,
+        "Popularity": 1.6300000000000001,
+        "BPM": 117,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "90s",
+            "Nostalgic",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1f3yAtsJtY87CTmM8RLnxf",
+            "explicit": false,
+            "album": "Nevermind (Deluxe Edition)",
+            "release_date": "1991-09-26",
+            "genres": [
+                "grunge",
+                "permanent wave",
+                "rock"
+            ],
+            "duration": 301920,
+            "acousticness": 2.55e-05,
+            "danceability": 5.518,
+            "instrumentalness": 0.000173,
+            "liveness": 0.106,
+            "loudness": -4.556,
+            "speechiness": 0.0564,
+            "time_signature": 4,
+            "happiness": 7.4799999999999995
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Come As You Are",
+        "Artist": "Nirvana",
+        "Key": "12A",
+        "Energy": 8.416,
+        "Popularity": 1.72,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "90s",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "0MKGH8UMfCnq5w7nG06oM5",
+            "explicit": false,
+            "album": "Nevermind (Deluxe Edition)",
+            "release_date": "1991-09-26",
+            "genres": [
+                "grunge",
+                "permanent wave",
+                "rock"
+            ],
+            "duration": 218920,
+            "acousticness": 0.00016,
+            "danceability": 5.5,
+            "instrumentalness": 0.00161,
+            "liveness": 0.0916,
+            "loudness": -5.846,
+            "speechiness": 0.0388,
+            "time_signature": 4,
+            "happiness": 5.851
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Welcome To The Jungle",
+        "Artist": "Guns N' Roses",
+        "Key": "4B",
+        "Energy": 9.586,
+        "Popularity": 5.32,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "80s",
+            "Mad",
+            "Rock",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0bVtevEgtDIeRjCJbK3Lmv",
+            "explicit": true,
+            "album": "Appetite For Destruction",
+            "release_date": "1987-07-21",
+            "genres": [
+                "glam metal",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 272027,
+            "acousticness": 0.0235,
+            "danceability": 5.023,
+            "instrumentalness": 0.403,
+            "liveness": 0.298,
+            "loudness": -8.069,
+            "speechiness": 0.0751,
+            "time_signature": 4,
+            "happiness": 3.979
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Thunderstruck",
+        "Artist": "AC/DC",
+        "Key": "12B",
+        "Energy": 9.01,
+        "Popularity": 8.74,
+        "BPM": 134,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "90s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "57bgtoPSgt236HzfBOd8kj",
+            "explicit": false,
+            "album": "The Razors Edge",
+            "release_date": "1990-09-24",
+            "genres": [
+                "australian rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 292880,
+            "acousticness": 0.000147,
+            "danceability": 5.518,
+            "instrumentalness": 0.0117,
+            "liveness": 0.217,
+            "loudness": -5.175,
+            "speechiness": 0.0364,
+            "time_signature": 4,
+            "happiness": 3.331
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "Highway to Hell",
+        "Artist": "AC/DC",
+        "Key": "2A",
+        "Energy": 9.217,
+        "Popularity": 8.83,
+        "BPM": 116,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "70s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "2zYzyRzz6pRmhPzyfMEC8s",
+            "explicit": false,
+            "album": "Highway to Hell",
+            "release_date": "1979-07-27",
+            "genres": [
+                "australian rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 208400,
+            "acousticness": 0.061,
+            "danceability": 6.1659999999999995,
+            "instrumentalness": 0.00158,
+            "liveness": 0.156,
+            "loudness": -4.793,
+            "speechiness": 0.133,
+            "time_signature": 4,
+            "happiness": 4.807
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "T.N.T.",
+        "Artist": "AC/DC",
+        "Key": "11B",
+        "Energy": 7.831,
+        "Popularity": 8.2,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "70s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "7LRMbd3LEoV5wZJvXT1Lwb",
+            "explicit": false,
+            "album": "High Voltage",
+            "release_date": "1976-05-14",
+            "genres": [
+                "australian rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 214667,
+            "acousticness": 0.153,
+            "danceability": 7.786,
+            "instrumentalness": 0.000108,
+            "liveness": 0.101,
+            "loudness": -5.218,
+            "speechiness": 0.302,
+            "time_signature": 4,
+            "happiness": 4.915
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "Back In Black",
+        "Artist": "AC/DC",
+        "Key": "11B",
+        "Energy": 7.3,
+        "Popularity": 8.74,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "80s",
+            "Mad",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "08mG3Y1vljYA6bvDt4Wqkj",
+            "explicit": false,
+            "album": "Back In Black",
+            "release_date": "1980-07-25",
+            "genres": [
+                "australian rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 255493,
+            "acousticness": 0.011,
+            "danceability": 3.79,
+            "instrumentalness": 0.00965,
+            "liveness": 0.0828,
+            "loudness": -5.678,
+            "speechiness": 0.047,
+            "time_signature": 4,
+            "happiness": 7.867
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Crazy Train - 2002 Version",
+        "Artist": "Ozzy Osbourne",
+        "Key": "11B",
+        "Energy": 9.118,
+        "Popularity": 1.0,
+        "BPM": 137,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "90s",
+            "Mad",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "61nSbxyL6VRPp32AMscxiF",
+            "explicit": false,
+            "album": "The Ozzman Cometh",
+            "release_date": "1997-11-11",
+            "genres": [
+                "album rock",
+                "alternative metal",
+                "birmingham metal",
+                "classic rock",
+                "glam metal",
+                "hard rock",
+                "metal",
+                "nu metal",
+                "rock"
+            ],
+            "duration": 289467,
+            "acousticness": 0.0184,
+            "danceability": 5.1850000000000005,
+            "instrumentalness": 0.00114,
+            "liveness": 0.348,
+            "loudness": -4.628,
+            "speechiness": 0.0587,
+            "time_signature": 4,
+            "happiness": 6.427
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "Iron Man",
+        "Artist": "Black Sabbath",
+        "Key": "11B",
+        "Energy": 7.921,
+        "Popularity": 7.57,
+        "BPM": 79,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "70s",
+            "Mad",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "0TI8TP4FitVPoEHPTySx48",
+            "explicit": false,
+            "album": "Paranoid (2009 Remastered Version)",
+            "release_date": "1970-09-18",
+            "genres": [
+                "album rock",
+                "alternative metal",
+                "birmingham metal",
+                "classic rock",
+                "hard rock",
+                "metal",
+                "rock",
+                "stoner rock",
+                "uk doom metal"
+            ],
+            "duration": 354774,
+            "acousticness": 0.00367,
+            "danceability": 3.988,
+            "instrumentalness": 0.00413,
+            "liveness": 0.0372,
+            "loudness": -11.503,
+            "speechiness": 0.0765,
+            "time_signature": 4,
+            "happiness": 5.7250000000000005
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "Take A Look Around",
+        "Artist": "Limp Bizkit",
+        "Key": "1B",
+        "Energy": 8.668,
+        "Popularity": 7.93,
+        "BPM": 102,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "2avKuMN2QXkaG9vvHa2JLt",
+            "explicit": false,
+            "album": "Chocolate Starfish And The Hot Dog Flavored Water",
+            "release_date": "2000-10-17",
+            "genres": [
+                "alternative metal",
+                "funk metal",
+                "nu metal",
+                "post-grunge",
+                "rap metal",
+                "rock"
+            ],
+            "duration": 321040,
+            "acousticness": 0.0175,
+            "danceability": 4.824999999999999,
+            "instrumentalness": 0.306,
+            "liveness": 0.0935,
+            "loudness": -5.607,
+            "speechiness": 0.046,
+            "time_signature": 4,
+            "happiness": 5.6080000000000005
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "Paranoid",
+        "Artist": "Black Sabbath",
+        "Key": "12A",
+        "Energy": 6.679,
+        "Popularity": 8.469999999999999,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "70s",
+            "Mad",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "1jzDzZWeSDBg5fhNc3tczV",
+            "explicit": false,
+            "album": "Paranoid (2009 Remastered Version)",
+            "release_date": "1970-09-18",
+            "genres": [
+                "album rock",
+                "alternative metal",
+                "birmingham metal",
+                "classic rock",
+                "hard rock",
+                "metal",
+                "rock",
+                "stoner rock",
+                "uk doom metal"
+            ],
+            "duration": 168440,
+            "acousticness": 7.85e-05,
+            "danceability": 4.861,
+            "instrumentalness": 0.00411,
+            "liveness": 0.175,
+            "loudness": -11.514,
+            "speechiness": 0.0769,
+            "time_signature": 4,
+            "happiness": 4.384
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Paradise City",
+        "Artist": "Guns N' Roses",
+        "Key": "1B",
+        "Energy": 9.568,
+        "Popularity": 5.2299999999999995,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "80s",
+            "Mad",
+            "Rock",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3YBZIN3rekqsKxbJc9FZko",
+            "explicit": true,
+            "album": "Appetite For Destruction",
+            "release_date": "1987-07-21",
+            "genres": [
+                "glam metal",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 405640,
+            "acousticness": 0.0169,
+            "danceability": 3.4570000000000003,
+            "instrumentalness": 0.0111,
+            "liveness": 0.142,
+            "loudness": -8.762,
+            "speechiness": 0.0843,
+            "time_signature": 4,
+            "happiness": 5.247999999999999
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "You Give Love A Bad Name",
+        "Artist": "Bon Jovi",
+        "Key": "8A",
+        "Energy": 9.64,
+        "Popularity": 8.559999999999999,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "80s",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0rmGAIH9LNJewFw7nKzZnc",
+            "explicit": false,
+            "album": "Slippery When Wet",
+            "release_date": "1986-08-16",
+            "genres": [
+                "glam metal",
+                "rock"
+            ],
+            "duration": 222707,
+            "acousticness": 0.0663,
+            "danceability": 5.869000000000001,
+            "instrumentalness": 2.25e-06,
+            "liveness": 0.344,
+            "loudness": -2.947,
+            "speechiness": 0.0505,
+            "time_signature": 4,
+            "happiness": 8.308
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "It's My Life",
+        "Artist": "Bon Jovi",
+        "Key": "8A",
+        "Energy": 9.217,
+        "Popularity": 8.379999999999999,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "0v1XpBHnsbkCn7iJ9Ucr1l",
+            "explicit": false,
+            "album": "Crush",
+            "release_date": "2000-01-01",
+            "genres": [
+                "glam metal",
+                "rock"
+            ],
+            "duration": 224493,
+            "acousticness": 0.0263,
+            "danceability": 5.9590000000000005,
+            "instrumentalness": 1.35e-05,
+            "liveness": 0.347,
+            "loudness": -4.063,
+            "speechiness": 0.0466,
+            "time_signature": 4,
+            "happiness": 5.896000000000001
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "Wanted Dead Or Alive",
+        "Artist": "Bon Jovi",
+        "Key": "9B",
+        "Energy": 8.218,
+        "Popularity": 7.93,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "80s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "0oerlffJSzhRVvtDfLcp3N",
+            "explicit": false,
+            "album": "Slippery When Wet",
+            "release_date": "1986-08-16",
+            "genres": [
+                "glam metal",
+                "rock"
+            ],
+            "duration": 308667,
+            "acousticness": 0.13,
+            "danceability": 3.268,
+            "instrumentalness": 0.0146,
+            "liveness": 0.309,
+            "loudness": -3.976,
+            "speechiness": 0.0391,
+            "time_signature": 4,
+            "happiness": 3.277
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "Bad Medicine",
+        "Artist": "Bon Jovi",
+        "Key": "11B",
+        "Energy": 9.757,
+        "Popularity": 7.39,
+        "BPM": 119,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "80s",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "72hcFp4tYkd3dbNA9dZ3Pv",
+            "explicit": false,
+            "album": "New Jersey (Deluxe Edition)",
+            "release_date": "1988-09-13",
+            "genres": [
+                "glam metal",
+                "rock"
+            ],
+            "duration": 316707,
+            "acousticness": 0.048,
+            "danceability": 5.995,
+            "instrumentalness": 0,
+            "liveness": 0.0853,
+            "loudness": -3.804,
+            "speechiness": 0.035,
+            "time_signature": 4,
+            "happiness": 8.245000000000001
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "Civil War",
+        "Artist": "Guns N' Roses",
+        "Key": "6A",
+        "Energy": 8.083,
+        "Popularity": 7.39,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "90s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "6i4Qi1mJxXjqNIL9HfJhRs",
+            "explicit": false,
+            "album": "Use Your Illusion II",
+            "release_date": "1991-09-18",
+            "genres": [
+                "glam metal",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 462093,
+            "acousticness": 0.0793,
+            "danceability": 4.024,
+            "instrumentalness": 0.0648,
+            "liveness": 0.32,
+            "loudness": -8.803,
+            "speechiness": 0.0732,
+            "time_signature": 4,
+            "happiness": 4.447
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "Zombie",
+        "Artist": "The Cranberries",
+        "Key": "9B",
+        "Energy": 6.715,
+        "Popularity": 1.27,
+        "BPM": 83,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "90s",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "2IZZqH4K02UIYg5EohpNHF",
+            "explicit": false,
+            "album": "No Need To Argue",
+            "release_date": "1994-10-03",
+            "genres": [
+                "irish rock",
+                "pop rock",
+                "rock"
+            ],
+            "duration": 306427,
+            "acousticness": 0.0154,
+            "danceability": 3.763,
+            "instrumentalness": 0.00483,
+            "liveness": 0.366,
+            "loudness": -8.957,
+            "speechiness": 0.0339,
+            "time_signature": 4,
+            "happiness": 3.7359999999999998
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "Dani California",
+        "Artist": "Red Hot Chili Peppers",
+        "Key": "8B",
+        "Energy": 9.217,
+        "Popularity": 8.2,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Nostalgic",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "10Nmj3JCNoMeBQ87uw5j8k",
+            "explicit": false,
+            "album": "Stadium Arcadium",
+            "release_date": "2006-05-09",
+            "genres": [
+                "alternative rock",
+                "funk metal",
+                "funk rock",
+                "permanent wave",
+                "rock"
+            ],
+            "duration": 282160,
+            "acousticness": 0.0193,
+            "danceability": 6.0040000000000004,
+            "instrumentalness": 8.59e-06,
+            "liveness": 0.346,
+            "loudness": -2.36,
+            "speechiness": 0.0437,
+            "time_signature": 4,
+            "happiness": 7.57
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "By the Way",
+        "Artist": "Red Hot Chili Peppers",
+        "Key": "8B",
+        "Energy": 9.73,
+        "Popularity": 8.02,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Nostalgic",
+            "Rock",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "1f2V8U1BiWaC9aJWmpOARe",
+            "explicit": false,
+            "album": "By the Way (Deluxe Edition)",
+            "release_date": "2002-07-09",
+            "genres": [
+                "alternative rock",
+                "funk metal",
+                "funk rock",
+                "permanent wave",
+                "rock"
+            ],
+            "duration": 216933,
+            "acousticness": 0.0264,
+            "danceability": 5.059,
+            "instrumentalness": 0.00355,
+            "liveness": 0.102,
+            "loudness": -4.938,
+            "speechiness": 0.107,
+            "time_signature": 4,
+            "happiness": 2.782
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "Blue On Black (feat. Kenny Wayne Shepherd, Brantley Gilbert & Brian May)",
+        "Artist": "Five Finger Death Punch, Kenny Wayne Shepherd, Brantley Gilbert, Brian May",
+        "Key": "9B",
+        "Energy": 8.847999999999999,
+        "Popularity": 6.040000000000001,
+        "BPM": 78,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2010s",
+            "Mad",
+            "Nostalgic",
+            "Rock",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3lwpE0SEaQV5DWNjqMtYEk",
+            "explicit": true,
+            "album": "Blue On Black (feat. Kenny Wayne Shepherd, Brantley Gilbert & Brian May)",
+            "release_date": "2019-04-12",
+            "genres": [
+                "alternative metal",
+                "groove metal",
+                "nu metal",
+                "blues",
+                "blues rock",
+                "electric blues",
+                "modern blues",
+                "modern blues rock",
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock",
+                "glam rock"
+            ],
+            "duration": 274615,
+            "acousticness": 0.0018,
+            "danceability": 5.05,
+            "instrumentalness": 1.61e-05,
+            "liveness": 0.0833,
+            "loudness": -4.91,
+            "speechiness": 0.0353,
+            "time_signature": 4,
+            "happiness": 4.564
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "The Trooper - 2015 Remaster",
+        "Artist": "Iron Maiden",
+        "Key": "12A",
+        "Energy": 9.172,
+        "Popularity": 7.93,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "80s",
+            "Mad",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4OROzZUy6gOWN4UGQVaZMF",
+            "explicit": false,
+            "album": "Piece of Mind (2015 Remaster)",
+            "release_date": "1983",
+            "genres": [
+                "hard rock",
+                "metal",
+                "nwobhm",
+                "rock"
+            ],
+            "duration": 252733,
+            "acousticness": 0.0318,
+            "danceability": 3.565,
+            "instrumentalness": 0.00909,
+            "liveness": 0.311,
+            "loudness": -4.601,
+            "speechiness": 0.0705,
+            "time_signature": 4,
+            "happiness": 7.021000000000001
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Fear of the Dark - 2015 Remaster",
+        "Artist": "Iron Maiden",
+        "Key": "10A",
+        "Energy": 8.794,
+        "Popularity": 7.57,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "90s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "6p8eFfPw3nQkf37aT3AkmK",
+            "explicit": false,
+            "album": "Fear of the Dark (2015 Remaster)",
+            "release_date": "1992",
+            "genres": [
+                "hard rock",
+                "metal",
+                "nwobhm",
+                "rock"
+            ],
+            "duration": 438120,
+            "acousticness": 0.000739,
+            "danceability": 3.772,
+            "instrumentalness": 0.00141,
+            "liveness": 0.232,
+            "loudness": -5.671,
+            "speechiness": 0.059,
+            "time_signature": 4,
+            "happiness": 3.043
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "WWE: The Game (Triple H)",
+        "Artist": "WWE, Motörhead",
+        "Key": "4B",
+        "Energy": 9.415000000000001,
+        "Popularity": 6.3999999999999995,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2010s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "35bgx24EQeW7IiA4nFXivH",
+            "explicit": false,
+            "album": "WWE: The Game (Triple H)",
+            "release_date": "2011-06-01",
+            "genres": [
+                "wrestling",
+                "alternative metal",
+                "hard rock",
+                "metal",
+                "nu metal",
+                "rock",
+                "speed metal"
+            ],
+            "duration": 211127,
+            "acousticness": 0.00249,
+            "danceability": 4.0600000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.0824,
+            "loudness": -7.143,
+            "speechiness": 0.0972,
+            "time_signature": 4,
+            "happiness": 3.601
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "Bad Romance",
+        "Artist": "Halestorm",
+        "Key": "3B",
+        "Energy": 9.343,
+        "Popularity": 7.03,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2010s",
+            "Mad",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0n3sHHfdOq6Awix3JPe3xl",
+            "explicit": false,
+            "album": "ReAniMate: The CoVeRs eP",
+            "release_date": "2011-03-22",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "post-grunge"
+            ],
+            "duration": 248400,
+            "acousticness": 0.0128,
+            "danceability": 5.905,
+            "instrumentalness": 2.33e-06,
+            "liveness": 0.367,
+            "loudness": -4.736,
+            "speechiness": 0.0706,
+            "time_signature": 4,
+            "happiness": 7.138000000000001
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "I'll Sleep When I'm Dead",
+        "Artist": "Set It Off",
+        "Key": "3A",
+        "Energy": 9.316,
+        "Popularity": 6.67,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2010s",
+            "Inspiring",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "72vsd9IEBIonmvIY7TEjXK",
+            "explicit": false,
+            "album": "Cinematics (Deluxe)",
+            "release_date": "2012-09-18",
+            "genres": [
+                "electropowerpop",
+                "pixie",
+                "pop punk",
+                "pov: indie"
+            ],
+            "duration": 204053,
+            "acousticness": 0.00106,
+            "danceability": 4.618,
+            "instrumentalness": 0,
+            "liveness": 0.0786,
+            "loudness": -3.867,
+            "speechiness": 0.159,
+            "time_signature": 4,
+            "happiness": 5.005
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "Wolf in Sheep's Clothing",
+        "Artist": "Set It Off, William Beckett",
+        "Key": "1A",
+        "Energy": 9.163,
+        "Popularity": 6.8500000000000005,
+        "BPM": 83,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2010s",
+            "Inspiring",
+            "Rock",
+            "Pop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "55Fpeuuc2sbQiy74eA1gTt",
+            "explicit": true,
+            "album": "Duality",
+            "release_date": "2014-10-14",
+            "genres": [
+                "electropowerpop",
+                "pixie",
+                "pop punk",
+                "pov: indie"
+            ],
+            "duration": 187880,
+            "acousticness": 0.00161,
+            "danceability": 5.005,
+            "instrumentalness": 0,
+            "liveness": 0.403,
+            "loudness": -3.894,
+            "speechiness": 0.0773,
+            "time_signature": 4,
+            "happiness": 7.39
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "Bring Me To Life",
+        "Artist": "Evanescence",
+        "Key": "12A",
+        "Energy": 9.487,
+        "Popularity": 8.649999999999999,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "0COqiPhxzoWICwFCS4eZcp",
+            "explicit": false,
+            "album": "Fallen",
+            "release_date": "2003-03-04",
+            "genres": [
+                "alternative metal"
+            ],
+            "duration": 235893,
+            "acousticness": 0.00721,
+            "danceability": 3.979,
+            "instrumentalness": 2.06e-06,
+            "liveness": 0.242,
+            "loudness": -3.188,
+            "speechiness": 0.0698,
+            "time_signature": 4,
+            "happiness": 3.6639999999999997
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "Monster",
+        "Artist": "Skillet",
+        "Key": "4B",
+        "Energy": 9.613,
+        "Popularity": 8.2,
+        "BPM": 135,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2UREu1Y8CO4jXkbvqAtP7g",
+            "explicit": false,
+            "album": "Awake",
+            "release_date": "2009-08-21",
+            "genres": [
+                "alternative metal",
+                "christian alternative rock",
+                "christian music",
+                "christian rock",
+                "post-grunge"
+            ],
+            "duration": 178013,
+            "acousticness": 0.0431,
+            "danceability": 6.76,
+            "instrumentalness": 0,
+            "liveness": 0.0789,
+            "loudness": -2.336,
+            "speechiness": 0.0741,
+            "time_signature": 4,
+            "happiness": 7.228
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "Radioactive",
+        "Artist": "Bullet For My Valentine",
+        "Key": "11B",
+        "Energy": 7.255,
+        "Popularity": 5.2299999999999995,
+        "BPM": 143,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2010s",
+            "Mad",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "2okeBtFNVJ4n33NEV1RxBm",
+            "explicit": false,
+            "album": "Gravity (Deluxe Edition)",
+            "release_date": "2018-06-29",
+            "genres": [
+                "alternative metal",
+                "melodic metalcore",
+                "nu metal",
+                "pop punk",
+                "post-grunge",
+                "uk metalcore",
+                "welsh metal"
+            ],
+            "duration": 193080,
+            "acousticness": 0.0331,
+            "danceability": 5.743,
+            "instrumentalness": 3.78e-05,
+            "liveness": 0.31,
+            "loudness": -4.99,
+            "speechiness": 0.0346,
+            "time_signature": 4,
+            "happiness": 3.439
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "How You Remind Me",
+        "Artist": "Nickelback",
+        "Key": "6B",
+        "Energy": 7.876,
+        "Popularity": 8.379999999999999,
+        "BPM": 86,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "0gmbgwZ8iqyMPmXefof8Yf",
+            "explicit": false,
+            "album": "Silver Side Up",
+            "release_date": "2001-09-11",
+            "genres": [
+                "alternative metal",
+                "canadian rock",
+                "post-grunge"
+            ],
+            "duration": 223840,
+            "acousticness": 0.00135,
+            "danceability": 5.014,
+            "instrumentalness": 0,
+            "liveness": 0.099,
+            "loudness": -5.042,
+            "speechiness": 0.033,
+            "time_signature": 4,
+            "happiness": 5.8870000000000005
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "Ace of Spades",
+        "Artist": "Motörhead",
+        "Key": "12B",
+        "Energy": 9.19,
+        "Popularity": 7.93,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "80s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "6EPRKhUOdiFSQwGBRBbvsZ",
+            "explicit": false,
+            "album": "Ace of Spades (Expanded Edition)",
+            "release_date": "1980-11-08",
+            "genres": [
+                "alternative metal",
+                "hard rock",
+                "metal",
+                "nu metal",
+                "rock",
+                "speed metal"
+            ],
+            "duration": 166360,
+            "acousticness": 4.02e-05,
+            "danceability": 4.078,
+            "instrumentalness": 0.000121,
+            "liveness": 0.0823,
+            "loudness": -7.748,
+            "speechiness": 0.0758,
+            "time_signature": 4,
+            "happiness": 5.923
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "Killing In The Name",
+        "Artist": "Rage Against The Machine",
+        "Key": "9B",
+        "Energy": 8.497,
+        "Popularity": 8.379999999999999,
+        "BPM": 89,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "90s",
+            "Mad",
+            "Rock",
+            "Inspiring",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "59WN2psjkt1tyaxjspN8fp",
+            "explicit": true,
+            "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+            "release_date": "1992",
+            "genres": [
+                "alternative metal",
+                "alternative rock",
+                "conscious hip hop",
+                "funk metal",
+                "hard rock",
+                "nu metal",
+                "political hip hop",
+                "post-grunge",
+                "rap metal",
+                "rap rock",
+                "rock"
+            ],
+            "duration": 313573,
+            "acousticness": 0.0266,
+            "danceability": 5.194,
+            "instrumentalness": 0,
+            "liveness": 0.0327,
+            "loudness": -4.215,
+            "speechiness": 0.304,
+            "time_signature": 4,
+            "happiness": 6.949
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "Hail to the King",
+        "Artist": "Avenged Sevenfold",
+        "Key": "5A",
+        "Energy": 9.244,
+        "Popularity": 8.2,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2010s",
+            "Mad",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5anCkDvJ17aznvK5TED5uo",
+            "explicit": false,
+            "album": "Hail to the King",
+            "release_date": "2013-08-23",
+            "genres": [
+                "alternative metal",
+                "nu metal"
+            ],
+            "duration": 305907,
+            "acousticness": 0.000297,
+            "danceability": 6.22,
+            "instrumentalness": 0.0259,
+            "liveness": 0.126,
+            "loudness": -4.358,
+            "speechiness": 0.0387,
+            "time_signature": 4,
+            "happiness": 7.147
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "Down with the Sickness",
+        "Artist": "Disturbed",
+        "Key": "5A",
+        "Energy": 8.884,
+        "Popularity": 8.02,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "40rvBMQizxkIqnjPdEWY1v",
+            "explicit": true,
+            "album": "The Sickness",
+            "release_date": "2000-03-07",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "rap metal",
+                "rock"
+            ],
+            "duration": 279213,
+            "acousticness": 0.000996,
+            "danceability": 7.255,
+            "instrumentalness": 6.89e-06,
+            "liveness": 0.106,
+            "loudness": -4.262,
+            "speechiness": 0.0553,
+            "time_signature": 4,
+            "happiness": 9.469
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "Clint Eastwood",
+        "Artist": "Gorillaz",
+        "Key": "6A",
+        "Energy": 7.2459999999999996,
+        "Popularity": 8.02,
+        "BPM": 84,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Rock",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "1RKUoGiLEbcXN4GY4spQDx",
+            "explicit": true,
+            "album": "Gorillaz",
+            "release_date": "2001-03-26",
+            "genres": [
+                "alternative hip hop",
+                "modern rock",
+                "rock"
+            ],
+            "duration": 340920,
+            "acousticness": 0.0253,
+            "danceability": 6.9670000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.0698,
+            "loudness": -8.627,
+            "speechiness": 0.171,
+            "time_signature": 4,
+            "happiness": 5.7250000000000005
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "Hypnotize",
+        "Artist": "System Of A Down",
+        "Key": "2B",
+        "Energy": 9.217,
+        "Popularity": 6.22,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "16gpk3oHK8Ela7QbRNGjJd",
+            "explicit": false,
+            "album": "Hypnotize",
+            "release_date": "2005-11-18",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "rap metal",
+                "rock"
+            ],
+            "duration": 189440,
+            "acousticness": 0.0314,
+            "danceability": 3.43,
+            "instrumentalness": 0.000247,
+            "liveness": 0.113,
+            "loudness": -4.07,
+            "speechiness": 0.0505,
+            "time_signature": 4,
+            "happiness": 1.5706
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "Freak On a Leash",
+        "Artist": "Korn",
+        "Key": "10B",
+        "Energy": 9.082,
+        "Popularity": 8.11,
+        "BPM": 103,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "90s",
+            "Mad",
+            "Rock",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6W21LNLz9Sw7sUSNWMSHRu",
+            "explicit": true,
+            "album": "Follow The Leader",
+            "release_date": "1998-08-18",
+            "genres": [
+                "alternative metal",
+                "funk metal",
+                "hard rock",
+                "nu metal",
+                "post-grunge",
+                "rap metal",
+                "rock"
+            ],
+            "duration": 255733,
+            "acousticness": 2.23e-05,
+            "danceability": 4.177,
+            "instrumentalness": 0.105,
+            "liveness": 0.39,
+            "loudness": -5.877,
+            "speechiness": 0.052,
+            "time_signature": 4,
+            "happiness": 5.7250000000000005
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "My Songs Know What You Did In The Dark (Light Em Up)",
+        "Artist": "Fall Out Boy",
+        "Key": "11A",
+        "Energy": 9.244,
+        "Popularity": 1.0,
+        "BPM": 76,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2010s",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "2COhljkZObSdthS0NG5s3B",
+            "explicit": false,
+            "album": "My Songs Know What You Did In The Dark (Light Em Up)",
+            "release_date": "2013-02-01",
+            "genres": [
+                "emo",
+                "modern rock",
+                "pop",
+                "pop punk",
+                "rock"
+            ],
+            "duration": 188573,
+            "acousticness": 0.0278,
+            "danceability": 6.040000000000001,
+            "instrumentalness": 6.27e-06,
+            "liveness": 0.294,
+            "loudness": -4.319,
+            "speechiness": 0.0673,
+            "time_signature": 4,
+            "happiness": 5.716
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "Rock You Like a Hurricane - 2011",
+        "Artist": "Scorpions",
+        "Key": "1B",
+        "Energy": 9.019,
+        "Popularity": 4.6899999999999995,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2010s",
+            "Mad",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6J1G0Y3F8oxuswhdwJowhT",
+            "explicit": false,
+            "album": "Comeblack",
+            "release_date": "2011-11-04",
+            "genres": [
+                "album rock",
+                "german hard rock",
+                "german metal",
+                "german rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 255573,
+            "acousticness": 0.000261,
+            "danceability": 6.2829999999999995,
+            "instrumentalness": 0.00454,
+            "liveness": 0.314,
+            "loudness": -3.381,
+            "speechiness": 0.0361,
+            "time_signature": 4,
+            "happiness": 7.345
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "Immigrant Song - Remaster",
+        "Artist": "Led Zeppelin",
+        "Key": "1B",
+        "Energy": 9.388,
+        "Popularity": 8.290000000000001,
+        "BPM": 113,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "70s",
+            "Mad",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "78lgmZwycJ3nzsdgmPPGNx",
+            "explicit": false,
+            "album": "Led Zeppelin III (Remaster)",
+            "release_date": "1970",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 146250,
+            "acousticness": 0.013,
+            "danceability": 6.076,
+            "instrumentalness": 0.169,
+            "liveness": 0.349,
+            "loudness": -10.068,
+            "speechiness": 0.0554,
+            "time_signature": 4,
+            "happiness": 6.571
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "Self Esteem",
+        "Artist": "The Offspring",
+        "Key": "8B",
+        "Energy": 8.758,
+        "Popularity": 8.11,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "90s",
+            "Mad",
+            "Rock",
+            "Pop",
+            "Nostalgic",
+            "California [Loc]",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1FkoVC85Ds3mFoK0fVqEqP",
+            "explicit": false,
+            "album": "Smash",
+            "release_date": "1994-04-08",
+            "genres": [
+                "alternative metal",
+                "permanent wave",
+                "post-grunge",
+                "punk",
+                "rock",
+                "skate punk",
+                "socal pop punk"
+            ],
+            "duration": 257827,
+            "acousticness": 0.0204,
+            "danceability": 5.3919999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.359,
+            "loudness": -7.595,
+            "speechiness": 0.0476,
+            "time_signature": 4,
+            "happiness": 7.353999999999999
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "Sweet Home Alabama",
+        "Artist": "Lynyrd Skynyrd",
+        "Key": "9B",
+        "Energy": 6.706,
+        "Popularity": 1.0,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Nostalgic",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4X1LS2LEYxKdlvHq5oZesi",
+            "explicit": false,
+            "album": "Lynyrd Skynyrd - Rock Legends",
+            "release_date": "2007-11-02",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "rock",
+                "southern rock"
+            ],
+            "duration": 285347,
+            "acousticness": 0.145,
+            "danceability": 6.22,
+            "instrumentalness": 0.000984,
+            "liveness": 0.329,
+            "loudness": -11.058,
+            "speechiness": 0.0252,
+            "time_signature": 4,
+            "happiness": 9.415000000000001
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "Money For Nothing",
+        "Artist": "Dire Straits",
+        "Key": "9A",
+        "Energy": 7.984,
+        "Popularity": 1.0,
+        "BPM": 134,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Nostalgic",
+            "Rock",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "6bOTe8T116DNpwp2H6Hxgh",
+            "explicit": false,
+            "album": "The Best of Dire Straits & Mark Knopfler - Private Investigations (Limited Edition)",
+            "release_date": "2005-11-07",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "mellow gold",
+                "rock"
+            ],
+            "duration": 504200,
+            "acousticness": 0.037,
+            "danceability": 6.796,
+            "instrumentalness": 0.000107,
+            "liveness": 0.0591,
+            "loudness": -6.803,
+            "speechiness": 0.0376,
+            "time_signature": 4,
+            "happiness": 6.436
+        }
+    },
+    {
+        "#": 52,
+        "Track Title": "I Wanna Rock (Remastered Album Version)",
+        "Artist": "Twisted Sister",
+        "Key": "10B",
+        "Energy": 7.579,
+        "Popularity": 1.0,
+        "BPM": 106,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "7zLC4HAY11GvvKsZHNrkAp",
+            "explicit": false,
+            "album": "Stay Hungry [Deluxe 25th Anniversary Edition]",
+            "release_date": "2009-06-29",
+            "genres": [
+                "album rock",
+                "glam metal",
+                "hard rock",
+                "metal",
+                "rock"
+            ],
+            "duration": 183373,
+            "acousticness": 0.016,
+            "danceability": 6.292,
+            "instrumentalness": 0.184,
+            "liveness": 0.333,
+            "loudness": -8.299,
+            "speechiness": 0.0398,
+            "time_signature": 4,
+            "happiness": 6.454
+        }
+    },
+    {
+        "#": 53,
+        "Track Title": "Pour Some Sugar On Me",
+        "Artist": "Def Leppard",
+        "Key": "3A",
+        "Energy": 9.307,
+        "Popularity": 1.0,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "80s",
+            "Mad",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "1bcklQyAGzDxQiNMczMLt6",
+            "explicit": false,
+            "album": "Hysteria (Deluxe Edition)",
+            "release_date": "1987",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "glam metal",
+                "hard rock",
+                "nwobhm",
+                "rock"
+            ],
+            "duration": 266787,
+            "acousticness": 0.00161,
+            "danceability": 5.527,
+            "instrumentalness": 0,
+            "liveness": 0.314,
+            "loudness": -4.897,
+            "speechiness": 0.0699,
+            "time_signature": 4,
+            "happiness": 6.922000000000001
+        }
+    },
+    {
+        "#": 54,
+        "Track Title": "Heaven",
+        "Artist": "Solence",
+        "Key": "7A",
+        "Energy": 8.2,
+        "Popularity": 1.0,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2010s",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "4lF3jqrokwLCfjg8puOe7E",
+            "explicit": true,
+            "album": "Heaven",
+            "release_date": "2019-05-02",
+            "genres": [],
+            "duration": 218275,
+            "acousticness": 0.00146,
+            "danceability": 5.167,
+            "instrumentalness": 0.0485,
+            "liveness": 0.576,
+            "loudness": -6.502,
+            "speechiness": 0.0491,
+            "time_signature": 4,
+            "happiness": 5.365
+        }
+    },
+    {
+        "#": 55,
+        "Track Title": "The Pretender",
+        "Artist": "Foo Fighters",
+        "Key": "11B",
+        "Energy": 9.631,
+        "Popularity": 8.290000000000001,
+        "BPM": 86,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "7x8dCjCr0x6x2lXKujYD34",
+            "explicit": false,
+            "album": "Echoes, Silence, Patience & Grace",
+            "release_date": "2007-09-25",
+            "genres": [
+                "alternative metal",
+                "alternative rock",
+                "modern rock",
+                "permanent wave",
+                "post-grunge",
+                "rock"
+            ],
+            "duration": 269373,
+            "acousticness": 0.000917,
+            "danceability": 4.897,
+            "instrumentalness": 0,
+            "liveness": 0.028,
+            "loudness": -4.04,
+            "speechiness": 0.0431,
+            "time_signature": 4,
+            "happiness": 4.285
+        }
+    },
+    {
+        "#": 56,
+        "Track Title": "Last Resort",
+        "Artist": "Papa Roach",
+        "Key": "12A",
+        "Energy": 9.01,
+        "Popularity": 8.469999999999999,
+        "BPM": 91,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock",
+            "Hip Hop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "5W8YXBz9MTIDyrpYaCg2Ky",
+            "explicit": true,
+            "album": "Infest",
+            "release_date": "2001-04-25",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "rap metal",
+                "rap rock",
+                "rock"
+            ],
+            "duration": 199907,
+            "acousticness": 0.000481,
+            "danceability": 6.301,
+            "instrumentalness": 0.00082,
+            "liveness": 0.201,
+            "loudness": -3.719,
+            "speechiness": 0.0603,
+            "time_signature": 4,
+            "happiness": 7.228
+        }
+    },
+    {
+        "#": 57,
+        "Track Title": "The Kids Aren't Alright",
+        "Artist": "The Offspring",
+        "Key": "3B",
+        "Energy": 9.487,
+        "Popularity": 8.559999999999999,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "90s",
+            "Mad",
+            "Rock",
+            "Pop",
+            "Nostalgic",
+            "California [Loc]",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4EchqUKQ3qAQuRNKmeIpnf",
+            "explicit": false,
+            "album": "Americana",
+            "release_date": "1998-11-16",
+            "genres": [
+                "alternative metal",
+                "permanent wave",
+                "post-grunge",
+                "punk",
+                "rock",
+                "skate punk",
+                "socal pop punk"
+            ],
+            "duration": 180160,
+            "acousticness": 0.00704,
+            "danceability": 5.707,
+            "instrumentalness": 3.81e-05,
+            "liveness": 0.0579,
+            "loudness": -4.203,
+            "speechiness": 0.0337,
+            "time_signature": 4,
+            "happiness": 7.894
+        }
+    },
+    {
+        "#": 58,
+        "Track Title": "Seven Nation Army",
+        "Artist": "The White Stripes",
+        "Key": "12A",
+        "Energy": 5.014,
+        "Popularity": 8.74,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "3dPQuX8Gs42Y7b454ybpMR",
+            "explicit": false,
+            "album": "Elephant",
+            "release_date": "2003-04-01",
+            "genres": [
+                "alternative rock",
+                "blues rock",
+                "detroit rock",
+                "garage rock",
+                "modern blues rock",
+                "permanent wave",
+                "punk blues",
+                "rock"
+            ],
+            "duration": 232107,
+            "acousticness": 0.0039,
+            "danceability": 7.687,
+            "instrumentalness": 0.118,
+            "liveness": 0.337,
+            "loudness": -7.807,
+            "speechiness": 0.0683,
+            "time_signature": 4,
+            "happiness": 3.5020000000000002
+        }
+    },
+    {
+        "#": 59,
+        "Track Title": "Bodies",
+        "Artist": "Drowning Pool",
+        "Key": "12A",
+        "Energy": 9.388,
+        "Popularity": 8.02,
+        "BPM": 131,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "7CpbhqKUedOIrcvc94p60Y",
+            "explicit": false,
+            "album": "Sinner",
+            "release_date": "2001-01-01",
+            "genres": [
+                "alternative metal",
+                "industrial metal",
+                "nu metal",
+                "post-grunge",
+                "rap metal"
+            ],
+            "duration": 201960,
+            "acousticness": 0.00347,
+            "danceability": 6.904,
+            "instrumentalness": 0.00147,
+            "liveness": 0.144,
+            "loudness": -3.405,
+            "speechiness": 0.0708,
+            "time_signature": 4,
+            "happiness": 5.896000000000001
+        }
+    },
+    {
+        "#": 60,
+        "Track Title": "Through The Fire And Flames",
+        "Artist": "DragonForce",
+        "Key": "8A",
+        "Energy": 9.577,
+        "Popularity": 6.31,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "2eB7JqIY4hTTSz31h6bjwR",
+            "explicit": false,
+            "album": "Inhuman Rampage",
+            "release_date": "2006-01-09",
+            "genres": [
+                "british power metal",
+                "fantasy metal",
+                "metal",
+                "power metal",
+                "speed metal"
+            ],
+            "duration": 439120,
+            "acousticness": 0.00152,
+            "danceability": 2.377,
+            "instrumentalness": 0.0062,
+            "liveness": 0.366,
+            "loudness": -4.74,
+            "speechiness": 0.122,
+            "time_signature": 4,
+            "happiness": 2.2600000000000002
+        }
+    },
+    {
+        "#": 61,
+        "Track Title": "Kickstart My Heart",
+        "Artist": "Mötley Crüe",
+        "Key": "9A",
+        "Energy": 9.829,
+        "Popularity": 1.3599999999999999,
+        "BPM": 89,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "80s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "7GonnnalI2s19OCQO1J7Tf",
+            "explicit": false,
+            "album": "Dr. Feelgood",
+            "release_date": "1989",
+            "genres": [
+                "album rock",
+                "alternative metal",
+                "glam metal",
+                "hard rock",
+                "metal",
+                "rock",
+                "sleaze rock"
+            ],
+            "duration": 282653,
+            "acousticness": 0.00125,
+            "danceability": 4.231,
+            "instrumentalness": 0.00236,
+            "liveness": 0.284,
+            "loudness": -3.622,
+            "speechiness": 0.303,
+            "time_signature": 4,
+            "happiness": 3.439
+        }
+    },
+    {
+        "#": 62,
+        "Track Title": "Fuel",
+        "Artist": "Metallica",
+        "Key": "3B",
+        "Energy": 9.559,
+        "Popularity": 7.4799999999999995,
+        "BPM": 107,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "90s",
+            "Mad",
+            "Rock",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6FUwPb4mGlUDbx42uspXaZ",
+            "explicit": true,
+            "album": "Reload",
+            "release_date": "1997-01-01",
+            "genres": [
+                "hard rock",
+                "metal",
+                "old school thrash",
+                "rock",
+                "thrash metal"
+            ],
+            "duration": 269800,
+            "acousticness": 2.02e-05,
+            "danceability": 5.41,
+            "instrumentalness": 0.0027,
+            "liveness": 0.0314,
+            "loudness": -3.777,
+            "speechiness": 0.0477,
+            "time_signature": 4,
+            "happiness": 6.301
+        }
+    },
+    {
+        "#": 63,
+        "Track Title": "Breaking the Law",
+        "Artist": "Judas Priest",
+        "Key": "10B",
+        "Energy": 9.649,
+        "Popularity": 7.75,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "80s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "2RaA6kIcvomt77qlIgGhCT",
+            "explicit": false,
+            "album": "British Steel",
+            "release_date": "1980",
+            "genres": [
+                "album rock",
+                "alternative metal",
+                "birmingham metal",
+                "glam metal",
+                "hard rock",
+                "metal",
+                "rock"
+            ],
+            "duration": 153840,
+            "acousticness": 0.024,
+            "danceability": 4.258,
+            "instrumentalness": 9.35e-06,
+            "liveness": 0.159,
+            "loudness": -5.664,
+            "speechiness": 0.0857,
+            "time_signature": 4,
+            "happiness": 5.419
+        }
+    },
+    {
+        "#": 64,
+        "Track Title": "Smooth Criminal",
+        "Artist": "Alien Ant Farm",
+        "Key": "11A",
+        "Energy": 9.676,
+        "Popularity": 7.93,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5z6xHjCZr7a7AIcy8sPBKy",
+            "explicit": false,
+            "album": "Anthology",
+            "release_date": "2001-01-01",
+            "genres": [
+                "alternative metal",
+                "funk metal",
+                "nu metal",
+                "post-grunge"
+            ],
+            "duration": 209267,
+            "acousticness": 0.00316,
+            "danceability": 6.877000000000001,
+            "instrumentalness": 0.00512,
+            "liveness": 0.144,
+            "loudness": -4.261,
+            "speechiness": 0.0582,
+            "time_signature": 4,
+            "happiness": 8.83
+        }
+    },
+    {
+        "#": 65,
+        "Track Title": "Monsoon",
+        "Artist": "Tokio Hotel",
+        "Key": "5A",
+        "Energy": 7.579,
+        "Popularity": 7.3,
+        "BPM": 112,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "32Ky5QCRtwYJJXuLwoGufj",
+            "explicit": false,
+            "album": "Scream",
+            "release_date": "2007-01-01",
+            "genres": [
+                "german pop rock"
+            ],
+            "duration": 241427,
+            "acousticness": 0.0204,
+            "danceability": 6.22,
+            "instrumentalness": 0,
+            "liveness": 0.21,
+            "loudness": -5.299,
+            "speechiness": 0.0293,
+            "time_signature": 4,
+            "happiness": 2.476
+        }
+    },
+    {
+        "#": 66,
+        "Track Title": "Animal I Have Become",
+        "Artist": "Three Days Grace",
+        "Key": "4B",
+        "Energy": 8.677,
+        "Popularity": 7.209999999999999,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "5eFxwmqKrHpSQDOEIFYlgY",
+            "explicit": false,
+            "album": "One-X",
+            "release_date": "2006-06-13",
+            "genres": [
+                "alternative metal",
+                "canadian metal",
+                "canadian rock",
+                "nu metal",
+                "post-grunge",
+                "rock"
+            ],
+            "duration": 231400,
+            "acousticness": 0.000684,
+            "danceability": 5.977,
+            "instrumentalness": 0,
+            "liveness": 0.126,
+            "loudness": -3.668,
+            "speechiness": 0.0339,
+            "time_signature": 4,
+            "happiness": 5.554
+        }
+    },
+    {
+        "#": 67,
+        "Track Title": "One Step Closer",
+        "Artist": "Linkin Park",
+        "Key": "11B",
+        "Energy": 9.721,
+        "Popularity": 8.379999999999999,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "3K4HG9evC7dg3N0R9cYqk4",
+            "explicit": false,
+            "album": "Hybrid Theory (Bonus Edition)",
+            "release_date": "2000-10-24",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "post-grunge",
+                "rap metal",
+                "rock"
+            ],
+            "duration": 157333,
+            "acousticness": 0.0014,
+            "danceability": 5.428,
+            "instrumentalness": 1.32e-06,
+            "liveness": 0.0787,
+            "loudness": -4.419,
+            "speechiness": 0.0491,
+            "time_signature": 4,
+            "happiness": 5.8420000000000005
+        }
+    },
+    {
+        "#": 68,
+        "Track Title": "Rollin' (Air Raid Vehicle)",
+        "Artist": "Limp Bizkit",
+        "Key": "3B",
+        "Energy": 9.397,
+        "Popularity": 8.11,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3IV4swNduIRunHREK80owz",
+            "explicit": true,
+            "album": "Chocolate Starfish And The Hot Dog Flavored Water",
+            "release_date": "2000-10-17",
+            "genres": [
+                "alternative metal",
+                "funk metal",
+                "nu metal",
+                "post-grunge",
+                "rap metal",
+                "rock"
+            ],
+            "duration": 213760,
+            "acousticness": 0.00591,
+            "danceability": 6.427,
+            "instrumentalness": 0,
+            "liveness": 0.206,
+            "loudness": -3.358,
+            "speechiness": 0.171,
+            "time_signature": 4,
+            "happiness": 7.380999999999999
+        }
+    },
+    {
+        "#": 69,
+        "Track Title": "Crawling",
+        "Artist": "Linkin Park",
+        "Key": "12B",
+        "Energy": 7.318,
+        "Popularity": 8.02,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "57BrRMwf9LrcmuOsyGilwr",
+            "explicit": false,
+            "album": "Hybrid Theory (Bonus Edition)",
+            "release_date": "2000-10-24",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "post-grunge",
+                "rap metal",
+                "rock"
+            ],
+            "duration": 208960,
+            "acousticness": 0.0466,
+            "danceability": 6.22,
+            "instrumentalness": 3.2e-06,
+            "liveness": 0.536,
+            "loudness": -5.565,
+            "speechiness": 0.0337,
+            "time_signature": 4,
+            "happiness": 3.691
+        }
+    },
+    {
+        "#": 70,
+        "Track Title": "Stricken",
+        "Artist": "Disturbed",
+        "Key": "4B",
+        "Energy": 9.721,
+        "Popularity": 7.75,
+        "BPM": 87,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "6RJdYpFQwLyNfDc5FbjkgV",
+            "explicit": false,
+            "album": "Ten Thousand Fists",
+            "release_date": "2005-09-19",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "rap metal",
+                "rock"
+            ],
+            "duration": 245227,
+            "acousticness": 9.14e-05,
+            "danceability": 4.618,
+            "instrumentalness": 0.0325,
+            "liveness": 0.225,
+            "loudness": -2.825,
+            "speechiness": 0.181,
+            "time_signature": 4,
+            "happiness": 3.358
+        }
+    },
+    {
+        "#": 71,
+        "Track Title": "In the End",
+        "Artist": "Linkin Park",
+        "Key": "5A",
+        "Energy": 8.776,
+        "Popularity": 8.92,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "60a0Rd6pjrkxjPbaKzXjfq",
+            "explicit": false,
+            "album": "Hybrid Theory (Bonus Edition)",
+            "release_date": "2000-10-24",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "post-grunge",
+                "rap metal",
+                "rock"
+            ],
+            "duration": 216880,
+            "acousticness": 0.00958,
+            "danceability": 6.0040000000000004,
+            "instrumentalness": 0,
+            "liveness": 0.209,
+            "loudness": -5.87,
+            "speechiness": 0.0584,
+            "time_signature": 4,
+            "happiness": 4.6
+        }
+    },
+    {
+        "#": 72,
+        "Track Title": "Epic",
+        "Artist": "Faith No More",
+        "Key": "12A",
+        "Energy": 9.037,
+        "Popularity": 7.209999999999999,
+        "BPM": 87,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "80s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "4ReyTz0y3TGkX48wO3Llot",
+            "explicit": false,
+            "album": "The Real Thing",
+            "release_date": "1989",
+            "genres": [
+                "alternative metal",
+                "alternative rock",
+                "funk metal",
+                "funk rock",
+                "hard rock",
+                "nu metal",
+                "post-grunge",
+                "rap metal",
+                "rock"
+            ],
+            "duration": 293653,
+            "acousticness": 0.0222,
+            "danceability": 4.2219999999999995,
+            "instrumentalness": 0.0524,
+            "liveness": 0.126,
+            "loudness": -7.486,
+            "speechiness": 0.12,
+            "time_signature": 4,
+            "happiness": 3.358
+        }
+    },
+    {
+        "#": 73,
+        "Track Title": "Falling Away from Me",
+        "Artist": "Korn",
+        "Key": "12B",
+        "Energy": 7.921,
+        "Popularity": 7.75,
+        "BPM": 104,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "90s",
+            "Mad",
+            "Rock",
+            "Fight & Fog",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "2F6FfZ4w8z3eJpSxPotVO5",
+            "explicit": true,
+            "album": "Issues",
+            "release_date": "1999-11-09",
+            "genres": [
+                "alternative metal",
+                "funk metal",
+                "hard rock",
+                "nu metal",
+                "post-grunge",
+                "rap metal",
+                "rock"
+            ],
+            "duration": 270920,
+            "acousticness": 0.00014,
+            "danceability": 5.212000000000001,
+            "instrumentalness": 0.00124,
+            "liveness": 0.271,
+            "loudness": -7.036,
+            "speechiness": 0.041,
+            "time_signature": 4,
+            "happiness": 2.5300000000000002
+        }
+    },
+    {
+        "#": 74,
+        "Track Title": "Numb",
+        "Artist": "Linkin Park",
+        "Key": "11B",
+        "Energy": 8.767,
+        "Popularity": 6.67,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "1y1sChqjzdNWzwdHQADMrR",
+            "explicit": false,
+            "album": "Meteora (Bonus Edition)",
+            "release_date": "2003-03-24",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "post-grunge",
+                "rap metal",
+                "rock"
+            ],
+            "duration": 185587,
+            "acousticness": 0.0046,
+            "danceability": 5.464,
+            "instrumentalness": 0,
+            "liveness": 0.639,
+            "loudness": -4.153,
+            "speechiness": 0.0381,
+            "time_signature": 4,
+            "happiness": 3.187
+        }
+    },
+    {
+        "#": 75,
+        "Track Title": "Youth of the Nation",
+        "Artist": "P.O.D.",
+        "Key": "4B",
+        "Energy": 8.74,
+        "Popularity": 7.57,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "0UrWr7Jnu1heq1o99ZwUd0",
+            "explicit": false,
+            "album": "Satellite (U.S. Version)",
+            "release_date": "2001-09-11",
+            "genres": [
+                "alternative metal",
+                "funk metal",
+                "nu metal",
+                "rap metal",
+                "rap rock"
+            ],
+            "duration": 256240,
+            "acousticness": 0.00834,
+            "danceability": 6.066999999999999,
+            "instrumentalness": 0.0106,
+            "liveness": 0.39,
+            "loudness": -7.533,
+            "speechiness": 0.0621,
+            "time_signature": 4,
+            "happiness": 5.6530000000000005
+        }
+    },
+    {
+        "#": 76,
+        "Track Title": "Cold",
+        "Artist": "Crossfade",
+        "Key": "10A",
+        "Energy": 8.334999999999999,
+        "Popularity": 7.39,
+        "BPM": 148,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "6ZxrUCaynLgKSUudACOTwj",
+            "explicit": false,
+            "album": "Crossfade",
+            "release_date": "2004-04-13",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "post-grunge"
+            ],
+            "duration": 194227,
+            "acousticness": 6.06e-05,
+            "danceability": 5.059,
+            "instrumentalness": 0,
+            "liveness": 0.27,
+            "loudness": -5.55,
+            "speechiness": 0.0368,
+            "time_signature": 4,
+            "happiness": 6.562
+        }
+    },
+    {
+        "#": 77,
+        "Track Title": "My Way",
+        "Artist": "Limp Bizkit",
+        "Key": "2B",
+        "Energy": 8.776,
+        "Popularity": 7.84,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "2gSVKxPDww9Eep5rdvtdem",
+            "explicit": true,
+            "album": "Chocolate Starfish And The Hot Dog Flavored Water",
+            "release_date": "2000-10-17",
+            "genres": [
+                "alternative metal",
+                "funk metal",
+                "nu metal",
+                "post-grunge",
+                "rap metal",
+                "rock"
+            ],
+            "duration": 272973,
+            "acousticness": 0.02,
+            "danceability": 6.183999999999999,
+            "instrumentalness": 1.68e-06,
+            "liveness": 0.683,
+            "loudness": -3.981,
+            "speechiness": 0.0462,
+            "time_signature": 4,
+            "happiness": 6.481
+        }
+    },
+    {
+        "#": 78,
+        "Track Title": "False Pretense",
+        "Artist": "The Red Jumpsuit Apparatus",
+        "Key": "8A",
+        "Energy": 9.370000000000001,
+        "Popularity": 7.03,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2ZICF8SFI5tHttaLJKMY1X",
+            "explicit": false,
+            "album": "Don't You Fake It",
+            "release_date": "2006-01-01",
+            "genres": [
+                "alternative metal",
+                "neon pop punk",
+                "pop punk",
+                "post-grunge",
+                "screamo"
+            ],
+            "duration": 149640,
+            "acousticness": 0.00137,
+            "danceability": 5.581,
+            "instrumentalness": 0,
+            "liveness": 0.152,
+            "loudness": -2.689,
+            "speechiness": 0.0474,
+            "time_signature": 4,
+            "happiness": 8.047
+        }
+    },
+    {
+        "#": 79,
+        "Track Title": "CASTLE OF GLASS",
+        "Artist": "Linkin Park",
+        "Key": "3A",
+        "Energy": 9.199,
+        "Popularity": 7.75,
+        "BPM": 108,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2010s",
+            "Mad",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1r1fPuhj9H4VdXr7OK6FL5",
+            "explicit": false,
+            "album": "LIVING THINGS",
+            "release_date": "2012-06-20",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "post-grunge",
+                "rap metal",
+                "rock"
+            ],
+            "duration": 205400,
+            "acousticness": 0.0686,
+            "danceability": 6.535,
+            "instrumentalness": 0.00188,
+            "liveness": 0.0908,
+            "loudness": -3.584,
+            "speechiness": 0.0278,
+            "time_signature": 4,
+            "happiness": 7.165000000000001
+        }
+    },
+    {
+        "#": 80,
+        "Track Title": "Careless Whisper",
+        "Artist": "Seether",
+        "Key": "10B",
+        "Energy": 9.549999999999999,
+        "Popularity": 1.0,
+        "BPM": 134,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2010s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "6I5gEJ0E33DgbtBUFHgD6n",
+            "explicit": false,
+            "album": "Seether: 2002-2013",
+            "release_date": "2013-01-01",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "post-grunge",
+                "south african rock"
+            ],
+            "duration": 297382,
+            "acousticness": 4.23e-05,
+            "danceability": 5.428,
+            "instrumentalness": 0.00469,
+            "liveness": 0.071,
+            "loudness": -4.601,
+            "speechiness": 0.0559,
+            "time_signature": 4,
+            "happiness": 4.609
+        }
+    },
+    {
+        "#": 81,
+        "Track Title": "HIGHSCHOOL OF THE DEAD",
+        "Artist": "KISIDA KYODAN & THE AKEBOSI ROCKETS",
+        "Key": "9B",
+        "Energy": 9.631,
+        "Popularity": 5.5,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "254FAW8agT5ePrypOck8yA",
+            "explicit": false,
+            "album": "HIGHSCHOOL OF THE DEAD",
+            "release_date": "2010-08-18",
+            "genres": [
+                "anime",
+                "j-pixie",
+                "otacore"
+            ],
+            "duration": 202693,
+            "acousticness": 0.0078,
+            "danceability": 4.195,
+            "instrumentalness": 0.000283,
+            "liveness": 0.167,
+            "loudness": -2.488,
+            "speechiness": 0.118,
+            "time_signature": 4,
+            "happiness": 5.041
+        }
+    },
+    {
+        "#": 82,
+        "Track Title": "Know Your Enemy",
+        "Artist": "Green Day",
+        "Key": "1B",
+        "Energy": 9.622,
+        "Popularity": 6.94,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Nostalgic",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5qtwzv99vOr5UTwnTixn7j",
+            "explicit": false,
+            "album": "21st Century Breakdown",
+            "release_date": "2009-05-15",
+            "genres": [
+                "modern rock",
+                "permanent wave",
+                "punk",
+                "rock"
+            ],
+            "duration": 190987,
+            "acousticness": 0.0016,
+            "danceability": 6.040000000000001,
+            "instrumentalness": 4.96e-05,
+            "liveness": 0.0643,
+            "loudness": -3.245,
+            "speechiness": 0.0412,
+            "time_signature": 4,
+            "happiness": 9.649
+        }
+    },
+    {
+        "#": 83,
+        "Track Title": "Popular Monster",
+        "Artist": "Falling In Reverse",
+        "Key": "5A",
+        "Energy": 9.073,
+        "Popularity": 8.02,
+        "BPM": 83,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2010s",
+            "Rock",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "4GssB27iJeqmfGxS94Tfij",
+            "explicit": true,
+            "album": "Popular Monster",
+            "release_date": "2019-11-20",
+            "genres": [
+                "pop punk",
+                "rap metal"
+            ],
+            "duration": 220537,
+            "acousticness": 0.00821,
+            "danceability": 5.149,
+            "instrumentalness": 0,
+            "liveness": 0.0965,
+            "loudness": -3.982,
+            "speechiness": 0.092,
+            "time_signature": 4,
+            "happiness": 4.2219999999999995
+        }
+    },
+    {
+        "#": 84,
+        "Track Title": "Livin' On A Prayer",
+        "Artist": "Bon Jovi",
+        "Key": "8B",
+        "Energy": 8.983,
+        "Popularity": 8.83,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "80s",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "37ZJ0p5Jm13JPevGcx4SkF",
+            "explicit": false,
+            "album": "Slippery When Wet",
+            "release_date": "1986-08-16",
+            "genres": [
+                "glam metal",
+                "rock"
+            ],
+            "duration": 249293,
+            "acousticness": 0.0778,
+            "danceability": 5.788,
+            "instrumentalness": 0.000214,
+            "liveness": 0.294,
+            "loudness": -3.757,
+            "speechiness": 0.0335,
+            "time_signature": 4,
+            "happiness": 8.155000000000001
+        }
+    },
+    {
+        "#": 85,
+        "Track Title": "You're Gonna Go Far, Kid",
+        "Artist": "The Offspring",
+        "Key": "8B",
+        "Energy": 9.253,
+        "Popularity": 8.469999999999999,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock",
+            "Pop",
+            "Nostalgic",
+            "California [Loc]",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6TfBA04WJ3X1d1wXhaCFVT",
+            "explicit": true,
+            "album": "Rise And Fall, Rage And Grace",
+            "release_date": "2008-06-17",
+            "genres": [
+                "alternative metal",
+                "permanent wave",
+                "post-grunge",
+                "punk",
+                "rock",
+                "skate punk",
+                "socal pop punk"
+            ],
+            "duration": 177827,
+            "acousticness": 0.00428,
+            "danceability": 5.95,
+            "instrumentalness": 0,
+            "liveness": 0.197,
+            "loudness": -3.159,
+            "speechiness": 0.0638,
+            "time_signature": 4,
+            "happiness": 6.409
+        }
+    },
+    {
+        "#": 86,
+        "Track Title": "I WANNA BE YOUR SLAVE",
+        "Artist": "Måneskin",
+        "Key": "3B",
+        "Energy": 6.4719999999999995,
+        "Popularity": 8.559999999999999,
+        "BPM": 133,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2020s",
+            "Pop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "4pt5fDVTg5GhEvEtlz9dKk",
+            "explicit": true,
+            "album": "Teatro d'ira - Vol. I",
+            "release_date": "2021-03-19",
+            "genres": [
+                "indie rock italiano",
+                "italian pop",
+                "pop"
+            ],
+            "duration": 173347,
+            "acousticness": 0.00165,
+            "danceability": 7.75,
+            "instrumentalness": 0,
+            "liveness": 0.178,
+            "loudness": -4.008,
+            "speechiness": 0.0387,
+            "time_signature": 4,
+            "happiness": 9.622
+        }
+    },
+    {
+        "#": 87,
+        "Track Title": "Darkness Settles In",
+        "Artist": "Five Finger Death Punch",
+        "Key": "12B",
+        "Energy": 9.397,
+        "Popularity": 6.58,
+        "BPM": 133,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2020s",
+            "Mad",
+            "Rock",
+            "Fight & Fog",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6RksBSj5fFtPkUnL2EE0oe",
+            "explicit": true,
+            "album": "F8",
+            "release_date": "2020-02-28",
+            "genres": [
+                "alternative metal",
+                "groove metal",
+                "nu metal"
+            ],
+            "duration": 281804,
+            "acousticness": 0.00732,
+            "danceability": 4.006,
+            "instrumentalness": 0,
+            "liveness": 0.264,
+            "loudness": -4.49,
+            "speechiness": 0.09,
+            "time_signature": 4,
+            "happiness": 2.62
+        }
+    },
+    {
+        "#": 88,
+        "Track Title": "Wrong Side of Heaven",
+        "Artist": "Five Finger Death Punch",
+        "Key": "12A",
+        "Energy": 9.388,
+        "Popularity": 7.209999999999999,
+        "BPM": 150,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2010s",
+            "Mad",
+            "Rock",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "11Ojp7JniVvwd0gmgvyKkd",
+            "explicit": true,
+            "album": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
+            "release_date": "2013-07-26",
+            "genres": [
+                "alternative metal",
+                "groove metal",
+                "nu metal"
+            ],
+            "duration": 271000,
+            "acousticness": 0.00721,
+            "danceability": 5.329,
+            "instrumentalness": 0,
+            "liveness": 0.337,
+            "loudness": -4.592,
+            "speechiness": 0.083,
+            "time_signature": 4,
+            "happiness": 5.8870000000000005
+        }
+    },
+    {
+        "#": 89,
+        "Track Title": "MAMMAMIA",
+        "Artist": "Måneskin",
+        "Key": "3A",
+        "Energy": 7.102,
+        "Popularity": 7.3,
+        "BPM": 142,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2020s",
+            "Pop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "78SCmQ8A7KQSMdkem2SwBP",
+            "explicit": true,
+            "album": "MAMMAMIA",
+            "release_date": "2021-10-08",
+            "genres": [
+                "indie rock italiano",
+                "italian pop",
+                "pop"
+            ],
+            "duration": 186809,
+            "acousticness": 0.000615,
+            "danceability": 7.9030000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.0952,
+            "loudness": -3.284,
+            "speechiness": 0.0686,
+            "time_signature": 4,
+            "happiness": 8.119
+        }
+    },
+    {
+        "#": 90,
+        "Track Title": "Jekyll and Hyde",
+        "Artist": "Five Finger Death Punch",
+        "Key": "11B",
+        "Energy": 9.676,
+        "Popularity": 7.12,
+        "BPM": 78,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2010s",
+            "Mad",
+            "Rock",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6efSwlK3LOlWOeKK9xlUKF",
+            "explicit": true,
+            "album": "Got Your Six",
+            "release_date": "2015-09-04",
+            "genres": [
+                "alternative metal",
+                "groove metal",
+                "nu metal"
+            ],
+            "duration": 206903,
+            "acousticness": 0.000599,
+            "danceability": 5.833,
+            "instrumentalness": 1.14e-05,
+            "liveness": 0.0564,
+            "loudness": -4.157,
+            "speechiness": 0.113,
+            "time_signature": 4,
+            "happiness": 7.4079999999999995
+        }
+    },
+    {
+        "#": 91,
+        "Track Title": "Bottom of The Top",
+        "Artist": "Five Finger Death Punch",
+        "Key": "12A",
+        "Energy": 9.901,
+        "Popularity": 5.32,
+        "BPM": 102,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2020s",
+            "Mad",
+            "Rock",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "4MCko2lInqpb0hKRZxRdGz",
+            "explicit": true,
+            "album": "F8",
+            "release_date": "2020-02-28",
+            "genres": [
+                "alternative metal",
+                "groove metal",
+                "nu metal"
+            ],
+            "duration": 210176,
+            "acousticness": 0.000157,
+            "danceability": 5.716,
+            "instrumentalness": 1.25e-06,
+            "liveness": 0.232,
+            "loudness": -3.758,
+            "speechiness": 0.0651,
+            "time_signature": 4,
+            "happiness": 5.3919999999999995
+        }
+    },
+    {
+        "#": 92,
+        "Track Title": "Undead",
+        "Artist": "Hollywood Undead",
+        "Key": "10A",
+        "Energy": 9.487,
+        "Popularity": 7.4799999999999995,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "5wBLDkxVvclanSitx5jq8e",
+            "explicit": true,
+            "album": "Swan Songs",
+            "release_date": "2008-09-02",
+            "genres": [
+                "alternative metal",
+                "modern rock",
+                "post-grunge",
+                "rap metal",
+                "rap rock"
+            ],
+            "duration": 265053,
+            "acousticness": 0.0138,
+            "danceability": 5.6080000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.261,
+            "loudness": -5.185,
+            "speechiness": 0.106,
+            "time_signature": 4,
+            "happiness": 5.365
+        }
+    },
+    {
+        "#": 93,
+        "Track Title": "Bleed It Out",
+        "Artist": "Linkin Park",
+        "Key": "3A",
+        "Energy": 9.703,
+        "Popularity": 8.2,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0UFDKFqW2oGspYeYqo9wjA",
+            "explicit": true,
+            "album": "Minutes to Midnight",
+            "release_date": "2007-05-14",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "post-grunge",
+                "rap metal",
+                "rock"
+            ],
+            "duration": 166373,
+            "acousticness": 0.114,
+            "danceability": 5.761,
+            "instrumentalness": 0,
+            "liveness": 0.61,
+            "loudness": -3.647,
+            "speechiness": 0.0508,
+            "time_signature": 4,
+            "happiness": 6.364
+        }
+    },
+    {
+        "#": 94,
+        "Track Title": "Somewhere I Belong",
+        "Artist": "Linkin Park",
+        "Key": "3B",
+        "Energy": 9.559,
+        "Popularity": 7.93,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "3fjmSxt0PskST13CSdBUFx",
+            "explicit": false,
+            "album": "Meteora (Bonus Edition)",
+            "release_date": "2003-03-24",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "post-grunge",
+                "rap metal",
+                "rock"
+            ],
+            "duration": 213933,
+            "acousticness": 0.00038,
+            "danceability": 5.059,
+            "instrumentalness": 2.39e-06,
+            "liveness": 0.261,
+            "loudness": -3.754,
+            "speechiness": 0.0645,
+            "time_signature": 4,
+            "happiness": 4.978
+        }
+    },
+    {
+        "#": 95,
+        "Track Title": "Killing Me Slowly",
+        "Artist": "Bad Wolves",
+        "Key": "3A",
+        "Energy": 9.01,
+        "Popularity": 5.7700000000000005,
+        "BPM": 138,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2010s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "6E5gsJm3t0RqmiHBfUBaya",
+            "explicit": false,
+            "album": "Killing Me Slowly",
+            "release_date": "2019-08-23",
+            "genres": [
+                "alternative metal",
+                "metal",
+                "post-grunge"
+            ],
+            "duration": 237065,
+            "acousticness": 0.000725,
+            "danceability": 4.1049999999999995,
+            "instrumentalness": 2.98e-06,
+            "liveness": 0.204,
+            "loudness": -4.175,
+            "speechiness": 0.0774,
+            "time_signature": 4,
+            "happiness": 3.484
+        }
+    },
+    {
+        "#": 96,
+        "Track Title": "Inside the Fire",
+        "Artist": "Disturbed",
+        "Key": "9B",
+        "Energy": 9.658,
+        "Popularity": 7.3,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "5cxp9kjCFyJwzv3lzeX7ku",
+            "explicit": false,
+            "album": "Indestructible (Deluxe Edition)",
+            "release_date": "2008-04-29",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "rap metal",
+                "rock"
+            ],
+            "duration": 231573,
+            "acousticness": 0.000233,
+            "danceability": 5.167,
+            "instrumentalness": 0.109,
+            "liveness": 0.0906,
+            "loudness": -6.43,
+            "speechiness": 0.0704,
+            "time_signature": 4,
+            "happiness": 6.94
+        }
+    },
+    {
+        "#": 97,
+        "Track Title": "The Outsider",
+        "Artist": "Black Veil Brides",
+        "Key": "8A",
+        "Energy": 9.127,
+        "Popularity": 5.140000000000001,
+        "BPM": 93,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2010s",
+            "Mad",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "2nmlQjcMwifRQ4QahfvHPc",
+            "explicit": false,
+            "album": "Vale",
+            "release_date": "2018-01-12",
+            "genres": [
+                "alternative metal",
+                "pop punk"
+            ],
+            "duration": 226400,
+            "acousticness": 0.0022,
+            "danceability": 5.806,
+            "instrumentalness": 1.44e-06,
+            "liveness": 0.171,
+            "loudness": -3.367,
+            "speechiness": 0.0421,
+            "time_signature": 4,
+            "happiness": 5.9590000000000005
+        }
+    },
+    {
+        "#": 98,
+        "Track Title": "Lift Me Up (feat. Rob Halford of Judas Priest)",
+        "Artist": "Five Finger Death Punch",
+        "Key": "3A",
+        "Energy": 9.892,
+        "Popularity": 6.8500000000000005,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2010s",
+            "Mad",
+            "Rock",
+            "Fight & Fog",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "1LHZMWefF9502NPfArRfvP",
+            "explicit": true,
+            "album": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
+            "release_date": "2013-07-26",
+            "genres": [
+                "alternative metal",
+                "groove metal",
+                "nu metal"
+            ],
+            "duration": 246209,
+            "acousticness": 8.45e-05,
+            "danceability": 5.572,
+            "instrumentalness": 0,
+            "liveness": 0.209,
+            "loudness": -3.613,
+            "speechiness": 0.165,
+            "time_signature": 4,
+            "happiness": 2.566
+        }
+    },
+    {
+        "#": 99,
+        "Track Title": "You're Going Down",
+        "Artist": "Sick Puppies",
+        "Key": "2B",
+        "Energy": 8.497,
+        "Popularity": 6.94,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2000s",
+            "Mad",
+            "Rock",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "5FQXMRDSTkn9fowDJ3kZo8",
+            "explicit": true,
+            "album": "Tri-Polar (International Version)",
+            "release_date": "2009",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "post-grunge"
+            ],
+            "duration": 187347,
+            "acousticness": 0.0116,
+            "danceability": 5.41,
+            "instrumentalness": 0.000504,
+            "liveness": 0.15,
+            "loudness": -5.899,
+            "speechiness": 0.0487,
+            "time_signature": 4,
+            "happiness": 4.51
+        }
+    },
+    {
+        "#": 100,
+        "Track Title": "Animals",
+        "Artist": "Architects",
+        "Key": "3A",
+        "Energy": 7.831,
+        "Popularity": 7.209999999999999,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Fight & Fog, Rock",
+            "2020s",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "5ofoB8PFmocBXFBEWVb6Vz",
+            "explicit": true,
+            "album": "For Those That Wish To Exist",
+            "release_date": "2021-02-26",
+            "genres": [
+                "mathcore",
+                "melodic metalcore",
+                "metalcore",
+                "progressive metalcore",
+                "uk metalcore"
+            ],
+            "duration": 244365,
+            "acousticness": 0.000123,
+            "danceability": 5.788,
+            "instrumentalness": 0.02,
+            "liveness": 0.073,
+            "loudness": -3.842,
+            "speechiness": 0.0319,
+            "time_signature": 4,
+            "happiness": 3.637
+        }
+    }
+]

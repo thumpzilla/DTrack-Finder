@@ -39,6 +39,8 @@ var URLS = [
   `${GHPATH}/data/collections/DTRacks All 1200 DTracks.json`,
   `${GHPATH}/data/collections/Sp- Sing-Along.json`,
   `${GHPATH}/data/collections/manifest.json`,
+  `${GHPATH}/data/collections/Sp- Workout.json`,
+  `${GHPATH}/data/collections/Sp- Bach Party ISRAEL.json`,
   `${GHPATH}/data/collections/Sp - Party by decades.json`,
   "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@100;200;300;400;600;700;900&display=swap"
 ]
@@ -75,6 +77,15 @@ self.addEventListener('fetch', (e) => {
     })
   );
 });
+
+/*
+// Source: 
+Turning github page into a pwa
+https://christianheilmann.com/2022/01/13/turning-a-github-page-into-a-progressive-web-app/
+
+*/
+
+
 
 
 
