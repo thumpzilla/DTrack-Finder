@@ -649,7 +649,179 @@ li:hover {
 }
 
 
-/*
+
+
+/* ________________________________________________________________________________*/
+/* ________________________________________________________________________________*/
+/* ________________________________________________________________________________*/
+/* _________________________________Key Slider_____________________________________*/
+/* ________________________________________________________________________________*/
+/* ________________________________________________________________________________*/
+
+
+
+/* _______________ KEY SLIDERS___________________ START */
+
+
+#key-slider-container {
+    font-family: 'Nunito Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding-top: 2rem;
+    /* border: 0.5rem solid #803780; */
+    box-sizing: border-box;
+    width: 25rem;
+    height: 9rem;
+  }
+  
+  .key-slider-range {
+    position: relative;
+    background-color: #9b9bac !important;
+    width: 80%;
+    height: 0.6rem;
+    border-radius: 4rem;
+  }
+  
+  .key-slider-active-range {
+    position: absolute;
+    height: 100%;
+    background: linear-gradient(20deg, #B145AC ,#FD92C0, #B145AC);
+  }
+  
+  .key-slider-thumb {
+    touch-action: none;
+    position: absolute;
+    background: radial-gradient(#EB5CE4, #D545F6);
+    border: solid 0.2rem #fff !important;
+    border-radius: 50%;
+    height: 2rem !important;
+    width: 2rem !important;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+  }
+  
+  .key-data-thumb {
+    position: absolute;
+    background: linear-gradient(20deg, #AA32F8 ,#C23DF2, #B142CD);
+    padding: 0.4rem 1.2rem;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #f5f5f7;
+    bottom: 100%;
+    margin-bottom: 1.4rem;
+    border-radius: 4rem;
+    white-space: nowrap;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 7rem; /* adjust this value to fit your needs */
+  }
+  
+  #key-slider-value {
+    color: #f5f5f7;
+    flex-grow: 1;
+    text-align: left ;
+  }
+  
+  .key-range-value-container {
+    flex-grow: 2;
+    text-align: right;
+  }
+  
+  #key-range-value {
+    color: #ffffff !important;
+  }
+  
+  
+  /* _______ Animation for KEYs Slider _________ Start */
+  
+  .key-slider-thumb {
+      /* Your previous styles */
+      transition: transform 0.3s ease; /* Add this line */
+      z-index: 999;
+      touch-action: none;
+  
+    }
+    
+    .key-slider-thumb:hover {
+      transform: translate(-50%, -50%) scale(1.2);
+    }
+    .key-slider-thumb:active {
+      transform: translateX(-50%) scale(1.2);
+  
+    }
+  
+  
+    .key-data-thumb {
+      /* Your previous styles */
+      transition: transform 0.3s ease; /* Add this line */
+    }
+    
+    .key-data-thumb:hover {
+      transform: translateX(-50%) scale(1.05);
+    }
+    
+    .key-data-thumb:active {
+      transform: translateX(-50%) scale(0.95);
+    }
+    
+  
+  
+  
+  /* _______ Animation for KEYs _________ Finish */
+  
+  /* ______________ KEY State collapsedState ________ Start*/
+  #key-range {
+      /* add this to your existing styles */
+      overflow: hidden; 
+      transition: height 0.3s ease-in-out; 
+  }
+  
+    .key-data-thumb.collapsed #collapsed-content::before {
+      transform: rotate(45deg);
+      -webkit-transform: rotate(45deg);
+    }
+  
+  
+  .key-data-thumb.collapsed #expand-arrow::before {
+      display: none;
+  }
+  
+  
+  #key-expand-arrow {
+      width: 1.2rem; /* adjust as needed */
+      height: 1.2rem; /* adjust as needed */
+      content: '';
+      border: solid #B145AC;
+      border-width: 0 5px 5px 0; /* Increased font opacity*/
+      display: inline-block;
+      padding: 8px; /* Increased padding */
+      position: absolute;
+      top: 2.5rem;
+      right: -1rem; /* adjust as needed */
+      right: 3rem;
+      z-index: 999;
+      transition: transform 0.3s ease-in-out;
+      /* transform: translateY(-50%); */
+  }
+  
+  /* #expand-arrow:hover {
+      transform: rotate(90deg);
+      -webkit-transform: rotate(90deg);
+  } */
+  /* ______________ BPM State collapsedState ________ End */
+
+
+
+
+
+
+  /*
 Learning:
 Starting with a hash (#) - ID selector:
 Starting with a dot (.) - Class selector:

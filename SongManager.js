@@ -130,8 +130,8 @@ export default class SongManager {
         return this.filteredByTagsSongs.filter(song => song.isInBpmRange(this.bpmRange));
     }
 
-    getSongsWithinKeyRange() {
-        return this.filteredByTagsSongs.filter(song => this.keyRange.includes(song.key));
+    getSongsWithinKeyRange(filterUsSongs) {
+        return filterUsSongs.filter(song => this.keyRange.includes(song.key));
     }
 
     // __________________________________ Tags __________________________________ Start
@@ -176,8 +176,8 @@ export default class SongManager {
         }
 
         this.applyTagsFilterToSongs(this.filteredByTagsSongs);
-        // let songsFilteredByBPM = this.getSongsWithinBpmRange(); //BPM Filter
-        let songsFilteredByKey = this.getSongsWithinKeyRange(); // Key Filter
+        let songsFilteredByBPM = this.getSongsWithinBpmRange(); //BPM Filter
+        let songsFilteredByKey = this.getSongsWithinKeyRange(songsFilteredByBPM); // Key Filter
 
     
         this.songCountDisplay.innerText = `${songsFilteredByKey.length} results`;

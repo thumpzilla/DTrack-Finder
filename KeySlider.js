@@ -2,6 +2,8 @@ import SongManager from './SongManager.js'
 
 export default class KeySlider {
     constructor(songManager) {
+      this.keyRange = document.getElementById('key-range');
+
       // Create arrow in constructor
       this.createToggleArrowElemet();
 
@@ -24,10 +26,9 @@ export default class KeySlider {
     }
 
     createToggleArrowElemet(){
-      this.keyRange = document.getElementById('key-range');
       // Create a new element for the expand arrow
       this.expandArrow = document.createElement('div');
-      this.expandArrow.id = 'expand-arrow';
+      this.expandArrow.id = 'key-expand-arrow';
       // this.expandArrow.style.transform
       this.expandArrow.style.cursor = 'pointer';
       this.expandArrow.style.transform = 'rotate(45deg)'; // Rotate back to expanded state
@@ -66,48 +67,46 @@ export default class KeySlider {
   }
     createExpandedState(){
           // Create required elements
-    this.keyRange = document.getElementById('key-range');
-
     this.sliderContainer = document.createElement('div');
-    this.sliderContainer.id = 'slider-container';
+    this.sliderContainer.id = 'key-slider-container';
 
     this.sliderRange = document.createElement('div');
-    this.sliderRange.id = 'slider-range';
-    this.sliderRange.classList.add('slider-range');
+    this.sliderRange.id = 'key-slider-range';
+    this.sliderRange.classList.add('key-slider-range');
 
     this.sliderActiveRange = document.createElement('div');
-    this.sliderActiveRange.id = 'slider-active-range';
-    this.sliderActiveRange.classList.add('slider-active-range');
+    this.sliderActiveRange.id = 'key-slider-active-range';
+    this.sliderActiveRange.classList.add('key-slider-active-range');
     this.sliderActiveRange.style.left = '0%';
     this.sliderActiveRange.style.width = '100%';
 
     this.sliderThumb = document.createElement('div');
-    this.sliderThumb.id = 'slider-thumb';
-    this.sliderThumb.classList.add('slider-thumb');
+    this.sliderThumb.id = 'key-slider-thumb';
+    this.sliderThumb.classList.add('key-slider-thumb');
     this.sliderThumb.style.left = '50%';
 
     this.dataBubble = document.createElement('div');
-    this.dataBubble.id = 'data-bubble';
-    this.dataBubble.classList.add('data-thumb');
+    this.dataBubble.id = 'key-data-bubble';
+    this.dataBubble.classList.add('key-data-thumb');
     this.dataBubble.style.left = '50%';
 
     this.sliderValue = document.createElement('div');
-    this.sliderValue.id = 'slider-value';
-    this.sliderValue.classList.add('slider-value');
+    this.sliderValue.id = 'key-slider-value';
+    this.sliderValue.classList.add('key-slider-value');
     this.sliderValue.style.left = '50%';
 
     this.pickedValue = document.createElement('span');
-    this.pickedValue.id = 'picked-value';
-    this.pickedValue.textContent = ' -Key- ';
+    this.pickedValue.id = 'key-picked-value';
+    this.pickedValue.textContent = ' - Key - ';
     this.sliderValue.appendChild(this.pickedValue);
 
     this.rangeValueContainer = document.createElement('div');
-    this.rangeValueContainer.id = 'range-value-container';
-    this.rangeValueContainer.classList.add('range-value-container');
+    this.rangeValueContainer.id = 'key-range-value-container';
+    this.rangeValueContainer.classList.add('key-range-value-container');
 
     this.rangeValueElement = document.createElement('span');
-    this.rangeValueElement.id = 'range-value';
-    this.rangeValueElement.classList.add('range-value');
+    this.rangeValueElement.id = 'key-range-value';
+    this.rangeValueElement.classList.add('key-range-value');
     this.rangeValueContainer.appendChild(this.rangeValueElement);
 
     // Nesting elements
@@ -121,11 +120,16 @@ export default class KeySlider {
 
       
     // bind elements and event listeners
-    this.sliderRange = document.getElementById("slider-range");
-    this.sliderThumb = document.getElementById("slider-thumb");
-    this.rangeValueElement = document.getElementById("range-value");
-    this.dataBubble = document.getElementById("data-bubble");
+
+    this.sliderRange = document.getElementById("key-slider-range");
+    this.sliderThumb = document.getElementById("key-slider-thumb");
+    this.rangeValueElement = document.getElementById("key-range-value");
+    this.dataBubble = document.getElementById("key-data-bubble");
+
+
     this.sliderThumb.addEventListener("mousedown", this.moveSliderThumb.bind(this));
+  
+    this.sliderRange.addEventListener("mousedown", this.moveSliderThumb.bind(this));
     this.dataBubble.addEventListener("click", this.updateKey.bind(this));
 
     this.dataBubble.addEventListener("mousedown", function(event){
@@ -149,7 +153,7 @@ export default class KeySlider {
         // Update expandArrow
         // Create a new container for collapsed state
         const collapsedContainer = document.createElement('div');
-        collapsedContainer.id = 'collapsed-container';
+        collapsedContainer.id = 'key-collapsed-container';
         collapsedContainer.style.height = '3rem';
         collapsedContainer.style.width = '100%';
         collapsedContainer.style.display = 'flex';
@@ -158,7 +162,7 @@ export default class KeySlider {
       
         // Create the content for the collapsed container
         const collapsedContent = document.createElement('div');
-        collapsedContent.id = 'collapsed-content';
+        collapsedContent.id = 'key-collapsed-content';
         this.minValue = Math.max(this.min, this.currentValue - this.currentRangeValue);
         this.maxValue = Math.min(this.max, this.currentValue + this.currentRangeValue);
               // Update the display value to show the musical key instead of Key
@@ -191,7 +195,7 @@ export default class KeySlider {
         this.keyRange.style.height = '3rem';
       
         // Add 'collapsed' class to the dataBubble
-        this.dataBubble.classList.add('collapsed');
+        this.dataBubble.classList.add('key-collapsed');
       }
 
       updateThumbPosition(value) {
@@ -200,22 +204,18 @@ export default class KeySlider {
       }
     
       updateValuePosition() {
-        const sliderValue = document.getElementById("slider-value");
+        const sliderValue = document.getElementById("key-slider-value");
         sliderValue.style.left = this.sliderThumb.style.left;
       }
     
       updateCurrentValue(value) {
-        const pickedValueElement = document.getElementById("picked-value");
-        pickedValueElement.textContent = value + this.currentKey;
+          this.pickedValue.textContent = value + this.currentKey;
       }
     
       updateRangeValue(value) {
         this.rangeValueElement.textContent = '± ' + value;
       }
 
-      updateKeyDisplay(value) {
-        this.rangeValueElement.textContent = 'Key: ' + value;
-      }
 
       updateUI() {
         const invertedKey = this.currentKey === 'A' ? 'B' : 'A';
@@ -229,10 +229,16 @@ export default class KeySlider {
         this.songManager.setKeyRange(fitting_keys_values);
         this.songManager.setKeyRange(fitting_keys_values);
         this.updateCurrentValue(this.currentValue);
-        this.updateKeyDisplay(this.currentKey);
         this.updateThumbPosition(this.currentValue);
         this.updateValuePosition();
-      }
+      
+        const rangePercentage = ((this.currentRangeValue) / (this.max - this.min)) * 100;
+        const leftPercentage = Math.max(0, parseFloat(this.sliderThumb.style.left) - rangePercentage / 2);
+        const rightPercentage = Math.min(100, parseFloat(this.sliderThumb.style.left) + rangePercentage / 2);
+        
+        this.sliderActiveRange.style.left = leftPercentage + "%";
+        this.sliderActiveRange.style.width = (rightPercentage - leftPercentage) + "%";
+    }
       
     // updateUI() {
     //   this.minValue = Math.max(this.min, this.currentValue - this.currentRangeValue);

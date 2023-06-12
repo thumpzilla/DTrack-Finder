@@ -60,8 +60,8 @@ createSongExamplesFromJson().then((result) => {
     graphManager.initializeInteraction(songManager);
     
     // Bind BpmSlider To Graph Manager
-    // bpmSlider = new BpmSlider(songManager);
     keySlider = new KeySlider(songManager);
+    bpmSlider = new BpmSlider(songManager);
     // Bind tagFliter
     tagFilter = new TagFilter(songManager);
 
