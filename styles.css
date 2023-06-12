@@ -62,9 +62,9 @@ h2 {
 }
 
 /* For larger screens */
-@media (min-width: 720px) {
+@media (min-width: 45rem) {
   .container {
-    max-width: 40rem; /* Limit the maximum width for larger devices */
+    max-width: 45rem; /* Limit the maximum width for larger devices */
   }
 }
 
@@ -267,6 +267,10 @@ li:hover {
     width: 100%;
 }
 
+#tag-catalog{
+    width: 100%;
+}
+
 #active-tags {
     display: flex;
     justify-content: flex-start; /* Change from space-between to flex-start */
@@ -338,6 +342,7 @@ li:hover {
     flex-wrap: wrap;
     padding: 0.5rem;
     background: linear-gradient(40deg, #2B2445 ,#412A56, #563063, #79427B);
+
     color: #F5F5F7;
     height: 10rem;
     border-radius: 0.625rem;

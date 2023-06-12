@@ -6,6 +6,7 @@ export default class SongManager {
     constructor(songs) {
         this.allSongs = songs;
         this.bpmRange = [60, 140]; // Default BPM range
+        this.keyRange = ["3A", "4A", "5A", "4B"]
         this.activeTags = []; // Active tags
         this.filteredByTagsSongs = songs;
         this.listOfSongs_UI = document.getElementById('songs');//'#song-list'
@@ -92,7 +93,6 @@ export default class SongManager {
                 // highlight
                 this.highlight.style.transform = 'translateX(102%)';
 
-
             } else {
                 this.songCountDisplay.style.color = 'white';
                 this.songCountDisplay.style.fontWeight = '600';
@@ -119,9 +119,19 @@ export default class SongManager {
         this.updateSongList();
     }
 
+
+    setKeyRange(keyRange) {
+        this.keyRange = keyRange;
+        this.updateSongList();
+    }
+
     // Get songs within the BPM range
     getSongsWithinBpmRange() {
         return this.filteredByTagsSongs.filter(song => song.isInBpmRange(this.bpmRange));
+    }
+
+    getSongsWithinKeyRange() {
+        return this.filteredByTagsSongs.filter(song => this.keyRange.includes(song.key));
     }
 
     // __________________________________ Tags __________________________________ Start
@@ -164,13 +174,16 @@ export default class SongManager {
         while (this.listOfSongs_UI.firstChild) {
             this.listOfSongs_UI.removeChild(this.listOfSongs_UI.firstChild);
         }
+
         this.applyTagsFilterToSongs(this.filteredByTagsSongs);
-        let songsFilteredByBPM = this.getSongsWithinBpmRange(); //BPM Filger
+        // let songsFilteredByBPM = this.getSongsWithinBpmRange(); //BPM Filter
+        let songsFilteredByKey = this.getSongsWithinKeyRange(); // Key Filter
+
     
-        this.songCountDisplay.innerText = `${songsFilteredByBPM.length} results`;
+        this.songCountDisplay.innerText = `${songsFilteredByKey.length} results`;
         this.sortingCriteriaDisplay.innerText= `↑↓ ⚡️ ${Math.round(energy)}, 💡 ${Math.round(popularity)}`;
         // Sort songs based on their distance to the selected point
-        const sortedSongs = this.sortByProximity(energy, popularity, songsFilteredByBPM);
+        const sortedSongs = this.sortByProximity(energy, popularity, songsFilteredByKey);
 
         // Display sorted songs (only first 5)
         sortedSongs.slice(0,30).forEach((song, index) => {
@@ -201,4 +214,6 @@ export default class SongManager {
             }
         }
     }
+
+    
 } 
