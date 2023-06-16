@@ -147,6 +147,31 @@ ol {
     color: #F5F5F7;
 }
 
+
+.song-list::-webkit-scrollbar {
+  width: 0.35rem; /* Adjust scrollbar width */
+}
+
+.song-list::-webkit-scrollbar-track {
+  background: transparent; /* Change the scrollbar track color */
+}
+
+.song-list::-webkit-scrollbar-thumb {
+  background: #323E5C; /* Change the scrollbar color */
+  border-radius: 0.5rem; /* Make the edges rounded */
+
+}
+
+.song-list::-webkit-scrollbar-thumb:hover {
+  background: #323E5C; /* Change the scrollbar color on hover */
+}
+
+.song-list {
+  scrollbar-width: thin;
+  scrollbar-color: darkpurple transparent;
+}
+
+
  /* _______________________ List Item ___________________ Start*/
 li {
     background-color: rgba(255, 255, 255, 0.1); /* Light background with low opacity */
@@ -312,6 +337,10 @@ li:hover {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  overflow: hidden; /* Ensure content that exceeds the height is not shown */
+  height: 24rem; /* Arbitrary large value for the expanded state */
+  transition: max-height 0.5s ease-out; /* Add transition for smooth animation */
+
 }
 
 #bpm-range, #key-range {
@@ -375,11 +404,7 @@ li:hover {
   background: #33345b;
 }
 
-#advanced-section {
-  transition: max-height 0.5s ease-out; /* Add transition for smooth animation */
-  overflow: hidden; /* Ensure content that exceeds the height is not shown */
-  height: 21rem; /* Arbitrary large value for the expanded state */
-}
+
 
 #advanced-section.collapsed {
   transition: max-height 0.5s ease-out; /* Add transition for smooth animation */
@@ -506,10 +531,31 @@ li:hover {
     transition: transform 0.3s ease, color 0.3s ease;
 }
 
+
 .category-tab:hover {
     color: #F5F5F7; /* A slightly different purple color */
 }
+.tags-container::-webkit-scrollbar {
+  width: 0.35rem; /* Adjust scrollbar width */
+}
 
+.tags-container::-webkit-scrollbar-track {
+  background: transparent; /* Change the scrollbar track color */
+}
+
+.tags-container::-webkit-scrollbar-thumb {
+  background: #323E5C; /* Change the scrollbar color */
+  border-radius: 0.5rem; /* Make the edges rounded */
+}
+
+.tags-container::-webkit-scrollbar-thumb:hover {
+  background: #323E5C; /* Change the scrollbar color on hover */
+}
+
+.tags-container {
+  scrollbar-width: thin;
+  scrollbar-color: #323E5C transparent;
+}
 
 /* _______ Animation for tags _________ Finish */
 

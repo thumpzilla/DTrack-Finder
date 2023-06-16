@@ -336,7 +336,7 @@ export default class SongManager {
         this.seperator.innerText = `|`;
         this.seperator.style.fontSize = '1.0rem';  // set the font size
         this.seperator.style.fontWeight = '100'
-        this.seperator.style.marginRight = '1.1rem';  // add right margin to create space after the text
+        this.seperator.style.marginRight = '1.0rem';  // add right margin to create space after the text
     
         this.popularitySpan = document.createElement('span');
         this.popularitySpan.style.fontSize = '1.1rem';  // set the font size
