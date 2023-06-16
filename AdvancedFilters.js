@@ -31,6 +31,18 @@ export default class AdvancedFilters {
         this.songManager = songManager;
         this.bpmSlider = new BpmSlider(this);
         this.keySlider = new KeySlider(this);
+        // Turn off the switchs
+
+        // Turn off the switches
+        this.bpmRangeContainer.style.display = 'block';
+        this.keyRangeContainer.style.display = 'none';
+        this.toggleActivateCurrentFilter();
+        this.bpmRangeContainer.style.display = 'none';
+        this.keyRangeContainer.style.display = 'block';
+        this.toggleActivateCurrentFilter();
+        this.toggleExpandedCollapsedStates();
+        
+        
     }
 
     turnSwitchUICurrentFilter(isTurningOn){
@@ -50,7 +62,7 @@ export default class AdvancedFilters {
         
         let keyImageDiv = document.getElementById('key-image-div');
         let keyImage = keyImageDiv.querySelector('img');
-    
+        // If BPM mode is now active
         if (this.keyRangeContainer.style.display === 'none') {
             this.isBpmFilterActive = !this.isBpmFilterActive;
             if (this.isBpmFilterActive) { 
@@ -58,7 +70,8 @@ export default class AdvancedFilters {
                 this.songManager.setBpmRange(this.data_bpmRange);
                 this.bpmSlider.setDisable(false);
                 bpmImage.src = 'images/colored/drum-colored.svg'; // Or whatever the original SVG path was
-                this.bpmTextInSummaryObject.innerText = ' Active BPM Range [' + this.data_bpmRange[0] + '-' + this.data_bpmRange[1] + ']' ;
+                this.bpmTextInSummaryObject.style.fontSize = '1rem';  // set the font size
+                this.bpmTextInSummaryObject.innerText = ' BPM [ ' + this.data_bpmRange[0] + ' - ' + this.data_bpmRange[1] + ' ]' ;
 
 
                 // replace to bpm gray image
@@ -68,7 +81,7 @@ export default class AdvancedFilters {
                 this.bpmSlider.setDisable(true);
                 bpmImage.src =  'images/drum-bpm.svg';
                 this.bpmTextInSummaryObject.innerText = 'BPM filter deactivated'
-
+                this.bpmTextInSummaryObject.style.fontSize = '0.9rem';  // set the font size
             }
         } else {
             this.isKeyFilterActive = !this.isKeyFilterActive;
@@ -77,15 +90,19 @@ export default class AdvancedFilters {
                 this.songManager.setKeyRange(this.data_keyRange);
                 this.keySlider.setDisable(false);
                 keyImage.src = 'images/colored/sound_note-colored.svg'; // Or whatever the original SVG path was
-                this.keyTextInSummaryObject.innerText = ' Active keys:  [' + this.data_keyRange + ']' ;
+                this.keyTextInSummaryObject.innerText = ' Keys:  [ ' + this.data_keyRange + ' ]' ;
+                this.keyTextInSummaryObject.style.fontSize = '1rem';  // set the font size
 
-                // replace to key gray image
+
+            // replace to key gray image
             } else {
                 this.turnSwitchUICurrentFilter(false);
                 this.songManager.setKeyRange(false);
                 this.keySlider.setDisable(true);
                 keyImage.src = 'images/sound-note-single.svg';
-                this.keyTextInSummaryObject.innerText = 'Camelot Key Filter deactivated'
+                this.keyTextInSummaryObject.style.fontSize = '0.9rem';  // set the font size
+
+                this.keyTextInSummaryObject.innerText = 'Key Filter deactivated'
 
 
             }
@@ -301,17 +318,18 @@ export default class AdvancedFilters {
         
         this.data_bpmRange = bpmRangeData;
         
-        
-        this.bpmTextInSummaryObject.innerText = ' Active BPM Range [' + this.data_bpmRange[0] + '-' + this.data_bpmRange[1] + ']' ;
+        // this.bpmTextInSummaryObject.style.fontSize = '1rem';  // set the font size
+        this.bpmTextInSummaryObject.innerText = ' BPM [ ' + this.data_bpmRange[0] + ' - ' + this.data_bpmRange[1] + ' ]' ;
 
     }
 
     userUpdatedKeyRange(keyRangeData){
+        this.songManager.setKeyRange(keyRangeData);
         
         this.data_keyRange = keyRangeData;
-        this.songManager.setKeyRange(keyRangeData);
 
-        this.keyTextInSummaryObject.innerText = ' Active keys:  [' + this.data_keyRange + ']' ;
+        // this.keyTextInSummaryObject.style.fontSize = '1rem';  // set the font size
+        this.keyTextInSummaryObject.innerText = ' Keys:  [ ' + this.data_keyRange + ' ]' ;
 
 
     }

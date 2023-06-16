@@ -9,10 +9,10 @@ export default class BpmSlider {
       this.advancedFilters = advancedFilters
       this.min = 60;
       this.max = 140;
-      this.rangeValues = [2, 6, 12, 100]; // Range values // 100 would be any BPM (Eliminating this filtering)
+      this.rangeValues = [2, 6, 12]; // Range values // 
       this.currentValue = 100; // Default value
-      this.currentRangeValue = this.rangeValues[3]; // Default range
-      this.rangeValueIndex = 3; // Start with the first value
+      this.currentRangeValue = this.rangeValues[2]; // Default range
+      this.rangeValueIndex = 2; // Start with the first value
       this.currentState = 1; // 1 = expanded, 0 = collapsed
 
 
@@ -163,24 +163,19 @@ export default class BpmSlider {
       // update summaryView
       this.advancedFilters.userUpdatedBpmRange([this.minValue, this.maxValue]);
 
-      if (this.currentRangeValue == 100) {
-          const pickedValueElement = document.getElementById("picked-value");
-          pickedValueElement.textContent = 'Any BPM';
-          this.rangeValueElement.textContent = '';
-      }
-      else {
-        this.updateCurrentValue(this.currentValue);
-        this.updateRangeValue(this.currentRangeValue);
+ 
+      this.updateCurrentValue(this.currentValue);
+      this.updateRangeValue(this.currentRangeValue);
 
-      }
-        this.updateThumbPosition(this.currentValue);
-        this.updateValuePosition();
-        const sliderActiveRange = document.getElementById("slider-active-range");
-        const rangePercentage = ((this.currentRangeValue) / (this.max - this.min)) * 100;
-        const leftPercentage = Math.max(0, parseFloat(this.sliderThumb.style.left) - rangePercentage);
-        const rightPercentage = Math.min(100, parseFloat(this.sliderThumb.style.left) + rangePercentage);
-        sliderActiveRange.style.left = leftPercentage + "%";
-        sliderActiveRange.style.width = (rightPercentage - leftPercentage) + "%";
+      
+      this.updateThumbPosition(this.currentValue);
+      this.updateValuePosition();
+      const sliderActiveRange = document.getElementById("slider-active-range");
+      const rangePercentage = ((this.currentRangeValue) / (this.max - this.min)) * 100;
+      const leftPercentage = Math.max(0, parseFloat(this.sliderThumb.style.left) - rangePercentage);
+      const rightPercentage = Math.min(100, parseFloat(this.sliderThumb.style.left) + rangePercentage);
+      sliderActiveRange.style.left = leftPercentage + "%";
+      sliderActiveRange.style.width = (rightPercentage - leftPercentage) + "%";
     }
   
     moveSliderThumb(event) {

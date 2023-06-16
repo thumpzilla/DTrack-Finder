@@ -133,6 +133,7 @@ export default class SongManager {
         this.sortTextInSummaryObject = document.getElementById("sorting-criteria-display");
         let tagImageDiv = document.getElementById('song-count-image-div');
         this.tagImage = tagImageDiv.querySelector('img');
+        this.loadSortingSummarySVGs()
         // Placing in the UI to container
         // const container = document.querySelector('.container');
         // container.insertBefore(this.filterSortingSwitchContainer, container.childNodes[2]); // inserting after song-list
@@ -263,46 +264,9 @@ export default class SongManager {
         // this.sortTextInSummaryObject.innerText= `⚡️ ${Math.round(energy)}, 💡 ${Math.round(popularity)}`;
         this.songTextInSummaryObject.innerText = `${newSongList.length} results`;
 
-        // Create images for icons
-        let energyImage = document.createElement('img');
-        energyImage.src = 'images/energy.svg';
-        energyImage.style.width = '1.1rem';
-        energyImage.style.height = '1.1rem';
-        energyImage.style.transform = 'translateY(0.1rem)';
-        energyImage.style.marginRight = '0.1rem';  // add right margin to create space after the image
-
-        let popularityImage = document.createElement('img');
-        popularityImage.src = 'images/popularity.svg';
-        popularityImage.style.width = '1.2rem';
-        popularityImage.style.height = '1.2rem';
-        popularityImage.style.transform = 'translateY(0.3rem)';
-        popularityImage.style.marginRight = '0.3rem';  // add right margin to create space after the image
-
-        // Create spans for energy and popularity
-        let energySpan = document.createElement('span');
-        energySpan.innerText = `${Math.round(energy)}`;
-        energySpan.style.fontSize = '1.1rem';  // set the font size
-        energySpan.style.marginRight = '1.3rem';  // add right margin to create space after the text
-
-        // Create spans for energy and popularity
-        let seperator = document.createElement('span');
-        seperator.innerText = `|`;
-        seperator.style.fontSize = '1.1rem';  // set the font size
-        seperator.style.fontWeight = '200'
-        seperator.style.marginRight = '1.3rem';  // add right margin to create space after the text
-
-        let popularitySpan = document.createElement('span');
-        popularitySpan.innerText = `${Math.round(popularity)}`;
-        popularitySpan.style.fontSize = '1.1rem';  // set the font size
-
-        // Clear existing sortTextInSummaryObject and Append images and spans to sortTextInSummaryObject
-        this.sortTextInSummaryObject.innerHTML = ""; // clear existing content
-        this.sortTextInSummaryObject.appendChild(energyImage);
-        this.sortTextInSummaryObject.appendChild(energySpan);
-        this.sortTextInSummaryObject.appendChild(seperator);
-        this.sortTextInSummaryObject.appendChild(popularityImage);
-        this.sortTextInSummaryObject.appendChild(popularitySpan);
-
+        // Update the text
+        this.energySpan.innerText = `${Math.round(energy)}`;
+        this.popularitySpan.innerText = `${Math.round(popularity)}`;
 
         // _________________________________ TEXT REPLACE __________________________________ END
         // Sort songs based on their distance to the selected point
@@ -349,6 +313,40 @@ export default class SongManager {
             }
         }
     }
-
+    loadSortingSummarySVGs() {
+        this.energyImage = document.createElement('img');
+        this.energyImage.src = 'images/energy.svg';
+        this.energyImage.style.width = '1.1rem';
+        this.energyImage.style.height = '1.1rem';
+        this.energyImage.style.transform = 'translateY(0.1rem)';
+        this.energyImage.style.marginRight = '0.1rem';  // add right margin to create space after the image
+    
+        this.popularityImage = document.createElement('img');
+        this.popularityImage.src = 'images/popularity.svg';
+        this.popularityImage.style.width = '1.2rem';
+        this.popularityImage.style.height = '1.2rem';
+        this.popularityImage.style.transform = 'translateY(0.3rem)';
+        this.popularityImage.style.marginRight = '0.3rem';  // add right margin to create space after the image
+    
+        this.energySpan = document.createElement('span');
+        this.energySpan.style.fontSize = '1.1rem';  // set the font size
+        this.energySpan.style.marginRight = '1.3rem';  // add right margin to create space after the text
+    
+        this.seperator = document.createElement('span');
+        this.seperator.innerText = `|`;
+        this.seperator.style.fontSize = '1.1rem';  // set the font size
+        this.seperator.style.fontWeight = '200'
+        this.seperator.style.marginRight = '1.3rem';  // add right margin to create space after the text
+    
+        this.popularitySpan = document.createElement('span');
+        this.popularitySpan.style.fontSize = '1.1rem';  // set the font size
+    
+        // Append images and spans to sortTextInSummaryObject
+        this.sortTextInSummaryObject.appendChild(this.energyImage);
+        this.sortTextInSummaryObject.appendChild(this.energySpan);
+        this.sortTextInSummaryObject.appendChild(this.seperator);
+        this.sortTextInSummaryObject.appendChild(this.popularityImage);
+        this.sortTextInSummaryObject.appendChild(this.popularitySpan);
+    }
     
 } 

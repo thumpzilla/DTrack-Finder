@@ -8,7 +8,7 @@ var APP_PREFIX = 'dtrack_';
 // you need to change this version (version_01, version_02…). 
 // If you don't change the version, the service worker will give your
 // users the old files!
-var VERSION = 'version_00';
+var VERSION = 'version_01';
  
 // The files to make available for offline use.
 var URLS = [
@@ -24,6 +24,8 @@ var URLS = [
   `${GHPATH}/Song.js`,
   `${GHPATH}/SongList_UI.js`,
   `${GHPATH}/Utils.js`,
+  `${GHPATH}/AdvancedFilters.js`,
+  `${GHPATH}/AdvancedFilters.js`,
   `${GHPATH}/service-worker_forPWA.js`,
   `${GHPATH}/images/tv.svg`,
   `${GHPATH}/images/output_192.png`,
@@ -34,14 +36,28 @@ var URLS = [
   `${GHPATH}/images/copy.png`,
   `${GHPATH}/data/TagsDict.json`,
   `${GHPATH}/favicon.ico`,
+
+  `${GHPATH}/images/sort.svg`,
+  `${GHPATH}/images/energy.svg`,
+  `${GHPATH}/images/popularity.svg`,
+  `${GHPATH}/images/tags.svg`,
+  `${GHPATH}/images/colored/tags.svg `,
+
+  `${GHPATH}/images/drum-bpm.svg`,
+  `${GHPATH}/images/sound-note-single.svg`,
+  `${GHPATH}/images/colored/drum-colored.svg`,
+  `${GHPATH}/images/colored/sound_note-colored.svg`,
+
+  `${GHPATH}/data/collections/manifest.json`,
   `${GHPATH}/data/collections/Sp- Bach Party.json`,
   `${GHPATH}/data/collections/Sp- Kids Party.json`,
   `${GHPATH}/data/collections/DTRacks All 1200 DTracks.json`,
   `${GHPATH}/data/collections/Sp- Sing-Along.json`,
-  `${GHPATH}/data/collections/manifest.json`,
   `${GHPATH}/data/collections/Sp- Workout.json`,
   `${GHPATH}/data/collections/Sp- Bach Party ISRAEL.json`,
   `${GHPATH}/data/collections/Sp - Party by decades.json`,
+  `${GHPATH}/data/collections/Sp- Wedding.json`,
+  
   "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@100;200;300;400;600;700;900&display=swap"
 ]
 
@@ -49,6 +65,10 @@ self.addEventListener('install', function(e) {
   e.waitUntil(
     caches.open(APP_PREFIX + VERSION).then(function(cache) {
       return cache.addAll(URLS)
+        .then(function() {
+          console.log('All files are cached');
+          return;
+        })
         .catch(function(error) {
           console.log('Failed to add files to cache:', error);
         });
@@ -84,72 +104,4 @@ Turning github page into a pwa
 https://christianheilmann.com/2022/01/13/turning-a-github-page-into-a-progressive-web-app/
 
 */
-
-
-
-
-
-// self.addEventListener('install', function(e) {
-//   e.waitUntil(
-//     caches.open('DTrack Finder').then(function(cache) {
-//       return cache.addAll([
-//         "./",
-//         "manifest_for_mobile_web_install.json",
-//         "app.js",
-//         "SongManager.js",
-//         "GraphManager2D.js",
-//         "BpmSlider.js",
-//         "TagFilter_UI.js",
-//         "Song.js",
-//         "SongList_UI.js",
-//         "Utils.js",          
-//         "service-worker_forPWA.js",
-//         "index.html",
-//         "styles.css",
-//         "images/tv.svg",
-//         "images/output_192.png",
-//         "images/output_512.png",
-//         "https://raw.githubusercontent.com/DonRaz/Song-Instant-Selector/main/images/output_192.png",
-//         "https://raw.githubusercontent.com/DonRaz/Song-Instant-Selector/main/images/output_512.png",
-//         "images/Dark-background.svg",
-//         "images/tags.svg",
-//         "stopwatch.js",
-//         "images/copy.png",
-//         "data/TagsDict.json",
-//         "favicon.ico",
-//         "data/collections/Sp- Bach Party.json",
-//         "data/collections/Sp- Kids Party.json",
-//         "data/collections/DTRacks All 1200 DTracks.json",
-//         "data/collections/Sp- Sing-Along.json",
-//         "data/collections/manifest.json",
-//         "data/collections/Sp - Party by decades.json",
-//         "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@100;200;300;400;600;700;900&display=swap"
-//       ]).catch(function(error) {
-//         console.log('Failed to add files to cache:', error);
-//     });
-//     })
-//   );
-// });
-
-// self.addEventListener('activate', (e) => {
-//   e.waitUntil(
-//     caches.keys().then((keyList) => {
-//       return Promise.all(keyList.map((key) => {
-//         if (key !== 'DTrack Finder') {
-//           return caches.delete(key);
-//         }
-//       }));
-//     })
-//   );
-// });
-
-// self.addEventListener('fetch', (e) => {
-//   e.respondWith(
-//     caches.match(e.request).then((response) => {
-//       return response || fetch(e.request).catch(() => {
-//         return new Response("Offline, content not available");
-//       });
-//     })
-//   );
-// });
 
