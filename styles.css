@@ -374,6 +374,18 @@ li:hover {
 #toggle-switch.deactivated {
   background: #33345b;
 }
+
+#advanced-section {
+  transition: max-height 0.5s ease-out; /* Add transition for smooth animation */
+  overflow: hidden; /* Ensure content that exceeds the height is not shown */
+  height: 21rem; /* Arbitrary large value for the expanded state */
+}
+
+#advanced-section.collapsed {
+  transition: max-height 0.5s ease-out; /* Add transition for smooth animation */
+
+  height: 5rem; /* Collapse the section */
+}
 /*
 /* _____________________ Toggle ActiveAdvancedFilter On Off _______________End */
 
@@ -742,7 +754,8 @@ li:hover {
     right: -1rem; /* adjust as needed */
     right: 3rem;
     z-index: 999;
-    transition: transform 0.3s ease-in-out;
+    transition: transform 0.5s ease-in, opacity 0.3s ease-in;
+    transition: transform 0.3s ease-out, opacity 0.5s ease-out;
     /* transform: translateY(-50%); */
 }
 

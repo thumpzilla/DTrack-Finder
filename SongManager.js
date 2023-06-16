@@ -39,11 +39,11 @@ export default class SongManager {
         // create the image
         let image = document.createElement('img');
         image.src = svgImagePath;
-        image.style.width = '2rem';
-        image.style.height = '2rem';
+        image.style.width = '1.8rem';
+        image.style.height = '1.8rem';
         image.style.position = 'absolute'; // Image is positioned absolutely to the container
         image.style.left = '1.2rem'; // You may need to adjust this value
-        image.style.bottom = '20%'; // You may need to adjust this value
+        image.style.bottom = '25%'; // You may need to adjust this value
         image.style.zIndex = '10';
     
         // create the text field
@@ -330,13 +330,13 @@ export default class SongManager {
     
         this.energySpan = document.createElement('span');
         this.energySpan.style.fontSize = '1.1rem';  // set the font size
-        this.energySpan.style.marginRight = '1.4rem';  // add right margin to create space after the text
+        this.energySpan.style.marginRight = '1rem';  // add right margin to create space after the text
     
         this.seperator = document.createElement('span');
         this.seperator.innerText = `|`;
-        this.seperator.style.fontSize = '1.2rem';  // set the font size
+        this.seperator.style.fontSize = '1.0rem';  // set the font size
         this.seperator.style.fontWeight = '100'
-        this.seperator.style.marginRight = '1.3rem';  // add right margin to create space after the text
+        this.seperator.style.marginRight = '1.1rem';  // add right margin to create space after the text
     
         this.popularitySpan = document.createElement('span');
         this.popularitySpan.style.fontSize = '1.1rem';  // set the font size

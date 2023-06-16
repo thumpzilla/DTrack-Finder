@@ -48,7 +48,8 @@ export async function createSongExamplesFromJson() {
             }
 
             let data = await response.json();
-            songExamples.push(...data.map(item => new Song(item['Track Title'], item['Artist'], item['BPM'], item['Key'], item['DJ Play Count'], item['Rating'], item['My Tag'], item['Energy'], item['Popularity'])));
+            songExamples.push(...data.map(item => new Song(item['Track Title'], item['Artist'], item['BPM'], item['Key'], item['DJ Play Count'], item['Rating'], item['My Tag'], item['Energy'], item['Popularity'], item['Additional Info']
+            )));
         }
 
         return songExamples;

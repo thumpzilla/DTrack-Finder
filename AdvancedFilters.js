@@ -148,11 +148,11 @@ export default class AdvancedFilters {
         // create the image
         let image = document.createElement('img');
         image.src = svgImagePath;
-        image.style.width = '2rem';
-        image.style.height = '2rem';
+        image.style.width = '1.8rem';
+        image.style.height = '1.8rem';
         image.style.position = 'absolute'; // Image is positioned absolutely to the container
         image.style.left = '1.2rem'; // You may need to adjust this value
-        image.style.bottom = '22%'; // You may need to adjust this value
+        image.style.bottom = '24%'; // You may need to adjust this value
         image.style.zIndex = '10';
     
         // create the text field
@@ -244,6 +244,7 @@ export default class AdvancedFilters {
                 else
                     this.turnSwitchUICurrentFilter(false);
             }
+            this.expandState();
         });
 
         this.bpmTextInSummaryObject = document.getElementById("bpm-display-summary");
@@ -301,15 +302,28 @@ export default class AdvancedFilters {
   
 
 
-
     toggleExpandedCollapsedStates() {
-        this.bpmRangeContainer.style.display = 'none';
-        this.keyRangeContainer.style.display = 'none';
-        this.expandArrow.style.transform = 'rotate(225deg)'; // Rotate to collapsed state
-        this.expandArrow.style.display = 'none';
-        this.expandedState = 'collapsed';
-        this.toggleSwitch.style.display='none';
-        
+        if(this.expandedState === 'expanded') {
+            this.advancedFiltersSection.classList.add('collapsed');
+            this.expandArrow.style.transform = 'rotate(225deg)'; // Rotate to collapsed state
+            this.expandedState = 'collapsed';
+            this.toggleSwitch.style.display='none';
+            this.expandArrow.style.opacity = 0; // Add this line
+        } else {
+            this.advancedFiltersSection.classList.remove('collapsed');
+            this.expandArrow.style.transform = 'rotate(45deg)'; // Rotate back to expanded state
+            this.expandedState = 'expanded';
+            this.toggleSwitch.style.display='block';
+            this.expandArrow.style.opacity = 1; // Add this line
+        }
+    }
+
+    expandState() {
+        this.advancedFiltersSection.classList.remove('collapsed');
+        this.expandArrow.style.transform = 'rotate(45deg)'; // Rotate back to expanded state
+        this.expandedState = 'expanded';
+        this.toggleSwitch.style.display = 'block';
+        this.expandArrow.style.opacity = 1; // Add this line
     }
 
     userUpdatedBpmRange(bpmRangeData){

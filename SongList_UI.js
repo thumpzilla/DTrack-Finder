@@ -40,7 +40,8 @@ export default class SongListItemUI {
         const detailsContainer = document.createElement('div');
         detailsContainer.className = 'song-details';
         // If rating is empty (for some reason the length of it is 5 when it's empty...)
-        if ((this.song.rating).length > 5 ){
+        console.log(this.song.rating.length)
+        if (this.song.rating.length > 5 && this.song.rating.length <= 10) {
             const ratingDiv = document.createElement('div');
             ratingDiv.className = 'song-rating';
             ratingDiv.textContent = `rating : ${this.song.rating}`;
@@ -48,11 +49,45 @@ export default class SongListItemUI {
         }
 
         // Tags
-        const tagNames = [`🥁${this.song.bpm}`, `🎻${this.song.key}`,
-         `⚡️${this.song.energy}`, `💡${this.song.popularity}`, `▶️${this.song.djPlayCount}`];
+        const tagNames = [`🥁${this.song.bpm}`, `🎵${this.song.key}`,
+        `⚡️${this.song.energy}`, `💡${this.song.popularity}`, `▶️${this.song.djPlayCount}`];
         const tagsContainer = this.createUIListOfTags(tagNames);
         detailsContainer.appendChild(tagsContainer);
 
+       
+        // Adding Additional Info
+        if(this.song.additional_info) {
+            const additionalInfoDiv = document.createElement('div');
+            additionalInfoDiv.className = 'song-additional-info';
+            additionalInfoDiv.style.marginTop = '0.6rem'; // Adding space from top
+
+            const releaseDateDiv = document.createElement('div');
+            releaseDateDiv.textContent = `Release Date: ${this.song.additional_info.release_date}`;
+            releaseDateDiv.style.fontSize = '0.9rem'; // Decreasing text size
+            additionalInfoDiv.appendChild(releaseDateDiv);
+
+            const genresDiv = document.createElement('div');
+            genresDiv.textContent = `Sub-genres: ${this.song.additional_info.genres.join(' | ')}`;
+            genresDiv.style.fontSize = '0.9rem'; // Decreasing text size
+            additionalInfoDiv.appendChild(genresDiv);
+
+            const happinessDiv = document.createElement('div');
+            happinessDiv.textContent = `Happiness: ${Math.round(this.song.additional_info.happiness)}`;
+            happinessDiv.style.fontSize = '0.9rem'; // Decreasing text size
+            additionalInfoDiv.appendChild(happinessDiv);
+
+            const danceabilityDiv = document.createElement('div');
+            danceabilityDiv.textContent = `Danceability: ${Math.round(this.song.additional_info.danceability)}`;
+            danceabilityDiv.style.fontSize = '0.9rem'; // Decreasing text size
+            additionalInfoDiv.appendChild(danceabilityDiv);
+
+            const explicitDiv = document.createElement('div');
+            explicitDiv.textContent = `Is Explicit: ${this.song.additional_info.explicit}`;
+            explicitDiv.style.fontSize = '0.9rem'; // Decreasing text size
+            additionalInfoDiv.appendChild(explicitDiv);
+
+            detailsContainer.appendChild(additionalInfoDiv);
+        }
 
         listItem.appendChild(detailsContainer);
 
@@ -79,7 +114,7 @@ export default class SongListItemUI {
             document.execCommand('copy');
             document.body.removeChild(tempTextarea);
     
-            showToast(`Copied "${this.song.trackTitle}" to clipboard`);
+            showToast(`Copied "${tempTextarea.value }" to clipboard`);
         });
     
         return copyButton;
