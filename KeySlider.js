@@ -136,10 +136,10 @@ export default class KeySlider {
         const invertedKey = this.currentKey === 'A' ? 'B' : 'A';
       
         const fitting_keys_values = [
-          (this.currentValue + 10) % 12 + 1 + this.currentKey, 
           this.currentValue + this.currentKey, 
+          this.currentValue + invertedKey, // add inverted key
+          (this.currentValue + 10) % 12 + 1 + this.currentKey, 
           (this.currentValue % 12 + 1) + this.currentKey,
-          this.currentValue + invertedKey // add inverted key
         ];
         // Update logic 
         // Update summaryView

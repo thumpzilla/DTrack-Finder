@@ -42,7 +42,6 @@ export default class AdvancedFilters {
         this.toggleActivateCurrentFilter();
         this.toggleExpandedCollapsedStates();
         
-        
     }
 
     turnSwitchUICurrentFilter(isTurningOn){
@@ -71,7 +70,7 @@ export default class AdvancedFilters {
                 this.bpmSlider.setDisable(false);
                 bpmImage.src = 'images/colored/drum-colored.svg'; // Or whatever the original SVG path was
                 this.bpmTextInSummaryObject.style.fontSize = '1rem';  // set the font size
-                this.bpmTextInSummaryObject.innerText = ' BPM [ ' + this.data_bpmRange[0] + ' - ' + this.data_bpmRange[1] + ' ]' ;
+                this.bpmTextInSummaryObject.innerText = '[ ' + this.data_bpmRange[0] + ' - ' + this.data_bpmRange[1] + ' ]' ;
 
 
                 // replace to bpm gray image
@@ -80,7 +79,7 @@ export default class AdvancedFilters {
                 this.turnSwitchUICurrentFilter(false);
                 this.bpmSlider.setDisable(true);
                 bpmImage.src =  'images/drum-bpm.svg';
-                this.bpmTextInSummaryObject.innerText = 'BPM filter deactivated'
+                this.bpmTextInSummaryObject.innerText = 'BPM filter'
                 this.bpmTextInSummaryObject.style.fontSize = '0.9rem';  // set the font size
             }
         } else {
@@ -90,7 +89,7 @@ export default class AdvancedFilters {
                 this.songManager.setKeyRange(this.data_keyRange);
                 this.keySlider.setDisable(false);
                 keyImage.src = 'images/colored/sound_note-colored.svg'; // Or whatever the original SVG path was
-                this.keyTextInSummaryObject.innerText = ' Keys:  [ ' + this.data_keyRange + ' ]' ;
+                this.keyTextInSummaryObject.innerText = '[ ' + this.data_keyRange + ' ]' ;
                 this.keyTextInSummaryObject.style.fontSize = '1rem';  // set the font size
 
 
@@ -102,7 +101,7 @@ export default class AdvancedFilters {
                 keyImage.src = 'images/sound-note-single.svg';
                 this.keyTextInSummaryObject.style.fontSize = '0.9rem';  // set the font size
 
-                this.keyTextInSummaryObject.innerText = 'Key Filter deactivated'
+                this.keyTextInSummaryObject.innerText = 'Key Filter'
 
 
             }
@@ -319,7 +318,7 @@ export default class AdvancedFilters {
         this.data_bpmRange = bpmRangeData;
         
         // this.bpmTextInSummaryObject.style.fontSize = '1rem';  // set the font size
-        this.bpmTextInSummaryObject.innerText = ' BPM [ ' + this.data_bpmRange[0] + ' - ' + this.data_bpmRange[1] + ' ]' ;
+        this.bpmTextInSummaryObject.innerText = '[ ' + this.data_bpmRange[0] + ' - ' + this.data_bpmRange[1] + ' ]' ;
 
     }
 
@@ -329,7 +328,7 @@ export default class AdvancedFilters {
         this.data_keyRange = keyRangeData;
 
         // this.keyTextInSummaryObject.style.fontSize = '1rem';  // set the font size
-        this.keyTextInSummaryObject.innerText = ' Keys:  [ ' + this.data_keyRange + ' ]' ;
+        this.keyTextInSummaryObject.innerText = '[ ' + this.data_keyRange + ' ]' ;
 
 
     }

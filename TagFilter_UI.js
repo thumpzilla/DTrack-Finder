@@ -32,7 +32,7 @@ export default class TagFilter {
         };
         this.twoDSelector = document.getElementById('2dSelector'); // style.display - 'block' or 'none'
         this.songManager = songManager;
-        this.activeTags = ["Happy"]; // Default active tags
+        this.activeTags = ["Sp- Wedding", "Happy", "Pop", "2010s"]; // Default active tags
 
 
         this.filterElement = document.getElementById('tags-filtering-div');

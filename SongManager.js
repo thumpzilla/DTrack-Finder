@@ -11,7 +11,7 @@ export default class SongManager {
         this.bpmRange = [60, 140]; // Default BPM range
 
         this.isBpmFilterActive=true;
-        this.keyRange = ["3A", "4A", "5A", "4B"]
+        this.keyRange = []
 
 
         this.activeTags = []; // Active tags
@@ -244,7 +244,7 @@ export default class SongManager {
 
 
     // Update the song list based on the current BPM range
-    updateSongList(energy = 4, popularity = 8) {
+    updateSongList(energy = 5, popularity = 9) {
         /* NOTE THAT THE DEFAULT canvas drawing of Energy=4 and Popularity=8 Are in GraphManager2D.initializeDefaultSelection*/
         // Clear the existing song list
         while (this.listOfSongs_UI.firstChild) {
@@ -315,27 +315,27 @@ export default class SongManager {
     }
     loadSortingSummarySVGs() {
         this.energyImage = document.createElement('img');
-        this.energyImage.src = 'images/energy.svg';
+        this.energyImage.src = 'images/colored/energy-colored.svg';
         this.energyImage.style.width = '1.1rem';
         this.energyImage.style.height = '1.1rem';
         this.energyImage.style.transform = 'translateY(0.1rem)';
-        this.energyImage.style.marginRight = '0.1rem';  // add right margin to create space after the image
+        this.energyImage.style.marginRight = '0.3rem';  // add right margin to create space after the image
     
         this.popularityImage = document.createElement('img');
-        this.popularityImage.src = 'images/popularity.svg';
+        this.popularityImage.src = 'images/colored/Popular-trendy-colored.svg';
         this.popularityImage.style.width = '1.2rem';
         this.popularityImage.style.height = '1.2rem';
         this.popularityImage.style.transform = 'translateY(0.3rem)';
-        this.popularityImage.style.marginRight = '0.3rem';  // add right margin to create space after the image
+        this.popularityImage.style.marginRight = '0.6rem';  // add right margin to create space after the image
     
         this.energySpan = document.createElement('span');
         this.energySpan.style.fontSize = '1.1rem';  // set the font size
-        this.energySpan.style.marginRight = '1.3rem';  // add right margin to create space after the text
+        this.energySpan.style.marginRight = '1.4rem';  // add right margin to create space after the text
     
         this.seperator = document.createElement('span');
         this.seperator.innerText = `|`;
-        this.seperator.style.fontSize = '1.1rem';  // set the font size
-        this.seperator.style.fontWeight = '200'
+        this.seperator.style.fontSize = '1.2rem';  // set the font size
+        this.seperator.style.fontWeight = '100'
         this.seperator.style.marginRight = '1.3rem';  // add right margin to create space after the text
     
         this.popularitySpan = document.createElement('span');

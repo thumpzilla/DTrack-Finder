@@ -46,22 +46,24 @@ export default class GraphManager {
     }
 
     drawDot(x, y) {
-
         // Draw the white background
         this.ctx.beginPath();
         this.ctx.arc(x, y, 14, 0, 2 * Math.PI);
-        this.ctx.fillStyle = '#fff';
+        this.ctx.fillStyle = '#F5F5F7';
         this.ctx.fill();
         
         // Draw the colored dot on top
         this.ctx.beginPath();
         this.ctx.arc(x, y, 11, 0, 2 * Math.PI);
-
+    
         // Create radial gradient
-        let gradient = this.ctx.createRadialGradient(x, y, 0, x, y, 10);
-        gradient.addColorStop(0, '#EB5CE4');
-        gradient.addColorStop(1, '#D545F6');
+        // let gradient = this.ctx.createRadialGradient(x, y, 0, x, y, 10);
+        let gradient = this.ctx.createLinearGradient(x - 10, y + 10, x + 10, y - 10);
 
+        gradient.addColorStop(0, '#6c4bf3');
+        gradient.addColorStop(0.287, '#fe00ff');
+        gradient.addColorStop(1, '#fea800');
+    
         this.ctx.fillStyle = gradient;
         this.ctx.fill();
     }
@@ -108,24 +110,26 @@ export default class GraphManager {
         }, { passive: false }); // Enable preventDefault in passive event listener
     
         this.canvas.addEventListener('click', (event) => this.handleClick(event, songManager));
-        this.initializeDefaultSelection()
+        this.mockClick(5, 9); // As set in SongManager.updateSongList()
+
+        // this.initializeDefaultSelection();
     }
 
-
-    initializeDefaultSelection() {
-        /* NOTE THAT THE DEFAULT Energy=4 and Popularity=8 Are in SongManager.updateSongList*/
-        const energy = 4;
-        const popularity = 8;
-        
+    
+    mockClick(energy, popularity) {
         // Convert energy and popularity to x, y coordinates
-        const x = (energy - 1) / 9 * this.width;
-        const y = this.height - ((popularity - 1) / 9 * this.height);
+        const rect = this.canvas.getBoundingClientRect();
+        const x = (energy - 1) / 9 * this.width + rect.left;
+        const y = this.height - ((popularity - 1) / 9 * this.height) + rect.top;
     
-        // Draw the graph and the dot
-        this.drawGraph();
-        this.drawDot(x, y);
+        // Create a new click event
+        const clickEvent = new MouseEvent('click', {
+            clientX: x,
+            clientY: y
+        });
+    
+        // Dispatch the event
+        this.canvas.dispatchEvent(clickEvent);
     }
-    
-
     
 }

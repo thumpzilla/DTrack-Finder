@@ -1,11 +1,7 @@
-import Song from './Song.js'
 import TagFilter from './TagFilter_UI.js';
 import SongManager from './SongManager.js';
-import SongListItemUI from './SongList_UI.js';
 import GraphManager from './GraphManager2D.js';
-import BpmSlider from './BpmSlider.js';
 import AdvancedFilters from './AdvancedFilters.js';
-import KeySlider from './KeySlider.js';
 import { showToast, createSongExamplesFromJson, generateRandomFloats } from './Utils.js'
 
 
@@ -25,8 +21,17 @@ function adjustContainerSize() {
     container.style.width = `${vwInRem}rem`;
 }
 
-window.onload = adjustContainerSize;
 window.onresize = adjustContainerSize;
+// _________________________ Prevent rotation ________________________________
+window.onload = function() {
+  adjustContainerSize();
+  if (window.screen.orientation) {
+    window.screen.orientation.lock('portrait')
+      .catch(function(error) {
+        console.log("Orientation lock error: " + error);
+      });
+  }
+};
 
 // ________________________ Prevent zoom on double tap on mobile devices __________________________
 let lastTouchEnd = 0;
