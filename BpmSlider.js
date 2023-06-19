@@ -8,7 +8,7 @@ export default class BpmSlider {
       this.createExpandedState();
       this.advancedFilters = advancedFilters
       this.min = 60;
-      this.max = 140;
+      this.max = 150;
       this.rangeValues = [2, 6, 12]; // Range values // 
       this.currentValue = 100; // Default value
       this.currentRangeValue = this.rangeValues[2]; // Default range
@@ -157,8 +157,8 @@ export default class BpmSlider {
     }
   
     updateUI() {
-      this.minValue = Math.max(this.min, this.currentValue - this.currentRangeValue);
-      this.maxValue = Math.min(this.max, this.currentValue + this.currentRangeValue);
+      this.minValue = this.currentValue - this.currentRangeValue;// Math.max(this.min, this.currentValue - this.currentRangeValue);
+      this.maxValue = this.currentValue + this.currentRangeValue;// Math.min(this.max, this.currentValue + this.currentRangeValue);
       // update logic
       // update summaryView
       this.advancedFilters.userUpdatedBpmRange([this.minValue, this.maxValue]);
