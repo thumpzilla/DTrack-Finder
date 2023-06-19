@@ -37,21 +37,6 @@ export default class BpmSlider {
         this.sliderContainer.style.opacity = '1';
         this.sliderThumb.style.cursor = 'pointer';
       }
-      
-      // Removing or Adding event listeners based on the disabled state
-      if(this.isDisabled) {
-        this.sliderThumb.removeEventListener("mousedown", this.moveSliderThumb);
-        this.sliderRange.removeEventListener("mousedown", this.moveSliderThumb);
-        this.dataBubble.removeEventListener("click", this.updateKey);
-        this.sliderThumb.removeEventListener("touchstart", this.moveSliderThumb);
-        this.dataBubble.removeEventListener("touchstart", this.updateRange);
-      } else {
-        this.sliderThumb.addEventListener("mousedown", this.moveSliderThumb);
-        this.sliderRange.addEventListener("mousedown", this.moveSliderThumb);
-        this.dataBubble.addEventListener("click", this.updateKey);
-        this.sliderThumb.addEventListener("touchstart", this.moveSliderThumb);
-        this.dataBubble.addEventListener("touchstart", this.updateRange);
-      }
     }
 
     createExpandedState(){
@@ -244,48 +229,3 @@ export default class BpmSlider {
       this.updateUI();
     }
   }
-
-// Collapsed state for refernece on the summary
-  /*
- createCollapsedState() {
-    // Update expandArrow
-    // Create a new container for collapsed state
-    const collapsedContainer = document.createElement('div');
-    collapsedContainer.id = 'collapsed-container';
-    collapsedContainer.style.height = '3rem';
-    collapsedContainer.style.width = '100%';
-    collapsedContainer.style.display = 'flex';
-    collapsedContainer.style.justifyContent = 'center';
-    collapsedContainer.style.alignItems = 'center';
-  
-    // Create the content for the collapsed container
-    const collapsedContent = document.createElement('div');
-    collapsedContent.id = 'collapsed-content';
-    this.minValue = Math.max(this.min, this.currentValue - this.currentRangeValue);
-    this.maxValue = Math.min(this.max, this.currentValue + this.currentRangeValue);
-    collapsedContent.textContent = '🥁 Active BPM range ' + this.minValue + ' - ' + this.maxValue + ' 🥁';
-    collapsedContent.style.display = 'flex';
-    collapsedContent.style.flexDirection = 'row';
-    collapsedContent.style.justifyContent = 'center';
-    collapsedContent.style.alignItems = 'center';
-    collapsedContent.style.cursor = 'pointer';
-    collapsedContent.style.background = 'linear-gradient(20deg, #AA32F8 ,#C23DF2, #B142CD)'; // same color as range-value-container
-    collapsedContent.style.color = '#f5f5f7'; // white color for text
-    collapsedContent.style.padding = '0.4rem 1.2rem'; // same padding as range-value-container
-    collapsedContent.style.borderRadius = '4rem'; // same border radius as range-value-container
-    collapsedContent.addEventListener('click', () => {
-        this.toggleExpandedCollapsedStates();
-    });
-  
-    // Add the collapsedContent to the collapsedContainer
-    collapsedContainer.appendChild(collapsedContent);
-  
-    // Add the collapsedContainer to the bpmRange
-    this.bpmRange.appendChild(collapsedContainer);
-    this.bpmRange.style.height = '3rem';
-  
-    // Add 'collapsed' class to the dataBubble
-    this.dataBubble.classList.add('collapsed');
-  }
-
-  */
