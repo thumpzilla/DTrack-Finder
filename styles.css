@@ -54,7 +54,7 @@ h2 {
     min-height: 100vh;
     width: 100%; /* Use 100% width as default for smaller devices */
     margin: 0 auto;
-    padding: 1rem;
+    padding: 0.3rem;
     border-radius: 1.25rem;
     overflow: hidden;
     background: linear-gradient(70deg,  #030547 ,#030545, #03063D 200%);
