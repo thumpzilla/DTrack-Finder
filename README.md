@@ -1,7 +1,14 @@
-# Song Instant Selector
-Find the right song for the right moment, easily! [Try it now!](https://donraz.github.io/Song-Instant-Selector/)
+# DTRack finder
+helps you to find the right song for the right time, easily!
+With thousands of songs available, and dozens of filters, and smart sorting - you can find the best tracks for your needs within seconds!
+Available On mobile📱, and desktop💻. It's Open-Source and FREE to use, Enjoy!
+(Try now!)[https://donraz.github.io/Song-Instant-Selector/]
 
+(Discord)[https://discord.gg/u7dtAbvc]
 
+(Instagram)[https://www.instagram.com/ddance_official/]
+
+(Youtube)[[https://github.com/DonRaz/Song-Instant-Selector](https://www.youtube.com/channel/UCXw6Q30Gl7S7cz3_UkFBf9Q)]
 
 # Features Demo 
 
