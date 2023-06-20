@@ -212,10 +212,13 @@ li:hover {
     border-radius: 0.31rem;
     gap: 0.4rem;
 }
-
+.tag-icon {
+  width: 1.2rem;
+  height: 1.2rem;
+  margin-right: 0.5rem;
+}
 .tag {
     margin: 0.2rem;  /* Adjust this to manage the margin of individual tag */
-    border: 2px solid #8639DB;
     border-radius: 0.31rem;
     padding: 0.2rem 0.45rem;
     white-space: nowrap; /* Prevents the text inside the tag from wrapping to the next line */

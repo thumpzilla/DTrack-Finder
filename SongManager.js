@@ -109,9 +109,7 @@ export default class SongManager {
     
         
         // After the creation of songCountSummaryObject, add a 'contextmenu' event listener to it
-        console.log("Added event - Long press the song counter -")
         this.songCountSummaryObject.querySelector('p').addEventListener('contextmenu', (event) => {
-            console.log("Long PRessed the song counter")
             event.preventDefault();  // Prevent the browser's context menu from showing
             this.copySongsToClipboard();  // Call the new method
         });
