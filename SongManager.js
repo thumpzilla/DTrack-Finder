@@ -1,5 +1,7 @@
 
 import Song from './Song.js'
+import { showToast } from './Utils.js'; // Make sure to import the showToast function
+
 import SongListItemUI from './SongList_UI.js';
 
 export default class SongManager {
@@ -91,6 +93,7 @@ export default class SongManager {
         this.filterSortingSwitchContainer.appendChild(this.songCountSummaryObject);
         this.filterSortingSwitchContainer.appendChild(this.sortingCriteriaSummaryObject);
 
+
         // Highlight
         this.highlight = document.createElement('div');
         this.highlight.classList.add('highlight');
@@ -107,14 +110,15 @@ export default class SongManager {
             this.updateParagraphStyles();
         });
     
-        // add click listener to rotate and increase size temporarily
-        this.songCountSummaryObject.querySelector('p').addEventListener('click', () => {
-            this.songCountSummaryObject.querySelector('p').classList.add('clicked');
-            setTimeout(() => {
-                this.songCountSummaryObject.querySelector('p').classList.remove('clicked');
-            }, 200); // Remove the 'clicked' class after 1 second
-        });  
-       
+        
+        // After the creation of songCountSummaryObject, add a 'contextmenu' event listener to it
+        console.log("Added event - Long press the song counter -")
+        this.songCountSummaryObject.querySelector('p').addEventListener('contextmenu', (event) => {
+            console.log("Long PRessed the song counter")
+            event.preventDefault();  // Prevent the browser's context menu from showing
+            this.copySongsToClipboard();  // Call the new method
+        });
+
         this.twoDSelector = document.getElementById('2dSelector'); // style.display - 'block' or 'none'
         this.tagCatalogElement = document.getElementById('tag-catalog'); // style.display - 'block' or 'none'
         // Update the event listener for addTagButton
@@ -260,8 +264,6 @@ export default class SongManager {
             newSongList = this.getSongsWithinKeyRange(newSongList); // Key Filter
 
         // _________________________________ TEXT REPLACE __________________________________ START
-        // this.songTextInSummaryObject.innerText = `${newSongList.length} results`;
-        // this.sortTextInSummaryObject.innerText= `⚡️ ${Math.round(energy)}, 💡 ${Math.round(popularity)}`;
         this.songTextInSummaryObject.innerText = `${newSongList.length} results`;
 
         // Update the text
@@ -271,10 +273,10 @@ export default class SongManager {
         // _________________________________ TEXT REPLACE __________________________________ END
         // Sort songs based on their distance to the selected point
 
-        const sortedSongs = this.sortByProximity(energy, popularity, newSongList);
+        this.currentSortedSongs = this.sortByProximity(energy, popularity, newSongList);
 
         // Display sorted songs (only first 5)
-        sortedSongs.slice(0,30).forEach((song, index) => {
+        this.currentSortedSongs.slice(0,30).forEach((song, index) => {
             const songUI = new SongListItemUI(song);
             const listItem = songUI.createCollapsedState();
             listItem.dataset.index = index;
@@ -313,6 +315,31 @@ export default class SongManager {
             }
         }
     }
+
+    copySongsToClipboard() {
+        // If there are no songs, we don't need to copy anything
+        if (!this.currentSortedSongs.length) {
+            console.log('No songs to copy');
+            showToast('No songs to copy');  // Show a toast to indicate no songs were copied
+            return;
+        }
+    
+        // If there are less than 100 songs, copy them all; otherwise, copy the first 100
+        let songsToCopy = this.currentSortedSongs.length > 100 ? this.currentSortedSongs.slice(0, 100) : this.currentSortedSongs;
+        
+        // Map over the songs to create an array of strings, each string is a CSV row
+        const csvContent = songsToCopy.map(song => `${song.trackTitle},${song.artist}`).join('\n');
+    
+        // Use the Clipboard API to copy the text to the clipboard
+        navigator.clipboard.writeText(csvContent).then(() => {
+            console.log('Copied song list to clipboard');
+            showToast('Current tracklist copied to clipboard');  // Show a toast after successful copying
+        }).catch(err => {
+            console.error('Error copying song list to clipboard', err);
+        });
+    }
+    
+    
     loadSortingSummarySVGs() {
         this.energyImage = document.createElement('img');
         this.energyImage.src = 'images/colored/energy-colored.svg';
@@ -348,5 +375,7 @@ export default class SongManager {
         this.sortTextInSummaryObject.appendChild(this.popularityImage);
         this.sortTextInSummaryObject.appendChild(this.popularitySpan);
     }
-    
+
+
+
 } 
