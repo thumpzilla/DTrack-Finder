@@ -11,8 +11,8 @@ export default class KeySlider {
       this.advancedFilters = advancedFilters
       this.min = 1;
       this.max = 12;
-      this.currentValue = 1; // Default value
-      this.currentRangeValue = 1; // Default range value
+      this.currentValue = 4; // Default value
+      this.currentRangeValue = 2; // Default range value
       this.currentKey = 'A'; // Default key
       this.currentState = 1; // 1 = expanded, 0 = collapsed
 
@@ -37,7 +37,6 @@ export default class KeySlider {
         this.sliderContainer.style.opacity = '1';
         this.sliderThumb.style.cursor = 'pointer';
       }
-      
     }
 
     createExpandedState(){
@@ -226,30 +225,3 @@ export default class KeySlider {
       }
     }
 
-
-
-  // toggleExpandedCollapsedStates() {
-  //   // Get all child elements in keyRange
-  //   let children = Array.from(this.keyRange.children);
-  
-  //   // Loop through all children and remove them if their id is not 'expand-arrow'
-  //   children.forEach((child) => {
-  //     if (child.id !== 'expand-arrow') {
-  //       this.keyRange.removeChild(child); 
-  //     }
-  //   });
-  
-  //   // Toggle states
-  //   if(this.currentState == 1) {
-  //     this.createCollapsedState();
-  //     this.currentState = 0;
-  //     this.expandArrow.style.transform = 'rotate(225deg)'; // Rotate to collapsed state
-  //     this.keyRange.style.height = '5rem'; // Change the height to the height of the collapsed state
-  //   } else {
-  //     this.createExpandedState();
-  //     this.updateUI();  // Add this line to update the UI
-  //     this.currentState = 1;
-  //     this.expandArrow.style.transform = 'rotate(45deg)'; // Rotate back to expanded state
-  //     this.keyRange.style.height = '15rem'; // Change the height back to the height of the expanded state
-  //   }
-  // }

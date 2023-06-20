@@ -24,9 +24,6 @@ export default class SongManager {
     //    this.createBpmKeySwitch();
     }
 
-    // changeSonglistContainerSizeInRem(newSize){
-    //     this.listOfSongs_UI.style.height='${newSize}rem'
-
 
     createSummaryObject(containerId, idOfTextField, svgImagePath, imageDivPath, activeIndicatorId) {
         // create the div container

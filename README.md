@@ -2,7 +2,8 @@
 helps you to find the right song for the right time, easily!
 With thousands of songs available, and dozens of filters, and smart sorting - you can find the best tracks for your needs within seconds!
 Available On mobile📱, and desktop💻. It's Open-Source and FREE to use, Enjoy!
-[Try NOW!][(https://donraz.github.io/Song-Instant-Selector/)
+
+[Try NOW!](https://donraz.github.io/Song-Instant-Selector/)
 
 [Discord Community](https://discord.gg/u7dtAbvc)
 

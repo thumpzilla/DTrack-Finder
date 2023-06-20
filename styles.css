@@ -338,7 +338,7 @@ li:hover {
   justify-content: center;
   align-items: center;
   overflow: hidden; /* Ensure content that exceeds the height is not shown */
-  height: 24rem; /* Arbitrary large value for the expanded state */
+  height: 28rem; /* Arbitrary large value for the expanded state */
   transition: max-height 0.5s ease-out; /* Add transition for smooth animation */
 
 }
@@ -366,7 +366,7 @@ li:hover {
 #toggle-switch {
   position: absolute;
   left: 2rem; /* adjusted from right to left */
-  top: 2.5rem; /* set the top offset */
+  top: 2.2rem; /* set the top offset */
   width: 3.75rem; /* 60px to rem */
   height: 2.125rem; /* 34px to rem */
   background: #563063;
@@ -664,6 +664,7 @@ li:hover {
   box-sizing: border-box;
   width: 25rem;
   height: 9rem;
+  padding-top: 4.6rem;
 }
 
 .slider-range {
@@ -863,8 +864,10 @@ li:hover {
     box-sizing: border-box;
     width: 25rem;
     height: 9rem;
+    padding-top: 4.6rem;
   }
-  
+
+
   .key-slider-range {
     position: relative;
     background-color: #9b9bac !important;
