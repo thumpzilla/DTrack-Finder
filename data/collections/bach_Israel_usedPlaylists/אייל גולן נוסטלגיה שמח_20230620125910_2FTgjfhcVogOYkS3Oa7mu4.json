@@ -1,0 +1,921 @@
+[
+    {
+        "#": 1,
+        "Track Title": "הוזה אותך מולי",
+        "Artist": "Eyal Golan",
+        "Key": "12A",
+        "Energy": 7.84,
+        "Popularity": 1.0,
+        "BPM": 78,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Mizrahit",
+            "2000s",
+            "Mizrahit",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "2EYf14B1VATNqDOCFE0p1x",
+            "explicit": false,
+            "album": "הוזה אותך מולי",
+            "release_date": "2008-03-07",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "persian pop"
+            ],
+            "duration": 242920,
+            "acousticness": 0.572,
+            "danceability": 6.066999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.191,
+            "loudness": -5.048,
+            "speechiness": 0.0578,
+            "time_signature": 4,
+            "happiness": 4.996
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "את שלי אני שלך",
+        "Artist": "Eyal Golan",
+        "Key": "10A",
+        "Energy": 9.352,
+        "Popularity": 1.0,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Mizrahit",
+            "2000s",
+            "Mizrahit",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0Wj9wACz6DTkyGAjkDBMJY",
+            "explicit": false,
+            "album": "הוזה אותך מולי",
+            "release_date": "2008-03-07",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "persian pop"
+            ],
+            "duration": 219720,
+            "acousticness": 0.151,
+            "danceability": 6.022,
+            "instrumentalness": 0,
+            "liveness": 0.328,
+            "loudness": -3.98,
+            "speechiness": 0.0554,
+            "time_signature": 4,
+            "happiness": 7.624
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "זה מוזר",
+        "Artist": "Eyal Golan",
+        "Key": "7A",
+        "Energy": 8.559999999999999,
+        "Popularity": 1.0,
+        "BPM": 108,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Mizrahit",
+            "2000s",
+            "Mizrahit",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2iihz2Wy07La9ECf5FdNlS",
+            "explicit": false,
+            "album": "בשבילך נוצרתי",
+            "release_date": "2007-03-25",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "persian pop"
+            ],
+            "duration": 241080,
+            "acousticness": 0.394,
+            "danceability": 6.661,
+            "instrumentalness": 0,
+            "liveness": 0.0952,
+            "loudness": -5.616,
+            "speechiness": 0.0322,
+            "time_signature": 4,
+            "happiness": 7.804
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "שמועות",
+        "Artist": "Eyal Golan",
+        "Key": "7A",
+        "Energy": 9.118,
+        "Popularity": 1.0,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Mizrahit",
+            "2000s",
+            "Mizrahit",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0GYTg1XlodFWlDg2kgt1tg",
+            "explicit": false,
+            "album": "בשבילך נוצרתי",
+            "release_date": "2007-03-25",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "persian pop"
+            ],
+            "duration": 189053,
+            "acousticness": 0.119,
+            "danceability": 7.2909999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.319,
+            "loudness": -5.777,
+            "speechiness": 0.0743,
+            "time_signature": 4,
+            "happiness": 7.111000000000001
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "כבר לא יכול",
+        "Artist": "Eyal Golan",
+        "Key": "5A",
+        "Energy": 9.433,
+        "Popularity": 1.0,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Mizrahit",
+            "2000s",
+            "Mizrahit",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4PEMnjWywgXiXO4MSMRlSw",
+            "explicit": false,
+            "album": "בשבילך נוצרתי",
+            "release_date": "2007-03-25",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "persian pop"
+            ],
+            "duration": 221040,
+            "acousticness": 0.0976,
+            "danceability": 7.147,
+            "instrumentalness": 0,
+            "liveness": 0.294,
+            "loudness": -4.987,
+            "speechiness": 0.0593,
+            "time_signature": 4,
+            "happiness": 8.767
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "הלב שלי",
+        "Artist": "Eyal Golan",
+        "Key": "5A",
+        "Energy": 9.208,
+        "Popularity": 1.0,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Mizrahit",
+            "2000s",
+            "Mizrahit",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1psylv1XriaO9StDFMVBzC",
+            "explicit": false,
+            "album": "הוזה אותך מולי",
+            "release_date": "2008-03-07",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "persian pop"
+            ],
+            "duration": 224893,
+            "acousticness": 0.107,
+            "danceability": 7.39,
+            "instrumentalness": 0,
+            "liveness": 0.249,
+            "loudness": -4.352,
+            "speechiness": 0.0346,
+            "time_signature": 4,
+            "happiness": 9.145
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "כמו גשם במאי",
+        "Artist": "Eyal Golan",
+        "Key": "8B",
+        "Energy": 9.226,
+        "Popularity": 1.0,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Mizrahit",
+            "2000s",
+            "Mizrahit",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5eH0STpx91TMhlwsObtBLJ",
+            "explicit": false,
+            "album": "הוזה אותך מולי",
+            "release_date": "2008-03-07",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "persian pop"
+            ],
+            "duration": 239253,
+            "acousticness": 0.0743,
+            "danceability": 6.805,
+            "instrumentalness": 0,
+            "liveness": 0.115,
+            "loudness": -4.751,
+            "speechiness": 0.0318,
+            "time_signature": 4,
+            "happiness": 7.714
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "פיציריקה",
+        "Artist": "Eyal Golan, Trifonas",
+        "Key": "11B",
+        "Energy": 9.450999999999999,
+        "Popularity": 1.0,
+        "BPM": 106,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Mizrahit",
+            "2000s",
+            "Mizrahit",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2RIyp1JAaltuH1V7rWSGGH",
+            "explicit": false,
+            "album": "הוזה אותך מולי",
+            "release_date": "2008-03-07",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "persian pop",
+                "classic israeli pop",
+                "mizrahi"
+            ],
+            "duration": 192387,
+            "acousticness": 0.416,
+            "danceability": 7.543,
+            "instrumentalness": 2.35e-05,
+            "liveness": 0.254,
+            "loudness": -4.464,
+            "speechiness": 0.034,
+            "time_signature": 4,
+            "happiness": 9.658
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "מאושרת",
+        "Artist": "Eyal Golan",
+        "Key": "4B",
+        "Energy": 9.334,
+        "Popularity": 1.0,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Mizrahit",
+            "2000s",
+            "Mizrahit",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7HihGJjNMpBdf2XvqJQkqW",
+            "explicit": false,
+            "album": "זה אני",
+            "release_date": "2009-05-09",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "persian pop"
+            ],
+            "duration": 210747,
+            "acousticness": 0.199,
+            "danceability": 7.209999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.327,
+            "loudness": -2.215,
+            "speechiness": 0.0305,
+            "time_signature": 4,
+            "happiness": 9.127
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "למות מקנאה",
+        "Artist": "Eyal Golan",
+        "Key": "3B",
+        "Energy": 9.298,
+        "Popularity": 1.0,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Mizrahit",
+            "2000s",
+            "Mizrahit",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1dYd6JwfFV6EsCkGuv52Xd",
+            "explicit": false,
+            "album": "זה אני",
+            "release_date": "2009-05-09",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "persian pop"
+            ],
+            "duration": 237120,
+            "acousticness": 0.119,
+            "danceability": 7.191999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.192,
+            "loudness": -2.737,
+            "speechiness": 0.034,
+            "time_signature": 4,
+            "happiness": 8.515
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "אישה שלי",
+        "Artist": "Eyal Golan",
+        "Key": "8A",
+        "Energy": 9.307,
+        "Popularity": 1.0,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Mizrahit",
+            "2000s",
+            "Mizrahit",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4ef19eIEbnMSKgcvj0Knsy",
+            "explicit": false,
+            "album": "זה אני",
+            "release_date": "2009-05-09",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "persian pop"
+            ],
+            "duration": 226693,
+            "acousticness": 0.13,
+            "danceability": 7.759,
+            "instrumentalness": 0,
+            "liveness": 0.0461,
+            "loudness": -2.141,
+            "speechiness": 0.0359,
+            "time_signature": 4,
+            "happiness": 9.504999999999999
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "כל כך יפה",
+        "Artist": "Eyal Golan",
+        "Key": "8A",
+        "Energy": 8.425,
+        "Popularity": 1.0,
+        "BPM": 116,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Mizrahit",
+            "2010s",
+            "Mizrahit",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6se4N6zTk6Xf2HryUdMOrL",
+            "explicit": false,
+            "album": "נגעת לי בלב",
+            "release_date": "2012-03-25",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "persian pop"
+            ],
+            "duration": 219907,
+            "acousticness": 0.126,
+            "danceability": 8.551,
+            "instrumentalness": 0,
+            "liveness": 0.272,
+            "loudness": -5.33,
+            "speechiness": 0.0509,
+            "time_signature": 4,
+            "happiness": 8.326
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "פרפר",
+        "Artist": "Eyal Golan",
+        "Key": "9A",
+        "Energy": 9.559,
+        "Popularity": 1.0,
+        "BPM": 116,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Mizrahit",
+            "2010s",
+            "Mizrahit",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4XRd9R9akn7REHixLlUVF0",
+            "explicit": false,
+            "album": "נגעת לי בלב",
+            "release_date": "2012-03-25",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "persian pop"
+            ],
+            "duration": 252133,
+            "acousticness": 0.105,
+            "danceability": 7.353999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.0771,
+            "loudness": -3.549,
+            "speechiness": 0.0296,
+            "time_signature": 4,
+            "happiness": 8.398
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "הלילה שלך",
+        "Artist": "Eyal Golan",
+        "Key": "2B",
+        "Energy": 9.388,
+        "Popularity": 1.0,
+        "BPM": 112,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Mizrahit",
+            "2010s",
+            "Mizrahit",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5syu4L9RAUOCwqvjKkD8w6",
+            "explicit": false,
+            "album": "חלק מחיי",
+            "release_date": "2011-04-12",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "persian pop"
+            ],
+            "duration": 245827,
+            "acousticness": 0.0105,
+            "danceability": 7.156000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.125,
+            "loudness": -5.653,
+            "speechiness": 0.0307,
+            "time_signature": 4,
+            "happiness": 8.038
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "מתפוצץ בגללך",
+        "Artist": "Eyal Golan",
+        "Key": "6A",
+        "Energy": 8.578,
+        "Popularity": 1.0,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Mizrahit",
+            "2010s",
+            "Mizrahit",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "59kofJ4WICk3YuQcZorctT",
+            "explicit": false,
+            "album": "חלק מחיי",
+            "release_date": "2011-04-12",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "persian pop"
+            ],
+            "duration": 234867,
+            "acousticness": 0.00949,
+            "danceability": 7.057,
+            "instrumentalness": 0,
+            "liveness": 0.417,
+            "loudness": -4.899,
+            "speechiness": 0.0343,
+            "time_signature": 4,
+            "happiness": 6.841
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "רק בגלל זה",
+        "Artist": "Eyal Golan",
+        "Key": "1A",
+        "Energy": 7.759,
+        "Popularity": 1.0,
+        "BPM": 114,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Mizrahit",
+            "2010s",
+            "Mizrahit",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2hcaSqUTPhY4dDQZMa0OTt",
+            "explicit": false,
+            "album": "חלק מחיי",
+            "release_date": "2011-04-12",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "persian pop"
+            ],
+            "duration": 199507,
+            "acousticness": 0.0245,
+            "danceability": 6.463,
+            "instrumentalness": 0,
+            "liveness": 0.0552,
+            "loudness": -7.8,
+            "speechiness": 0.0895,
+            "time_signature": 4,
+            "happiness": 7.678
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "מכל אותם הפזמונים",
+        "Artist": "Eyal Golan",
+        "Key": "12A",
+        "Energy": 8.704,
+        "Popularity": 1.0,
+        "BPM": 112,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Mizrahit",
+            "2000s",
+            "Mizrahit",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5aYxniN98FKgOQ9JdlAZNA",
+            "explicit": false,
+            "album": "בשבילך נוצרתי",
+            "release_date": "2007-03-25",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "persian pop"
+            ],
+            "duration": 224693,
+            "acousticness": 0.441,
+            "danceability": 7.156000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.367,
+            "loudness": -5.545,
+            "speechiness": 0.0327,
+            "time_signature": 4,
+            "happiness": 8.847999999999999
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "קחי אותי",
+        "Artist": "Eyal Golan",
+        "Key": "12A",
+        "Energy": 9.118,
+        "Popularity": 1.0,
+        "BPM": 116,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Mizrahit",
+            "2000s",
+            "Mizrahit",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7fqskFaALdnLSD2f1AC7ib",
+            "explicit": false,
+            "album": "בשבילך נוצרתי",
+            "release_date": "2007-03-25",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "persian pop"
+            ],
+            "duration": 215213,
+            "acousticness": 0.333,
+            "danceability": 6.3549999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.164,
+            "loudness": -5.491,
+            "speechiness": 0.0335,
+            "time_signature": 4,
+            "happiness": 8.857
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "טוב בלב",
+        "Artist": "Eyal Golan",
+        "Key": "8A",
+        "Energy": 9.325000000000001,
+        "Popularity": 1.0,
+        "BPM": 102,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Mizrahit",
+            "2000s",
+            "Mizrahit",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0W0upB3ThSxb2cU7r4gZF2",
+            "explicit": false,
+            "album": "זה אני",
+            "release_date": "2009-05-09",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "persian pop"
+            ],
+            "duration": 177120,
+            "acousticness": 0.252,
+            "danceability": 7.741,
+            "instrumentalness": 0,
+            "liveness": 0.0818,
+            "loudness": -3.857,
+            "speechiness": 0.0461,
+            "time_signature": 4,
+            "happiness": 9.379000000000001
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "מחכה לך",
+        "Artist": "Eyal Golan",
+        "Key": "1A",
+        "Energy": 9.271,
+        "Popularity": 1.0,
+        "BPM": 114,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Mizrahit",
+            "2010s",
+            "Mizrahit",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "3iSM7gKeury1f9irJxMGVw",
+            "explicit": false,
+            "album": "דרך לחיים",
+            "release_date": "2010-03-03",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "persian pop"
+            ],
+            "duration": 227893,
+            "acousticness": 0.424,
+            "danceability": 7.03,
+            "instrumentalness": 0,
+            "liveness": 0.237,
+            "loudness": -3.61,
+            "speechiness": 0.0605,
+            "time_signature": 4,
+            "happiness": 5.293
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "תישארי",
+        "Artist": "Eyal Golan",
+        "Key": "12A",
+        "Energy": 9.091000000000001,
+        "Popularity": 1.0,
+        "BPM": 114,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Mizrahit",
+            "2010s",
+            "Mizrahit",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1GZjiWHrZ8tHkDRCLgfcWE",
+            "explicit": false,
+            "album": "דרך לחיים",
+            "release_date": "2010-03-03",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "persian pop"
+            ],
+            "duration": 210467,
+            "acousticness": 0.358,
+            "danceability": 6.787,
+            "instrumentalness": 0,
+            "liveness": 0.304,
+            "loudness": -2.952,
+            "speechiness": 0.0405,
+            "time_signature": 4,
+            "happiness": 8.731
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "סרט שחור לבן",
+        "Artist": "Eyal Golan",
+        "Key": "5A",
+        "Energy": 9.163,
+        "Popularity": 1.0,
+        "BPM": 142,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Mizrahit",
+            "2000s",
+            "Mizrahit",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1IEL3wL2EXzIWlisrUSXPm",
+            "explicit": false,
+            "album": "מציאות אחרת",
+            "release_date": "2005-03-29",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "persian pop"
+            ],
+            "duration": 217547,
+            "acousticness": 0.333,
+            "danceability": 6.724,
+            "instrumentalness": 4.06e-05,
+            "liveness": 0.0803,
+            "loudness": -4.955,
+            "speechiness": 0.0304,
+            "time_signature": 4,
+            "happiness": 9.361
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "מתגעגע",
+        "Artist": "Eyal Golan",
+        "Key": "3B",
+        "Energy": 9.469,
+        "Popularity": 1.0,
+        "BPM": 116,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Israel [Loc], Mizrahit",
+            "2000s",
+            "Mizrahit",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6XbVadLNJYigI1ERcaZvZC",
+            "explicit": false,
+            "album": "מציאות אחרת",
+            "release_date": "2005-03-29",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi",
+                "persian pop"
+            ],
+            "duration": 209840,
+            "acousticness": 0.202,
+            "danceability": 6.994000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.332,
+            "loudness": -2.993,
+            "speechiness": 0.0314,
+            "time_signature": 4,
+            "happiness": 9.280000000000001
+        }
+    }
+]
