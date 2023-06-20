@@ -1,0 +1,911 @@
+[
+    {
+        "#": 1,
+        "Track Title": "היום יום הולדת",
+        "Artist": "Choir",
+        "Key": "8B",
+        "Energy": 4.798,
+        "Popularity": 1.0,
+        "BPM": 93,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "70s"
+        ],
+        "Additional Info": {
+            "id": "2XLLJ26K9su86R8qr8JhuS",
+            "explicit": false,
+            "album": "עוגה עוגה - 30 שירי יום הולדת ומשחק לפעוטות",
+            "release_date": "1979-01-01",
+            "genres": [
+                "french movie tunes"
+            ],
+            "duration": 96187,
+            "acousticness": 0.582,
+            "danceability": 6.886,
+            "instrumentalness": 0,
+            "liveness": 0.322,
+            "loudness": -7.529,
+            "speechiness": 0.0457,
+            "time_signature": 4,
+            "happiness": 6.931
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "יום הולדת",
+        "Artist": "Eden Band",
+        "Key": "7B",
+        "Energy": 9.577,
+        "Popularity": 1.0,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "90s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0Ii7Omnl9BwzUiBj4DyhA2",
+            "explicit": false,
+            "album": "יום הולדת",
+            "release_date": "1999-05-01",
+            "genres": [],
+            "duration": 180326,
+            "acousticness": 0.0207,
+            "danceability": 7.039000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.341,
+            "loudness": -2.744,
+            "speechiness": 0.0972,
+            "time_signature": 4,
+            "happiness": 8.191
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "יום הולדת שמח",
+        "Artist": "Oded Menashe",
+        "Key": "8B",
+        "Energy": 9.495999999999999,
+        "Popularity": 3.79,
+        "BPM": 134,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "90s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4K6lTiQFQBf5WpxtZ9AK22",
+            "explicit": false,
+            "album": "עודד אמר",
+            "release_date": "1998-01-01",
+            "genres": [
+                "festigal"
+            ],
+            "duration": 202160,
+            "acousticness": 0.0659,
+            "danceability": 7.435,
+            "instrumentalness": 0,
+            "liveness": 0.148,
+            "loudness": -5.626,
+            "speechiness": 0.0539,
+            "time_signature": 4,
+            "happiness": 8.847999999999999
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "היום יש לי יום הולדת",
+        "Artist": "Dod Haim",
+        "Key": "6B",
+        "Energy": 8.937999999999999,
+        "Popularity": 4.0600000000000005,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3JiGQR0RpPpVP8oTBKJO7d",
+            "explicit": false,
+            "album": "דוד חיים",
+            "release_date": "2008-01-01",
+            "genres": [],
+            "duration": 118667,
+            "acousticness": 0.143,
+            "danceability": 7.714,
+            "instrumentalness": 0,
+            "liveness": 0.331,
+            "loudness": -3.762,
+            "speechiness": 0.0351,
+            "time_signature": 4,
+            "happiness": 9.64
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "יום הולדת",
+        "Artist": "Eliad",
+        "Key": "3B",
+        "Energy": 5.563,
+        "Popularity": 4.42,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2020s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "56YfxWKh3ZOkvRtHWBss98",
+            "explicit": false,
+            "album": "יום הולדת",
+            "release_date": "2020-06-25",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 195588,
+            "acousticness": 0.489,
+            "danceability": 8.038,
+            "instrumentalness": 0,
+            "liveness": 0.267,
+            "loudness": -6.527,
+            "speechiness": 0.0963,
+            "time_signature": 4,
+            "happiness": 5.824
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "יש לי יום הולדת",
+        "Artist": "Apocalypse",
+        "Key": "10B",
+        "Energy": 6.247,
+        "Popularity": 1.0,
+        "BPM": 148,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "70s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7pkzLdBufHJoJbqXJPHbK5",
+            "explicit": false,
+            "album": "אחרית הימים",
+            "release_date": "1972-01-01",
+            "genres": [
+                "classic israeli pop"
+            ],
+            "duration": 233160,
+            "acousticness": 0.232,
+            "danceability": 5.203,
+            "instrumentalness": 0,
+            "liveness": 0.0475,
+            "loudness": -10.665,
+            "speechiness": 0.0401,
+            "time_signature": 4,
+            "happiness": 9.676
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "חג לי",
+        "Artist": "Cast of \"Hag Li\"",
+        "Key": "8A",
+        "Energy": 4.213,
+        "Popularity": 1.0,
+        "BPM": 138,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "70s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3piHQBm8LUZurhvSO3Qhe2",
+            "explicit": false,
+            "album": "\"חג לי\" שירים וספורים מתכנית הטלויזיה",
+            "release_date": "1974-01-01",
+            "genres": [],
+            "duration": 89160,
+            "acousticness": 0.782,
+            "danceability": 7.696,
+            "instrumentalness": 0,
+            "liveness": 0.122,
+            "loudness": -10.618,
+            "speechiness": 0.0409,
+            "time_signature": 4,
+            "happiness": 8.506
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "יום הולדת בא",
+        "Artist": "Ofra Weingarten, Dudu Zar",
+        "Key": "9B",
+        "Energy": 4.87,
+        "Popularity": 1.0,
+        "BPM": 136,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "80s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1DFibasJTt80UbvXQWcfCu",
+            "explicit": false,
+            "album": "עוד פרפר נחמד",
+            "release_date": "1983-01-01",
+            "genres": [
+                "muzika l'yeladim",
+                "muzika l'yeladim"
+            ],
+            "duration": 85133,
+            "acousticness": 0.846,
+            "danceability": 6.544,
+            "instrumentalness": 4.96e-05,
+            "liveness": 0.0466,
+            "loudness": -11.043,
+            "speechiness": 0.0523,
+            "time_signature": 4,
+            "happiness": 9.676
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "כן תזכה לשנה הבאה",
+        "Artist": "Dudu Elharar",
+        "Key": "10B",
+        "Energy": 5.2749999999999995,
+        "Popularity": 1.0,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "70s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1PjitxBZcGCB5tBNWLIhSV",
+            "explicit": false,
+            "album": "עוגה עוגה - 30 שירי יום הולדת ומשחק לפעוטות",
+            "release_date": "1979-01-01",
+            "genres": [
+                "classic israeli pop",
+                "muzika l'yeladim"
+            ],
+            "duration": 160640,
+            "acousticness": 0.0633,
+            "danceability": 6.481,
+            "instrumentalness": 0,
+            "liveness": 0.0592,
+            "loudness": -8.674,
+            "speechiness": 0.0401,
+            "time_signature": 4,
+            "happiness": 7.327
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "יום הולדת שמח",
+        "Artist": "Boys and Girls Group",
+        "Key": "11A",
+        "Energy": 2.296,
+        "Popularity": 1.0,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "5Ddt8uUH77oSSyPeYodq2r",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 54573,
+            "acousticness": 0.906,
+            "danceability": 5.122,
+            "instrumentalness": 0,
+            "liveness": 0.527,
+            "loudness": -4.826,
+            "speechiness": 0.0335,
+            "time_signature": 3,
+            "happiness": 5.293
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "איזה יום שמח",
+        "Artist": "Miki Kam",
+        "Key": "9B",
+        "Energy": 5.896000000000001,
+        "Popularity": 1.0,
+        "BPM": 135,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "70s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1uXAszeXeLJ9IfTtZgtuuu",
+            "explicit": false,
+            "album": "עוגה עוגה - 30 שירי יום הולדת ומשחק לפעוטות",
+            "release_date": "1979-01-01",
+            "genres": [
+                "festigal"
+            ],
+            "duration": 119427,
+            "acousticness": 0.723,
+            "danceability": 5.9590000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.0545,
+            "loudness": -5.832,
+            "speechiness": 0.0748,
+            "time_signature": 4,
+            "happiness": 8.407
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "יום הולדת",
+        "Artist": "Osnat Paz",
+        "Key": "10A",
+        "Energy": 5.6080000000000005,
+        "Popularity": 1.0,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "60s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5M16bNk4OJi9MahXrKkBE3",
+            "explicit": false,
+            "album": "בשירי ילדים של היום ושל אז",
+            "release_date": "1968-01-01",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 49800,
+            "acousticness": 0.42,
+            "danceability": 7.039000000000001,
+            "instrumentalness": 8.52e-05,
+            "liveness": 0.0651,
+            "loudness": -7.632,
+            "speechiness": 0.0397,
+            "time_signature": 4,
+            "happiness": 9.64
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "יום הולדת",
+        "Artist": "Hana Laszlo",
+        "Key": "8A",
+        "Energy": 4.519,
+        "Popularity": 3.88,
+        "BPM": 104,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "80s"
+        ],
+        "Additional Info": {
+            "id": "2RSFidcFEMcbmuqP1VDIKa",
+            "explicit": false,
+            "album": "100 שירים ראשונים (חלק א)",
+            "release_date": "1981-04-01",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 59000,
+            "acousticness": 0.609,
+            "danceability": 6.327999999999999,
+            "instrumentalness": 1.9e-06,
+            "liveness": 0.128,
+            "loudness": -10.858,
+            "speechiness": 0.0488,
+            "time_signature": 4,
+            "happiness": 5.86
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "גדלתי בשנה",
+        "Artist": "Effi Ben Israel",
+        "Key": "9B",
+        "Energy": 5.968,
+        "Popularity": 1.0,
+        "BPM": 137,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "25qZBMGei4SspqClAqea3z",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 78867,
+            "acousticness": 0.206,
+            "danceability": 6.985,
+            "instrumentalness": 0,
+            "liveness": 0.0954,
+            "loudness": -4.146,
+            "speechiness": 0.0311,
+            "time_signature": 4,
+            "happiness": 7.876
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "עוגה עוגה",
+        "Artist": "Hana Laszlo, Chani Lindenboim",
+        "Key": "11B",
+        "Energy": 3.178,
+        "Popularity": 1.0,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "70s"
+        ],
+        "Additional Info": {
+            "id": "077EhtmqO8MAsfZFcUQV8N",
+            "explicit": false,
+            "album": "עוגה עוגה - 30 שירי יום הולדת ומשחק לפעוטות",
+            "release_date": "1979-01-01",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 124507,
+            "acousticness": 0.77,
+            "danceability": 5.68,
+            "instrumentalness": 0,
+            "liveness": 0.0706,
+            "loudness": -7.136,
+            "speechiness": 0.0305,
+            "time_signature": 4,
+            "happiness": 4.546
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "כולם מוחאים אתי כף",
+        "Artist": "Chava Alberstein",
+        "Key": "8B",
+        "Energy": 4.627000000000001,
+        "Popularity": 1.0,
+        "BPM": 112,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "70s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1o93l9MIc2TUJQuusyek9j",
+            "explicit": false,
+            "album": "טיקיליטון",
+            "release_date": "1977-01-01",
+            "genres": [
+                "classic israeli pop",
+                "israeli singer-songwriter"
+            ],
+            "duration": 117560,
+            "acousticness": 0.929,
+            "danceability": 7.507,
+            "instrumentalness": 0,
+            "liveness": 0.0819,
+            "loudness": -6.232,
+            "speechiness": 0.0862,
+            "time_signature": 3,
+            "happiness": 7.183000000000001
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "רק פעם בשנה",
+        "Artist": "Orna & Moshe Datz",
+        "Key": "10B",
+        "Energy": 6.931,
+        "Popularity": 1.0,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "25DfPPlqW1BOG7PpNWsEcF",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop"
+            ],
+            "duration": 191827,
+            "acousticness": 0.67,
+            "danceability": 8.748999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.107,
+            "loudness": -4.086,
+            "speechiness": 0.0384,
+            "time_signature": 4,
+            "happiness": 9.649
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "יום הולדת לאלי החתול",
+        "Artist": "אלי החתול והחברים",
+        "Key": "3B",
+        "Energy": 7.174,
+        "Popularity": 1.0,
+        "BPM": 135,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3GePvBkXJXNc95YF159JbW",
+            "explicit": false,
+            "album": "יום הולדת לאלי החתול",
+            "release_date": "2022-01-16",
+            "genres": [],
+            "duration": 152845,
+            "acousticness": 0.559,
+            "danceability": 7.786,
+            "instrumentalness": 0,
+            "liveness": 0.0592,
+            "loudness": -4.769,
+            "speechiness": 0.0372,
+            "time_signature": 4,
+            "happiness": 9.658
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "איפה העוגה",
+        "Artist": "Orna Datz, Moshe Datz",
+        "Key": "8A",
+        "Energy": 4.537,
+        "Popularity": 4.33,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "66gNCFxZt42oA2yNRJfs2t",
+            "explicit": false,
+            "album": "בא לי מסיבה לי",
+            "release_date": "2002-01-01",
+            "genres": [
+                "festigal"
+            ],
+            "duration": 82400,
+            "acousticness": 0.651,
+            "danceability": 8.281,
+            "instrumentalness": 0,
+            "liveness": 0.0632,
+            "loudness": -7.381,
+            "speechiness": 0.0753,
+            "time_signature": 4,
+            "happiness": 8.407
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "היי גילו נא",
+        "Artist": "David D'Or",
+        "Key": "8B",
+        "Energy": 4.087,
+        "Popularity": 3.16,
+        "BPM": 99,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "90s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4mL4Zce0vNKRavNyxikyvF",
+            "explicit": false,
+            "album": "כולם מוחאים איתי כף",
+            "release_date": "1996-01-01",
+            "genres": [
+                "israeli singer-songwriter"
+            ],
+            "duration": 69133,
+            "acousticness": 0.357,
+            "danceability": 9.172,
+            "instrumentalness": 0,
+            "liveness": 0.198,
+            "loudness": -9.603,
+            "speechiness": 0.0422,
+            "time_signature": 4,
+            "happiness": 9.424000000000001
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "למי יש יום הילדת",
+        "Artist": "Orna Datz, Moshe Datz",
+        "Key": "12B",
+        "Energy": 6.391,
+        "Popularity": 3.5200000000000005,
+        "BPM": 99,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2DNqsyOOwHM7G5rgXJvYxW",
+            "explicit": false,
+            "album": "בא לי מסיבה לי",
+            "release_date": "2002-01-01",
+            "genres": [
+                "festigal"
+            ],
+            "duration": 202587,
+            "acousticness": 0.737,
+            "danceability": 7.633,
+            "instrumentalness": 0,
+            "liveness": 0.623,
+            "loudness": -7.172,
+            "speechiness": 0.0739,
+            "time_signature": 4,
+            "happiness": 7.075
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "שיר יום הולדת",
+        "Artist": "מיילו",
+        "Key": "10B",
+        "Energy": 8.866,
+        "Popularity": 3.25,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "5mpk8nKO1k8AElrToLkCdq",
+            "explicit": false,
+            "album": "שיר יום הולדת",
+            "release_date": "2022-08-11",
+            "genres": [],
+            "duration": 148500,
+            "acousticness": 0.0695,
+            "danceability": 6.886,
+            "instrumentalness": 0.000108,
+            "liveness": 0.0777,
+            "loudness": -6.717,
+            "speechiness": 0.0864,
+            "time_signature": 4,
+            "happiness": 6.922000000000001
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "יש לי יום הולדת",
+        "Artist": "Orna Datz, Moshe Datz",
+        "Key": "11A",
+        "Energy": 7.066000000000001,
+        "Popularity": 3.0700000000000003,
+        "BPM": 135,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3oPnUM1eMn6cuTDf1qWc8k",
+            "explicit": false,
+            "album": "בא לי מסיבה לי",
+            "release_date": "2002-01-01",
+            "genres": [
+                "festigal"
+            ],
+            "duration": 160893,
+            "acousticness": 0.741,
+            "danceability": 7.579,
+            "instrumentalness": 0,
+            "liveness": 0.139,
+            "loudness": -7.019,
+            "speechiness": 0.032,
+            "time_signature": 5,
+            "happiness": 9.693999999999999
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "יום הולדת",
+        "Artist": "Nurit Hirsh, Dalik Wollinitz, Sharon Shahal",
+        "Key": "1A",
+        "Energy": 5.077,
+        "Popularity": 3.16,
+        "BPM": 116,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7mKNRpF6Hsmnjq8MsyTtZw",
+            "explicit": false,
+            "album": "דיג דיג דוג - האוסף",
+            "release_date": "2000-06-01",
+            "genres": [
+                "israeli classical"
+            ],
+            "duration": 134640,
+            "acousticness": 0.745,
+            "danceability": 7.138000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.317,
+            "loudness": -10.789,
+            "speechiness": 0.0296,
+            "time_signature": 4,
+            "happiness": 9.136000000000001
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "יום הולדת",
+        "Artist": "Avi Toledano",
+        "Key": "7A",
+        "Energy": 7.507,
+        "Popularity": 2.98,
+        "BPM": 137,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "80s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0k3M4BrhSgs3m5m4lLdLSF",
+            "explicit": false,
+            "album": "שירוויזיון 3",
+            "release_date": "1981-12-01",
+            "genres": [
+                "classic israeli pop"
+            ],
+            "duration": 156650,
+            "acousticness": 0.465,
+            "danceability": 7.0120000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.25,
+            "loudness": -8.315,
+            "speechiness": 0.0349,
+            "time_signature": 4,
+            "happiness": 9.693999999999999
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "יומולדת",
+        "Artist": "Yaldey Bet Haetz, Café Shahor Hazak",
+        "Key": "12A",
+        "Energy": 7.3629999999999995,
+        "Popularity": 1.0,
+        "BPM": 106,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2010s",
+            "Hip Hop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7KaO2xgiJWzHLzAIFBaVy7",
+            "explicit": false,
+            "album": "ילדי בית העץ 2",
+            "release_date": "2016-05-12",
+            "genres": [
+                "muzika l'yeladim",
+                "israeli hip hop"
+            ],
+            "duration": 191920,
+            "acousticness": 0.223,
+            "danceability": 8.182,
+            "instrumentalness": 0,
+            "liveness": 0.292,
+            "loudness": -7.817,
+            "speechiness": 0.0974,
+            "time_signature": 4,
+            "happiness": 9.118
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "יומולדת - Infected Mushroom Remix",
+        "Artist": "Berry Sakharof, Infected Mushroom",
+        "Key": "1A",
+        "Energy": 8.407,
+        "Popularity": 4.33,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "3jtXHIznBsnK5qPLVAdXbv",
+            "explicit": false,
+            "album": "Birthday",
+            "release_date": "2002-07-26",
+            "genres": [
+                "classic israeli pop",
+                "israeli rock",
+                "psychedelic trance"
+            ],
+            "duration": 288587,
+            "acousticness": 0.353,
+            "danceability": 6.9670000000000005,
+            "instrumentalness": 0.745,
+            "liveness": 0.115,
+            "loudness": -10.912,
+            "speechiness": 0.0413,
+            "time_signature": 4,
+            "happiness": 6.228999999999999
+        }
+    }
+]

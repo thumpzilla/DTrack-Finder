@@ -1,0 +1,3359 @@
+[
+    {
+        "#": 1,
+        "Track Title": "עוגה עוגה",
+        "Artist": "Hana Laszlo",
+        "Key": "12B",
+        "Energy": 2.863,
+        "Popularity": 3.0700000000000003,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0mdD9QchboWExaeKUn5pIM",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 37907,
+            "acousticness": 0.802,
+            "danceability": 6.382,
+            "instrumentalness": 0.000227,
+            "liveness": 0.204,
+            "loudness": -4.639,
+            "speechiness": 0.0356,
+            "time_signature": 4,
+            "happiness": 7.318
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "יש לי קוביות קטנות",
+        "Artist": "Chava Alberstein",
+        "Key": "1B",
+        "Energy": 2.8449999999999998,
+        "Popularity": 3.61,
+        "BPM": 112,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "1VuGoGxiPXgnyLyF8l5BjD",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "israeli singer-songwriter"
+            ],
+            "duration": 75613,
+            "acousticness": 0.747,
+            "danceability": 8.236,
+            "instrumentalness": 0,
+            "liveness": 0.274,
+            "loudness": -4.933,
+            "speechiness": 0.0515,
+            "time_signature": 4,
+            "happiness": 6.255999999999999
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "ידיים למעלה",
+        "Artist": "Group",
+        "Key": "7B",
+        "Energy": 2.917,
+        "Popularity": 3.61,
+        "BPM": 89,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "2SJ6z8ZavALZbJrjLSiino",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 51627,
+            "acousticness": 0.963,
+            "danceability": 4.942,
+            "instrumentalness": 1.93e-06,
+            "liveness": 0.204,
+            "loudness": -8.888,
+            "speechiness": 0.0354,
+            "time_signature": 4,
+            "happiness": 5.914000000000001
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "עשר אצבעות לי",
+        "Artist": "Osnat Paz",
+        "Key": "8B",
+        "Energy": 5.167,
+        "Popularity": 2.98,
+        "BPM": 99,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3B6oqWOv2MLyhWIfLzzXZS",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 65507,
+            "acousticness": 0.837,
+            "danceability": 8.182,
+            "instrumentalness": 0,
+            "liveness": 0.196,
+            "loudness": -4.539,
+            "speechiness": 0.0598,
+            "time_signature": 4,
+            "happiness": 7.795
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "יש לי שתי ידיים",
+        "Artist": "Participants of 'Parpar Nechmad'",
+        "Key": "9B",
+        "Energy": 4.6450000000000005,
+        "Popularity": 2.98,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3hk1n2pm9R8GDecSzWuxwy",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 106000,
+            "acousticness": 0.886,
+            "danceability": 6.274,
+            "instrumentalness": 0,
+            "liveness": 0.268,
+            "loudness": -4.984,
+            "speechiness": 0.0456,
+            "time_signature": 4,
+            "happiness": 8.460999999999999
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "כולם מוחאים איתי כף",
+        "Artist": "Chava Alberstein",
+        "Key": "8B",
+        "Energy": 5.5,
+        "Popularity": 2.98,
+        "BPM": 108,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "07Jeb05OYifWqP0SXgF4Gs",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "israeli singer-songwriter"
+            ],
+            "duration": 118627,
+            "acousticness": 0.732,
+            "danceability": 7.3,
+            "instrumentalness": 0,
+            "liveness": 0.0654,
+            "loudness": -3.87,
+            "speechiness": 0.129,
+            "time_signature": 3,
+            "happiness": 7.786
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "ימינה ימינה",
+        "Artist": "Hana Laszlo, Chani Lindenboim",
+        "Key": "8B",
+        "Energy": 5.176,
+        "Popularity": 2.8899999999999997,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "505Chjea625Y8BK2FeX0o6",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 111080,
+            "acousticness": 0.422,
+            "danceability": 6.382,
+            "instrumentalness": 0,
+            "liveness": 0.165,
+            "loudness": -4.415,
+            "speechiness": 0.0263,
+            "time_signature": 4,
+            "happiness": 8.542
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "יש לנו תיש",
+        "Artist": "Group",
+        "Key": "6B",
+        "Energy": 6.949,
+        "Popularity": 2.8,
+        "BPM": 104,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "71famsSWNziqF8QMJRv2vs",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 58027,
+            "acousticness": 0.608,
+            "danceability": 7.372,
+            "instrumentalness": 0,
+            "liveness": 0.06,
+            "loudness": -4.038,
+            "speechiness": 0.0364,
+            "time_signature": 4,
+            "happiness": 9.712
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "אל תכה",
+        "Artist": "Dafna Armoni, Yorik Ben David",
+        "Key": "10B",
+        "Energy": 7.2909999999999995,
+        "Popularity": 2.8,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4CLckBMGidxSalPwPxM4aM",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "muzika l'yeladim"
+            ],
+            "duration": 62440,
+            "acousticness": 0.133,
+            "danceability": 5.455,
+            "instrumentalness": 0,
+            "liveness": 0.0777,
+            "loudness": -3.627,
+            "speechiness": 0.0673,
+            "time_signature": 4,
+            "happiness": 9.738999999999999
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "אני עומדת במעגל",
+        "Artist": "Girl Group",
+        "Key": "6B",
+        "Energy": 5.869000000000001,
+        "Popularity": 2.98,
+        "BPM": 76,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3IHBGhjnYBIhBWLDhn0KSa",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 102293,
+            "acousticness": 0.19,
+            "danceability": 6.4719999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.613,
+            "loudness": -3.711,
+            "speechiness": 0.0274,
+            "time_signature": 4,
+            "happiness": 9.514
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "יש לי גלידה",
+        "Artist": "Boys and Girls Group",
+        "Key": "2A",
+        "Energy": 6.337,
+        "Popularity": 2.8,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5jKWARmwXsIvlMm7xks3nT",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 55480,
+            "acousticness": 0.582,
+            "danceability": 4.996,
+            "instrumentalness": 0,
+            "liveness": 0.58,
+            "loudness": -3.855,
+            "speechiness": 0.0651,
+            "time_signature": 4,
+            "happiness": 9.172
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "בין הרים ובין סלעים",
+        "Artist": "Effi Ben Israel",
+        "Key": "7B",
+        "Energy": 5.473,
+        "Popularity": 2.8,
+        "BPM": 88,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0eAJBOYMFX18ka2PO7Wp14",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 80640,
+            "acousticness": 0.567,
+            "danceability": 8.847999999999999,
+            "instrumentalness": 0.00105,
+            "liveness": 0.118,
+            "loudness": -6.343,
+            "speechiness": 0.0372,
+            "time_signature": 4,
+            "happiness": 7.912
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "כבר סידרנו הרכבת",
+        "Artist": "Boys and Girls Group",
+        "Key": "5B",
+        "Energy": 7.345,
+        "Popularity": 2.8,
+        "BPM": 139,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7gohuSMhE2iM7vPPHqBd3B",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 115240,
+            "acousticness": 0.0666,
+            "danceability": 7.174,
+            "instrumentalness": 0,
+            "liveness": 0.296,
+            "loudness": -4.837,
+            "speechiness": 0.0333,
+            "time_signature": 4,
+            "happiness": 9.658
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "רכבת ארוכה",
+        "Artist": "Hana Laszlo",
+        "Key": "9B",
+        "Energy": 8.911,
+        "Popularity": 2.71,
+        "BPM": 93,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "2nXFLvMyLBpsK3tLXm7Uy2",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 129547,
+            "acousticness": 0.0766,
+            "danceability": 5.905,
+            "instrumentalness": 0.0223,
+            "liveness": 0.0559,
+            "loudness": -7.849,
+            "speechiness": 0.3,
+            "time_signature": 4,
+            "happiness": 6.454
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "הנה באה התזמורת",
+        "Artist": "Ruchama Raz",
+        "Key": "10B",
+        "Energy": 8.794,
+        "Popularity": 2.62,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2VP0uh4pC49t6Q1i3thG62",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "sefardi"
+            ],
+            "duration": 82320,
+            "acousticness": 0.263,
+            "danceability": 7.2909999999999995,
+            "instrumentalness": 0.011,
+            "liveness": 0.0402,
+            "loudness": -3.931,
+            "speechiness": 0.0833,
+            "time_signature": 4,
+            "happiness": 8.839
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "שימי ידך",
+        "Artist": "Tzachi & Yael",
+        "Key": "10B",
+        "Energy": 5.869000000000001,
+        "Popularity": 3.34,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7aQCpj2DaIGfq7poEPg4Vm",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 62107,
+            "acousticness": 0.716,
+            "danceability": 7.759,
+            "instrumentalness": 0,
+            "liveness": 0.346,
+            "loudness": -4.579,
+            "speechiness": 0.042,
+            "time_signature": 4,
+            "happiness": 9.676
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "נסדר מעגל גדול",
+        "Artist": "Tzachi & Yael",
+        "Key": "6B",
+        "Energy": 3.799,
+        "Popularity": 2.62,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5tDoK8nqe3KtCUb1DCGMqH",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 52133,
+            "acousticness": 0.797,
+            "danceability": 8.758,
+            "instrumentalness": 0,
+            "liveness": 0.134,
+            "loudness": -6.569,
+            "speechiness": 0.121,
+            "time_signature": 4,
+            "happiness": 8.379999999999999
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "על שפת הנחל",
+        "Artist": "Boys and Girls Group",
+        "Key": "8B",
+        "Energy": 8.407,
+        "Popularity": 2.62,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2vcEDNwmbW31Eb7xMTSQe4",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 60347,
+            "acousticness": 0.331,
+            "danceability": 7.624,
+            "instrumentalness": 0,
+            "liveness": 0.0619,
+            "loudness": -4.578,
+            "speechiness": 0.0324,
+            "time_signature": 4,
+            "happiness": 9.703
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "מאחורי ההר",
+        "Artist": "Miki Kam, Reuven Shefer",
+        "Key": "12B",
+        "Energy": 8.704,
+        "Popularity": 2.62,
+        "BPM": 133,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5QrXXXn0nfEQ4SFoyZjkMS",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "festigal"
+            ],
+            "duration": 61907,
+            "acousticness": 0.861,
+            "danceability": 6.571,
+            "instrumentalness": 7.75e-06,
+            "liveness": 0.683,
+            "loudness": -5.4,
+            "speechiness": 0.318,
+            "time_signature": 4,
+            "happiness": 9.667
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "גשר מזהב",
+        "Artist": "Boys and Girls Group",
+        "Key": "7B",
+        "Energy": 5.734,
+        "Popularity": 2.5300000000000002,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "6MNqRhQBEFgOuoM5URyab6",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 122120,
+            "acousticness": 0.929,
+            "danceability": 4.636,
+            "instrumentalness": 0,
+            "liveness": 0.623,
+            "loudness": -5.178,
+            "speechiness": 0.0395,
+            "time_signature": 4,
+            "happiness": 6.0040000000000004
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "פתחו את השער",
+        "Artist": "Nira Adi, Ariel Forman, Yonit Shoam, Eli Chachmon",
+        "Key": "11A",
+        "Energy": 3.142,
+        "Popularity": 2.5300000000000002,
+        "BPM": 111,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "4OQcl5ETZ18yXj6gWAtrmH",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 132200,
+            "acousticness": 0.482,
+            "danceability": 5.536,
+            "instrumentalness": 0,
+            "liveness": 0.104,
+            "loudness": -8.893,
+            "speechiness": 0.0332,
+            "time_signature": 3,
+            "happiness": 4.627000000000001
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "לדוד משה היתה חוה",
+        "Artist": "Dalia Friedland",
+        "Key": "7B",
+        "Energy": 6.526,
+        "Popularity": 2.8899999999999997,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1hzxdfiMyUJHLN2jOwVD2h",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 68960,
+            "acousticness": 0.623,
+            "danceability": 8.488,
+            "instrumentalness": 1.8e-05,
+            "liveness": 0.207,
+            "loudness": -5.411,
+            "speechiness": 0.072,
+            "time_signature": 4,
+            "happiness": 9.622
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "לכובע שלי",
+        "Artist": "Yoel Lerner",
+        "Key": "12B",
+        "Energy": 3.4210000000000003,
+        "Popularity": 3.34,
+        "BPM": 88,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "5ivVzkuT4w0V1tXjYpPvuf",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 44707,
+            "acousticness": 0.921,
+            "danceability": 6.31,
+            "instrumentalness": 0,
+            "liveness": 0.339,
+            "loudness": -14.791,
+            "speechiness": 0.533,
+            "time_signature": 3,
+            "happiness": 5.68
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "ברווזים (לסבתא של אפרים)",
+        "Artist": "Shoshik Shani",
+        "Key": "7A",
+        "Energy": 5.0680000000000005,
+        "Popularity": 2.5300000000000002,
+        "BPM": 111,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6r1xkBKUvxEYhOfXYEIxay",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "muzika l'yeladim"
+            ],
+            "duration": 90600,
+            "acousticness": 0.881,
+            "danceability": 7.543,
+            "instrumentalness": 0.0003,
+            "liveness": 0.0827,
+            "loudness": -8.006,
+            "speechiness": 0.0485,
+            "time_signature": 4,
+            "happiness": 9.667
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "הנה מה טוב",
+        "Artist": "Yorik Ben David",
+        "Key": "10A",
+        "Energy": 4.6450000000000005,
+        "Popularity": 2.5300000000000002,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "7CwcgIWwiz42Og3yLBqevS",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 72227,
+            "acousticness": 0.914,
+            "danceability": 6.409,
+            "instrumentalness": 0,
+            "liveness": 0.244,
+            "loudness": -5.986,
+            "speechiness": 0.0384,
+            "time_signature": 1,
+            "happiness": 6.904
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "דו רה מי",
+        "Artist": "Miki Kam",
+        "Key": "8B",
+        "Energy": 5.518,
+        "Popularity": 3.25,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "2W9U2yPJSMQmzUpnDoAsLF",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "festigal"
+            ],
+            "duration": 121533,
+            "acousticness": 0.508,
+            "danceability": 5.6530000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.0743,
+            "loudness": -7.11,
+            "speechiness": 0.051,
+            "time_signature": 4,
+            "happiness": 5.2299999999999995
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "שעור בחשבון",
+        "Artist": "Dalya Fridland, Chaim Yavin",
+        "Key": "8B",
+        "Energy": 4.744,
+        "Popularity": 2.5300000000000002,
+        "BPM": 119,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "7JnYopOoXJZqTFna50Jr2b",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 101520,
+            "acousticness": 0.883,
+            "danceability": 5.743,
+            "instrumentalness": 7.43e-06,
+            "liveness": 0.156,
+            "loudness": -6.209,
+            "speechiness": 0.0443,
+            "time_signature": 4,
+            "happiness": 6.661
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "אני נשאר אני",
+        "Artist": "Participants of 'Parpar Nechmad'",
+        "Key": "8B",
+        "Energy": 5.158,
+        "Popularity": 3.0700000000000003,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3yJWAZUmSmbNfdJ2eWdFUt",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 167453,
+            "acousticness": 0.907,
+            "danceability": 7.579,
+            "instrumentalness": 0,
+            "liveness": 0.103,
+            "loudness": -4.582,
+            "speechiness": 0.0899,
+            "time_signature": 4,
+            "happiness": 8.578
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "יש לי חבר",
+        "Artist": "Naomi Shemer, Children's Music of 'Eich Shovrim Hamsin'",
+        "Key": "8B",
+        "Energy": 5.617,
+        "Popularity": 2.3499999999999996,
+        "BPM": 134,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1Uo11qEj440EWYrVnLy3VD",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop"
+            ],
+            "duration": 96387,
+            "acousticness": 0.681,
+            "danceability": 6.8950000000000005,
+            "instrumentalness": 2.97e-06,
+            "liveness": 0.0762,
+            "loudness": -4.489,
+            "speechiness": 0.0346,
+            "time_signature": 4,
+            "happiness": 8.353
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "שלום לכם",
+        "Artist": "Participants of 'Parpar Nechmad'",
+        "Key": "5B",
+        "Energy": 5.536,
+        "Popularity": 2.5300000000000002,
+        "BPM": 113,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4Ve4Fm6ZJnIxxfSdoqnuvM",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 56960,
+            "acousticness": 0.808,
+            "danceability": 8.488,
+            "instrumentalness": 0,
+            "liveness": 0.349,
+            "loudness": -4.421,
+            "speechiness": 0.045,
+            "time_signature": 4,
+            "happiness": 9.775
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "איזה יום שמח",
+        "Artist": "Miki Kam",
+        "Key": "9B",
+        "Energy": 7.003,
+        "Popularity": 2.44,
+        "BPM": 135,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6GDwB5q3fSqFQiAWI13cnV",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "festigal"
+            ],
+            "duration": 118733,
+            "acousticness": 0.631,
+            "danceability": 5.923,
+            "instrumentalness": 0,
+            "liveness": 0.0539,
+            "loudness": -3.121,
+            "speechiness": 0.0423,
+            "time_signature": 4,
+            "happiness": 9.271
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "רק פעם בשנה",
+        "Artist": "Orna & Moshe Datz",
+        "Key": "10B",
+        "Energy": 6.931,
+        "Popularity": 2.3499999999999996,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5NTjbouFBhBsC6Gb56HEgW",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop"
+            ],
+            "duration": 191827,
+            "acousticness": 0.673,
+            "danceability": 8.748999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.107,
+            "loudness": -4.085,
+            "speechiness": 0.0384,
+            "time_signature": 4,
+            "happiness": 9.649
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "איפה העוגה",
+        "Artist": "Orna Datz, Moshe Datz",
+        "Key": "8A",
+        "Energy": 4.537,
+        "Popularity": 2.3499999999999996,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "032a31dWAROcXn5mO1EtAB",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "festigal"
+            ],
+            "duration": 82400,
+            "acousticness": 0.651,
+            "danceability": 8.281,
+            "instrumentalness": 0,
+            "liveness": 0.0632,
+            "loudness": -7.381,
+            "speechiness": 0.0753,
+            "time_signature": 4,
+            "happiness": 8.407
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "היום יום הולדת",
+        "Artist": "Yoel Lerner, Mazi Cohen",
+        "Key": "6B",
+        "Energy": 7.912,
+        "Popularity": 2.44,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3DR3Gl8AY3COdt0Amof6LC",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim",
+                "classic israeli pop",
+                "israeli singer-songwriter"
+            ],
+            "duration": 38040,
+            "acousticness": 0.829,
+            "danceability": 7.552,
+            "instrumentalness": 0,
+            "liveness": 0.348,
+            "loudness": -4.565,
+            "speechiness": 0.0948,
+            "time_signature": 4,
+            "happiness": 9.388
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "יום הולדת השמחה לילדים",
+        "Artist": "Hana Laszlo",
+        "Key": "8A",
+        "Energy": 6.22,
+        "Popularity": 2.2600000000000002,
+        "BPM": 104,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3V84gY186vuI91PH0cfYM6",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 58333,
+            "acousticness": 0.759,
+            "danceability": 5.644,
+            "instrumentalness": 0,
+            "liveness": 0.436,
+            "loudness": -2.73,
+            "speechiness": 0.0335,
+            "time_signature": 4,
+            "happiness": 7.714
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "גדלתי בשנה",
+        "Artist": "Effi Ben Israel",
+        "Key": "9B",
+        "Energy": 5.968,
+        "Popularity": 2.2600000000000002,
+        "BPM": 137,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0AKaFFnBZ4cHOPAD25OY12",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 78867,
+            "acousticness": 0.206,
+            "danceability": 6.985,
+            "instrumentalness": 0,
+            "liveness": 0.0954,
+            "loudness": -4.146,
+            "speechiness": 0.0311,
+            "time_signature": 4,
+            "happiness": 7.876
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "לרותי יום הולדת",
+        "Artist": "Effi Ben Israel",
+        "Key": "5B",
+        "Energy": 6.706,
+        "Popularity": 2.17,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1rOaSCycKs5ShsF3RQ2ygk",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 87253,
+            "acousticness": 0.594,
+            "danceability": 5.68,
+            "instrumentalness": 0,
+            "liveness": 0.0446,
+            "loudness": -3.718,
+            "speechiness": 0.042,
+            "time_signature": 4,
+            "happiness": 9.757
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "כן תזכה לשנה הבאה",
+        "Artist": "Dudu Elharar",
+        "Key": "10B",
+        "Energy": 6.418,
+        "Popularity": 2.17,
+        "BPM": 93,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "37cKq4fzysGJJhJNFlqTst",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "muzika l'yeladim"
+            ],
+            "duration": 159467,
+            "acousticness": 0.0983,
+            "danceability": 6.210999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.0678,
+            "loudness": -4.548,
+            "speechiness": 0.0319,
+            "time_signature": 4,
+            "happiness": 7.489
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "יום הולדת שמח",
+        "Artist": "Boys and Girls Group",
+        "Key": "11A",
+        "Energy": 2.296,
+        "Popularity": 2.08,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "3mTYeZOET3SgWnRx56E6w7",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 54573,
+            "acousticness": 0.906,
+            "danceability": 5.68,
+            "instrumentalness": 0,
+            "liveness": 0.527,
+            "loudness": -4.826,
+            "speechiness": 0.0316,
+            "time_signature": 3,
+            "happiness": 5.247999999999999
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "יום הולדת מפלסטלינה",
+        "Artist": "Participants of 'Zraim Shel Mastik'",
+        "Key": "8B",
+        "Energy": 6.643,
+        "Popularity": 2.2600000000000002,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "0c10pTTM8fKAiio6cLIwby",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 142267,
+            "acousticness": 0.924,
+            "danceability": 5.914000000000001,
+            "instrumentalness": 1.13e-05,
+            "liveness": 0.0914,
+            "loudness": -3.49,
+            "speechiness": 0.225,
+            "time_signature": 4,
+            "happiness": 6.049
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "ענת אוהבת חגיגות",
+        "Artist": "Shoshik Shani",
+        "Key": "10B",
+        "Energy": 6.463,
+        "Popularity": 2.08,
+        "BPM": 114,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0h80IPlyMM4X2FVYQFZxGH",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "muzika l'yeladim"
+            ],
+            "duration": 125347,
+            "acousticness": 0.405,
+            "danceability": 6.931,
+            "instrumentalness": 0,
+            "liveness": 0.0785,
+            "loudness": -5.453,
+            "speechiness": 0.0309,
+            "time_signature": 4,
+            "happiness": 7.3629999999999995
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "יונתן הקטן",
+        "Artist": "Hanan Yovel",
+        "Key": "7B",
+        "Energy": 4.186,
+        "Popularity": 2.8,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6xb0f8mFYX1jMYXUVwP7ht",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "israeli singer-songwriter"
+            ],
+            "duration": 85440,
+            "acousticness": 0.575,
+            "danceability": 7.075,
+            "instrumentalness": 0,
+            "liveness": 0.0981,
+            "loudness": -6.813,
+            "speechiness": 0.0407,
+            "time_signature": 4,
+            "happiness": 8.857
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "נדנדה",
+        "Artist": "Shula Chen",
+        "Key": "6B",
+        "Energy": 5.689,
+        "Popularity": 2.17,
+        "BPM": 135,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3n67gGE2GsJWNbYcbYXayk",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop"
+            ],
+            "duration": 157080,
+            "acousticness": 0.933,
+            "danceability": 6.076,
+            "instrumentalness": 0.199,
+            "liveness": 0.215,
+            "loudness": -7.542,
+            "speechiness": 0.0737,
+            "time_signature": 4,
+            "happiness": 8.092
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "שעון בן חיל",
+        "Artist": "Dalia Friedland",
+        "Key": "11B",
+        "Energy": 6.247,
+        "Popularity": 3.43,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4gdH6GfBWTXGICxNpT60U1",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 94507,
+            "acousticness": 0.674,
+            "danceability": 7.606,
+            "instrumentalness": 0,
+            "liveness": 0.0936,
+            "loudness": -5.336,
+            "speechiness": 0.091,
+            "time_signature": 4,
+            "happiness": 9.693999999999999
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "אמא יקרה לי",
+        "Artist": "Ruchama Raz",
+        "Key": "10A",
+        "Energy": 3.4570000000000003,
+        "Popularity": 2.17,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "5LNUhswF64yAhy7XRKBECY",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "sefardi"
+            ],
+            "duration": 86507,
+            "acousticness": 0.976,
+            "danceability": 6.202,
+            "instrumentalness": 0,
+            "liveness": 0.103,
+            "loudness": -7.739,
+            "speechiness": 0.0312,
+            "time_signature": 4,
+            "happiness": 4.231
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "אבא שלי",
+        "Artist": "Osnat Paz",
+        "Key": "7B",
+        "Energy": 4.996,
+        "Popularity": 2.8899999999999997,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4Lvm53wlOULtiCnVfKkZCM",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 147040,
+            "acousticness": 0.71,
+            "danceability": 6.544,
+            "instrumentalness": 0,
+            "liveness": 0.327,
+            "loudness": -7.168,
+            "speechiness": 0.0334,
+            "time_signature": 4,
+            "happiness": 7.777
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "אבא אבא",
+        "Artist": "Aric Lavie, Shoshik Shani",
+        "Key": "7B",
+        "Energy": 5.779,
+        "Popularity": 2.08,
+        "BPM": 136,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "5ALCno3kG1gzSNl0OpQJrM",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "classic israeli pop",
+                "muzika l'yeladim"
+            ],
+            "duration": 125533,
+            "acousticness": 0.34,
+            "danceability": 7.6419999999999995,
+            "instrumentalness": 0.000103,
+            "liveness": 0.148,
+            "loudness": -7.516,
+            "speechiness": 0.116,
+            "time_signature": 4,
+            "happiness": 5.815
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "הדואר בא היום",
+        "Artist": "Yoel Lerner",
+        "Key": "3A",
+        "Energy": 7.8580000000000005,
+        "Popularity": 1.99,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1YWzJihwwtYH4sutKin7Nf",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 42413,
+            "acousticness": 0.642,
+            "danceability": 8.947,
+            "instrumentalness": 4.51e-05,
+            "liveness": 0.089,
+            "loudness": -5.07,
+            "speechiness": 0.0785,
+            "time_signature": 4,
+            "happiness": 9.946
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "האוטו שלנו",
+        "Artist": "Danny Golan",
+        "Key": "12B",
+        "Energy": 4.231,
+        "Popularity": 3.6999999999999997,
+        "BPM": 113,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4jlk0GCGUeUeO29cSUaBEA",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 54427,
+            "acousticness": 0.571,
+            "danceability": 7.507,
+            "instrumentalness": 0,
+            "liveness": 0.0967,
+            "loudness": -6.828,
+            "speechiness": 0.0825,
+            "time_signature": 4,
+            "happiness": 9.721
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "מפרשי זהב (שיר ההפלגה)",
+        "Artist": "Hanan Yovel",
+        "Key": "8A",
+        "Energy": 5.86,
+        "Popularity": 2.62,
+        "BPM": 113,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "5vlQHIz77ONTP0v9gBn7No",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "israeli singer-songwriter"
+            ],
+            "duration": 183547,
+            "acousticness": 0.692,
+            "danceability": 7.102,
+            "instrumentalness": 0,
+            "liveness": 0.122,
+            "loudness": -7.265,
+            "speechiness": 0.0673,
+            "time_signature": 4,
+            "happiness": 6.868
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "במדינת הגמדים",
+        "Artist": "Ruchama Raz",
+        "Key": "6B",
+        "Energy": 7.0840000000000005,
+        "Popularity": 2.8,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6KkZmQPEiERjhThgFK57oS",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "sefardi"
+            ],
+            "duration": 75907,
+            "acousticness": 0.691,
+            "danceability": 6.7330000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.147,
+            "loudness": -3.832,
+            "speechiness": 0.212,
+            "time_signature": 4,
+            "happiness": 9.856
+        }
+    },
+    {
+        "#": 52,
+        "Track Title": "אצו רצו גמדים",
+        "Artist": "Shmulik Kraus, Josie Katz",
+        "Key": "8B",
+        "Energy": 4.204,
+        "Popularity": 1.99,
+        "BPM": 133,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2wmzsp1gPjaYpk6NS9Tvsr",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "israeli rock",
+                "classic israeli pop"
+            ],
+            "duration": 203000,
+            "acousticness": 0.302,
+            "danceability": 8.479,
+            "instrumentalness": 0.000134,
+            "liveness": 0.0786,
+            "loudness": -16.375,
+            "speechiness": 0.0774,
+            "time_signature": 4,
+            "happiness": 9.046
+        }
+    },
+    {
+        "#": 53,
+        "Track Title": "ידידי טינטן",
+        "Artist": "Hana Laszlo",
+        "Key": "7B",
+        "Energy": 5.3469999999999995,
+        "Popularity": 1.99,
+        "BPM": 136,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "1wzbvW4QFa7MfBQcB08L0H",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 167013,
+            "acousticness": 0.854,
+            "danceability": 5.383,
+            "instrumentalness": 0,
+            "liveness": 0.126,
+            "loudness": -7.846,
+            "speechiness": 0.0545,
+            "time_signature": 4,
+            "happiness": 6.679
+        }
+    },
+    {
+        "#": 54,
+        "Track Title": "בגינת הירק",
+        "Artist": "Shula Chen",
+        "Key": "10B",
+        "Energy": 3.943,
+        "Popularity": 1.99,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3lxe5hWy9UzAJm6xM4GKlW",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop"
+            ],
+            "duration": 141067,
+            "acousticness": 0.841,
+            "danceability": 6.76,
+            "instrumentalness": 1.4e-05,
+            "liveness": 0.16,
+            "loudness": -8.297,
+            "speechiness": 0.0365,
+            "time_signature": 4,
+            "happiness": 8.632
+        }
+    },
+    {
+        "#": 55,
+        "Track Title": "גינה לי",
+        "Artist": "Chava Alberstein",
+        "Key": "10B",
+        "Energy": 3.7359999999999998,
+        "Popularity": 2.71,
+        "BPM": 91,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6qO5kXTDXyybN8AeY6kZ89",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "israeli singer-songwriter"
+            ],
+            "duration": 70547,
+            "acousticness": 0.874,
+            "danceability": 7.876,
+            "instrumentalness": 0,
+            "liveness": 0.0843,
+            "loudness": -7.905,
+            "speechiness": 0.033,
+            "time_signature": 4,
+            "happiness": 9.622
+        }
+    },
+    {
+        "#": 56,
+        "Track Title": "אנדנדינו",
+        "Artist": "Hana Laszlo, Miki Kam",
+        "Key": "9B",
+        "Energy": 7.156000000000001,
+        "Popularity": 2.2600000000000002,
+        "BPM": 129,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6D8HT2LRX9zEkEB9AFMIUV",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim",
+                "festigal"
+            ],
+            "duration": 136227,
+            "acousticness": 0.583,
+            "danceability": 8.866,
+            "instrumentalness": 0,
+            "liveness": 0.183,
+            "loudness": -4.293,
+            "speechiness": 0.0731,
+            "time_signature": 4,
+            "happiness": 9.649
+        }
+    },
+    {
+        "#": 57,
+        "Track Title": "הודי חמודי",
+        "Artist": "Shula Chen",
+        "Key": "9B",
+        "Energy": 4.033,
+        "Popularity": 1.9,
+        "BPM": 69,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0PLr13y4EfZzBvUWaUbvkt",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop"
+            ],
+            "duration": 200900,
+            "acousticness": 0.768,
+            "danceability": 5.1850000000000005,
+            "instrumentalness": 0.000282,
+            "liveness": 0.377,
+            "loudness": -9.656,
+            "speechiness": 0.145,
+            "time_signature": 4,
+            "happiness": 7.228
+        }
+    },
+    {
+        "#": 58,
+        "Track Title": "מיכאל",
+        "Artist": "Shoshik Shani",
+        "Key": "9A",
+        "Energy": 3.223,
+        "Popularity": 2.2600000000000002,
+        "BPM": 83,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "7Ij6nY8PFuvEoa0xPvaJ5m",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "muzika l'yeladim"
+            ],
+            "duration": 173613,
+            "acousticness": 0.919,
+            "danceability": 3.187,
+            "instrumentalness": 0.102,
+            "liveness": 0.108,
+            "loudness": -10.46,
+            "speechiness": 0.0315,
+            "time_signature": 4,
+            "happiness": 2.908
+        }
+    },
+    {
+        "#": 59,
+        "Track Title": "חמש שנים",
+        "Artist": "Simona Boner",
+        "Key": "7B",
+        "Energy": 3.358,
+        "Popularity": 2.08,
+        "BPM": 89,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "2CP3JEAnkgjrLGnYXYdHEl",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 118173,
+            "acousticness": 0.869,
+            "danceability": 4.186,
+            "instrumentalness": 3.88e-06,
+            "liveness": 0.111,
+            "loudness": -7.933,
+            "speechiness": 0.0421,
+            "time_signature": 3,
+            "happiness": 4.231
+        }
+    },
+    {
+        "#": 60,
+        "Track Title": "דני גיבור",
+        "Artist": "Osnat Paz",
+        "Key": "11B",
+        "Energy": 4.213,
+        "Popularity": 3.0700000000000003,
+        "BPM": 138,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4bt5jhqnc4vgGeaBnd764A",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 98733,
+            "acousticness": 0.834,
+            "danceability": 5.5,
+            "instrumentalness": 0,
+            "liveness": 0.0792,
+            "loudness": -3.976,
+            "speechiness": 0.0305,
+            "time_signature": 4,
+            "happiness": 7.2459999999999996
+        }
+    },
+    {
+        "#": 61,
+        "Track Title": "מה עושים העצים",
+        "Artist": "Shoshik Shani",
+        "Key": "6B",
+        "Energy": 4.555,
+        "Popularity": 1.81,
+        "BPM": 116,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "2CgtIaqAlBEjRanL7HopbM",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "muzika l'yeladim"
+            ],
+            "duration": 180107,
+            "acousticness": 0.841,
+            "danceability": 7.579,
+            "instrumentalness": 0,
+            "liveness": 0.0547,
+            "loudness": -4.379,
+            "speechiness": 0.0452,
+            "time_signature": 4,
+            "happiness": 6.2379999999999995
+        }
+    },
+    {
+        "#": 62,
+        "Track Title": "אני אוהב לשרוק",
+        "Artist": "Dudu Elharar",
+        "Key": "7B",
+        "Energy": 5.689,
+        "Popularity": 2.62,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6XS5UpVNIPpK06DgNRkAI3",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "muzika l'yeladim"
+            ],
+            "duration": 92493,
+            "acousticness": 0.778,
+            "danceability": 7.579,
+            "instrumentalness": 0,
+            "liveness": 0.0646,
+            "loudness": -7.59,
+            "speechiness": 0.0429,
+            "time_signature": 4,
+            "happiness": 8.83
+        }
+    },
+    {
+        "#": 63,
+        "Track Title": "מכופף הבננות",
+        "Artist": "Arik Einstein",
+        "Key": "7B",
+        "Energy": 4.6899999999999995,
+        "Popularity": 1.9,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7pO8XyaH9mLnj7085UQ3kH",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "israeli rock",
+                "israeli singer-songwriter"
+            ],
+            "duration": 247000,
+            "acousticness": 0.434,
+            "danceability": 7.255,
+            "instrumentalness": 0,
+            "liveness": 0.106,
+            "loudness": -13.985,
+            "speechiness": 0.0582,
+            "time_signature": 4,
+            "happiness": 8.929
+        }
+    },
+    {
+        "#": 64,
+        "Track Title": "מה קרה לחתלתול",
+        "Artist": "Shoshik Shani",
+        "Key": "10B",
+        "Energy": 4.438000000000001,
+        "Popularity": 1.9,
+        "BPM": 62,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "14TojS6a0aUuRhiy73Qy5r",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "muzika l'yeladim"
+            ],
+            "duration": 60867,
+            "acousticness": 0.635,
+            "danceability": 6.589,
+            "instrumentalness": 0,
+            "liveness": 0.118,
+            "loudness": -6.028,
+            "speechiness": 0.0417,
+            "time_signature": 4,
+            "happiness": 7.218999999999999
+        }
+    },
+    {
+        "#": 65,
+        "Track Title": "אמא אווזה",
+        "Artist": "Mazi Cohen",
+        "Key": "7B",
+        "Energy": 5.257,
+        "Popularity": 1.81,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0oE9H6vluCGlj1LaId5x8T",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "israeli singer-songwriter"
+            ],
+            "duration": 54427,
+            "acousticness": 0.914,
+            "danceability": 6.526,
+            "instrumentalness": 1.1e-06,
+            "liveness": 0.0995,
+            "loudness": -5.11,
+            "speechiness": 0.035,
+            "time_signature": 4,
+            "happiness": 9.307
+        }
+    },
+    {
+        "#": 66,
+        "Track Title": "רוגז",
+        "Artist": "Shula Chen",
+        "Key": "6B",
+        "Energy": 5.428,
+        "Popularity": 1.72,
+        "BPM": 109,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0z5F8nfIiBb2U4Vb16c5w4",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop"
+            ],
+            "duration": 44973,
+            "acousticness": 0.803,
+            "danceability": 8.227,
+            "instrumentalness": 4.34e-06,
+            "liveness": 0.109,
+            "loudness": -6.486,
+            "speechiness": 0.121,
+            "time_signature": 4,
+            "happiness": 9.685
+        }
+    },
+    {
+        "#": 67,
+        "Track Title": "אליעזר והגזר",
+        "Artist": "Nira Adi, Ariel Forman, Yonit Shoam, Eli Chachmon",
+        "Key": "9B",
+        "Energy": 5.878,
+        "Popularity": 1.9,
+        "BPM": 106,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0lyn7AhB37d1q93zWpqA7Q",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 197987,
+            "acousticness": 0.489,
+            "danceability": 6.301,
+            "instrumentalness": 0,
+            "liveness": 0.0953,
+            "loudness": -5.443,
+            "speechiness": 0.0454,
+            "time_signature": 4,
+            "happiness": 8.038
+        }
+    },
+    {
+        "#": 68,
+        "Track Title": "בובה זהבה",
+        "Artist": "Chava Alberstein",
+        "Key": "7B",
+        "Energy": 5.014,
+        "Popularity": 1.81,
+        "BPM": 99,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "0ZmXpB0ofDbCLGTQxVsURf",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "israeli singer-songwriter"
+            ],
+            "duration": 197707,
+            "acousticness": 0.638,
+            "danceability": 4.474,
+            "instrumentalness": 6.04e-06,
+            "liveness": 0.123,
+            "loudness": -7.617,
+            "speechiness": 0.0258,
+            "time_signature": 4,
+            "happiness": 3.0700000000000003
+        }
+    },
+    {
+        "#": 69,
+        "Track Title": "קומי קומי",
+        "Artist": "Shoshik Shani",
+        "Key": "9A",
+        "Energy": 5.941000000000001,
+        "Popularity": 2.3499999999999996,
+        "BPM": 104,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4w5jpkGXQGe8MQBEFBIPHq",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "muzika l'yeladim"
+            ],
+            "duration": 85253,
+            "acousticness": 0.405,
+            "danceability": 7.714,
+            "instrumentalness": 0,
+            "liveness": 0.123,
+            "loudness": -6.816,
+            "speechiness": 0.0518,
+            "time_signature": 4,
+            "happiness": 7.759
+        }
+    },
+    {
+        "#": 70,
+        "Track Title": "מקהלת נוגנים",
+        "Artist": "Danny Golan",
+        "Key": "8B",
+        "Energy": 6.031000000000001,
+        "Popularity": 1.72,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0O54oZAVzuGCbrHeY48Khb",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 52573,
+            "acousticness": 0.254,
+            "danceability": 9.235,
+            "instrumentalness": 0.000104,
+            "liveness": 0.0367,
+            "loudness": -6.018,
+            "speechiness": 0.0867,
+            "time_signature": 4,
+            "happiness": 9.766
+        }
+    },
+    {
+        "#": 71,
+        "Track Title": "על ראש החרמון",
+        "Artist": "Chava Alberstein",
+        "Key": "7B",
+        "Energy": 4.987,
+        "Popularity": 1.99,
+        "BPM": 106,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3bDn1L42uk6DF0RV9pU1HI",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "israeli singer-songwriter"
+            ],
+            "duration": 140040,
+            "acousticness": 0.94,
+            "danceability": 7.4079999999999995,
+            "instrumentalness": 0.0208,
+            "liveness": 0.118,
+            "loudness": -7.093,
+            "speechiness": 0.0668,
+            "time_signature": 4,
+            "happiness": 9.181000000000001
+        }
+    },
+    {
+        "#": 72,
+        "Track Title": "דוגית נוסעת",
+        "Artist": "The Brothers & The Sisters",
+        "Key": "1A",
+        "Energy": 4.231,
+        "Popularity": 1.72,
+        "BPM": 109,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "1VK0mK4QDg7eMzrxqJ8RS8",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop"
+            ],
+            "duration": 164187,
+            "acousticness": 0.607,
+            "danceability": 3.43,
+            "instrumentalness": 0,
+            "liveness": 0.374,
+            "loudness": -8.434,
+            "speechiness": 0.0286,
+            "time_signature": 4,
+            "happiness": 4.6
+        }
+    },
+    {
+        "#": 73,
+        "Track Title": "מעבר לים",
+        "Artist": "Lior Yeini",
+        "Key": "8B",
+        "Energy": 2.404,
+        "Popularity": 1.81,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "6bazMx59Qx01Xruj2ilERu",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "sefardi"
+            ],
+            "duration": 166707,
+            "acousticness": 0.934,
+            "danceability": 5.203,
+            "instrumentalness": 9.93e-06,
+            "liveness": 0.0765,
+            "loudness": -9.066,
+            "speechiness": 0.0299,
+            "time_signature": 4,
+            "happiness": 3.322
+        }
+    },
+    {
+        "#": 74,
+        "Track Title": "פזמון ליקינתון",
+        "Artist": "Yehoram Gaon",
+        "Key": "5B",
+        "Energy": 3.322,
+        "Popularity": 1.81,
+        "BPM": 73,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "4xsu1DNP1diYpC6f3uTegO",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "sefardi"
+            ],
+            "duration": 153853,
+            "acousticness": 0.798,
+            "danceability": 4.699,
+            "instrumentalness": 8.37e-05,
+            "liveness": 0.129,
+            "loudness": -11.835,
+            "speechiness": 0.0284,
+            "time_signature": 4,
+            "happiness": 4.789
+        }
+    },
+    {
+        "#": 75,
+        "Track Title": "מה עושות הרכבות על הפסים",
+        "Artist": "Dalia Friedland",
+        "Key": "6A",
+        "Energy": 3.016,
+        "Popularity": 1.6300000000000001,
+        "BPM": 74,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "0DkBe7pgHVI47CulEON6Le",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 142133,
+            "acousticness": 0.916,
+            "danceability": 5.563,
+            "instrumentalness": 0,
+            "liveness": 0.372,
+            "loudness": -8.451,
+            "speechiness": 0.0408,
+            "time_signature": 4,
+            "happiness": 3.241
+        }
+    },
+    {
+        "#": 76,
+        "Track Title": "שיר ערש לבאבאר",
+        "Artist": "Cilla Dagan",
+        "Key": "11A",
+        "Energy": 4.4830000000000005,
+        "Popularity": 1.6300000000000001,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "5Q5FLnRlsQ1xk0h5C3nDkN",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop"
+            ],
+            "duration": 144573,
+            "acousticness": 0.307,
+            "danceability": 3.6279999999999997,
+            "instrumentalness": 0,
+            "liveness": 0.162,
+            "loudness": -6.642,
+            "speechiness": 0.0275,
+            "time_signature": 3,
+            "happiness": 3.988
+        }
+    },
+    {
+        "#": 77,
+        "Track Title": "נומי, נומי ילדתי",
+        "Artist": "Shula Chen",
+        "Key": "8A",
+        "Energy": 3.016,
+        "Popularity": 1.9,
+        "BPM": 76,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "3CSphNqX23TEJC2slAYkzS",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop"
+            ],
+            "duration": 149773,
+            "acousticness": 0.921,
+            "danceability": 5.1850000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.18,
+            "loudness": -8.251,
+            "speechiness": 0.0262,
+            "time_signature": 4,
+            "happiness": 3.943
+        }
+    },
+    {
+        "#": 78,
+        "Track Title": "השפן הקטן",
+        "Artist": "Yoel Lerner, Mazi Cohen",
+        "Key": "9B",
+        "Energy": 4.321,
+        "Popularity": 2.17,
+        "BPM": 83,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2gQDV3rIjfS1Fbrh1B9U0G",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim",
+                "classic israeli pop",
+                "israeli singer-songwriter"
+            ],
+            "duration": 54280,
+            "acousticness": 0.894,
+            "danceability": 6.553,
+            "instrumentalness": 0,
+            "liveness": 0.121,
+            "loudness": -10.564,
+            "speechiness": 0.0548,
+            "time_signature": 4,
+            "happiness": 8.02
+        }
+    },
+    {
+        "#": 79,
+        "Track Title": "פרש",
+        "Artist": "Yehoram Gaon",
+        "Key": "10B",
+        "Energy": 5.833,
+        "Popularity": 1.72,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "3c0HMPUGaVocCpuhjZYPEi",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "sefardi"
+            ],
+            "duration": 72747,
+            "acousticness": 0.839,
+            "danceability": 7.579,
+            "instrumentalness": 0.62,
+            "liveness": 0.0959,
+            "loudness": -11.258,
+            "speechiness": 0.203,
+            "time_signature": 4,
+            "happiness": 4.816
+        }
+    },
+    {
+        "#": 80,
+        "Track Title": "הפרח לפרפר",
+        "Artist": "Shula Chen",
+        "Key": "10B",
+        "Energy": 3.772,
+        "Popularity": 1.6300000000000001,
+        "BPM": 119,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "0DYhxiPGGYB3EtxcF8iQnE",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop"
+            ],
+            "duration": 147800,
+            "acousticness": 0.881,
+            "danceability": 6.103,
+            "instrumentalness": 2.78e-05,
+            "liveness": 0.178,
+            "loudness": -9.173,
+            "speechiness": 0.0323,
+            "time_signature": 3,
+            "happiness": 4.122999999999999
+        }
+    },
+    {
+        "#": 81,
+        "Track Title": "קן לציפור",
+        "Artist": "Ofra Gluska",
+        "Key": "9B",
+        "Energy": 4.843,
+        "Popularity": 1.72,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "4VwRLIUfcJMvWoZi6azNmp",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 118333,
+            "acousticness": 0.953,
+            "danceability": 5.509,
+            "instrumentalness": 7.04e-05,
+            "liveness": 0.213,
+            "loudness": -9.394,
+            "speechiness": 0.0383,
+            "time_signature": 4,
+            "happiness": 5.671
+        }
+    },
+    {
+        "#": 82,
+        "Track Title": "אדון חרדון",
+        "Artist": "Dalia Friedland",
+        "Key": "8B",
+        "Energy": 5.149,
+        "Popularity": 1.81,
+        "BPM": 86,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5WJ4V1VYOHPNsMLBstUV2P",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 130040,
+            "acousticness": 0.941,
+            "danceability": 6.679,
+            "instrumentalness": 1.43e-05,
+            "liveness": 0.217,
+            "loudness": -5.068,
+            "speechiness": 0.104,
+            "time_signature": 4,
+            "happiness": 8.559999999999999
+        }
+    },
+    {
+        "#": 83,
+        "Track Title": "תרנגול אני",
+        "Artist": "Dalia Friedland",
+        "Key": "11B",
+        "Energy": 3.835,
+        "Popularity": 2.5300000000000002,
+        "BPM": 111,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "02sThTUGUmktZ1Hbty1q0D",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 146147,
+            "acousticness": 0.955,
+            "danceability": 7.174,
+            "instrumentalness": 3.28e-05,
+            "liveness": 0.177,
+            "loudness": -7.176,
+            "speechiness": 0.0482,
+            "time_signature": 4,
+            "happiness": 7.813
+        }
+    },
+    {
+        "#": 84,
+        "Track Title": "אצא לי אל היער",
+        "Artist": "Group",
+        "Key": "5B",
+        "Energy": 4.824999999999999,
+        "Popularity": 2.5300000000000002,
+        "BPM": 135,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "4uFekmdqaOhMwmdMuQlyf6",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 74560,
+            "acousticness": 0.283,
+            "danceability": 8.209,
+            "instrumentalness": 0,
+            "liveness": 0.0984,
+            "loudness": -7.299,
+            "speechiness": 0.0682,
+            "time_signature": 4,
+            "happiness": 6.976
+        }
+    },
+    {
+        "#": 85,
+        "Track Title": "זאת הגברת שפנפנית",
+        "Artist": "Shula Chen",
+        "Key": "8B",
+        "Energy": 6.138999999999999,
+        "Popularity": 1.6300000000000001,
+        "BPM": 79,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6WG6L85qwaBr9Mwas2ox4z",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop"
+            ],
+            "duration": 81973,
+            "acousticness": 0.372,
+            "danceability": 6.661,
+            "instrumentalness": 7.53e-05,
+            "liveness": 0.407,
+            "loudness": -8.309,
+            "speechiness": 0.0335,
+            "time_signature": 4,
+            "happiness": 8.731
+        }
+    },
+    {
+        "#": 86,
+        "Track Title": "כושי כלב קט",
+        "Artist": "Dalia Friedland",
+        "Key": "8B",
+        "Energy": 6.535,
+        "Popularity": 1.72,
+        "BPM": 107,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1d8S89ZvO84wk63zJlZs7K",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 56480,
+            "acousticness": 0.588,
+            "danceability": 7.84,
+            "instrumentalness": 0,
+            "liveness": 0.0614,
+            "loudness": -6.629,
+            "speechiness": 0.0301,
+            "time_signature": 4,
+            "happiness": 9.883
+        }
+    },
+    {
+        "#": 87,
+        "Track Title": "פילפילון",
+        "Artist": "Chava Alberstein",
+        "Key": "11A",
+        "Energy": 2.188,
+        "Popularity": 1.72,
+        "BPM": 117,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "5DymDrp196co72mK596vjt",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "israeli singer-songwriter"
+            ],
+            "duration": 160053,
+            "acousticness": 0.806,
+            "danceability": 7.093,
+            "instrumentalness": 0,
+            "liveness": 0.0927,
+            "loudness": -9.319,
+            "speechiness": 0.0445,
+            "time_signature": 4,
+            "happiness": 5.257
+        }
+    },
+    {
+        "#": 88,
+        "Track Title": "מה עושות האילות",
+        "Artist": "Yehudit Ravitz, Yoni Rechter",
+        "Key": "2B",
+        "Energy": 5.518,
+        "Popularity": 1.6300000000000001,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "6uSrPMni2Ev8vW2NOwfY6a",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "israeli rock",
+                "classic israeli pop",
+                "israeli rock"
+            ],
+            "duration": 147107,
+            "acousticness": 0.758,
+            "danceability": 7.102,
+            "instrumentalness": 0,
+            "liveness": 0.0948,
+            "loudness": -10.141,
+            "speechiness": 0.0646,
+            "time_signature": 4,
+            "happiness": 6.652
+        }
+    },
+    {
+        "#": 89,
+        "Track Title": "דב",
+        "Artist": "Yehoram Gaon",
+        "Key": "11B",
+        "Energy": 3.952,
+        "Popularity": 1.6300000000000001,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "42OnwV7cGTQIvAGLD4sLLf",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "sefardi"
+            ],
+            "duration": 87187,
+            "acousticness": 0.625,
+            "danceability": 8.479,
+            "instrumentalness": 0,
+            "liveness": 0.0714,
+            "loudness": -11.451,
+            "speechiness": 0.102,
+            "time_signature": 4,
+            "happiness": 4.897
+        }
+    },
+    {
+        "#": 90,
+        "Track Title": "עכבר עכבר",
+        "Artist": "Boys and Girls Group",
+        "Key": "10B",
+        "Energy": 3.826,
+        "Popularity": 1.9,
+        "BPM": 112,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6mFnWDM7or3dv2WYYKoQGl",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 41333,
+            "acousticness": 0.993,
+            "danceability": 8.155000000000001,
+            "instrumentalness": 0.0959,
+            "liveness": 0.262,
+            "loudness": -7.239,
+            "speechiness": 0.115,
+            "time_signature": 4,
+            "happiness": 9.433
+        }
+    },
+    {
+        "#": 91,
+        "Track Title": "החמור הקטן",
+        "Artist": "Chava Alberstein",
+        "Key": "10B",
+        "Energy": 3.844,
+        "Popularity": 1.6300000000000001,
+        "BPM": 138,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2JONrzzW81C06cX3TzzAUa",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "israeli singer-songwriter"
+            ],
+            "duration": 30547,
+            "acousticness": 0.943,
+            "danceability": 7.3,
+            "instrumentalness": 3.56e-06,
+            "liveness": 0.125,
+            "loudness": -7.756,
+            "speechiness": 0.0574,
+            "time_signature": 4,
+            "happiness": 7.165000000000001
+        }
+    },
+    {
+        "#": 92,
+        "Track Title": "עגלה עם סוסה",
+        "Artist": "Shem-Tov Levi",
+        "Key": "8A",
+        "Energy": 3.9970000000000003,
+        "Popularity": 1.6300000000000001,
+        "BPM": 113,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0JbH15lSuL4Tgc0gsx5JQt",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop"
+            ],
+            "duration": 105947,
+            "acousticness": 0.677,
+            "danceability": 6.535,
+            "instrumentalness": 1.3e-05,
+            "liveness": 0.283,
+            "loudness": -6.516,
+            "speechiness": 0.0435,
+            "time_signature": 4,
+            "happiness": 7.0840000000000005
+        }
+    },
+    {
+        "#": 93,
+        "Track Title": "הדובים",
+        "Artist": "Osnat Paz",
+        "Key": "11A",
+        "Energy": 2.854,
+        "Popularity": 3.25,
+        "BPM": 111,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0TALWwriP34xSIOyd2wOwH",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "muzika l'yeladim"
+            ],
+            "duration": 99440,
+            "acousticness": 0.921,
+            "danceability": 7.732,
+            "instrumentalness": 0,
+            "liveness": 0.111,
+            "loudness": -9.213,
+            "speechiness": 0.0408,
+            "time_signature": 4,
+            "happiness": 8.065000000000001
+        }
+    },
+    {
+        "#": 94,
+        "Track Title": "בולבול למה ככה",
+        "Artist": "Cilla Dagan, Ezra Dagan",
+        "Key": "10A",
+        "Energy": 4.789,
+        "Popularity": 1.54,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "6OOQ7WaqW7RcDi0aCcwGZj",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop"
+            ],
+            "duration": 113947,
+            "acousticness": 0.867,
+            "danceability": 5.986000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.0941,
+            "loudness": -6.569,
+            "speechiness": 0.0789,
+            "time_signature": 3,
+            "happiness": 5.779
+        }
+    },
+    {
+        "#": 95,
+        "Track Title": "מדוע הזברה לובשת פיג'מה",
+        "Artist": "Geula Gill",
+        "Key": "10B",
+        "Energy": 5.428,
+        "Popularity": 2.98,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1M2iJuWkHQQqUXc8NgzbTr",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop",
+                "israeli traditional"
+            ],
+            "duration": 220773,
+            "acousticness": 0.698,
+            "danceability": 6.616,
+            "instrumentalness": 0,
+            "liveness": 0.0895,
+            "loudness": -8.166,
+            "speechiness": 0.0685,
+            "time_signature": 4,
+            "happiness": 8.893
+        }
+    },
+    {
+        "#": 96,
+        "Track Title": "היפו היפי",
+        "Artist": "Hanan Goldblat",
+        "Key": "3B",
+        "Energy": 7.849,
+        "Popularity": 2.98,
+        "BPM": 109,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4LbufHP2nDhAPqL6PyDBHU",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 153867,
+            "acousticness": 0.121,
+            "danceability": 7.0120000000000005,
+            "instrumentalness": 1.83e-05,
+            "liveness": 0.0909,
+            "loudness": -6.118,
+            "speechiness": 0.148,
+            "time_signature": 4,
+            "happiness": 8.434
+        }
+    },
+    {
+        "#": 97,
+        "Track Title": "למה ככה",
+        "Artist": "Riki Gal",
+        "Key": "5B",
+        "Energy": 5.662,
+        "Popularity": 1.72,
+        "BPM": 129,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "31gItuuXiddcSP7Z7EcNO7",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop"
+            ],
+            "duration": 222840,
+            "acousticness": 0.722,
+            "danceability": 6.913,
+            "instrumentalness": 0,
+            "liveness": 0.172,
+            "loudness": -7.094,
+            "speechiness": 0.0444,
+            "time_signature": 4,
+            "happiness": 5.446
+        }
+    },
+    {
+        "#": 98,
+        "Track Title": "שנים עשר הירחים",
+        "Artist": "Shula Chen",
+        "Key": "9B",
+        "Energy": 6.183999999999999,
+        "Popularity": 1.54,
+        "BPM": 113,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1dgYzP1GoMrcyBFeIRG14V",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop"
+            ],
+            "duration": 134667,
+            "acousticness": 0.724,
+            "danceability": 7.282,
+            "instrumentalness": 0.00649,
+            "liveness": 0.145,
+            "loudness": -8.122,
+            "speechiness": 0.0385,
+            "time_signature": 4,
+            "happiness": 9.055
+        }
+    },
+    {
+        "#": 99,
+        "Track Title": "בראש השנה",
+        "Artist": "Naomi Shemer",
+        "Key": "11A",
+        "Energy": 4.114,
+        "Popularity": 1.54,
+        "BPM": 116,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "6IL3tCYPcxqA4FUaHagKCI",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [
+                "classic israeli pop"
+            ],
+            "duration": 135907,
+            "acousticness": 0.822,
+            "danceability": 6.4719999999999995,
+            "instrumentalness": 0.0787,
+            "liveness": 0.114,
+            "loudness": -8.247,
+            "speechiness": 0.0444,
+            "time_signature": 4,
+            "happiness": 6.922000000000001
+        }
+    },
+    {
+        "#": 100,
+        "Track Title": "שנה טובה",
+        "Artist": "Hag Lataf' Group",
+        "Key": "5B",
+        "Energy": 3.979,
+        "Popularity": 1.9,
+        "BPM": 103,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "67f2wrGz9lteAomOIZ46JE",
+            "explicit": false,
+            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "release_date": "2008-04-09",
+            "genres": [],
+            "duration": 83600,
+            "acousticness": 0.591,
+            "danceability": 5.032,
+            "instrumentalness": 0.000709,
+            "liveness": 0.0843,
+            "loudness": -5.776,
+            "speechiness": 0.0292,
+            "time_signature": 4,
+            "happiness": 6.066999999999999
+        }
+    }
+]
