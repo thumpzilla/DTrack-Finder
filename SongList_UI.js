@@ -40,6 +40,7 @@ export default class SongListItemUI {
         spotifyLink.alignItems = 'center';
         spotifyLink.href = `https://open.spotify.com/track/${this.song.additional_info.id}`;
         spotifyLink.style.fontSize = '1rem'; // Keeping text size consistent
+        spotifyLink.style.fontWeight = '700';
         spotifyLink.style.color = '#09AD72'; // Change the color to blue (or any other desired color)
         spotifyLink.style.textDecoration = 'none'; // Remove underline from text
         spotifyLink.style.display = 'flex'; // Align items along a row
@@ -97,7 +98,6 @@ export default class SongListItemUI {
         }
     
         // Tags
-        // Tags
         const tagNames = [
             { icon: 'images/colored/drum-colored.svg', text: this.song.bpm },
             { icon: 'images/colored/sound_note-colored.svg', text: this.song.key },
@@ -123,31 +123,38 @@ export default class SongListItemUI {
             const releaseDateDiv = document.createElement('div');
             releaseDateDiv.textContent = `Release Date: ${this.song.additional_info.release_date}`;
             releaseDateDiv.style.fontSize = '0.9rem'; // Decreasing text size
+            releaseDateDiv.style.marginBottom = '0.2rem'; // Center items vertically in the container
             additionalInfoDiv.appendChild(releaseDateDiv);
     
             const genresDiv = document.createElement('div');
             genresDiv.textContent = `Sub-genres: ${this.song.additional_info.genres.join(' | ')}`;
             genresDiv.style.fontSize = '0.9rem'; // Decreasing text size
+            genresDiv.style.marginBottom = '0.2rem'; // Center items vertically in the container
+
             additionalInfoDiv.appendChild(genresDiv);
     
             const happinessDiv = document.createElement('div');
             happinessDiv.textContent = `Happiness: ${Math.round(this.song.additional_info.happiness)}`;
             happinessDiv.style.fontSize = '0.9rem'; // Decreasing text size
+            happinessDiv.style.marginBottom = '0.2rem'; // Center items vertically in the container
+
             additionalInfoDiv.appendChild(happinessDiv);
     
             const danceabilityDiv = document.createElement('div');
             danceabilityDiv.textContent = `Danceability: ${Math.round(this.song.additional_info.danceability)}`;
             danceabilityDiv.style.fontSize = '0.9rem'; // Decreasing text size
+            danceabilityDiv.style.marginBottom = '0.2rem'; // Center items vertically in the container
+
             additionalInfoDiv.appendChild(danceabilityDiv);
     
+
+            const isExplicitText = this.song.additional_info.explicit ? 'Explicit' : 'Clean';
             const explicitDiv = document.createElement('div');
-            explicitDiv.textContent = `Is Explicit: ${this.song.additional_info.explicit}`;
+            explicitDiv.textContent = `Language: ${isExplicitText}`;
             explicitDiv.style.fontSize = '0.9rem'; // Decreasing text size
             additionalInfoDiv.appendChild(explicitDiv);
     
 
-        
-            
               detailsContainer.appendChild(additionalInfoDiv);
             }
             

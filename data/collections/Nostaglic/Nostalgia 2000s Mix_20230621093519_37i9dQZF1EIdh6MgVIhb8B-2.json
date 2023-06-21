@@ -1,0 +1,1890 @@
+[
+    {
+        "#": 1,
+        "Track Title": "Down",
+        "Artist": "Jay Sean, Lil Wayne",
+        "Key": "10B",
+        "Energy": 7.12,
+        "Popularity": 8.290000000000001,
+        "BPM": 132,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Hip Hop",
+            "EDM",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6cmm1LMvZdB5zsCwX5BjqE",
+            "explicit": false,
+            "album": "All Or Nothing",
+            "release_date": "2009-01-01",
+            "genres": [
+                "dance pop",
+                "pop",
+                "pop rap",
+                "hip hop",
+                "new orleans rap",
+                "pop rap",
+                "rap",
+                "trap"
+            ],
+            "duration": 212507,
+            "acousticness": 0.0101,
+            "danceability": 7.543,
+            "instrumentalness": 0,
+            "liveness": 0.0821,
+            "loudness": -4.498,
+            "speechiness": 0.0286,
+            "time_signature": 4,
+            "happiness": 7.552
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Complicated",
+        "Artist": "Avril Lavigne",
+        "Key": "7B",
+        "Energy": 7.984,
+        "Popularity": 8.379999999999999,
+        "BPM": 78,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5xEM5hIgJ1jjgcEBfpkt2F",
+            "explicit": false,
+            "album": "Let Go",
+            "release_date": "2002-06-04",
+            "genres": [
+                "canadian pop",
+                "candy pop",
+                "pop"
+            ],
+            "duration": 244507,
+            "acousticness": 0.0572,
+            "danceability": 6.265,
+            "instrumentalness": 7.74e-06,
+            "liveness": 0.3,
+            "loudness": -5.898,
+            "speechiness": 0.0459,
+            "time_signature": 4,
+            "happiness": 4.843
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "Replay",
+        "Artist": "Iyaz",
+        "Key": "11B",
+        "Energy": 7.759,
+        "Popularity": 8.11,
+        "BPM": 91,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Hip Hop",
+            "Happy",
+            "Dance Remixes",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "4E5P1XyAFtrjpiIxkydly4",
+            "explicit": false,
+            "album": "Replay",
+            "release_date": "2009-08-18",
+            "genres": [
+                "dance pop",
+                "pop rap",
+                "post-teen pop"
+            ],
+            "duration": 182307,
+            "acousticness": 0.173,
+            "danceability": 7.353999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.168,
+            "loudness": -6.323,
+            "speechiness": 0.0708,
+            "time_signature": 4,
+            "happiness": 2.755
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "TiK ToK",
+        "Artist": "Kesha",
+        "Key": "10A",
+        "Energy": 8.533,
+        "Popularity": 8.649999999999999,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0HPD5WQqrq7wPWR7P7Dw1i",
+            "explicit": false,
+            "album": "Animal (Expanded Edition)",
+            "release_date": "2010-01-01",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 199693,
+            "acousticness": 0.0991,
+            "danceability": 7.795,
+            "instrumentalness": 0,
+            "liveness": 0.289,
+            "loudness": -2.718,
+            "speechiness": 0.142,
+            "time_signature": 4,
+            "happiness": 7.426
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Hey There Delilah",
+        "Artist": "Plain White T's",
+        "Key": "10B",
+        "Energy": 3.6189999999999998,
+        "Popularity": 8.290000000000001,
+        "BPM": 104,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Rock",
+            "Pop",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "4RCWB3V8V0dignt99LZ8vH",
+            "explicit": false,
+            "album": "All That We Needed",
+            "release_date": "2005-01-01",
+            "genres": [
+                "modern rock",
+                "neo mellow",
+                "neon pop punk",
+                "pop punk",
+                "pop rock"
+            ],
+            "duration": 232533,
+            "acousticness": 0.872,
+            "danceability": 6.904,
+            "instrumentalness": 0,
+            "liveness": 0.114,
+            "loudness": -10.572,
+            "speechiness": 0.0293,
+            "time_signature": 4,
+            "happiness": 3.682
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Viva La Vida",
+        "Artist": "Coldplay",
+        "Key": "7A",
+        "Energy": 6.553,
+        "Popularity": 9.1,
+        "BPM": 138,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "1mea3bSkSGXuIRvnydlB5b",
+            "explicit": false,
+            "album": "Viva La Vida or Death and All His Friends",
+            "release_date": "2008-05-26",
+            "genres": [
+                "permanent wave",
+                "pop"
+            ],
+            "duration": 242373,
+            "acousticness": 0.0954,
+            "danceability": 5.374,
+            "instrumentalness": 3.23e-06,
+            "liveness": 0.109,
+            "loudness": -7.115,
+            "speechiness": 0.0287,
+            "time_signature": 4,
+            "happiness": 4.753
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "One Time",
+        "Artist": "Justin Bieber",
+        "Key": "3A",
+        "Energy": 8.677,
+        "Popularity": 7.57,
+        "BPM": 146,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6eDApnV9Jdb1nYahOlbbUh",
+            "explicit": false,
+            "album": "My World",
+            "release_date": "2009-01-01",
+            "genres": [
+                "canadian pop",
+                "pop"
+            ],
+            "duration": 215867,
+            "acousticness": 0.0631,
+            "danceability": 7.218999999999999,
+            "instrumentalness": 7.13e-05,
+            "liveness": 0.082,
+            "loudness": -2.528,
+            "speechiness": 0.0372,
+            "time_signature": 4,
+            "happiness": 7.8580000000000005
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Raz\u00f5es E Emo\u00e7\u00f5es",
+        "Artist": "NX Zero",
+        "Key": "5B",
+        "Energy": 9.379000000000001,
+        "Popularity": 6.76,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "0kpyiEcH82ni9TuuZYxKzL",
+            "explicit": false,
+            "album": "NX Zero",
+            "release_date": "2006-01-27",
+            "genres": [
+                "brazilian emo",
+                "brazilian rock",
+                "pop rock brasileiro",
+                "rock alternativo brasileiro"
+            ],
+            "duration": 222400,
+            "acousticness": 0.0543,
+            "danceability": 6.22,
+            "instrumentalness": 0.000116,
+            "liveness": 0.309,
+            "loudness": -2.886,
+            "speechiness": 0.0313,
+            "time_signature": 4,
+            "happiness": 4.888
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Oops!...I Did It Again",
+        "Artist": "Britney Spears",
+        "Key": "3A",
+        "Energy": 8.506,
+        "Popularity": 8.290000000000001,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6naxalmIoLFWR0siv8dnQQ",
+            "explicit": false,
+            "album": "Oops!... I Did It Again",
+            "release_date": "2000-05-16",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 211160,
+            "acousticness": 0.3,
+            "danceability": 7.759,
+            "instrumentalness": 1.77e-05,
+            "liveness": 0.355,
+            "loudness": -5.444,
+            "speechiness": 0.0437,
+            "time_signature": 4,
+            "happiness": 9.046
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Lonely",
+        "Artist": "Akon",
+        "Key": "7A",
+        "Energy": 5.734,
+        "Popularity": 8.290000000000001,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Dance Remixes",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "4v7DCN09hgXkKazefkznDQ",
+            "explicit": true,
+            "album": "Trouble Deluxe Edition",
+            "release_date": "2005-01-01",
+            "genres": [
+                "dance pop"
+            ],
+            "duration": 235800,
+            "acousticness": 0.339,
+            "danceability": 6.706,
+            "instrumentalness": 0,
+            "liveness": 0.257,
+            "loudness": -7.881,
+            "speechiness": 0.0333,
+            "time_signature": 4,
+            "happiness": 6.607
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Boom Boom Pow",
+        "Artist": "Black Eyed Peas",
+        "Key": "11B",
+        "Energy": 8.713000000000001,
+        "Popularity": 7.4799999999999995,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Hip Hop",
+            "Dance Remixes",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3oDFtOhcN08qeDPAK6MEQG",
+            "explicit": true,
+            "album": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+            "release_date": "2009-01-01",
+            "genres": [
+                "dance pop",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 251440,
+            "acousticness": 0.13,
+            "danceability": 8.803,
+            "instrumentalness": 0.00171,
+            "liveness": 0.13,
+            "loudness": -5.892,
+            "speechiness": 0.0663,
+            "time_signature": 4,
+            "happiness": 4.618
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "Party In The U.S.A.",
+        "Artist": "Miley Cyrus",
+        "Key": "6A",
+        "Energy": 7.282,
+        "Popularity": 8.559999999999999,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3E7dfMvvCLUddWissuqMwr",
+            "explicit": false,
+            "album": "The Time Of Our Lives (International Version)",
+            "release_date": "2009-01-01",
+            "genres": [
+                "pop"
+            ],
+            "duration": 202067,
+            "acousticness": 0.00112,
+            "danceability": 6.868,
+            "instrumentalness": 0.000115,
+            "liveness": 0.0886,
+            "loudness": -4.667,
+            "speechiness": 0.042,
+            "time_signature": 4,
+            "happiness": 5.2299999999999995
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "Girlfriend",
+        "Artist": "Avril Lavigne",
+        "Key": "9B",
+        "Energy": 9.631,
+        "Popularity": 8.02,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Happy",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "45hOioMDJktr86iKDHC8gr",
+            "explicit": true,
+            "album": "The Best Damn Thing (Expanded Edition)",
+            "release_date": "2007-04-17",
+            "genres": [
+                "canadian pop",
+                "candy pop",
+                "pop"
+            ],
+            "duration": 216600,
+            "acousticness": 0.000722,
+            "danceability": 6.040000000000001,
+            "instrumentalness": 0.000221,
+            "liveness": 0.209,
+            "loudness": -2.433,
+            "speechiness": 0.102,
+            "time_signature": 4,
+            "happiness": 7.021000000000001
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "Fire Burning",
+        "Artist": "Sean Kingston",
+        "Key": "3B",
+        "Energy": 8.236,
+        "Popularity": 7.66,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Hip Hop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2oENJa1T33GJ0w8dC167G4",
+            "explicit": false,
+            "album": "Tomorrow",
+            "release_date": "2009-09-07",
+            "genres": [
+                "dance pop",
+                "miami hip hop",
+                "pop"
+            ],
+            "duration": 239987,
+            "acousticness": 0.0192,
+            "danceability": 8.551,
+            "instrumentalness": 0,
+            "liveness": 0.331,
+            "loudness": -2.513,
+            "speechiness": 0.0329,
+            "time_signature": 4,
+            "happiness": 8.992
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Promiscuous",
+        "Artist": "Nelly Furtado, Timbaland",
+        "Key": "6A",
+        "Energy": 9.73,
+        "Popularity": 8.74,
+        "BPM": 114,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Hip Hop",
+            "Latin",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2gam98EZKrF9XuOkU13ApN",
+            "explicit": false,
+            "album": "Loose",
+            "release_date": "2006-01-01",
+            "genres": [
+                "canadian latin",
+                "canadian pop",
+                "dance pop",
+                "pop",
+                "dance pop",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 242293,
+            "acousticness": 0.0569,
+            "danceability": 8.272,
+            "instrumentalness": 6.13e-05,
+            "liveness": 0.154,
+            "loudness": -6.098,
+            "speechiness": 0.0506,
+            "time_signature": 4,
+            "happiness": 8.812000000000001
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "Unwritten",
+        "Artist": "Natasha Bedingfield",
+        "Key": "7B",
+        "Energy": 8.2,
+        "Popularity": 8.2,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Happy",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "3U5JVgI2x4rDyHGObzJfNf",
+            "explicit": false,
+            "album": "Unwritten",
+            "release_date": "2004-08-30",
+            "genres": [
+                "dance pop",
+                "pop",
+                "post-teen pop"
+            ],
+            "duration": 259333,
+            "acousticness": 0.00584,
+            "danceability": 7.353999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.0822,
+            "loudness": -6.333,
+            "speechiness": 0.0399,
+            "time_signature": 4,
+            "happiness": 6.661
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "Porta aberta",
+        "Artist": "Luka",
+        "Key": "9B",
+        "Energy": 7.255,
+        "Popularity": 5.5,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "74HIWeqpEhpGumPhIbQhqr",
+            "explicit": false,
+            "album": "Porta Aberta",
+            "release_date": "2003",
+            "genres": [
+                "axe",
+                "pop nacional"
+            ],
+            "duration": 222280,
+            "acousticness": 0.125,
+            "danceability": 7.777,
+            "instrumentalness": 0,
+            "liveness": 0.16,
+            "loudness": -6.896,
+            "speechiness": 0.0377,
+            "time_signature": 4,
+            "happiness": 4.734999999999999
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "Tonight",
+        "Artist": "FM Static",
+        "Key": "6A",
+        "Energy": 5.923,
+        "Popularity": 6.94,
+        "BPM": 78,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "4BodkdQk2Ouo6BFbLqoWtG",
+            "explicit": false,
+            "album": "Critically Ashamed",
+            "release_date": "2006-01-01",
+            "genres": [
+                "canadian ccm",
+                "canadian pop punk",
+                "christian punk"
+            ],
+            "duration": 218587,
+            "acousticness": 0.285,
+            "danceability": 6.382,
+            "instrumentalness": 0,
+            "liveness": 0.0891,
+            "loudness": -5.93,
+            "speechiness": 0.0232,
+            "time_signature": 4,
+            "happiness": 3.25
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Good Life",
+        "Artist": "OneRepublic",
+        "Key": "2B",
+        "Energy": 7.209999999999999,
+        "Popularity": 7.84,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Rock",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6OtCIsQZ64Vs1EbzztvAv4",
+            "explicit": true,
+            "album": "Waking Up",
+            "release_date": "2009-01-01",
+            "genres": [
+                "piano rock",
+                "pop"
+            ],
+            "duration": 253307,
+            "acousticness": 0.0771,
+            "danceability": 6.706,
+            "instrumentalness": 0,
+            "liveness": 0.132,
+            "loudness": -7.804,
+            "speechiness": 0.052,
+            "time_signature": 4,
+            "happiness": 6.805
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "The Sweet Escape",
+        "Artist": "Gwen Stefani, Akon",
+        "Key": "3B",
+        "Energy": 7.93,
+        "Popularity": 7.84,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "66ZcOcouenzZEnzTJvoFmH",
+            "explicit": false,
+            "album": "The Sweet Escape",
+            "release_date": "2006-01-01",
+            "genres": [
+                "dance pop",
+                "pop",
+                "dance pop"
+            ],
+            "duration": 246467,
+            "acousticness": 0.191,
+            "danceability": 7.804,
+            "instrumentalness": 0,
+            "liveness": 0.178,
+            "loudness": -3.502,
+            "speechiness": 0.0343,
+            "time_signature": 4,
+            "happiness": 7.57
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Love Me",
+        "Artist": "Justin Bieber",
+        "Key": "5B",
+        "Energy": 8.812000000000001,
+        "Popularity": 7.3,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0yIywEquxORnu1dR0WYsdN",
+            "explicit": false,
+            "album": "My World",
+            "release_date": "2009-01-01",
+            "genres": [
+                "canadian pop",
+                "pop"
+            ],
+            "duration": 191573,
+            "acousticness": 0.00939,
+            "danceability": 7.561,
+            "instrumentalness": 0,
+            "liveness": 0.283,
+            "loudness": -3.319,
+            "speechiness": 0.0609,
+            "time_signature": 4,
+            "happiness": 6.688
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "Hey, Soul Sister",
+        "Artist": "Train",
+        "Key": "3A",
+        "Energy": 8.974,
+        "Popularity": 8.649999999999999,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Rock",
+            "Calm",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4HlFJV71xXKIGcU3kRyttv",
+            "explicit": false,
+            "album": "Save Me, San Francisco (Golden Gate Edition)",
+            "release_date": "2010-12-01",
+            "genres": [
+                "dance pop",
+                "neo mellow",
+                "pop",
+                "pop rock"
+            ],
+            "duration": 216773,
+            "acousticness": 0.185,
+            "danceability": 7.057,
+            "instrumentalness": 0,
+            "liveness": 0.0826,
+            "loudness": -4.44,
+            "speechiness": 0.0431,
+            "time_signature": 4,
+            "happiness": 8.155000000000001
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "The Climb",
+        "Artist": "Miley Cyrus",
+        "Key": "12B",
+        "Energy": 6.418,
+        "Popularity": 7.93,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5x5JM1BSB6vollcIzDocqT",
+            "explicit": false,
+            "album": "The Time Of Our Lives (International Version)",
+            "release_date": "2009-01-01",
+            "genres": [
+                "pop"
+            ],
+            "duration": 234520,
+            "acousticness": 0.0635,
+            "danceability": 4.024,
+            "instrumentalness": 0,
+            "liveness": 0.141,
+            "loudness": -6.354,
+            "speechiness": 0.0325,
+            "time_signature": 4,
+            "happiness": 3.691
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "Sk8er Boi",
+        "Artist": "Avril Lavigne",
+        "Key": "8B",
+        "Energy": 9.1,
+        "Popularity": 8.11,
+        "BPM": 150,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "00Mb3DuaIH1kjrwOku9CGU",
+            "explicit": false,
+            "album": "Let Go",
+            "release_date": "2002-06-04",
+            "genres": [
+                "canadian pop",
+                "candy pop",
+                "pop"
+            ],
+            "duration": 204000,
+            "acousticness": 6.79e-05,
+            "danceability": 5.383,
+            "instrumentalness": 0,
+            "liveness": 0.358,
+            "loudness": -4.417,
+            "speechiness": 0.0482,
+            "time_signature": 4,
+            "happiness": 5.356
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "Smack That",
+        "Artist": "Akon, Eminem",
+        "Key": "7A",
+        "Energy": 7.678,
+        "Popularity": 8.559999999999999,
+        "BPM": 119,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Hip Hop",
+            "Dance Remixes",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "2kQuhkFX7uSVepCD3h29g5",
+            "explicit": true,
+            "album": "Konvicted",
+            "release_date": "2006-01-01",
+            "genres": [
+                "dance pop",
+                "detroit hip hop",
+                "hip hop",
+                "rap"
+            ],
+            "duration": 212360,
+            "acousticness": 0.321,
+            "danceability": 9.450999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.107,
+            "loudness": -5.171,
+            "speechiness": 0.0467,
+            "time_signature": 4,
+            "happiness": 9.316
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "Say It Right",
+        "Artist": "Nelly Furtado",
+        "Key": "3B",
+        "Energy": 8.847999999999999,
+        "Popularity": 8.469999999999999,
+        "BPM": 117,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Latin",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2aI21FnmY7TJVKeMaoQZ0t",
+            "explicit": false,
+            "album": "Loose",
+            "release_date": "2006-01-01",
+            "genres": [
+                "canadian latin",
+                "canadian pop",
+                "dance pop",
+                "pop"
+            ],
+            "duration": 223080,
+            "acousticness": 0.0476,
+            "danceability": 8.847999999999999,
+            "instrumentalness": 0.00112,
+            "liveness": 0.0543,
+            "loudness": -6.328,
+            "speechiness": 0.139,
+            "time_signature": 4,
+            "happiness": 8.281
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "Tell Me Something I Don't Know - Soundtrack",
+        "Artist": "Selena Gomez",
+        "Key": "9A",
+        "Energy": 9.424000000000001,
+        "Popularity": 6.31,
+        "BPM": 145,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1UXBbmjIrxjckrbv5EfSVT",
+            "explicit": false,
+            "album": "Another Cinderella Story (Original Motion Picture Soundtrack)",
+            "release_date": "2008-08-26",
+            "genres": [
+                "pop",
+                "post-teen pop"
+            ],
+            "duration": 201427,
+            "acousticness": 0.0309,
+            "danceability": 6.499,
+            "instrumentalness": 0,
+            "liveness": 0.12,
+            "loudness": -3.697,
+            "speechiness": 0.11,
+            "time_signature": 4,
+            "happiness": 7.273
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "Where Is The Love?",
+        "Artist": "Black Eyed Peas",
+        "Key": "7B",
+        "Energy": 7.2909999999999995,
+        "Popularity": 8.469999999999999,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Hip Hop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0xmjwnQ3FNE6HuWCt2nHdZ",
+            "explicit": false,
+            "album": "Elephunk",
+            "release_date": "2003-06-24",
+            "genres": [
+                "dance pop",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 272533,
+            "acousticness": 0.111,
+            "danceability": 8.506,
+            "instrumentalness": 0,
+            "liveness": 0.131,
+            "loudness": -3.222,
+            "speechiness": 0.178,
+            "time_signature": 4,
+            "happiness": 8.281
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "Sugar, We're Goin Down",
+        "Artist": "Fall Out Boy",
+        "Key": "9B",
+        "Energy": 8.578,
+        "Popularity": 8.290000000000001,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "2TfSHkHiFO4gRztVIkggkE",
+            "explicit": false,
+            "album": "From Under The Cork Tree",
+            "release_date": "2005-05-03",
+            "genres": [
+                "emo",
+                "modern rock",
+                "pop",
+                "pop punk",
+                "rock"
+            ],
+            "duration": 229093,
+            "acousticness": 0.00579,
+            "danceability": 5.446,
+            "instrumentalness": 0,
+            "liveness": 0.122,
+            "loudness": -4.784,
+            "speechiness": 0.0843,
+            "time_signature": 4,
+            "happiness": 6.1659999999999995
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Just Dance",
+        "Artist": "Lady Gaga, Colby O'Donis",
+        "Key": "3A",
+        "Energy": 7.651,
+        "Popularity": 8.379999999999999,
+        "BPM": 119,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Dance Remixes",
+            "Inspiring",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1dzQoRqT5ucxXVaAhTcT0J",
+            "explicit": false,
+            "album": "The Fame",
+            "release_date": "2008-01-01",
+            "genres": [
+                "art pop",
+                "dance pop",
+                "pop"
+            ],
+            "duration": 241933,
+            "acousticness": 0.0264,
+            "danceability": 8.398,
+            "instrumentalness": 4.26e-05,
+            "liveness": 0.181,
+            "loudness": -4.541,
+            "speechiness": 0.0311,
+            "time_signature": 4,
+            "happiness": 7.705
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "Apologize",
+        "Artist": "Timbaland, OneRepublic",
+        "Key": "4B",
+        "Energy": 6.436,
+        "Popularity": 7.75,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Hip Hop",
+            "Rock",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "6q3zC9dDD4lUNk8nfUztXy",
+            "explicit": false,
+            "album": "Shock Value",
+            "release_date": "2007-01-01",
+            "genres": [
+                "dance pop",
+                "pop",
+                "pop rap",
+                "piano rock",
+                "pop"
+            ],
+            "duration": 184400,
+            "acousticness": 0.0361,
+            "danceability": 6.913,
+            "instrumentalness": 0,
+            "liveness": 0.102,
+            "loudness": -6.006,
+            "speechiness": 0.0296,
+            "time_signature": 4,
+            "happiness": 1.7010999999999998
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "Bye Bye Bye",
+        "Artist": "*NSYNC",
+        "Key": "4A",
+        "Energy": 9.334,
+        "Popularity": 7.66,
+        "BPM": 86,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "62bOmKYxYg7dhrC6gH9vFn",
+            "explicit": false,
+            "album": "No Strings Attached",
+            "release_date": "2000-03-21",
+            "genres": [
+                "boy band",
+                "dance pop",
+                "pop"
+            ],
+            "duration": 200400,
+            "acousticness": 0.031,
+            "danceability": 6.49,
+            "instrumentalness": 0.0012,
+            "liveness": 0.0821,
+            "loudness": -4.843,
+            "speechiness": 0.0479,
+            "time_signature": 4,
+            "happiness": 8.748999999999999
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "A Lenda",
+        "Artist": "Sandy e Junior",
+        "Key": "4B",
+        "Energy": 6.508,
+        "Popularity": 6.040000000000001,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "1mBaOJ4OPDqJBMp0luG7Ej",
+            "explicit": false,
+            "album": "As Quatro Esta\u00e7\u00f5es (Ao Vivo)",
+            "release_date": "2000-01-01",
+            "genres": [
+                "pop teen brasileiro"
+            ],
+            "duration": 271333,
+            "acousticness": 0.508,
+            "danceability": 6.157,
+            "instrumentalness": 0,
+            "liveness": 0.154,
+            "loudness": -5.392,
+            "speechiness": 0.0323,
+            "time_signature": 4,
+            "happiness": 3.349
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "Cedo Ou Tarde",
+        "Artist": "NX Zero",
+        "Key": "6B",
+        "Energy": 9.316,
+        "Popularity": 6.76,
+        "BPM": 107,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "4RzFPIpnYo7vf0kQI8Gdg1",
+            "explicit": false,
+            "album": "Agora",
+            "release_date": "2008-01-01",
+            "genres": [
+                "brazilian emo",
+                "brazilian rock",
+                "pop rock brasileiro",
+                "rock alternativo brasileiro"
+            ],
+            "duration": 193467,
+            "acousticness": 0.336,
+            "danceability": 6.346,
+            "instrumentalness": 0,
+            "liveness": 0.277,
+            "loudness": -2.907,
+            "speechiness": 0.0269,
+            "time_signature": 4,
+            "happiness": 4.744
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "Don't Matter",
+        "Artist": "Akon",
+        "Key": "10B",
+        "Energy": 4.987,
+        "Popularity": 7.84,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Dance Remixes",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "7I6DceMT3utDOHjcYCbrr4",
+            "explicit": true,
+            "album": "Konvicted",
+            "release_date": "2006-01-01",
+            "genres": [
+                "dance pop"
+            ],
+            "duration": 293053,
+            "acousticness": 0.244,
+            "danceability": 8.182,
+            "instrumentalness": 0,
+            "liveness": 0.326,
+            "loudness": -6.062,
+            "speechiness": 0.0403,
+            "time_signature": 4,
+            "happiness": 4.186
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "I'm Yours",
+        "Artist": "Jason Mraz",
+        "Key": "1B",
+        "Energy": 4.996,
+        "Popularity": 8.02,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Dance Remixes",
+            "Calm",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3S0OXQeoh0w6AY8WQVckRW",
+            "explicit": false,
+            "album": "We Sing. We Dance. We Steal Things.",
+            "release_date": "2008-05-01",
+            "genres": [
+                "acoustic pop",
+                "dance pop",
+                "neo mellow",
+                "pop"
+            ],
+            "duration": 242947,
+            "acousticness": 0.559,
+            "danceability": 7.327,
+            "instrumentalness": 0,
+            "liveness": 0.0973,
+            "loudness": -9.331,
+            "speechiness": 0.0417,
+            "time_signature": 4,
+            "happiness": 7.4079999999999995
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "Pocketful of Sunshine",
+        "Artist": "Natasha Bedingfield",
+        "Key": "11A",
+        "Energy": 8.92,
+        "Popularity": 7.57,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Happy",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "1uigwk5hNV84zRd5YQQRTk",
+            "explicit": false,
+            "album": "Pocketful Of Sunshine",
+            "release_date": "2007-04-27",
+            "genres": [
+                "dance pop",
+                "pop",
+                "post-teen pop"
+            ],
+            "duration": 202907,
+            "acousticness": 0.191,
+            "danceability": 7.489,
+            "instrumentalness": 0,
+            "liveness": 0.0769,
+            "loudness": -3.896,
+            "speechiness": 0.0454,
+            "time_signature": 4,
+            "happiness": 6.8950000000000005
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "The Reason",
+        "Artist": "Hoobastank",
+        "Key": "12B",
+        "Energy": 7.039000000000001,
+        "Popularity": 8.559999999999999,
+        "BPM": 83,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Rock",
+            "Pop",
+            "Mad",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "77loZpT5Y5PRP1S451P9Yz",
+            "explicit": false,
+            "album": "The Reason (15th Anniversary Deluxe)",
+            "release_date": "2003-12-09",
+            "genres": [
+                "alternative metal",
+                "funk metal",
+                "nu metal",
+                "pop rock",
+                "post-grunge"
+            ],
+            "duration": 232800,
+            "acousticness": 0.0129,
+            "danceability": 5.247999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.159,
+            "loudness": -4.649,
+            "speechiness": 0.029,
+            "time_signature": 4,
+            "happiness": 1.6129
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "Unwell",
+        "Artist": "Matchbox Twenty",
+        "Key": "2A",
+        "Energy": 8.092,
+        "Popularity": 7.3,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Rock",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "6Bm6qUCSatPAqkQllFL7oA",
+            "explicit": false,
+            "album": "More Than You Think You Are",
+            "release_date": "2002-11-01",
+            "genres": [
+                "neo mellow",
+                "pop rock",
+                "post-grunge"
+            ],
+            "duration": 228707,
+            "acousticness": 0.0298,
+            "danceability": 3.3040000000000003,
+            "instrumentalness": 0,
+            "liveness": 0.707,
+            "loudness": -5.263,
+            "speechiness": 0.0403,
+            "time_signature": 4,
+            "happiness": 4.861
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "Mr. Saxobeat - Radio Edit",
+        "Artist": "Alexandra Stan",
+        "Key": "1A",
+        "Energy": 9.379000000000001,
+        "Popularity": 7.84,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3LWDPEXEaLBRGNLbdcbwBR",
+            "explicit": false,
+            "album": "Saxobeats",
+            "release_date": "2011-11-16",
+            "genres": [
+                "romanian pop"
+            ],
+            "duration": 195105,
+            "acousticness": 0.0218,
+            "danceability": 7.534,
+            "instrumentalness": 0.000283,
+            "liveness": 0.143,
+            "loudness": -4.152,
+            "speechiness": 0.0468,
+            "time_signature": 4,
+            "happiness": 8.173
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "Cooler Than Me (feat. Big Sean)",
+        "Artist": "Mike Posner, Big Sean",
+        "Key": "9A",
+        "Energy": 5.635,
+        "Popularity": 7.3,
+        "BPM": 129,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "EDM",
+            "Romantic & Slow Dance",
+            "Dance Remixes",
+            "Hip Hop",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2DPYlWl50ydYsnnuryL5aX",
+            "explicit": false,
+            "album": "Cooler Than Me EP",
+            "release_date": "2009-12-15",
+            "genres": [
+                "dance pop",
+                "pop",
+                "pop rap",
+                "detroit hip hop",
+                "hip hop",
+                "pop rap",
+                "r&b",
+                "rap",
+                "southern hip hop",
+                "trap"
+            ],
+            "duration": 227840,
+            "acousticness": 0.103,
+            "danceability": 8.533,
+            "instrumentalness": 0,
+            "liveness": 0.233,
+            "loudness": -4.065,
+            "speechiness": 0.0793,
+            "time_signature": 4,
+            "happiness": 7.921
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "The Way I Are",
+        "Artist": "Timbaland, Keri Hilson, D.O.E.",
+        "Key": "5A",
+        "Energy": 8.263000000000002,
+        "Popularity": 8.559999999999999,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Romantic & Slow Dance",
+            "Dance Remixes",
+            "Hip Hop",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2bLqfJjuC5syrsgDsZfGmn",
+            "explicit": false,
+            "album": "Shock Value",
+            "release_date": "2007-01-01",
+            "genres": [
+                "dance pop",
+                "pop",
+                "pop rap",
+                "dance pop",
+                "hip pop",
+                "r&b",
+                "urban contemporary"
+            ],
+            "duration": 179120,
+            "acousticness": 0.181,
+            "danceability": 7.579,
+            "instrumentalness": 0.751,
+            "liveness": 0.319,
+            "loudness": -6.492,
+            "speechiness": 0.1,
+            "time_signature": 4,
+            "happiness": 7.885
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "Um Minuto Para O Fim Do Mundo",
+        "Artist": "CPM 22",
+        "Key": "8B",
+        "Energy": 9.757,
+        "Popularity": 7.209999999999999,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7ATfTQCF4OGSY91yKk42km",
+            "explicit": false,
+            "album": "Felicidade Instant\u00e2nea",
+            "release_date": "2005-01-01",
+            "genres": [
+                "brazilian emo",
+                "brazilian punk",
+                "brazilian rock",
+                "pop rock brasileiro"
+            ],
+            "duration": 198000,
+            "acousticness": 0.0054,
+            "danceability": 4.672,
+            "instrumentalness": 0,
+            "liveness": 0.155,
+            "loudness": -2.802,
+            "speechiness": 0.049,
+            "time_signature": 4,
+            "happiness": 7.03
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "Because Of You",
+        "Artist": "Ne-Yo",
+        "Key": "8A",
+        "Energy": 5.8420000000000005,
+        "Popularity": 7.93,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Romantic & Slow Dance",
+            "Dance Remixes",
+            "Hip Hop",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6CFPFnS9EcLs2I0nWqtWci",
+            "explicit": false,
+            "album": "Because Of You",
+            "release_date": "2007-01-01",
+            "genres": [
+                "dance pop",
+                "pop",
+                "r&b",
+                "urban contemporary"
+            ],
+            "duration": 266840,
+            "acousticness": 0.528,
+            "danceability": 8.290000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.0951,
+            "loudness": -5.784,
+            "speechiness": 0.0356,
+            "time_signature": 4,
+            "happiness": 8.452
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "The Middle",
+        "Artist": "Jimmy Eat World",
+        "Key": "10B",
+        "Energy": 8.641,
+        "Popularity": 8.559999999999999,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Rock",
+            "Pop",
+            "Mad",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6GG73Jik4jUlQCkKg9JuGO",
+            "explicit": false,
+            "album": "Bleed American",
+            "release_date": "2001-07-17",
+            "genres": [
+                "alternative metal",
+                "emo",
+                "modern power pop",
+                "modern rock",
+                "neon pop punk",
+                "pop punk",
+                "pop rock",
+                "post-grunge",
+                "punk",
+                "rock"
+            ],
+            "duration": 165853,
+            "acousticness": 0.0371,
+            "danceability": 6.787,
+            "instrumentalness": 0,
+            "liveness": 0.058,
+            "loudness": -5.428,
+            "speechiness": 0.0526,
+            "time_signature": 4,
+            "happiness": 9.127
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "Good Girls Go Bad (feat. Leighton Meester)",
+        "Artist": "Cobra Starship, Leighton Meester",
+        "Key": "8B",
+        "Energy": 8.866,
+        "Popularity": 7.12,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7kMfu3KUydmrFVGEAhjtyl",
+            "explicit": false,
+            "album": "Hot Mess",
+            "release_date": "2009-07-07",
+            "genres": [
+                "neon pop punk",
+                "pop punk",
+                "post-teen pop"
+            ],
+            "duration": 196413,
+            "acousticness": 0.0116,
+            "danceability": 6.346,
+            "instrumentalness": 0,
+            "liveness": 0.549,
+            "loudness": -3.716,
+            "speechiness": 0.0815,
+            "time_signature": 4,
+            "happiness": 6.652
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "Gives You Hell",
+        "Artist": "The All-American Rejects",
+        "Key": "12B",
+        "Energy": 7.218999999999999,
+        "Popularity": 7.66,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Rock",
+            "Pop",
+            "Calm",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "6ihL9TjfRjadfEePzXXyVF",
+            "explicit": false,
+            "album": "When The World Comes Down",
+            "release_date": "2008-01-01",
+            "genres": [
+                "alternative metal",
+                "modern rock",
+                "neo mellow",
+                "neon pop punk",
+                "pop punk",
+                "pop rock",
+                "post-grunge"
+            ],
+            "duration": 213107,
+            "acousticness": 0.0159,
+            "danceability": 7.462,
+            "instrumentalness": 0,
+            "liveness": 0.0627,
+            "loudness": -6.44,
+            "speechiness": 0.0387,
+            "time_signature": 4,
+            "happiness": 5.968
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "Forever",
+        "Artist": "Chris Brown",
+        "Key": "1B",
+        "Energy": 8.379999999999999,
+        "Popularity": 8.2,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Romantic & Slow Dance",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "3NZJlJemX3mzjf56MqC5ML",
+            "explicit": false,
+            "album": "Forever",
+            "release_date": "2008-04-29",
+            "genres": [
+                "r&b",
+                "rap"
+            ],
+            "duration": 278573,
+            "acousticness": 0.0368,
+            "danceability": 7.048,
+            "instrumentalness": 0.000188,
+            "liveness": 0.184,
+            "loudness": -4.456,
+            "speechiness": 0.0459,
+            "time_signature": 4,
+            "happiness": 4.942
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "Sorry, Blame It On Me",
+        "Artist": "Akon",
+        "Key": "9B",
+        "Energy": 7.282,
+        "Popularity": 7.12,
+        "BPM": 88,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2020s",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "61BqwgSRTyWH9M4uPjsC3B",
+            "explicit": false,
+            "album": "Konvicted (Complete Edition)",
+            "release_date": "2022-03-04",
+            "genres": [
+                "dance pop"
+            ],
+            "duration": 295747,
+            "acousticness": 0.102,
+            "danceability": 7.444,
+            "instrumentalness": 0,
+            "liveness": 0.0728,
+            "loudness": -6.456,
+            "speechiness": 0.239,
+            "time_signature": 4,
+            "happiness": 6.1209999999999996
+        }
+    }
+]

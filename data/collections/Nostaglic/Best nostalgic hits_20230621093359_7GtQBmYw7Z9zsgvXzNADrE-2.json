@@ -1,0 +1,3365 @@
+[
+    {
+        "#": 1,
+        "Track Title": "Stereo Hearts (feat. Adam Levine)",
+        "Artist": "Gym Class Heroes, Adam Levine",
+        "Key": "11B",
+        "Energy": 8.155000000000001,
+        "Popularity": 8.559999999999999,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Hip Hop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0qOnSQQF0yzuPWsXrQ9paz",
+            "explicit": false,
+            "album": "The Papercut Chronicles II",
+            "release_date": "2011-11-11",
+            "genres": [
+                "dance pop",
+                "pop rap",
+                "deep talent show"
+            ],
+            "duration": 210960,
+            "acousticness": 0.0319,
+            "danceability": 6.814,
+            "instrumentalness": 0,
+            "liveness": 0.267,
+            "loudness": -3.293,
+            "speechiness": 0.0976,
+            "time_signature": 4,
+            "happiness": 8.164000000000001
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Waiting For Love",
+        "Artist": "Avicii",
+        "Key": "2A",
+        "Energy": 7.624,
+        "Popularity": 8.649999999999999,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Dance Remixes",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "2P4OICZRVAQcYAV2JReRfj",
+            "explicit": false,
+            "album": "Stories",
+            "release_date": "2015-10-02",
+            "genres": [
+                "edm",
+                "pop",
+                "pop dance"
+            ],
+            "duration": 230613,
+            "acousticness": 0.31,
+            "danceability": 6.210999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.198,
+            "loudness": -3.863,
+            "speechiness": 0.0527,
+            "time_signature": 4,
+            "happiness": 6.5169999999999995
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "Lush Life",
+        "Artist": "Zara Larsson",
+        "Key": "9A",
+        "Energy": 7.4079999999999995,
+        "Popularity": 8.379999999999999,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1rIKgCH4H52lrvDcz50hS8",
+            "explicit": false,
+            "album": "So Good",
+            "release_date": "2017-03-17",
+            "genres": [
+                "pop",
+                "scandipop",
+                "swedish electropop",
+                "swedish pop"
+            ],
+            "duration": 201122,
+            "acousticness": 0.132,
+            "danceability": 7.2459999999999996,
+            "instrumentalness": 0,
+            "liveness": 0.211,
+            "loudness": -3.923,
+            "speechiness": 0.046,
+            "time_signature": 4,
+            "happiness": 8.191
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "The Nights",
+        "Artist": "Avicii",
+        "Key": "2B",
+        "Energy": 8.515,
+        "Popularity": 9.01,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Dance Remixes",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "0ct6r3EGTcMLPtrXHDvVjc",
+            "explicit": false,
+            "album": "The Days / Nights",
+            "release_date": "2014-01-01",
+            "genres": [
+                "edm",
+                "pop",
+                "pop dance"
+            ],
+            "duration": 176658,
+            "acousticness": 0.0166,
+            "danceability": 5.743,
+            "instrumentalness": 0,
+            "liveness": 0.249,
+            "loudness": -5.298,
+            "speechiness": 0.0433,
+            "time_signature": 4,
+            "happiness": 6.886
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "I Gotta Feeling",
+        "Artist": "Black Eyed Peas",
+        "Key": "8B",
+        "Energy": 7.894,
+        "Popularity": 8.649999999999999,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Hip Hop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "4kLLWz7srcuLKA7Et40PQR",
+            "explicit": false,
+            "album": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+            "release_date": "2009-01-01",
+            "genres": [
+                "dance pop",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 289133,
+            "acousticness": 0.0873,
+            "danceability": 7.687,
+            "instrumentalness": 0,
+            "liveness": 0.509,
+            "loudness": -6.375,
+            "speechiness": 0.0265,
+            "time_signature": 4,
+            "happiness": 6.49
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Let You Down",
+        "Artist": "NF",
+        "Key": "7A",
+        "Energy": 7.426,
+        "Popularity": 8.469999999999999,
+        "BPM": 148,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Hip Hop",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "52okn5MNA47tk87PeZJLEL",
+            "explicit": false,
+            "album": "Perception",
+            "release_date": "2017-10-06",
+            "genres": [
+                "hip hop",
+                "pop rap"
+            ],
+            "duration": 212120,
+            "acousticness": 0.312,
+            "danceability": 6.958,
+            "instrumentalness": 0,
+            "liveness": 0.179,
+            "loudness": -5.68,
+            "speechiness": 0.121,
+            "time_signature": 4,
+            "happiness": 5.176
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Timber (feat. Ke$ha)",
+        "Artist": "Pitbull, Kesha",
+        "Key": "1B",
+        "Energy": 9.667,
+        "Popularity": 8.649999999999999,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Hip Hop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3cHyrEgdyYRjgJKSOiOtcS",
+            "explicit": false,
+            "album": "Global Warming: Meltdown (Deluxe Version)",
+            "release_date": "2012",
+            "genres": [
+                "dance pop",
+                "miami hip hop",
+                "pop",
+                "dance pop",
+                "pop"
+            ],
+            "duration": 204160,
+            "acousticness": 0.0295,
+            "danceability": 6.228999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.139,
+            "loudness": -4.087,
+            "speechiness": 0.0981,
+            "time_signature": 4,
+            "happiness": 8.092
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Replay",
+        "Artist": "Iyaz",
+        "Key": "11B",
+        "Energy": 7.759,
+        "Popularity": 8.11,
+        "BPM": 91,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop",
+            "Hip Hop",
+            "Happy",
+            "Dance Remixes",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "4E5P1XyAFtrjpiIxkydly4",
+            "explicit": false,
+            "album": "Replay",
+            "release_date": "2009-08-18",
+            "genres": [
+                "dance pop",
+                "pop rap",
+                "post-teen pop"
+            ],
+            "duration": 182307,
+            "acousticness": 0.173,
+            "danceability": 7.353999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.168,
+            "loudness": -6.323,
+            "speechiness": 0.0708,
+            "time_signature": 4,
+            "happiness": 2.755
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Love Me Again",
+        "Artist": "John Newman",
+        "Key": "10A",
+        "Energy": 9.046,
+        "Popularity": 8.2,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Dance Remixes",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "5TbzAWWc5eJaANpA9kfGCd",
+            "explicit": false,
+            "album": "Tribute",
+            "release_date": "2013-01-01",
+            "genres": [
+                "dance pop"
+            ],
+            "duration": 239894,
+            "acousticness": 0.00453,
+            "danceability": 5.455,
+            "instrumentalness": 0.000596,
+            "liveness": 0.103,
+            "loudness": -4.814,
+            "speechiness": 0.0441,
+            "time_signature": 4,
+            "happiness": 2.917
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Sun Is Shining",
+        "Artist": "Axwell /\\ Ingrosso, Axwell, Sebastian Ingrosso",
+        "Key": "10B",
+        "Energy": 7.813,
+        "Popularity": 7.39,
+        "BPM": 132,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Dance Remixes",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "4b2tcjrG1qUkSdsqEFP2dB",
+            "explicit": false,
+            "album": "More Than You Know",
+            "release_date": "2017-07-28",
+            "genres": [
+                "edm",
+                "pop dance",
+                "progressive electro house",
+                "dutch house",
+                "edm",
+                "electro house",
+                "pop dance",
+                "progressive electro house",
+                "progressive house",
+                "dutch house",
+                "edm",
+                "electro house",
+                "pop dance",
+                "progressive electro house",
+                "progressive house"
+            ],
+            "duration": 254653,
+            "acousticness": 0.0866,
+            "danceability": 5.203,
+            "instrumentalness": 0,
+            "liveness": 0.0742,
+            "loudness": -3.01,
+            "speechiness": 0.0517,
+            "time_signature": 4,
+            "happiness": 4.447
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Trumpets",
+        "Artist": "Jason Derulo",
+        "Key": "8B",
+        "Energy": 7.327,
+        "Popularity": 7.12,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "6jizk5lOUnfpaZXYMdfeC6",
+            "explicit": false,
+            "album": "Tattoos",
+            "release_date": "2013-09-10",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 217307,
+            "acousticness": 0.563,
+            "danceability": 6.643,
+            "instrumentalness": 0,
+            "liveness": 0.0962,
+            "loudness": -4.884,
+            "speechiness": 0.236,
+            "time_signature": 4,
+            "happiness": 6.76
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "Hangover",
+        "Artist": "Taio Cruz, Flo Rida",
+        "Key": "5B",
+        "Energy": 8.947,
+        "Popularity": 7.84,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Hip Hop",
+            "Dance Remixes",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "5pmL3RzOy3IvGFaSDi4hZL",
+            "explicit": true,
+            "album": "TY.O (International Version)",
+            "release_date": "2011-01-01",
+            "genres": [
+                "dance pop",
+                "pop",
+                "pop rap",
+                "dance pop",
+                "miami hip hop",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 244907,
+            "acousticness": 0.00872,
+            "danceability": 6.454,
+            "instrumentalness": 0,
+            "liveness": 0.0698,
+            "loudness": -3.243,
+            "speechiness": 0.0423,
+            "time_signature": 4,
+            "happiness": 6.4719999999999995
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "Whistle",
+        "Artist": "Flo Rida",
+        "Key": "8B",
+        "Energy": 9.433,
+        "Popularity": 8.290000000000001,
+        "BPM": 104,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Hip Hop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3bC1ahPIYt1btJzSSEyyrF",
+            "explicit": false,
+            "album": "Wild Ones",
+            "release_date": "2012-06-22",
+            "genres": [
+                "dance pop",
+                "miami hip hop",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 224653,
+            "acousticness": 0.0208,
+            "danceability": 7.723,
+            "instrumentalness": 0,
+            "liveness": 0.29,
+            "loudness": -5.746,
+            "speechiness": 0.0453,
+            "time_signature": 4,
+            "happiness": 7.651
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "DJ Got Us Fallin' In Love (feat. Pitbull)",
+        "Artist": "Usher, Pitbull",
+        "Key": "9A",
+        "Energy": 8.748999999999999,
+        "Popularity": 8.469999999999999,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Romantic & Slow Dance",
+            "Dance Remixes",
+            "Hip Hop",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4356Typ82hUiFAynbLYbPn",
+            "explicit": false,
+            "album": "Raymond v Raymond (Expanded Edition)",
+            "release_date": "2010-03-30",
+            "genres": [
+                "atl hip hop",
+                "contemporary r&b",
+                "dance pop",
+                "pop",
+                "r&b",
+                "rap",
+                "south carolina hip hop",
+                "urban contemporary",
+                "dance pop",
+                "miami hip hop",
+                "pop"
+            ],
+            "duration": 220800,
+            "acousticness": 0.0338,
+            "danceability": 6.9670000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.082,
+            "loudness": -3.398,
+            "speechiness": 0.109,
+            "time_signature": 4,
+            "happiness": 6.886
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Payphone",
+        "Artist": "Maroon 5, Wiz Khalifa",
+        "Key": "12B",
+        "Energy": 7.768,
+        "Popularity": 8.74,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "EDM",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "1XGmzt0PVuFgQYYnV2It7A",
+            "explicit": true,
+            "album": "Overexposed Track By Track",
+            "release_date": "2012-01-01",
+            "genres": [
+                "pop",
+                "hip hop",
+                "pittsburgh rap",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap"
+            ],
+            "duration": 231173,
+            "acousticness": 0.0188,
+            "danceability": 7.687,
+            "instrumentalness": 0,
+            "liveness": 0.287,
+            "loudness": -4.813,
+            "speechiness": 0.0414,
+            "time_signature": 4,
+            "happiness": 5.905
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "Safe And Sound",
+        "Artist": "Capital Cities",
+        "Key": "8B",
+        "Energy": 8.370999999999999,
+        "Popularity": 8.649999999999999,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Rock",
+            "Club-Hotel",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6Z8R6UsFuGXGtiIxiD8ISb",
+            "explicit": false,
+            "album": "In A Tidal Wave Of Mystery (Deluxe Edition)",
+            "release_date": "2013",
+            "genres": [
+                "metropopolis",
+                "modern rock"
+            ],
+            "duration": 192790,
+            "acousticness": 0.000176,
+            "danceability": 6.8950000000000005,
+            "instrumentalness": 0.00374,
+            "liveness": 0.104,
+            "loudness": -4.852,
+            "speechiness": 0.0316,
+            "time_signature": 5,
+            "happiness": 7.894
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "rockstar (feat. 21 Savage)",
+        "Artist": "Post Malone, 21 Savage",
+        "Key": "7A",
+        "Energy": 5.68,
+        "Popularity": 8.83,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Hip Hop",
+            "Pop",
+            "EDM",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0e7ipj03S05BNilyu5bRzt",
+            "explicit": true,
+            "album": "beerbongs & bentleys",
+            "release_date": "2018-04-27",
+            "genres": [
+                "dfw rap",
+                "melodic rap",
+                "pop",
+                "rap",
+                "atl hip hop",
+                "hip hop",
+                "rap",
+                "trap"
+            ],
+            "duration": 218147,
+            "acousticness": 0.124,
+            "danceability": 6.265,
+            "instrumentalness": 7.01e-05,
+            "liveness": 0.131,
+            "loudness": -6.136,
+            "speechiness": 0.0712,
+            "time_signature": 4,
+            "happiness": 2.161
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "If It Ain't Love",
+        "Artist": "Jason Derulo",
+        "Key": "6A",
+        "Energy": 8.587,
+        "Popularity": 6.13,
+        "BPM": 129,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5YHR8wBR5jXfGtP766NiAT",
+            "explicit": false,
+            "album": "If It Ain't Love",
+            "release_date": "2016-04-01",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 203105,
+            "acousticness": 0.0487,
+            "danceability": 5.527,
+            "instrumentalness": 0,
+            "liveness": 0.344,
+            "loudness": -4.991,
+            "speechiness": 0.316,
+            "time_signature": 4,
+            "happiness": 8.002
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Summer",
+        "Artist": "Calvin Harris",
+        "Key": "12A",
+        "Energy": 8.704,
+        "Popularity": 8.74,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Club-Hotel",
+            "EDM",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6YUTL4dYpB9xZO5qExPf05",
+            "explicit": false,
+            "album": "Motion",
+            "release_date": "2014-10-31",
+            "genres": [
+                "dance pop",
+                "edm",
+                "electro house",
+                "house",
+                "pop",
+                "progressive house",
+                "uk dance"
+            ],
+            "duration": 222533,
+            "acousticness": 0.0211,
+            "danceability": 6.364,
+            "instrumentalness": 0.0178,
+            "liveness": 0.141,
+            "loudness": -3.556,
+            "speechiness": 0.0346,
+            "time_signature": 4,
+            "happiness": 7.687
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "Outside (feat. Ellie Goulding)",
+        "Artist": "Calvin Harris, Ellie Goulding",
+        "Key": "10A",
+        "Energy": 8.407,
+        "Popularity": 8.559999999999999,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "EDM",
+            "Club-Hotel",
+            "Inspiring",
+            "Dance Remixes",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "7MmG8p0F9N3C4AXdK6o6Eb",
+            "explicit": false,
+            "album": "Motion",
+            "release_date": "2014-10-31",
+            "genres": [
+                "dance pop",
+                "edm",
+                "electro house",
+                "house",
+                "pop",
+                "progressive house",
+                "uk dance",
+                "indietronica",
+                "metropopolis",
+                "pop",
+                "uk pop"
+            ],
+            "duration": 227267,
+            "acousticness": 0.213,
+            "danceability": 6.814,
+            "instrumentalness": 0,
+            "liveness": 0.322,
+            "loudness": -4.123,
+            "speechiness": 0.0394,
+            "time_signature": 4,
+            "happiness": 4.7620000000000005
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Counting Stars",
+        "Artist": "OneRepublic",
+        "Key": "3A",
+        "Energy": 7.345,
+        "Popularity": 8.92,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "2tpWsVSb9UEmDRxAl1zhX1",
+            "explicit": false,
+            "album": "Native",
+            "release_date": "2013-01-01",
+            "genres": [
+                "piano rock",
+                "pop"
+            ],
+            "duration": 257267,
+            "acousticness": 0.0654,
+            "danceability": 6.976,
+            "instrumentalness": 0,
+            "liveness": 0.118,
+            "loudness": -4.972,
+            "speechiness": 0.0382,
+            "time_signature": 4,
+            "happiness": 5.293
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "More Than You Know",
+        "Artist": "Axwell /\\ Ingrosso",
+        "Key": "7A",
+        "Energy": 7.669,
+        "Popularity": 8.469999999999999,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Dance Remixes",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "6h5PAsRni4IRlxWr6uDPTP",
+            "explicit": false,
+            "album": "More Than You Know",
+            "release_date": "2017-07-28",
+            "genres": [
+                "edm",
+                "pop dance",
+                "progressive electro house"
+            ],
+            "duration": 203000,
+            "acousticness": 0.0275,
+            "danceability": 6.814,
+            "instrumentalness": 0,
+            "liveness": 0.312,
+            "loudness": -4.973,
+            "speechiness": 0.034,
+            "time_signature": 4,
+            "happiness": 6.138999999999999
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "Just Hold On",
+        "Artist": "Steve Aoki, Louis Tomlinson",
+        "Key": "1B",
+        "Energy": 9.388,
+        "Popularity": 6.67,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Dance Remixes",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "3EmmCZoqpWOTY1g2GBwJoR",
+            "explicit": false,
+            "album": "Just Hold On",
+            "release_date": "2016-12-10",
+            "genres": [
+                "edm",
+                "electro house",
+                "pop dance",
+                "pop"
+            ],
+            "duration": 198774,
+            "acousticness": 0.00383,
+            "danceability": 6.823,
+            "instrumentalness": 1.5e-06,
+            "liveness": 0.0574,
+            "loudness": -3.515,
+            "speechiness": 0.0824,
+            "time_signature": 4,
+            "happiness": 4.366
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "Mr. Saxobeat - Radio Edit",
+        "Artist": "Alexandra Stan",
+        "Key": "1A",
+        "Energy": 9.379000000000001,
+        "Popularity": 7.84,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3LWDPEXEaLBRGNLbdcbwBR",
+            "explicit": false,
+            "album": "Saxobeats",
+            "release_date": "2011-11-16",
+            "genres": [
+                "romanian pop"
+            ],
+            "duration": 195105,
+            "acousticness": 0.0218,
+            "danceability": 7.534,
+            "instrumentalness": 0.000283,
+            "liveness": 0.143,
+            "loudness": -4.152,
+            "speechiness": 0.0468,
+            "time_signature": 4,
+            "happiness": 8.173
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "No Money",
+        "Artist": "Galantis",
+        "Key": "2A",
+        "Energy": 9.235,
+        "Popularity": 7.66,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "EDM",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6M6Tk58pQvABy6ru66dY3d",
+            "explicit": false,
+            "album": "The Aviary",
+            "release_date": "2017-09-15",
+            "genres": [
+                "dance pop",
+                "edm",
+                "pop",
+                "pop dance"
+            ],
+            "duration": 191293,
+            "acousticness": 0.0282,
+            "danceability": 7.066000000000001,
+            "instrumentalness": 0.00337,
+            "liveness": 0.273,
+            "loudness": -3.999,
+            "speechiness": 0.0411,
+            "time_signature": 4,
+            "happiness": 8.02
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "Die Young",
+        "Artist": "Kesha",
+        "Key": "3A",
+        "Energy": 7.3,
+        "Popularity": 8.290000000000001,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7EQGXaVSyEDsCWKmUcfpLk",
+            "explicit": false,
+            "album": "Warrior (Expanded Edition)",
+            "release_date": "2012-11-30",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 211920,
+            "acousticness": 0.00498,
+            "danceability": 7.399,
+            "instrumentalness": 0.000125,
+            "liveness": 0.215,
+            "loudness": -4.805,
+            "speechiness": 0.046,
+            "time_signature": 4,
+            "happiness": 8.209
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "Don't Wake Me Up",
+        "Artist": "Chris Brown",
+        "Key": "9A",
+        "Energy": 7.218999999999999,
+        "Popularity": 6.94,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Romantic & Slow Dance",
+            "Hip Hop",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "18VfHIPaCo0s6FTi1Fnp6T",
+            "explicit": false,
+            "album": "Fortune (Expanded Edition)",
+            "release_date": "2012-07-03",
+            "genres": [
+                "r&b",
+                "rap"
+            ],
+            "duration": 222307,
+            "acousticness": 0.0548,
+            "danceability": 6.418,
+            "instrumentalness": 0,
+            "liveness": 0.144,
+            "loudness": -5.197,
+            "speechiness": 0.051,
+            "time_signature": 4,
+            "happiness": 2.854
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "Alors on danse - Radio Edit",
+        "Artist": "Stromae",
+        "Key": "3A",
+        "Energy": 6.31,
+        "Popularity": 8.379999999999999,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2GYHyAoLWpkxLVa4oYTVko",
+            "explicit": false,
+            "album": "Cheese",
+            "release_date": "2010-01-01",
+            "genres": [
+                "belgian pop",
+                "g-house"
+            ],
+            "duration": 206067,
+            "acousticness": 0.0994,
+            "danceability": 8.119,
+            "instrumentalness": 0.00203,
+            "liveness": 0.065,
+            "loudness": -9.206,
+            "speechiness": 0.0793,
+            "time_signature": 4,
+            "happiness": 7.426
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "On The Floor - Radio Edit",
+        "Artist": "Jennifer Lopez, Pitbull",
+        "Key": "1B",
+        "Energy": 7.174,
+        "Popularity": 7.84,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Hip Hop",
+            "Happy",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "0Oe49j06Bjrxs8PltuVeaW",
+            "explicit": false,
+            "album": "On The Floor",
+            "release_date": "2011-01-01",
+            "genres": [
+                "dance pop",
+                "pop",
+                "urban contemporary",
+                "dance pop",
+                "miami hip hop",
+                "pop"
+            ],
+            "duration": 230907,
+            "acousticness": 0.0848,
+            "danceability": 7.822,
+            "instrumentalness": 0.00127,
+            "liveness": 0.142,
+            "loudness": -6.346,
+            "speechiness": 0.0792,
+            "time_signature": 4,
+            "happiness": 4.996
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Danza Kuduro - Original Mix",
+        "Artist": "Don Lore V",
+        "Key": "8B",
+        "Energy": 9.693999999999999,
+        "Popularity": 6.22,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "57KrVuOJCmqLPMY6qaL6sW",
+            "explicit": false,
+            "album": "Danza Kuduro Latin Album",
+            "release_date": "2015-04-08",
+            "genres": [],
+            "duration": 194302,
+            "acousticness": 0.0431,
+            "danceability": 6.562,
+            "instrumentalness": 0,
+            "liveness": 0.562,
+            "loudness": -4.017,
+            "speechiness": 0.114,
+            "time_signature": 4,
+            "happiness": 7.876
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "One More Night",
+        "Artist": "Maroon 5",
+        "Key": "7A",
+        "Energy": 8.389,
+        "Popularity": 8.11,
+        "BPM": 93,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6cpk00i5TxCqSeqNi2HuIe",
+            "explicit": false,
+            "album": "Overexposed Track By Track",
+            "release_date": "2012-01-01",
+            "genres": [
+                "pop"
+            ],
+            "duration": 219547,
+            "acousticness": 0.0558,
+            "danceability": 7.444,
+            "instrumentalness": 0,
+            "liveness": 0.0844,
+            "loudness": -3.435,
+            "speechiness": 0.0314,
+            "time_signature": 4,
+            "happiness": 6.562
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "Salsa Tequila",
+        "Artist": "Anders Nilsen",
+        "Key": "2B",
+        "Energy": 9.163,
+        "Popularity": 6.58,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "4NNo6yFzKvX4HsTcaH6WIU",
+            "explicit": false,
+            "album": "Salsa Tequila",
+            "release_date": "2014-07-01",
+            "genres": [],
+            "duration": 199805,
+            "acousticness": 0.131,
+            "danceability": 6.94,
+            "instrumentalness": 3.34e-05,
+            "liveness": 0.0746,
+            "loudness": -3.351,
+            "speechiness": 0.122,
+            "time_signature": 4,
+            "happiness": 6.616
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "Papaoutai",
+        "Artist": "Stromae",
+        "Key": "6A",
+        "Energy": 8.281,
+        "Popularity": 7.84,
+        "BPM": 116,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "34dx8DACTJsc3rsJdaEIQw",
+            "explicit": false,
+            "album": "racine carr\u00e9e",
+            "release_date": "2013-01-01",
+            "genres": [
+                "belgian pop",
+                "g-house"
+            ],
+            "duration": 232147,
+            "acousticness": 0.0266,
+            "danceability": 7.606,
+            "instrumentalness": 0,
+            "liveness": 0.0642,
+            "loudness": -7.264,
+            "speechiness": 0.0839,
+            "time_signature": 4,
+            "happiness": 3.286
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "Limbo",
+        "Artist": "Daddy Yankee",
+        "Key": "9B",
+        "Energy": 8.875,
+        "Popularity": 8.11,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Hip Hop",
+            "Latin",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3pDhN3qB33AOPhQEkUCaWt",
+            "explicit": false,
+            "album": "Prestige",
+            "release_date": "2012-01-01",
+            "genres": [
+                "latin hip hop",
+                "reggaeton",
+                "trap latino",
+                "urbano latino"
+            ],
+            "duration": 224693,
+            "acousticness": 0.0838,
+            "danceability": 8.254000000000001,
+            "instrumentalness": 0.00192,
+            "liveness": 0.065,
+            "loudness": -3.817,
+            "speechiness": 0.088,
+            "time_signature": 4,
+            "happiness": 9.253
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "Shower",
+        "Artist": "Tory Knight",
+        "Key": "10B",
+        "Energy": 4.24,
+        "Popularity": 4.15,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1aOYUut6NFylu2ZkmJLlrG",
+            "explicit": false,
+            "album": "Make It Pop, Vol. 16",
+            "release_date": "2020-02-05",
+            "genres": [],
+            "duration": 202249,
+            "acousticness": 0.0191,
+            "danceability": 6.751,
+            "instrumentalness": 0.0903,
+            "liveness": 0.181,
+            "loudness": -10.505,
+            "speechiness": 0.0386,
+            "time_signature": 4,
+            "happiness": 1.6777000000000002
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "Stressed Out",
+        "Artist": "Twenty One Pilots",
+        "Key": "12A",
+        "Energy": 6.7330000000000005,
+        "Popularity": 8.92,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Rock",
+            "Pop",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "3CRDbSIZ4r5MsZ0YwxuEkn",
+            "explicit": false,
+            "album": "Blurryface",
+            "release_date": "2015-05-15",
+            "genres": [
+                "modern rock",
+                "pop",
+                "pov: indie",
+                "rock"
+            ],
+            "duration": 202333,
+            "acousticness": 0.0462,
+            "danceability": 7.606,
+            "instrumentalness": 2.29e-05,
+            "liveness": 0.0602,
+            "loudness": -5.677,
+            "speechiness": 0.141,
+            "time_signature": 4,
+            "happiness": 6.832
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "Heathens",
+        "Artist": "Twenty One Pilots",
+        "Key": "12A",
+        "Energy": 4.564,
+        "Popularity": 8.469999999999999,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Rock",
+            "Pop",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "6i0V12jOa3mr6uu4WYhUBr",
+            "explicit": false,
+            "album": "Heathens",
+            "release_date": "2016-06-16",
+            "genres": [
+                "modern rock",
+                "pop",
+                "pov: indie",
+                "rock"
+            ],
+            "duration": 195920,
+            "acousticness": 0.0841,
+            "danceability": 7.588,
+            "instrumentalness": 3.58e-05,
+            "liveness": 0.105,
+            "loudness": -9.348,
+            "speechiness": 0.0286,
+            "time_signature": 4,
+            "happiness": 5.932
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "LMK",
+        "Artist": "Lil Xxel",
+        "Key": "2B",
+        "Energy": 5.113,
+        "Popularity": 1.0,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Romantic & Slow Dance",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "0efL46uAuNEfukXQYsbPlX",
+            "explicit": false,
+            "album": "LMK",
+            "release_date": "2020-03-06",
+            "genres": [
+                "pop r&b",
+                "viral rap"
+            ],
+            "duration": 188293,
+            "acousticness": 0.0298,
+            "danceability": 7.741,
+            "instrumentalness": 0.000322,
+            "liveness": 0.446,
+            "loudness": -7.515,
+            "speechiness": 0.0464,
+            "time_signature": 4,
+            "happiness": 5.032
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "After Party",
+        "Artist": "Don Toliver",
+        "Key": "7B",
+        "Energy": 7.228,
+        "Popularity": 8.290000000000001,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2020s",
+            "Hip Hop",
+            "EDM",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "527k23H0A4Q0UJN3vGs0Da",
+            "explicit": true,
+            "album": "Heaven Or Hell",
+            "release_date": "2020-03-13",
+            "genres": [
+                "rap",
+                "trap"
+            ],
+            "duration": 167916,
+            "acousticness": 0.00981,
+            "danceability": 6.661,
+            "instrumentalness": 0.331,
+            "liveness": 0.603,
+            "loudness": -8.045,
+            "speechiness": 0.0376,
+            "time_signature": 4,
+            "happiness": 5.077
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "Gravity - Radio Edit",
+        "Artist": "DJ Fresh, Ella Eyre",
+        "Key": "7A",
+        "Energy": 7.9750000000000005,
+        "Popularity": 4.33,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Inspiring",
+            "Dance Remixes",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "6mqQnO46bpDg579UodXRf6",
+            "explicit": false,
+            "album": "Gravity",
+            "release_date": "2015-02-09",
+            "genres": [
+                "dancefloor dnb",
+                "drum and bass",
+                "uk dance",
+                "dance pop",
+                "talent show",
+                "uk dance",
+                "uk pop"
+            ],
+            "duration": 197671,
+            "acousticness": 0.21,
+            "danceability": 5.6080000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.135,
+            "loudness": -2.223,
+            "speechiness": 0.036,
+            "time_signature": 4,
+            "happiness": 6.210999999999999
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "Noticed",
+        "Artist": "Lil Mosey",
+        "Key": "1B",
+        "Energy": 6.022,
+        "Popularity": 7.84,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "7zLYKWcXnYeHHWidalz7rj",
+            "explicit": true,
+            "album": "Northsbest (Extended)",
+            "release_date": "2018-10-19",
+            "genres": [
+                "melodic rap",
+                "rap conscient"
+            ],
+            "duration": 165000,
+            "acousticness": 0.462,
+            "danceability": 7.2909999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.116,
+            "loudness": -7.622,
+            "speechiness": 0.0603,
+            "time_signature": 4,
+            "happiness": 5.437
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "King",
+        "Artist": "Years & Years",
+        "Key": "12A",
+        "Energy": 8.713000000000001,
+        "Popularity": 7.75,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3AeicLnm55RqcXGBKYQolM",
+            "explicit": false,
+            "album": "Communion (Deluxe)",
+            "release_date": "2015-07-10",
+            "genres": [
+                "gauze pop",
+                "pop",
+                "uk pop"
+            ],
+            "duration": 215360,
+            "acousticness": 0.0594,
+            "danceability": 6.040000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.381,
+            "loudness": -4.145,
+            "speechiness": 0.0384,
+            "time_signature": 4,
+            "happiness": 4.888
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "Unforgettable",
+        "Artist": "French Montana, Swae Lee",
+        "Key": "2B",
+        "Energy": 7.921,
+        "Popularity": 8.74,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Hip Hop",
+            "Pop",
+            "EDM",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3B54sVLJ402zGa6Xm4YGNe",
+            "explicit": true,
+            "album": "Jungle Rules",
+            "release_date": "2017-07-14",
+            "genres": [
+                "hip hop",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap",
+                "melodic rap",
+                "rap",
+                "trap"
+            ],
+            "duration": 233902,
+            "acousticness": 0.0293,
+            "danceability": 7.534,
+            "instrumentalness": 0.0101,
+            "liveness": 0.104,
+            "loudness": -5.043,
+            "speechiness": 0.123,
+            "time_signature": 4,
+            "happiness": 7.5969999999999995
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "Smells Like Drill Spirt - remix",
+        "Artist": "Afroludi, Lillkaay",
+        "Key": "2A",
+        "Energy": 5.356,
+        "Popularity": 1.0,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2020s",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3teiQhs87vzsiJlxL9r3c2",
+            "explicit": true,
+            "album": "Smells Like Drill Spirt (remix)",
+            "release_date": "2021-01-12",
+            "genres": [
+                "melodic drill"
+            ],
+            "duration": 130142,
+            "acousticness": 0.0298,
+            "danceability": 7.191999999999999,
+            "instrumentalness": 0.000649,
+            "liveness": 0.134,
+            "loudness": -8.094,
+            "speechiness": 0.0339,
+            "time_signature": 4,
+            "happiness": 4.24
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "My Love (feat. Jess Glynne)",
+        "Artist": "Route 94, Jess Glynne",
+        "Key": "4B",
+        "Energy": 6.598,
+        "Popularity": 7.39,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Club-Hotel",
+            "EDM",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "61UQzeiIluhpzpMdY4ag3q",
+            "explicit": false,
+            "album": "My Love (feat. Jess Glynne)",
+            "release_date": "2014-02-28",
+            "genres": [
+                "house",
+                "uk dance",
+                "pop",
+                "uk pop"
+            ],
+            "duration": 259934,
+            "acousticness": 0.000132,
+            "danceability": 8.326,
+            "instrumentalness": 0.72,
+            "liveness": 0.0658,
+            "loudness": -7.573,
+            "speechiness": 0.0492,
+            "time_signature": 4,
+            "happiness": 7.534
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "Sugar (feat. Francesco Yates)",
+        "Artist": "Robin Schulz, Francesco Yates",
+        "Key": "7A",
+        "Energy": 8.334999999999999,
+        "Popularity": 8.290000000000001,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Dance Remixes",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "5tf1VVWniHgryyumXyJM7w",
+            "explicit": false,
+            "album": "Sugar",
+            "release_date": "2015-09-25",
+            "genres": [
+                "deep euro house",
+                "deep house",
+                "edm",
+                "german dance",
+                "pop dance",
+                "tropical house",
+                "canadian pop"
+            ],
+            "duration": 219043,
+            "acousticness": 0.0185,
+            "danceability": 6.724,
+            "instrumentalness": 0,
+            "liveness": 0.163,
+            "loudness": -5.098,
+            "speechiness": 0.0581,
+            "time_signature": 4,
+            "happiness": 6.724
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "Party In The U.S.A.",
+        "Artist": "Miley Cyrus",
+        "Key": "6A",
+        "Energy": 7.282,
+        "Popularity": 8.559999999999999,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3E7dfMvvCLUddWissuqMwr",
+            "explicit": false,
+            "album": "The Time Of Our Lives (International Version)",
+            "release_date": "2009-01-01",
+            "genres": [
+                "pop"
+            ],
+            "duration": 202067,
+            "acousticness": 0.00112,
+            "danceability": 6.868,
+            "instrumentalness": 0.000115,
+            "liveness": 0.0886,
+            "loudness": -4.667,
+            "speechiness": 0.042,
+            "time_signature": 4,
+            "happiness": 5.2299999999999995
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "In Your Eyes (feat. Alida)",
+        "Artist": "Robin Schulz, Alida",
+        "Key": "4A",
+        "Energy": 7.048,
+        "Popularity": 6.94,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2020s",
+            "Pop",
+            "Dance Remixes",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "61ZM92T2zaXIVsqncThQzC",
+            "explicit": false,
+            "album": "In Your Eyes (feat. Alida)",
+            "release_date": "2020-01-10",
+            "genres": [
+                "deep euro house",
+                "deep house",
+                "edm",
+                "german dance",
+                "pop dance",
+                "tropical house",
+                "norwegian pop"
+            ],
+            "duration": 208222,
+            "acousticness": 0.172,
+            "danceability": 6.13,
+            "instrumentalness": 1.04e-06,
+            "liveness": 0.0768,
+            "loudness": -5.888,
+            "speechiness": 0.0716,
+            "time_signature": 4,
+            "happiness": 5.149
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "Riptide",
+        "Artist": "Vance Joy",
+        "Key": "3B",
+        "Energy": 7.579,
+        "Popularity": 8.74,
+        "BPM": 102,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Rock",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "7yq4Qj7cqayVTp3FF9CWbm",
+            "explicit": false,
+            "album": "Dream Your Life Away",
+            "release_date": "2014-09-08",
+            "genres": [
+                "folk-pop",
+                "modern rock"
+            ],
+            "duration": 204280,
+            "acousticness": 0.431,
+            "danceability": 5.356,
+            "instrumentalness": 0,
+            "liveness": 0.151,
+            "loudness": -6.694,
+            "speechiness": 0.0379,
+            "time_signature": 4,
+            "happiness": 5.59
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "Dancing in the Moonlight",
+        "Artist": "Toploader",
+        "Key": "8A",
+        "Energy": 8.605,
+        "Popularity": 7.209999999999999,
+        "BPM": 119,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1FHNctV68GUNLgXclG2DtR",
+            "explicit": false,
+            "album": "Dancing In The Moonlight: The Best Of Toploader",
+            "release_date": "2009-04-22",
+            "genres": [
+                "british alternative rock"
+            ],
+            "duration": 233373,
+            "acousticness": 0.0528,
+            "danceability": 6.751,
+            "instrumentalness": 0,
+            "liveness": 0.336,
+            "loudness": -3.333,
+            "speechiness": 0.0372,
+            "time_signature": 4,
+            "happiness": 8.839
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "Just the Two of Us (feat. Bill Withers)",
+        "Artist": "Grover Washington, Jr., Bill Withers",
+        "Key": "6A",
+        "Energy": 5.473,
+        "Popularity": 8.02,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "80s",
+            "Romantic & Slow Dance",
+            "Calm",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "1ko2lVN0vKGUl9zrU0qSlT",
+            "explicit": false,
+            "album": "Anthology",
+            "release_date": "1985",
+            "genres": [
+                "funk",
+                "quiet storm",
+                "soul"
+            ],
+            "duration": 438493,
+            "acousticness": 0.41,
+            "danceability": 7.741,
+            "instrumentalness": 0.0499,
+            "liveness": 0.0504,
+            "loudness": -12.609,
+            "speechiness": 0.105,
+            "time_signature": 4,
+            "happiness": 6.265
+        }
+    },
+    {
+        "#": 52,
+        "Track Title": "LOST",
+        "Artist": "NF, Hopsin",
+        "Key": "7B",
+        "Energy": 9.208,
+        "Popularity": 6.31,
+        "BPM": 117,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2020s",
+            "Hip Hop",
+            "Pop",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "2MZrOmrVxRmmOoFW6dhenG",
+            "explicit": false,
+            "album": "LOST",
+            "release_date": "2021-03-11",
+            "genres": [
+                "hip hop",
+                "pop rap",
+                "conscious hip hop"
+            ],
+            "duration": 234852,
+            "acousticness": 0.352,
+            "danceability": 6.7330000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.0657,
+            "loudness": -3.123,
+            "speechiness": 0.308,
+            "time_signature": 4,
+            "happiness": 5.059
+        }
+    },
+    {
+        "#": 53,
+        "Track Title": "Last Friday Night (T.G.I.F.)",
+        "Artist": "Katy Perry",
+        "Key": "5A",
+        "Energy": 8.334999999999999,
+        "Popularity": 7.93,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "455AfCsOhhLPRc68sE01D8",
+            "explicit": false,
+            "album": "Teenage Dream: The Complete Confection",
+            "release_date": "2012-03-12",
+            "genres": [
+                "pop"
+            ],
+            "duration": 230747,
+            "acousticness": 0.00125,
+            "danceability": 6.841,
+            "instrumentalness": 4.31e-05,
+            "liveness": 0.671,
+            "loudness": -3.796,
+            "speechiness": 0.0415,
+            "time_signature": 4,
+            "happiness": 7.885
+        }
+    },
+    {
+        "#": 54,
+        "Track Title": "Without You (feat. Sandro Cavazza)",
+        "Artist": "Avicii, Sandro Cavazza",
+        "Key": "10B",
+        "Energy": 8.722,
+        "Popularity": 8.290000000000001,
+        "BPM": 134,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Dance Remixes",
+            "EDM",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6Pgkp4qUoTmJIPn7ReaGxL",
+            "explicit": true,
+            "album": "AV\u012aCI (01)",
+            "release_date": "2017-08-10",
+            "genres": [
+                "edm",
+                "pop",
+                "pop dance",
+                "swedish pop"
+            ],
+            "duration": 181673,
+            "acousticness": 0.00163,
+            "danceability": 6.958,
+            "instrumentalness": 0,
+            "liveness": 0.0456,
+            "loudness": -4.844,
+            "speechiness": 0.0428,
+            "time_signature": 4,
+            "happiness": 3.655
+        }
+    },
+    {
+        "#": 55,
+        "Track Title": "Starships",
+        "Artist": "Nicki Minaj",
+        "Key": "1A",
+        "Energy": 7.444,
+        "Popularity": 8.290000000000001,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Hip Hop",
+            "Pop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "2EBCVPNAG46nbgs6jXPGvv",
+            "explicit": true,
+            "album": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
+            "release_date": "2012-01-01",
+            "genres": [
+                "hip pop",
+                "pop",
+                "queens hip hop",
+                "rap"
+            ],
+            "duration": 210627,
+            "acousticness": 0.135,
+            "danceability": 7.723,
+            "instrumentalness": 0,
+            "liveness": 0.251,
+            "loudness": -2.457,
+            "speechiness": 0.075,
+            "time_signature": 4,
+            "happiness": 7.759
+        }
+    },
+    {
+        "#": 56,
+        "Track Title": "Reality",
+        "Artist": "Lost Frequencies, Janieck Devy",
+        "Key": "11B",
+        "Energy": 6.751,
+        "Popularity": 4.0600000000000005,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Dance Remixes",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "6MAF33h7lRCYkf2M0vtx3y",
+            "explicit": false,
+            "album": "Less Is More",
+            "release_date": "2016-10-21",
+            "genres": [
+                "belgian edm",
+                "edm",
+                "pop dance",
+                "tropical house"
+            ],
+            "duration": 158474,
+            "acousticness": 0.0206,
+            "danceability": 7.579,
+            "instrumentalness": 1.29e-05,
+            "liveness": 0.0789,
+            "loudness": -6.597,
+            "speechiness": 0.0359,
+            "time_signature": 4,
+            "happiness": 5.743
+        }
+    },
+    {
+        "#": 57,
+        "Track Title": "Perfect Strangers",
+        "Artist": "Jonas Blue, JP Cooper",
+        "Key": "3B",
+        "Energy": 8.748999999999999,
+        "Popularity": 8.11,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "EDM",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3P3pw6C19j31Rnzgo3JG7o",
+            "explicit": false,
+            "album": "Blue",
+            "release_date": "2018-11-09",
+            "genres": [
+                "pop",
+                "pop dance",
+                "tropical house",
+                "uk dance",
+                "uk pop"
+            ],
+            "duration": 196613,
+            "acousticness": 0.39,
+            "danceability": 7.57,
+            "instrumentalness": 0,
+            "liveness": 0.213,
+            "loudness": -4.1,
+            "speechiness": 0.0451,
+            "time_signature": 4,
+            "happiness": 7.335999999999999
+        }
+    },
+    {
+        "#": 58,
+        "Track Title": "Are You With Me",
+        "Artist": "Lost Frequencies",
+        "Key": "7A",
+        "Energy": 6.1659999999999995,
+        "Popularity": 4.33,
+        "BPM": 121,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Dance Remixes",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "4ptLxauZkoA9hP3WgfIyzv",
+            "explicit": false,
+            "album": "Less Is More",
+            "release_date": "2016-10-21",
+            "genres": [
+                "belgian edm",
+                "edm",
+                "pop dance",
+                "tropical house"
+            ],
+            "duration": 138843,
+            "acousticness": 0.466,
+            "danceability": 7.984,
+            "instrumentalness": 7.83e-05,
+            "liveness": 0.131,
+            "loudness": -9.882,
+            "speechiness": 0.0317,
+            "time_signature": 4,
+            "happiness": 4.708
+        }
+    },
+    {
+        "#": 59,
+        "Track Title": "Like I Love You",
+        "Artist": "Lost Frequencies, The NGHBRS",
+        "Key": "3B",
+        "Energy": 6.292,
+        "Popularity": 4.33,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Dance Remixes",
+            "EDM",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6h5pErCqv5nWQ5vOudTE9U",
+            "explicit": false,
+            "album": "Alive And Feeling Fine",
+            "release_date": "2019-10-04",
+            "genres": [
+                "belgian edm",
+                "edm",
+                "pop dance",
+                "tropical house",
+                "la pop"
+            ],
+            "duration": 190174,
+            "acousticness": 0.142,
+            "danceability": 8.767,
+            "instrumentalness": 3.42e-05,
+            "liveness": 0.457,
+            "loudness": -7.141,
+            "speechiness": 0.0847,
+            "time_signature": 4,
+            "happiness": 7.759
+        }
+    },
+    {
+        "#": 60,
+        "Track Title": "Ride",
+        "Artist": "Twenty One Pilots",
+        "Key": "2B",
+        "Energy": 7.417,
+        "Popularity": 8.649999999999999,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Rock",
+            "Pop",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "2Z8WuEywRWYTKe1NybPQEW",
+            "explicit": false,
+            "album": "Blurryface",
+            "release_date": "2015-05-15",
+            "genres": [
+                "modern rock",
+                "pop",
+                "pov: indie",
+                "rock"
+            ],
+            "duration": 214507,
+            "acousticness": 0.00835,
+            "danceability": 6.805,
+            "instrumentalness": 0,
+            "liveness": 0.113,
+            "loudness": -5.355,
+            "speechiness": 0.0393,
+            "time_signature": 4,
+            "happiness": 6.093999999999999
+        }
+    },
+    {
+        "#": 61,
+        "Track Title": "Your Man",
+        "Artist": "Josh Turner",
+        "Key": "2B",
+        "Energy": 6.7330000000000005,
+        "Popularity": 7.84,
+        "BPM": 101,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1WzAeadSKJhqykZFbJNmQv",
+            "explicit": false,
+            "album": "Your Man",
+            "release_date": "2006",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 211893,
+            "acousticness": 0.337,
+            "danceability": 7.696,
+            "instrumentalness": 0.000222,
+            "liveness": 0.0696,
+            "loudness": -4.483,
+            "speechiness": 0.0241,
+            "time_signature": 4,
+            "happiness": 8.065000000000001
+        }
+    },
+    {
+        "#": 62,
+        "Track Title": "Beggin'",
+        "Artist": "M\u00e5neskin",
+        "Key": "1A",
+        "Energy": 8.2,
+        "Popularity": 8.83,
+        "BPM": 134,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3Wrjm47oTz2sjIgck11l5e",
+            "explicit": false,
+            "album": "Chosen",
+            "release_date": "2017-12-08",
+            "genres": [
+                "indie rock italiano",
+                "italian pop",
+                "pop"
+            ],
+            "duration": 211560,
+            "acousticness": 0.127,
+            "danceability": 7.426,
+            "instrumentalness": 0,
+            "liveness": 0.359,
+            "loudness": -4.808,
+            "speechiness": 0.0504,
+            "time_signature": 4,
+            "happiness": 6.301
+        }
+    },
+    {
+        "#": 63,
+        "Track Title": "Feel Good",
+        "Artist": "Syn Cole",
+        "Key": "8A",
+        "Energy": 8.937999999999999,
+        "Popularity": 1.0,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Dance Remixes",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "2yox08l4o0FnOL8Ih4yEfM",
+            "explicit": false,
+            "album": "Feel Good",
+            "release_date": "2016-02-27",
+            "genres": [
+                "edm",
+                "pop dance",
+                "tropical house"
+            ],
+            "duration": 181935,
+            "acousticness": 0.167,
+            "danceability": 6.661,
+            "instrumentalness": 0.711,
+            "liveness": 0.0693,
+            "loudness": -3.458,
+            "speechiness": 0.0312,
+            "time_signature": 4,
+            "happiness": 3.916
+        }
+    },
+    {
+        "#": 64,
+        "Track Title": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
+        "Artist": "Lil Wayne, Wiz Khalifa, Imagine Dragons, X Ambassadors, Logic, Ty Dolla $ign",
+        "Key": "11A",
+        "Energy": 8.074,
+        "Popularity": 8.02,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "EDM",
+            "Romantic & Slow Dance",
+            "Inspiring",
+            "Hip Hop",
+            "Rock",
+            "Pop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "4dASQiO1Eoo3RJvt74FtXB",
+            "explicit": true,
+            "album": "Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)",
+            "release_date": "2016-06-24",
+            "genres": [
+                "hip hop",
+                "new orleans rap",
+                "pop rap",
+                "rap",
+                "trap",
+                "hip hop",
+                "pittsburgh rap",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap",
+                "modern rock",
+                "pop",
+                "rock",
+                "modern alternative rock",
+                "modern rock",
+                "stomp pop",
+                "conscious hip hop",
+                "hip hop",
+                "pop rap",
+                "rap",
+                "hip hop",
+                "pop rap",
+                "r&b",
+                "southern hip hop",
+                "trap",
+                "trap soul"
+            ],
+            "duration": 243491,
+            "acousticness": 0.255,
+            "danceability": 5.518,
+            "instrumentalness": 0,
+            "liveness": 0.65,
+            "loudness": -4.378,
+            "speechiness": 0.317,
+            "time_signature": 4,
+            "happiness": 7.651
+        }
+    },
+    {
+        "#": 65,
+        "Track Title": "Whatever It Takes",
+        "Artist": "Imagine Dragons",
+        "Key": "6A",
+        "Energy": 6.8950000000000005,
+        "Popularity": 8.559999999999999,
+        "BPM": 135,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6Qn5zhYkTa37e91HC1D7lb",
+            "explicit": false,
+            "album": "Evolve",
+            "release_date": "2017-06-23",
+            "genres": [
+                "modern rock",
+                "pop",
+                "rock"
+            ],
+            "duration": 201240,
+            "acousticness": 0.0362,
+            "danceability": 7.048,
+            "instrumentalness": 0,
+            "liveness": 0.117,
+            "loudness": -5.021,
+            "speechiness": 0.0311,
+            "time_signature": 4,
+            "happiness": 6.0040000000000004
+        }
+    },
+    {
+        "#": 66,
+        "Track Title": "Want to Want Me",
+        "Artist": "Jason Derulo",
+        "Key": "8A",
+        "Energy": 7.12,
+        "Popularity": 8.02,
+        "BPM": 114,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "7oGZAicScQt96OAW4AruYy",
+            "explicit": false,
+            "album": "Everything Is 4",
+            "release_date": "2015-05-29",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 207719,
+            "acousticness": 0.00906,
+            "danceability": 7.9750000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.109,
+            "loudness": -5.508,
+            "speechiness": 0.0629,
+            "time_signature": 4,
+            "happiness": 6.904
+        }
+    },
+    {
+        "#": 67,
+        "Track Title": "NO",
+        "Artist": "Meghan Trainor",
+        "Key": "3A",
+        "Energy": 8.227,
+        "Popularity": 8.290000000000001,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Hip Hop",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0l0CvurVUrr2w3Jj1hOVFc",
+            "explicit": false,
+            "album": "Thank You (Deluxe Version)",
+            "release_date": "2017-05-12",
+            "genres": [
+                "hip pop",
+                "pop"
+            ],
+            "duration": 213507,
+            "acousticness": 0.0124,
+            "danceability": 6.013000000000001,
+            "instrumentalness": 1.61e-06,
+            "liveness": 0.737,
+            "loudness": -3.599,
+            "speechiness": 0.213,
+            "time_signature": 4,
+            "happiness": 6.913
+        }
+    },
+    {
+        "#": 68,
+        "Track Title": "Lost on You",
+        "Artist": "LP",
+        "Key": "7A",
+        "Energy": 7.372,
+        "Popularity": 5.5,
+        "BPM": 87,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5QIzah26n6vMdj9t0l23m4",
+            "explicit": false,
+            "album": "Lost on You",
+            "release_date": "2016-12-09",
+            "genres": [
+                "la pop",
+                "women's music"
+            ],
+            "duration": 266188,
+            "acousticness": 0.0842,
+            "danceability": 4.861,
+            "instrumentalness": 0,
+            "liveness": 0.125,
+            "loudness": -6.674,
+            "speechiness": 0.0382,
+            "time_signature": 4,
+            "happiness": 7.048
+        }
+    },
+    {
+        "#": 69,
+        "Track Title": "Stole the Show",
+        "Artist": "Kygo, Parson James",
+        "Key": "4A",
+        "Energy": 6.715,
+        "Popularity": 8.11,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Dance Remixes",
+            "Romantic & Slow Dance",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "5masKPHeAOVNgxdLebIcK7",
+            "explicit": false,
+            "album": "Cloud Nine",
+            "release_date": "2016-05-13",
+            "genres": [
+                "edm",
+                "pop",
+                "pop dance",
+                "tropical house",
+                "pop soul"
+            ],
+            "duration": 223187,
+            "acousticness": 0.271,
+            "danceability": 6.76,
+            "instrumentalness": 0,
+            "liveness": 0.319,
+            "loudness": -7.565,
+            "speechiness": 0.226,
+            "time_signature": 4,
+            "happiness": 5.2749999999999995
+        }
+    },
+    {
+        "#": 70,
+        "Track Title": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
+        "Artist": "Rudimental, Jess Glynne, Macklemore, Dan Caplen",
+        "Key": "8B",
+        "Energy": 8.281,
+        "Popularity": 7.84,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "EDM",
+            "Romantic & Slow Dance",
+            "Dance Remixes",
+            "Hip Hop",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5CLGzJsGqhCEECcpnFQA8x",
+            "explicit": false,
+            "album": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
+            "release_date": "2018-01-19",
+            "genres": [
+                "pop dance",
+                "uk dance",
+                "uk funky",
+                "pop",
+                "uk pop",
+                "pop rap",
+                "seattle hip hop",
+                "neo soul",
+                "uk contemporary r&b"
+            ],
+            "duration": 210773,
+            "acousticness": 0.194,
+            "danceability": 6.877000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.165,
+            "loudness": -4.057,
+            "speechiness": 0.0474,
+            "time_signature": 4,
+            "happiness": 5.95
+        }
+    },
+    {
+        "#": 71,
+        "Track Title": "Middle",
+        "Artist": "DJ Snake, Bipolar Sunshine",
+        "Key": "11B",
+        "Energy": 7.255,
+        "Popularity": 8.02,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Hip Hop",
+            "Pop",
+            "Dance Remixes",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "0g5EKLgdKvNlln7TNqBByK",
+            "explicit": false,
+            "album": "Encore",
+            "release_date": "2016-08-05",
+            "genres": [
+                "edm",
+                "electronic trap",
+                "pop",
+                "pop dance",
+                "gauze pop"
+            ],
+            "duration": 220573,
+            "acousticness": 0.0141,
+            "danceability": 6.247,
+            "instrumentalness": 0,
+            "liveness": 0.0527,
+            "loudness": -5.336,
+            "speechiness": 0.0423,
+            "time_signature": 4,
+            "happiness": 3.016
+        }
+    },
+    {
+        "#": 72,
+        "Track Title": "Good Grief",
+        "Artist": "Bastille",
+        "Key": "3B",
+        "Energy": 7.822,
+        "Popularity": 7.3,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Rock",
+            "Club-Hotel",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6IGA5YrFiEr5ANrMqKkR6H",
+            "explicit": false,
+            "album": "Wild World",
+            "release_date": "2016-09-09",
+            "genres": [
+                "metropopolis",
+                "modern rock",
+                "pop"
+            ],
+            "duration": 206493,
+            "acousticness": 0.147,
+            "danceability": 7.57,
+            "instrumentalness": 0,
+            "liveness": 0.311,
+            "loudness": -4.888,
+            "speechiness": 0.0653,
+            "time_signature": 4,
+            "happiness": 8.893
+        }
+    },
+    {
+        "#": 73,
+        "Track Title": "Shotgun",
+        "Artist": "George Ezra",
+        "Key": "7B",
+        "Energy": 7.615,
+        "Popularity": 8.2,
+        "BPM": 116,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4ofwffwvvnbSkrMSCKQDaC",
+            "explicit": false,
+            "album": "Staying at Tamara's",
+            "release_date": "2018-03-23",
+            "genres": [
+                "folk-pop",
+                "neo-singer-songwriter"
+            ],
+            "duration": 201287,
+            "acousticness": 0.286,
+            "danceability": 7.057,
+            "instrumentalness": 0,
+            "liveness": 0.242,
+            "loudness": -4.733,
+            "speechiness": 0.0457,
+            "time_signature": 4,
+            "happiness": 7.786
+        }
+    },
+    {
+        "#": 74,
+        "Track Title": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
+        "Artist": "Kungs, Cookin' On 3 Burners",
+        "Key": "8A",
+        "Energy": 7.452999999999999,
+        "Popularity": 8.290000000000001,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Dance Remixes",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "1A8j067qyiNwQnZT0bzUpZ",
+            "explicit": false,
+            "album": "Layers",
+            "release_date": "2016-11-04",
+            "genres": [
+                "edm",
+                "pop dance",
+                "bboy",
+                "instrumental funk"
+            ],
+            "duration": 195547,
+            "acousticness": 0.0927,
+            "danceability": 8.128,
+            "instrumentalness": 3.59e-05,
+            "liveness": 0.226,
+            "loudness": -4.759,
+            "speechiness": 0.0393,
+            "time_signature": 4,
+            "happiness": 5.194
+        }
+    },
+    {
+        "#": 75,
+        "Track Title": "Spirits",
+        "Artist": "The Strumbellas",
+        "Key": "8B",
+        "Energy": 7.507,
+        "Popularity": 5.86,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Nostalgic",
+            "Inspiring",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6yDXmurL5FA9Rjn94cRp2g",
+            "explicit": false,
+            "album": "Hope",
+            "release_date": "2016-07-01",
+            "genres": [
+                "canadian indie",
+                "folk-pop",
+                "stomp and holler"
+            ],
+            "duration": 203653,
+            "acousticness": 0.164,
+            "danceability": 5.995,
+            "instrumentalness": 0,
+            "liveness": 0.112,
+            "loudness": -3.709,
+            "speechiness": 0.027,
+            "time_signature": 4,
+            "happiness": 8.326
+        }
+    },
+    {
+        "#": 76,
+        "Track Title": "Don't Wanna Know (feat. Kendrick Lamar)",
+        "Artist": "Maroon 5, Kendrick Lamar",
+        "Key": "9B",
+        "Energy": 6.49,
+        "Popularity": 7.57,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Inspiring",
+            "California [Loc]",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "5o3GnrcFtvkdf3zFznuSbA",
+            "explicit": false,
+            "album": "Red Pill Blues (Deluxe)",
+            "release_date": "2018-06-15",
+            "genres": [
+                "pop",
+                "conscious hip hop",
+                "hip hop",
+                "rap",
+                "west coast rap"
+            ],
+            "duration": 214265,
+            "acousticness": 0.343,
+            "danceability": 8.047,
+            "instrumentalness": 0,
+            "liveness": 0.0983,
+            "loudness": -6.124,
+            "speechiness": 0.0696,
+            "time_signature": 4,
+            "happiness": 4.7620000000000005
+        }
+    },
+    {
+        "#": 77,
+        "Track Title": "Piece Of Your Heart",
+        "Artist": "MEDUZA, Goodboys",
+        "Key": "6A",
+        "Energy": 7.696,
+        "Popularity": 8.11,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "EDM",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "1DFD5Fotzgn6yYXkYsKiGs",
+            "explicit": false,
+            "album": "Piece Of Your Heart",
+            "release_date": "2019-02-01",
+            "genres": [
+                "pop dance",
+                "pop house",
+                "uk dance",
+                "pop dance",
+                "uk dance"
+            ],
+            "duration": 152913,
+            "acousticness": 0.0404,
+            "danceability": 7.093,
+            "instrumentalness": 0.00016,
+            "liveness": 0.074,
+            "loudness": -6.806,
+            "speechiness": 0.0295,
+            "time_signature": 4,
+            "happiness": 6.679
+        }
+    },
+    {
+        "#": 78,
+        "Track Title": "We Are Young (feat. Janelle Mon\u00e1e)",
+        "Artist": "fun., Janelle Mon\u00e1e",
+        "Key": "6B",
+        "Energy": 6.742,
+        "Popularity": 8.2,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Romantic & Slow Dance",
+            "Club-Hotel",
+            "Inspiring",
+            "Hip Hop",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5rgy6ghBq1eRApCkeUdJXf",
+            "explicit": false,
+            "album": "Some Nights",
+            "release_date": "2012-02-14",
+            "genres": [
+                "baroque pop",
+                "metropopolis",
+                "afrofuturism",
+                "alternative r&b",
+                "atl hip hop",
+                "neo soul",
+                "r&b"
+            ],
+            "duration": 250627,
+            "acousticness": 0.02,
+            "danceability": 4.402,
+            "instrumentalness": 7.66e-05,
+            "liveness": 0.0849,
+            "loudness": -5.576,
+            "speechiness": 0.075,
+            "time_signature": 4,
+            "happiness": 7.615
+        }
+    },
+    {
+        "#": 79,
+        "Track Title": "Beggin (original version)",
+        "Artist": "Madcon",
+        "Key": "12A",
+        "Energy": 8.2,
+        "Popularity": 7.57,
+        "BPM": 129,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "1XyL3J7eTTKnxRZAM3LqIT",
+            "explicit": false,
+            "album": "So Dark The Con Of Man",
+            "release_date": "2007-12-03",
+            "genres": [
+                "norwegian hip hop"
+            ],
+            "duration": 216147,
+            "acousticness": 0.0271,
+            "danceability": 7.435,
+            "instrumentalness": 0,
+            "liveness": 0.0648,
+            "loudness": -5.144,
+            "speechiness": 0.057,
+            "time_signature": 4,
+            "happiness": 5.005
+        }
+    },
+    {
+        "#": 80,
+        "Track Title": "J'me tire",
+        "Artist": "GIMS",
+        "Key": "3A",
+        "Energy": 7.0840000000000005,
+        "Popularity": 7.12,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "4w47YE9rjhmZUdtZjSCb82",
+            "explicit": false,
+            "album": "Subliminal (La face cach\u00e9e)",
+            "release_date": "2013-12-02",
+            "genres": [
+                "french hip hop",
+                "french pop",
+                "r&b francais",
+                "rap conscient"
+            ],
+            "duration": 249867,
+            "acousticness": 0.00892,
+            "danceability": 7.768,
+            "instrumentalness": 1.94e-06,
+            "liveness": 0.186,
+            "loudness": -5.233,
+            "speechiness": 0.0418,
+            "time_signature": 4,
+            "happiness": 4.824999999999999
+        }
+    },
+    {
+        "#": 81,
+        "Track Title": "Est-ce que tu m'aimes ? - Pilule bleue",
+        "Artist": "GIMS",
+        "Key": "10B",
+        "Energy": 8.668,
+        "Popularity": 7.4799999999999995,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "3a9TMd2Yrza6HXqqlfMtfy",
+            "explicit": false,
+            "album": "Mon coeur avait raison",
+            "release_date": "2015-08-28",
+            "genres": [
+                "french hip hop",
+                "french pop",
+                "r&b francais",
+                "rap conscient"
+            ],
+            "duration": 237093,
+            "acousticness": 0.235,
+            "danceability": 8.011,
+            "instrumentalness": 0,
+            "liveness": 0.212,
+            "loudness": -3.353,
+            "speechiness": 0.0651,
+            "time_signature": 4,
+            "happiness": 6.409
+        }
+    },
+    {
+        "#": 82,
+        "Track Title": "El Mismo Sol",
+        "Artist": "Alvaro Soler, Nils Faller",
+        "Key": "4A",
+        "Energy": 8.245000000000001,
+        "Popularity": 5.68,
+        "BPM": 113,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Latin",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3kmYPyed00Maoo8UFP22SN",
+            "explicit": false,
+            "album": "Eterno Agosto",
+            "release_date": "2016-07-15",
+            "genres": [
+                "latin pop"
+            ],
+            "duration": 182667,
+            "acousticness": 0.318,
+            "danceability": 7.552,
+            "instrumentalness": 0.00205,
+            "liveness": 0.129,
+            "loudness": -5.973,
+            "speechiness": 0.0357,
+            "time_signature": 4,
+            "happiness": 9.738999999999999
+        }
+    },
+    {
+        "#": 83,
+        "Track Title": "Ego - Radio Edit",
+        "Artist": "Willy William",
+        "Key": "4B",
+        "Energy": 9.271,
+        "Popularity": 4.24,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "1JifHg9Xly5nIU0TA5W7E7",
+            "explicit": false,
+            "album": "Ego",
+            "release_date": "2015-11-17",
+            "genres": [],
+            "duration": 207600,
+            "acousticness": 0.285,
+            "danceability": 7.678,
+            "instrumentalness": 0.0106,
+            "liveness": 0.365,
+            "loudness": -2.562,
+            "speechiness": 0.0316,
+            "time_signature": 4,
+            "happiness": 6.0040000000000004
+        }
+    },
+    {
+        "#": 84,
+        "Track Title": "Demons",
+        "Artist": "Imagine Dragons",
+        "Key": "5B",
+        "Energy": 7.39,
+        "Popularity": 8.83,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5qaEfEh1AtSdrdrByCP7qR",
+            "explicit": false,
+            "album": "Night Visions",
+            "release_date": "2012-09-04",
+            "genres": [
+                "modern rock",
+                "pop",
+                "rock"
+            ],
+            "duration": 177507,
+            "acousticness": 0.19,
+            "danceability": 5.545,
+            "instrumentalness": 0.00025,
+            "liveness": 0.269,
+            "loudness": -3.015,
+            "speechiness": 0.0321,
+            "time_signature": 4,
+            "happiness": 4.852
+        }
+    },
+    {
+        "#": 85,
+        "Track Title": "Parijs",
+        "Artist": "Kenny B",
+        "Key": "11B",
+        "Energy": 6.958,
+        "Popularity": 6.040000000000001,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "4CH8nmzGgqd4sokxN7dacs",
+            "explicit": false,
+            "album": "Kenny B",
+            "release_date": "2015-05-15",
+            "genres": [
+                "dutch pop",
+                "surinamese pop"
+            ],
+            "duration": 193060,
+            "acousticness": 0.194,
+            "danceability": 7.0120000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.383,
+            "loudness": -7.065,
+            "speechiness": 0.0914,
+            "time_signature": 4,
+            "happiness": 4.933
+        }
+    },
+    {
+        "#": 86,
+        "Track Title": "Tous les m\u00eames",
+        "Artist": "Stromae",
+        "Key": "7A",
+        "Energy": 6.7330000000000005,
+        "Popularity": 7.84,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "6M4nkEPZMj58acftDRTuKL",
+            "explicit": false,
+            "album": "racine carr\u00e9e",
+            "release_date": "2013-01-01",
+            "genres": [
+                "belgian pop",
+                "g-house"
+            ],
+            "duration": 210933,
+            "acousticness": 0.223,
+            "danceability": 7.308999999999999,
+            "instrumentalness": 0.00219,
+            "liveness": 0.279,
+            "loudness": -9.061,
+            "speechiness": 0.166,
+            "time_signature": 4,
+            "happiness": 6.823
+        }
+    },
+    {
+        "#": 87,
+        "Track Title": "Formidable",
+        "Artist": "Stromae",
+        "Key": "12A",
+        "Energy": 6.652,
+        "Popularity": 7.209999999999999,
+        "BPM": 71,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "2AMysGXOe0zzZJMtH3Nizb",
+            "explicit": true,
+            "album": "racine carr\u00e9e",
+            "release_date": "2013-01-01",
+            "genres": [
+                "belgian pop",
+                "g-house"
+            ],
+            "duration": 213933,
+            "acousticness": 0.0997,
+            "danceability": 5.617,
+            "instrumentalness": 0,
+            "liveness": 0.146,
+            "loudness": -9.056,
+            "speechiness": 0.19,
+            "time_signature": 4,
+            "happiness": 5.509
+        }
+    }
+]

@@ -1,7 +1,7 @@
 [
     {
         "#": 1,
-        "Track Title": "אני מנגן",
+        "Track Title": "\u05d0\u05e0\u05d9 \u05de\u05e0\u05d2\u05df",
         "Artist": "Uzi Hitman",
         "Key": "6B",
         "Energy": 7.993,
@@ -10,14 +10,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "4MAiy5e9wtWpRjIq0jrSbY",
             "explicit": false,
-            "album": "שר לילדים (חלק א)",
+            "album": "\u05e9\u05e8 \u05dc\u05d9\u05dc\u05d3\u05d9\u05dd (\u05d7\u05dc\u05e7 \u05d0)",
             "release_date": "2008-11-01",
             "genres": [
                 "classic israeli pop"
@@ -35,8 +37,8 @@
     },
     {
         "#": 2,
-        "Track Title": "איזה יום שמח",
-        "Artist": "גולי והגיטרה",
+        "Track Title": "\u05d0\u05d9\u05d6\u05d4 \u05d9\u05d5\u05dd \u05e9\u05de\u05d7",
+        "Artist": "\u05d2\u05d5\u05dc\u05d9 \u05d5\u05d4\u05d2\u05d9\u05d8\u05e8\u05d4",
         "Key": "4B",
         "Energy": 4.779999999999999,
         "Popularity": 4.0600000000000005,
@@ -44,14 +46,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2010s",
             "Happy"
         ],
         "Additional Info": {
             "id": "5KHUFuysrHvGSl31zrUXEf",
             "explicit": false,
-            "album": "הגיטרה ששרה",
+            "album": "\u05d4\u05d2\u05d9\u05d8\u05e8\u05d4 \u05e9\u05e9\u05e8\u05d4",
             "release_date": "2010-10-01",
             "genres": [
                 "muzika l'yeladim"
@@ -69,8 +73,8 @@
     },
     {
         "#": 3,
-        "Track Title": "מי שטוב לו ושמח",
-        "Artist": "גולי והגיטרה",
+        "Track Title": "\u05de\u05d9 \u05e9\u05d8\u05d5\u05d1 \u05dc\u05d5 \u05d5\u05e9\u05de\u05d7",
+        "Artist": "\u05d2\u05d5\u05dc\u05d9 \u05d5\u05d4\u05d2\u05d9\u05d8\u05e8\u05d4",
         "Key": "1B",
         "Energy": 3.745,
         "Popularity": 4.51,
@@ -78,14 +82,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2010s",
             "Happy"
         ],
         "Additional Info": {
             "id": "55JRqPZAmIx6vi4QjjXEN2",
             "explicit": false,
-            "album": "הגיטרה ששרה",
+            "album": "\u05d4\u05d2\u05d9\u05d8\u05e8\u05d4 \u05e9\u05e9\u05e8\u05d4",
             "release_date": "2010-10-01",
             "genres": [
                 "muzika l'yeladim"
@@ -103,8 +109,8 @@
     },
     {
         "#": 4,
-        "Track Title": "ידיים למעלה",
-        "Artist": "גולי והגיטרה",
+        "Track Title": "\u05d9\u05d3\u05d9\u05d9\u05dd \u05dc\u05de\u05e2\u05dc\u05d4",
+        "Artist": "\u05d2\u05d5\u05dc\u05d9 \u05d5\u05d4\u05d2\u05d9\u05d8\u05e8\u05d4",
         "Key": "7B",
         "Energy": 2.692,
         "Popularity": 4.42,
@@ -112,14 +118,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2010s",
             "Happy"
         ],
         "Additional Info": {
             "id": "1wBHIU6ZX0zyLI2NqhQRBy",
             "explicit": false,
-            "album": "הגיטרה ששרה",
+            "album": "\u05d4\u05d2\u05d9\u05d8\u05e8\u05d4 \u05e9\u05e9\u05e8\u05d4",
             "release_date": "2010-10-01",
             "genres": [
                 "muzika l'yeladim"
@@ -137,8 +145,8 @@
     },
     {
         "#": 5,
-        "Track Title": "הוקי פוקי",
-        "Artist": "גולי והגיטרה",
+        "Track Title": "\u05d4\u05d5\u05e7\u05d9 \u05e4\u05d5\u05e7\u05d9",
+        "Artist": "\u05d2\u05d5\u05dc\u05d9 \u05d5\u05d4\u05d2\u05d9\u05d8\u05e8\u05d4",
         "Key": "8B",
         "Energy": 3.637,
         "Popularity": 4.24,
@@ -146,14 +154,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2010s",
             "Happy"
         ],
         "Additional Info": {
             "id": "7rHnuf0N2v0TfTJdXxbo5l",
             "explicit": false,
-            "album": "הגיטרה ששרה",
+            "album": "\u05d4\u05d2\u05d9\u05d8\u05e8\u05d4 \u05e9\u05e9\u05e8\u05d4",
             "release_date": "2010-10-01",
             "genres": [
                 "muzika l'yeladim"
@@ -171,7 +181,7 @@
     },
     {
         "#": 6,
-        "Track Title": "היום יום הולדת, לרותי יום הולדת, יום הולדת חגיגה נחמדת",
+        "Track Title": "\u05d4\u05d9\u05d5\u05dd \u05d9\u05d5\u05dd \u05d4\u05d5\u05dc\u05d3\u05ea, \u05dc\u05e8\u05d5\u05ea\u05d9 \u05d9\u05d5\u05dd \u05d4\u05d5\u05dc\u05d3\u05ea, \u05d9\u05d5\u05dd \u05d4\u05d5\u05dc\u05d3\u05ea \u05d7\u05d2\u05d9\u05d2\u05d4 \u05e0\u05d7\u05de\u05d3\u05ea",
         "Artist": "Uzi Hitman",
         "Key": "8B",
         "Energy": 7.894,
@@ -180,14 +190,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "27Grk3lrZJOo0tzvIl1MG6",
             "explicit": false,
-            "album": "שר לילדים (חלק א)",
+            "album": "\u05e9\u05e8 \u05dc\u05d9\u05dc\u05d3\u05d9\u05dd (\u05d7\u05dc\u05e7 \u05d0)",
             "release_date": "2008-11-01",
             "genres": [
                 "classic israeli pop"
@@ -205,7 +217,7 @@
     },
     {
         "#": 7,
-        "Track Title": "מחרוזת ימי הולדת",
+        "Track Title": "\u05de\u05d7\u05e8\u05d5\u05d6\u05ea \u05d9\u05de\u05d9 \u05d4\u05d5\u05dc\u05d3\u05ea",
         "Artist": "Dalia Amihood",
         "Key": "4A",
         "Energy": 9.244,
@@ -214,13 +226,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2010s"
         ],
         "Additional Info": {
             "id": "1itxdY7DBKvGLc01RaOdq1",
             "explicit": false,
-            "album": "שירי ילדות",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d9\u05dc\u05d3\u05d5\u05ea",
             "release_date": "2010-01-01",
             "genres": [],
             "duration": 282373,
@@ -236,7 +250,7 @@
     },
     {
         "#": 8,
-        "Track Title": "יש לי יום הולדת",
+        "Track Title": "\u05d9\u05e9 \u05dc\u05d9 \u05d9\u05d5\u05dd \u05d4\u05d5\u05dc\u05d3\u05ea",
         "Artist": "Apocalypse",
         "Key": "10B",
         "Energy": 6.247,
@@ -245,14 +259,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "70s",
             "Happy"
         ],
         "Additional Info": {
             "id": "7pkzLdBufHJoJbqXJPHbK5",
             "explicit": false,
-            "album": "אחרית הימים",
+            "album": "\u05d0\u05d7\u05e8\u05d9\u05ea \u05d4\u05d9\u05de\u05d9\u05dd",
             "release_date": "1972-01-01",
             "genres": [
                 "classic israeli pop"
@@ -270,7 +286,7 @@
     },
     {
         "#": 9,
-        "Track Title": "גדלתי בשנה",
+        "Track Title": "\u05d2\u05d3\u05dc\u05ea\u05d9 \u05d1\u05e9\u05e0\u05d4",
         "Artist": "Yaffa Yarkoni",
         "Key": "8B",
         "Energy": 4.024,
@@ -279,14 +295,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "5CbNpX1UcL11UYfJo7j8Xe",
             "explicit": false,
-            "album": "גדלתי בשנה",
+            "album": "\u05d2\u05d3\u05dc\u05ea\u05d9 \u05d1\u05e9\u05e0\u05d4",
             "release_date": "2004-05-06",
             "genres": [
                 "classic israeli pop"
@@ -304,7 +322,7 @@
     },
     {
         "#": 10,
-        "Track Title": "יום הולדת השמחה לילדים",
+        "Track Title": "\u05d9\u05d5\u05dd \u05d4\u05d5\u05dc\u05d3\u05ea \u05d4\u05e9\u05de\u05d7\u05d4 \u05dc\u05d9\u05dc\u05d3\u05d9\u05dd",
         "Artist": "Hana Laszlo",
         "Key": "8A",
         "Energy": 5.374,
@@ -313,14 +331,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "70s",
             "Happy"
         ],
         "Additional Info": {
             "id": "0eWlp0V1sOjAmHIucao2ZY",
             "explicit": false,
-            "album": "עוגה עוגה - 30 שירי יום הולדת ומשחק לפעוטות",
+            "album": "\u05e2\u05d5\u05d2\u05d4 \u05e2\u05d5\u05d2\u05d4 - 30 \u05e9\u05d9\u05e8\u05d9 \u05d9\u05d5\u05dd \u05d4\u05d5\u05dc\u05d3\u05ea \u05d5\u05de\u05e9\u05d7\u05e7 \u05dc\u05e4\u05e2\u05d5\u05d8\u05d5\u05ea",
             "release_date": "1979-01-01",
             "genres": [
                 "muzika l'yeladim"
@@ -338,7 +358,7 @@
     },
     {
         "#": 11,
-        "Track Title": "איפה העוגה",
+        "Track Title": "\u05d0\u05d9\u05e4\u05d4 \u05d4\u05e2\u05d5\u05d2\u05d4",
         "Artist": "Orna & Moshe Datz",
         "Key": "8A",
         "Energy": 5.509,
@@ -347,14 +367,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "5XPdfIB7O524RhrkHQgL5g",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop"
@@ -372,7 +394,7 @@
     },
     {
         "#": 12,
-        "Track Title": "יום הולדת ל...",
+        "Track Title": "\u05d9\u05d5\u05dd \u05d4\u05d5\u05dc\u05d3\u05ea \u05dc...",
         "Artist": "Yaffa Yarkoni",
         "Key": "6B",
         "Energy": 3.763,
@@ -381,14 +403,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "3DidollV31vFF1F4tNwz1N",
             "explicit": false,
-            "album": "גדלתי בשנה",
+            "album": "\u05d2\u05d3\u05dc\u05ea\u05d9 \u05d1\u05e9\u05e0\u05d4",
             "release_date": "2004-05-06",
             "genres": [
                 "classic israeli pop"
@@ -406,7 +430,7 @@
     },
     {
         "#": 13,
-        "Track Title": "כולם מוחאים אתי כף",
+        "Track Title": "\u05db\u05d5\u05dc\u05dd \u05de\u05d5\u05d7\u05d0\u05d9\u05dd \u05d0\u05ea\u05d9 \u05db\u05e3",
         "Artist": "Chava Alberstein",
         "Key": "8B",
         "Energy": 4.627000000000001,
@@ -415,14 +439,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "70s",
             "Happy"
         ],
         "Additional Info": {
             "id": "1o93l9MIc2TUJQuusyek9j",
             "explicit": false,
-            "album": "טיקיליטון",
+            "album": "\u05d8\u05d9\u05e7\u05d9\u05dc\u05d9\u05d8\u05d5\u05df",
             "release_date": "1977-01-01",
             "genres": [
                 "classic israeli pop",
@@ -441,7 +467,7 @@
     },
     {
         "#": 14,
-        "Track Title": "גדלתי בשנה",
+        "Track Title": "\u05d2\u05d3\u05dc\u05ea\u05d9 \u05d1\u05e9\u05e0\u05d4",
         "Artist": "Efrat Ben Israel",
         "Key": "9B",
         "Energy": 4.843,
@@ -450,14 +476,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "70s",
             "Happy"
         ],
         "Additional Info": {
             "id": "7Cbv5777HohfOGHND6ybHE",
             "explicit": false,
-            "album": "עוגה עוגה - 30 שירי יום הולדת ומשחק לפעוטות",
+            "album": "\u05e2\u05d5\u05d2\u05d4 \u05e2\u05d5\u05d2\u05d4 - 30 \u05e9\u05d9\u05e8\u05d9 \u05d9\u05d5\u05dd \u05d4\u05d5\u05dc\u05d3\u05ea \u05d5\u05de\u05e9\u05d7\u05e7 \u05dc\u05e4\u05e2\u05d5\u05d8\u05d5\u05ea",
             "release_date": "1979-01-01",
             "genres": [],
             "duration": 79547,
@@ -473,7 +501,7 @@
     },
     {
         "#": 15,
-        "Track Title": "רק פעם בשנה",
+        "Track Title": "\u05e8\u05e7 \u05e4\u05e2\u05dd \u05d1\u05e9\u05e0\u05d4",
         "Artist": "Orna & Moshe Datz",
         "Key": "10B",
         "Energy": 6.931,
@@ -482,14 +510,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "25DfPPlqW1BOG7PpNWsEcF",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop"
@@ -507,7 +537,7 @@
     },
     {
         "#": 16,
-        "Track Title": "היי גילו נא",
+        "Track Title": "\u05d4\u05d9\u05d9 \u05d2\u05d9\u05dc\u05d5 \u05e0\u05d0",
         "Artist": "David D'Or",
         "Key": "8B",
         "Energy": 4.087,
@@ -516,14 +546,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "90s",
             "Happy"
         ],
         "Additional Info": {
             "id": "4mL4Zce0vNKRavNyxikyvF",
             "explicit": false,
-            "album": "כולם מוחאים איתי כף",
+            "album": "\u05db\u05d5\u05dc\u05dd \u05de\u05d5\u05d7\u05d0\u05d9\u05dd \u05d0\u05d9\u05ea\u05d9 \u05db\u05e3",
             "release_date": "1996-01-01",
             "genres": [
                 "israeli singer-songwriter"
@@ -541,7 +573,7 @@
     },
     {
         "#": 17,
-        "Track Title": "הנה באה התזמורת",
+        "Track Title": "\u05d4\u05e0\u05d4 \u05d1\u05d0\u05d4 \u05d4\u05ea\u05d6\u05de\u05d5\u05e8\u05ea",
         "Artist": "Ruchama Raz",
         "Key": "10B",
         "Energy": 8.317,
@@ -550,14 +582,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "70s",
             "Happy"
         ],
         "Additional Info": {
             "id": "21GgEfOlTCtMwNY2uZHRNd",
             "explicit": false,
-            "album": "עוגה עוגה - 30 שירי יום הולדת ומשחק לפעוטות",
+            "album": "\u05e2\u05d5\u05d2\u05d4 \u05e2\u05d5\u05d2\u05d4 - 30 \u05e9\u05d9\u05e8\u05d9 \u05d9\u05d5\u05dd \u05d4\u05d5\u05dc\u05d3\u05ea \u05d5\u05de\u05e9\u05d7\u05e7 \u05dc\u05e4\u05e2\u05d5\u05d8\u05d5\u05ea",
             "release_date": "1979-01-01",
             "genres": [
                 "classic israeli pop",
@@ -576,7 +610,7 @@
     },
     {
         "#": 18,
-        "Track Title": "יום הולדת",
+        "Track Title": "\u05d9\u05d5\u05dd \u05d4\u05d5\u05dc\u05d3\u05ea",
         "Artist": "Eden Band",
         "Key": "7B",
         "Energy": 9.559,
@@ -585,14 +619,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "90s",
             "Happy"
         ],
         "Additional Info": {
             "id": "578bVOsA4o5gNKsTXTNw28",
             "explicit": false,
-            "album": "יום הולדת",
+            "album": "\u05d9\u05d5\u05dd \u05d4\u05d5\u05dc\u05d3\u05ea",
             "release_date": "1999",
             "genres": [],
             "duration": 180326,
@@ -608,7 +644,7 @@
     },
     {
         "#": 19,
-        "Track Title": "למי יש יום הילדת",
+        "Track Title": "\u05dc\u05de\u05d9 \u05d9\u05e9 \u05d9\u05d5\u05dd \u05d4\u05d9\u05dc\u05d3\u05ea",
         "Artist": "Orna Datz, Moshe Datz",
         "Key": "12B",
         "Energy": 6.391,
@@ -617,14 +653,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "2DNqsyOOwHM7G5rgXJvYxW",
             "explicit": false,
-            "album": "בא לי מסיבה לי",
+            "album": "\u05d1\u05d0 \u05dc\u05d9 \u05de\u05e1\u05d9\u05d1\u05d4 \u05dc\u05d9",
             "release_date": "2002-01-01",
             "genres": [
                 "festigal"

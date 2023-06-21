@@ -1,0 +1,3727 @@
+[
+    {
+        "#": 1,
+        "Track Title": "\u05d0\u05d9\u05e9 \u05d4\u05d1\u05e8\u05e7",
+        "Artist": "Ran Danker",
+        "Key": "11B",
+        "Energy": 9.136000000000001,
+        "Popularity": 1.0,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "7GyfR96L4bOockkVOs4g07",
+            "explicit": false,
+            "album": "\u05e4\u05e1\u05d8\u05d9\u05d2\u05dc \u05d2\u05d9\u05d1\u05d5\u05e8\u05d9 \u05e2\u05dc (2005)",
+            "release_date": "2005-12-01",
+            "genres": [
+                "festigal",
+                "israeli pop"
+            ],
+            "duration": 189374,
+            "acousticness": 0.175,
+            "danceability": 5.257,
+            "instrumentalness": 0,
+            "liveness": 0.185,
+            "loudness": -5.491,
+            "speechiness": 0.046,
+            "time_signature": 4,
+            "happiness": 6.013000000000001
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "\u05e0\u05e1\u05d9\u05db\u05ea \u05e4\u05d5\u05e4",
+        "Artist": "Roni Duani",
+        "Key": "1B",
+        "Energy": 7.273,
+        "Popularity": 1.0,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "0OkZUSjuG2SgWHTSsZc2fr",
+            "explicit": false,
+            "album": "\u05dc\u05d0 \u05d9\u05d0\u05d5\u05de\u05df \u05db\u05e4\u05e1\u05d8\u05d9\u05d2\u05dc (2004)",
+            "release_date": "2004-12-01",
+            "genres": [
+                "festigal",
+                "israeli pop"
+            ],
+            "duration": 215307,
+            "acousticness": 0.052,
+            "danceability": 7.849,
+            "instrumentalness": 0,
+            "liveness": 0.104,
+            "loudness": -7.996,
+            "speechiness": 0.0568,
+            "time_signature": 4,
+            "happiness": 6.751
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "\u05db\u05de\u05d5 \u05e1\u05d9\u05e0\u05d3\u05e8\u05dc\u05d4",
+        "Artist": "Sarit Hadad",
+        "Key": "10B",
+        "Energy": 9.01,
+        "Popularity": 1.0,
+        "BPM": 108,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "90s",
+            "Pop",
+            "Mizrahit",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "79uA654PT1erIDt35U1gPk",
+            "explicit": false,
+            "album": "\u05db\u05de\u05d5 \u05e1\u05d9\u05e0\u05d3\u05e8\u05dc\u05d4",
+            "release_date": "1999-01-21",
+            "genres": [
+                "festigal",
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi"
+            ],
+            "duration": 205507,
+            "acousticness": 0.225,
+            "danceability": 7.723,
+            "instrumentalness": 0,
+            "liveness": 0.027,
+            "loudness": -4.05,
+            "speechiness": 0.0274,
+            "time_signature": 4,
+            "happiness": 9.649
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "\u05d7\u05d1\u05e8\u05d9\u05dd \u05d1\u05db\u05dc \u05de\u05d9\u05e0\u05d9 \u05e6\u05d1\u05e2\u05d9\u05dd",
+        "Artist": "Sarit Hadad",
+        "Key": "10A",
+        "Energy": 8.911,
+        "Popularity": 1.0,
+        "BPM": 136,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "90s",
+            "Pop",
+            "Mizrahit",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6RidHCEJpoTcD3SEyLpAn2",
+            "explicit": false,
+            "album": "\u05db\u05de\u05d5 \u05e1\u05d9\u05e0\u05d3\u05e8\u05dc\u05d4",
+            "release_date": "1999-01-21",
+            "genres": [
+                "festigal",
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi"
+            ],
+            "duration": 199587,
+            "acousticness": 0.311,
+            "danceability": 7.111000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.106,
+            "loudness": -4.414,
+            "speechiness": 0.0338,
+            "time_signature": 4,
+            "happiness": 9.631
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "\u05d1\u05d7\u05d5\u05dd \u05e9\u05dc \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
+        "Artist": "Sarit Hadad",
+        "Key": "10A",
+        "Energy": 8.587,
+        "Popularity": 1.0,
+        "BPM": 139,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Mizrahit",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "0ABeqv1dl9yrdZm5XCTj1q",
+            "explicit": false,
+            "album": "\u05d7\u05d2\u05d9\u05d2\u05d4",
+            "release_date": "2004-07-28",
+            "genres": [
+                "festigal",
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi"
+            ],
+            "duration": 208600,
+            "acousticness": 0.589,
+            "danceability": 4.573,
+            "instrumentalness": 0,
+            "liveness": 0.187,
+            "loudness": -4.37,
+            "speechiness": 0.0414,
+            "time_signature": 4,
+            "happiness": 4.384
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "\u05e0\u05e2\u05e8\u05d4 \u05d7\u05e9\u05de\u05dc\u05d9\u05ea",
+        "Artist": "Dana Frider",
+        "Key": "9B",
+        "Energy": 8.748999999999999,
+        "Popularity": 1.0,
+        "BPM": 108,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4dIx2ZyCRkpu3812NdkOh5",
+            "explicit": false,
+            "album": "\u05e4\u05e1\u05d8\u05d9\u05d2\u05dc \u05e2\u05dc \u05d4\u05d6\u05de\u05df (2007)",
+            "release_date": "2007-12-01",
+            "genres": [
+                "festigal"
+            ],
+            "duration": 187773,
+            "acousticness": 0.377,
+            "danceability": 7.57,
+            "instrumentalness": 0,
+            "liveness": 0.0427,
+            "loudness": -3.979,
+            "speechiness": 0.062,
+            "time_signature": 4,
+            "happiness": 7.4079999999999995
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "\u05e4\u05e1\u05d8\u05d9\u05d2\u05dc \u05e4\u05e0\u05d8\u05d6\u05d9\u05d4",
+        "Artist": "Ran Danker",
+        "Key": "3A",
+        "Energy": 8.092,
+        "Popularity": 1.0,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "2JJSYce3oRHoZXelwWi4sX",
+            "explicit": false,
+            "album": "\u05e4\u05e1\u05d8\u05d9\u05d2\u05dc \u05d2\u05d9\u05d1\u05d5\u05e8\u05d9 \u05d4\u05de\u05de\u05dc\u05db\u05d4 \u05d4\u05d0\u05d1\u05d5\u05d3\u05d4 (2006)",
+            "release_date": "2006-12-01",
+            "genres": [
+                "festigal",
+                "israeli pop"
+            ],
+            "duration": 206813,
+            "acousticness": 0.0488,
+            "danceability": 5.617,
+            "instrumentalness": 4.04e-06,
+            "liveness": 0.0499,
+            "loudness": -5.751,
+            "speechiness": 0.0445,
+            "time_signature": 4,
+            "happiness": 3.16
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "\u05d1\u05d0\u05d5\u05e9\u05e8 \u05d5\u05d1\u05e2\u05d5\u05e0\u05d9",
+        "Artist": "Shay Amar",
+        "Key": "8B",
+        "Energy": 8.164000000000001,
+        "Popularity": 3.97,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "6XUbLIdcxlCuQzKX6UUWuq",
+            "explicit": false,
+            "album": "\u05d1\u05d0\u05d5\u05e9\u05e8 \u05d5\u05d1\u05e2\u05d5\u05e0\u05d9",
+            "release_date": "2001-01-01",
+            "genres": [],
+            "duration": 272387,
+            "acousticness": 0.238,
+            "danceability": 6.499,
+            "instrumentalness": 0,
+            "liveness": 0.0941,
+            "loudness": -8.229,
+            "speechiness": 0.0493,
+            "time_signature": 4,
+            "happiness": 4.888
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "\u05ea\u05e8\u05d0\u05d9 \u05d6\u05d4 \u05d0\u05e0\u05d9",
+        "Artist": "Synergia, Rami Kleinstein",
+        "Key": "10B",
+        "Energy": 6.22,
+        "Popularity": 1.0,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "0bNZWufd60v74uBFNRW0Ra",
+            "explicit": false,
+            "album": "\u05e1\u05d9\u05e0\u05e8\u05d2\u05d9\u05d4 \u05d0\u05e7\u05d5\u05e1\u05d8\u05d9\u05ea",
+            "release_date": "2009-09-01",
+            "genres": [
+                "israeli rock",
+                "classic israeli pop"
+            ],
+            "duration": 288773,
+            "acousticness": 0.133,
+            "danceability": 4.537,
+            "instrumentalness": 6.95e-06,
+            "liveness": 0.115,
+            "loudness": -8.346,
+            "speechiness": 0.0287,
+            "time_signature": 4,
+            "happiness": 3.6999999999999997
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "\u05e4\u05de\u05dc\u05d4",
+        "Artist": "Shay Gabso",
+        "Key": "2A",
+        "Energy": 6.7330000000000005,
+        "Popularity": 1.0,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "0XC76IMVwMbjnx7nJqGaVN",
+            "explicit": false,
+            "album": "(\u05db\u05d5\u05db\u05d1 \u05e0\u05d5\u05dc\u05d3, \u05e2\u05d5\u05e0\u05d4 1 (\u05d4\u05e8\u05d2\u05e2\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd",
+            "release_date": "2002-01-03",
+            "genres": [],
+            "duration": 218960,
+            "acousticness": 0.278,
+            "danceability": 5.752000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.203,
+            "loudness": -11.373,
+            "speechiness": 0.0466,
+            "time_signature": 4,
+            "happiness": 5.464
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "\u05d0\u05e9",
+        "Artist": "\u05e9\u05d9 \u05d2\u05d1\u05e1\u05d5",
+        "Key": "9B",
+        "Energy": 7.282,
+        "Popularity": 1.0,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "1mLA9kGFCWAuRUiSSya2nX",
+            "explicit": false,
+            "album": "(\u05db\u05d5\u05db\u05d1 \u05e0\u05d5\u05dc\u05d3, \u05d0\u05dc\u05d1\u05d5\u05dd \u05d4\u05e2\u05e9\u05d5\u05e8 (\u05d4\u05e8\u05d2\u05e2\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd",
+            "release_date": "2013-03-18",
+            "genres": [],
+            "duration": 269080,
+            "acousticness": 0.0268,
+            "danceability": 4.276,
+            "instrumentalness": 0,
+            "liveness": 0.92,
+            "loudness": -10.091,
+            "speechiness": 0.0701,
+            "time_signature": 4,
+            "happiness": 4.852
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "\u05e2\u05e0\u05d9\u05d9\u05df \u05e9\u05dc \u05d6\u05de\u05df",
+        "Artist": "Gidi Gov",
+        "Key": "6B",
+        "Energy": 6.706,
+        "Popularity": 1.0,
+        "BPM": 133,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "90s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0gX9TfygdrBhNHrXMFO2Pa",
+            "explicit": false,
+            "album": "\u05e9\u05d9\u05e8\u05d9\u05dd \u05e9\u05d4\u05ea\u05e4\u05d6\u05e8\u05d5",
+            "release_date": "1993-01-01",
+            "genres": [
+                "classic israeli pop",
+                "israeli rock"
+            ],
+            "duration": 224467,
+            "acousticness": 0.164,
+            "danceability": 6.2829999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.133,
+            "loudness": -10.967,
+            "speechiness": 0.0284,
+            "time_signature": 4,
+            "happiness": 8.649999999999999
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "\u05e1\u05d5\u05e4\u05e8\u05e1\u05d8\u05d0\u05e8",
+        "Artist": "Roni Duani",
+        "Key": "4B",
+        "Energy": 8.839,
+        "Popularity": 3.88,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6sw3MMKo70CyPiBDMHEObK",
+            "explicit": false,
+            "album": "\u05e2\u05d5\u05dc\u05dd \u05e9\u05dc\u05dd \u05d1\u05d7\u05d5\u05e5",
+            "release_date": "2004-01-01",
+            "genres": [
+                "festigal",
+                "israeli pop"
+            ],
+            "duration": 236520,
+            "acousticness": 0.234,
+            "danceability": 7.993,
+            "instrumentalness": 0.14,
+            "liveness": 0.0809,
+            "loudness": -3.465,
+            "speechiness": 0.0313,
+            "time_signature": 4,
+            "happiness": 8.236
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "\u05d0\u05d3\u05d5\u05e0\u05d9",
+        "Artist": "Roni Duani",
+        "Key": "3B",
+        "Energy": 6.2379999999999995,
+        "Popularity": 3.6999999999999997,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3aOi9yoYkQxCZgL0ztEA1k",
+            "explicit": false,
+            "album": "\u05dc\u05d0 \u05e2\u05d5\u05e6\u05e8\u05ea",
+            "release_date": "2006-01-01",
+            "genres": [
+                "festigal",
+                "israeli pop"
+            ],
+            "duration": 236213,
+            "acousticness": 0.149,
+            "danceability": 8.263000000000002,
+            "instrumentalness": 0,
+            "liveness": 0.0969,
+            "loudness": -6.734,
+            "speechiness": 0.0337,
+            "time_signature": 4,
+            "happiness": 9.658
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "\u05e1\u05d5\u05db\u05e8\u05d9\u05d4",
+        "Artist": "Roni Duani",
+        "Key": "1A",
+        "Energy": 7.624,
+        "Popularity": 4.24,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0qt6HSuStX2nX8TUNEH2L6",
+            "explicit": false,
+            "album": "\u05dc\u05d0 \u05e2\u05d5\u05e6\u05e8\u05ea",
+            "release_date": "2006-01-01",
+            "genres": [
+                "festigal",
+                "israeli pop"
+            ],
+            "duration": 186867,
+            "acousticness": 0.0954,
+            "danceability": 8.344,
+            "instrumentalness": 9.75e-05,
+            "liveness": 0.23,
+            "loudness": -6.84,
+            "speechiness": 0.0755,
+            "time_signature": 4,
+            "happiness": 8.668
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "\u05e1\u05d5\u05d3",
+        "Artist": "Roni Duani",
+        "Key": "6A",
+        "Energy": 8.425,
+        "Popularity": 3.43,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "64cACT3hEFXgbFAyON7FHl",
+            "explicit": false,
+            "album": "\u05e2\u05d5\u05dc\u05dd \u05e9\u05dc\u05dd \u05d1\u05d7\u05d5\u05e5",
+            "release_date": "2004-01-01",
+            "genres": [
+                "festigal",
+                "israeli pop"
+            ],
+            "duration": 222320,
+            "acousticness": 0.0368,
+            "danceability": 7.633,
+            "instrumentalness": 0.0116,
+            "liveness": 0.254,
+            "loudness": -4.804,
+            "speechiness": 0.0447,
+            "time_signature": 4,
+            "happiness": 9.316
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "\u05d0\u05d4\u05d1\u05d4 \u05e7\u05d8\u05e0\u05d4",
+        "Artist": "Shiri Maimon",
+        "Key": "12A",
+        "Energy": 8.596,
+        "Popularity": 4.51,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "0rfED1IVCtcewoud834gZn",
+            "explicit": false,
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05de\u05d9\u05de\u05d5\u05df",
+            "release_date": "2005-01-01",
+            "genres": [
+                "festigal",
+                "israeli pop"
+            ],
+            "duration": 225600,
+            "acousticness": 0.111,
+            "danceability": 5.941000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.104,
+            "loudness": -5.155,
+            "speechiness": 0.0464,
+            "time_signature": 4,
+            "happiness": 4.861
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "\u05d4\u05e9\u05e7\u05d8 \u05e9\u05e0\u05e9\u05d0\u05e8",
+        "Artist": "Shiri Maimon",
+        "Key": "7A",
+        "Energy": 6.931,
+        "Popularity": 4.779999999999999,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "0FLFEa0I3hiNAEomZrVkW4",
+            "explicit": false,
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05de\u05d9\u05de\u05d5\u05df",
+            "release_date": "2005-01-01",
+            "genres": [
+                "festigal",
+                "israeli pop"
+            ],
+            "duration": 181347,
+            "acousticness": 0.383,
+            "danceability": 5.833,
+            "instrumentalness": 0,
+            "liveness": 0.104,
+            "loudness": -5.716,
+            "speechiness": 0.0318,
+            "time_signature": 4,
+            "happiness": 5.293
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "\u05d0\u05dc \u05ea\u05e9\u05d7\u05e7 \u05d0\u05d9\u05ea\u05d9",
+        "Artist": "Noa Faran",
+        "Key": "12A",
+        "Energy": 6.751,
+        "Popularity": 2.98,
+        "BPM": 88,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6mIkezoj87ZVgT2WDTZzKk",
+            "explicit": false,
+            "album": "\u05d0\u05dc \u05ea\u05e9\u05d7\u05e7 \u05d0\u05d9\u05ea\u05d9",
+            "release_date": "2005-01-01",
+            "genres": [],
+            "duration": 171773,
+            "acousticness": 0.227,
+            "danceability": 9.01,
+            "instrumentalness": 0,
+            "liveness": 0.0735,
+            "loudness": -3.509,
+            "speechiness": 0.211,
+            "time_signature": 4,
+            "happiness": 7.471
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "\u05d4\u05d9\u05d0 \u05d9\u05d5\u05d3\u05e2\u05ea",
+        "Artist": "Ninet Tayeb",
+        "Key": "10A",
+        "Energy": 5.113,
+        "Popularity": 4.51,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "0hgtyNXiugG2XWWjmm7JG4",
+            "explicit": false,
+            "album": "\u05d9\u05d7\u05e4\u05d4",
+            "release_date": "2006-01-01",
+            "genres": [
+                "israeli rock",
+                "israeli singer-songwriter"
+            ],
+            "duration": 186840,
+            "acousticness": 0.0208,
+            "danceability": 6.481,
+            "instrumentalness": 7.02e-05,
+            "liveness": 0.101,
+            "loudness": -9.3,
+            "speechiness": 0.027,
+            "time_signature": 4,
+            "happiness": 5.554
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "\u05de\u05d5\u05db\u05e8\u05ea \u05dc\u05d9 \u05de\u05e4\u05e2\u05dd",
+        "Artist": "Din Din Aviv",
+        "Key": "10B",
+        "Energy": 6.481,
+        "Popularity": 1.0,
+        "BPM": 78,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "4n79kJkqMs5HnNouVsyJD4",
+            "explicit": false,
+            "album": "\u05e1\u05d5\u05d3\u05d5\u05ea\u05d9\u05d9",
+            "release_date": "2006-01-01",
+            "genres": [],
+            "duration": 177440,
+            "acousticness": 0.38,
+            "danceability": 6.643,
+            "instrumentalness": 0,
+            "liveness": 0.276,
+            "loudness": -6.497,
+            "speechiness": 0.0338,
+            "time_signature": 4,
+            "happiness": 6.571
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "\u05d9\u05d5\u05e0\u05ea\u05df \u05e9\u05e4\u05d9\u05e8\u05d0",
+        "Artist": "Aya Korem",
+        "Key": "9B",
+        "Energy": 7.606,
+        "Popularity": 4.42,
+        "BPM": 113,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2XJ2otT1tK5zFlRtUMbbtF",
+            "explicit": false,
+            "album": "\u05d0\u05d9\u05d4 \u05db\u05d5\u05e8\u05dd",
+            "release_date": "2006-01-01",
+            "genres": [
+                "israeli singer-songwriter"
+            ],
+            "duration": 178120,
+            "acousticness": 0.554,
+            "danceability": 5.707,
+            "instrumentalness": 0,
+            "liveness": 0.108,
+            "loudness": -3.764,
+            "speechiness": 0.0404,
+            "time_signature": 4,
+            "happiness": 7.534
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "\u05e9\u05d9\u05e8 \u05d0\u05d4\u05d1\u05d4 \u05e4\u05e9\u05d5\u05d8",
+        "Artist": "Aya Korem",
+        "Key": "10B",
+        "Energy": 9.127,
+        "Popularity": 4.0600000000000005,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "4tUUXGFvMnbwNqr6VFYRS7",
+            "explicit": false,
+            "album": "\u05d0\u05d9\u05d4 \u05db\u05d5\u05e8\u05dd",
+            "release_date": "2006-01-01",
+            "genres": [
+                "israeli singer-songwriter"
+            ],
+            "duration": 257427,
+            "acousticness": 0.0833,
+            "danceability": 6.2379999999999995,
+            "instrumentalness": 4.88e-06,
+            "liveness": 0.0715,
+            "loudness": -4.869,
+            "speechiness": 0.045,
+            "time_signature": 4,
+            "happiness": 2.692
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "\u05d0\u05ea \u05d9\u05e4\u05d4",
+        "Artist": "Idan Yaniv",
+        "Key": "7B",
+        "Energy": 6.4719999999999995,
+        "Popularity": 4.6,
+        "BPM": 84,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "7abXcNXyvIulTimTWMLt5y",
+            "explicit": false,
+            "album": "\u05d7\u05db\u05d9 \u05dc\u05d9",
+            "release_date": "2007-01-01",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 199184,
+            "acousticness": 0.561,
+            "danceability": 5.797000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.131,
+            "loudness": -6.462,
+            "speechiness": 0.0264,
+            "time_signature": 4,
+            "happiness": 5.572
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "\u05de\u05e7\u05d5\u05dd \u05dc\u05e6\u05d9\u05d3\u05da",
+        "Artist": "Dor Daniel",
+        "Key": "9A",
+        "Energy": 7.236999999999999,
+        "Popularity": 4.87,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "3dTOO0ebNTy82CELpxXU2T",
+            "explicit": false,
+            "album": "\u05d1\u05d9\u05df \u05d4\u05d7\u05dc\u05d5\u05de\u05d5\u05ea",
+            "release_date": "2009-01-01",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 229773,
+            "acousticness": 0.255,
+            "danceability": 5.005,
+            "instrumentalness": 4.13e-05,
+            "liveness": 0.0981,
+            "loudness": -4.404,
+            "speechiness": 0.0285,
+            "time_signature": 3,
+            "happiness": 5.7250000000000005
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "\u05d9\u05d5\u05dd \u05d5\u05e2\u05d5\u05d3 \u05d9\u05d5\u05de\u05d9\u05d9\u05dd",
+        "Artist": "Shay Gabso",
+        "Key": "2A",
+        "Energy": 5.851,
+        "Popularity": 1.0,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "1TuZXL0Gkoyo3PktzRO8Xb",
+            "explicit": false,
+            "album": "\u05d0\u05e8\u05d9\u05dd \u05e8\u05d0\u05e9\u05d9",
+            "release_date": "2004-05-19",
+            "genres": [],
+            "duration": 201840,
+            "acousticness": 0.766,
+            "danceability": 4.591,
+            "instrumentalness": 0,
+            "liveness": 0.0881,
+            "loudness": -7.862,
+            "speechiness": 0.0315,
+            "time_signature": 4,
+            "happiness": 2.935
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "\u05e4\u05e8\u05d7 \u05d4\u05e9\u05db\u05d5\u05e0\u05d5\u05ea",
+        "Artist": "Teapacks, Alma Zack",
+        "Key": "8A",
+        "Energy": 8.407,
+        "Popularity": 4.87,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5sVK357IC0iPrqhM56MjsS",
+            "explicit": false,
+            "album": "\u05e8\u05d3\u05d9\u05d5 / \u05de\u05d5\u05e1\u05d9\u05e7\u05d4 / \u05e2\u05d1\u05e8\u05d9\u05ea",
+            "release_date": "2006-01-01",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 276027,
+            "acousticness": 0.245,
+            "danceability": 7.984,
+            "instrumentalness": 0,
+            "liveness": 0.203,
+            "loudness": -5.802,
+            "speechiness": 0.0887,
+            "time_signature": 4,
+            "happiness": 9.019
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "So Far",
+        "Artist": "HaBanot Nechama",
+        "Key": "11B",
+        "Energy": 3.772,
+        "Popularity": 5.41,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "18gX0r27pdgG9yTv2oqY6X",
+            "explicit": false,
+            "album": "\u05d4\u05d1\u05e0\u05d5\u05ea \u05e0\u05d7\u05de\u05d4",
+            "release_date": "2007-01-01",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 229427,
+            "acousticness": 0.673,
+            "danceability": 6.652,
+            "instrumentalness": 0,
+            "liveness": 0.0995,
+            "loudness": -11.431,
+            "speechiness": 0.108,
+            "time_signature": 4,
+            "happiness": 2.8810000000000002
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "\u05e0\u05d9\u05e1\u05d9\u05dd",
+        "Artist": "Ivri Lider",
+        "Key": "7A",
+        "Energy": 6.1659999999999995,
+        "Popularity": 3.97,
+        "BPM": 103,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3jsG1Pnk6mP2mbHl98L0Yi",
+            "explicit": false,
+            "album": "\u05d6\u05d4 \u05dc\u05d0 \u05d0\u05d5\u05ea\u05d5 \u05d3\u05d1\u05e8",
+            "release_date": "2005-01-01",
+            "genres": [
+                "israeli pop",
+                "israeli rock",
+                "israeli singer-songwriter"
+            ],
+            "duration": 210587,
+            "acousticness": 0.235,
+            "danceability": 7.462,
+            "instrumentalness": 0,
+            "liveness": 0.276,
+            "loudness": -5.759,
+            "speechiness": 0.0282,
+            "time_signature": 4,
+            "happiness": 8.047
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "\u05ea\u05e9\u05ea\u05d5\u05e7 \u05ea\u05e9\u05ea\u05d5\u05e7",
+        "Artist": "Sarit Hadad",
+        "Key": "6A",
+        "Energy": 8.74,
+        "Popularity": 1.0,
+        "BPM": 114,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Mizrahit",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2dJevkwsHwOJJavlopGHgO",
+            "explicit": false,
+            "album": "\u05d0\u05e9\u05dc\u05d9\u05d5\u05ea \u05de\u05ea\u05d5\u05e7\u05d5\u05ea",
+            "release_date": "2001-04-03",
+            "genres": [
+                "festigal",
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi"
+            ],
+            "duration": 191747,
+            "acousticness": 0.305,
+            "danceability": 6.138999999999999,
+            "instrumentalness": 8.27e-05,
+            "liveness": 0.103,
+            "loudness": -4.354,
+            "speechiness": 0.037,
+            "time_signature": 4,
+            "happiness": 8.587
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "\u05d0\u05e9\u05dc\u05d9\u05d5\u05ea \u05de\u05ea\u05d5\u05e7\u05d5\u05ea",
+        "Artist": "Sarit Hadad",
+        "Key": "4A",
+        "Energy": 5.455,
+        "Popularity": 1.0,
+        "BPM": 136,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Mizrahit",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "5ASC5qPBdUtBn2HHiRjCMl",
+            "explicit": false,
+            "album": "\u05d0\u05e9\u05dc\u05d9\u05d5\u05ea \u05de\u05ea\u05d5\u05e7\u05d5\u05ea",
+            "release_date": "2001-04-03",
+            "genres": [
+                "festigal",
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi"
+            ],
+            "duration": 254720,
+            "acousticness": 0.598,
+            "danceability": 5.968,
+            "instrumentalness": 0,
+            "liveness": 0.27,
+            "loudness": -5.34,
+            "speechiness": 0.0282,
+            "time_signature": 4,
+            "happiness": 2.575
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "\u05d9\u05d0\u05dc\u05dc\u05d4 \u05dc\u05da \u05d4\u05d1\u05d9\u05ea\u05d4 \u05de\u05d5\u05d8\u05d9",
+        "Artist": "Sarit Hadad",
+        "Key": "9A",
+        "Energy": 9.064,
+        "Popularity": 1.0,
+        "BPM": 114,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Mizrahit",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6Cp2k3pqDbw9UIXVNytdWb",
+            "explicit": false,
+            "album": "\u05d0\u05e9\u05dc\u05d9\u05d5\u05ea \u05de\u05ea\u05d5\u05e7\u05d5\u05ea",
+            "release_date": "2001-04-03",
+            "genres": [
+                "festigal",
+                "israeli mediterranean",
+                "israeli pop",
+                "mizrahi"
+            ],
+            "duration": 201227,
+            "acousticness": 0.144,
+            "danceability": 7.497999999999999,
+            "instrumentalness": 3.49e-06,
+            "liveness": 0.196,
+            "loudness": -4.581,
+            "speechiness": 0.0365,
+            "time_signature": 4,
+            "happiness": 9.352
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "\u05e0\u05d5\u05de\u05d4 \u05e0\u05d5\u05de\u05d4 \u05d9\u05d4",
+        "Artist": "Participants of Festigal",
+        "Key": "8B",
+        "Energy": 9.406,
+        "Popularity": 1.0,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0dc0cGb6OCw45P8gZB0xlY",
+            "explicit": false,
+            "album": "\u05dc\u05d0 \u05d9\u05d0\u05d5\u05de\u05df \u05db\u05e4\u05e1\u05d8\u05d9\u05d2\u05dc (2004)",
+            "release_date": "2004-12-01",
+            "genres": [
+                "festigal",
+                "israeli pop"
+            ],
+            "duration": 234373,
+            "acousticness": 0.304,
+            "danceability": 7.894,
+            "instrumentalness": 0,
+            "liveness": 0.322,
+            "loudness": -4.727,
+            "speechiness": 0.118,
+            "time_signature": 4,
+            "happiness": 7.822
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "\u05db\u05de\u05d5 \u05e8\u05d5\u05d1\u05d9\u05df \u05d4\u05d5\u05d3",
+        "Artist": "Ran Danker",
+        "Key": "6B",
+        "Energy": 8.209,
+        "Popularity": 1.0,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "10kOtVmXGM6t0ETlNsH8b2",
+            "explicit": false,
+            "album": "\u05dc\u05d0 \u05d9\u05d0\u05d5\u05de\u05df \u05db\u05e4\u05e1\u05d8\u05d9\u05d2\u05dc (2004)",
+            "release_date": "2004-12-01",
+            "genres": [
+                "festigal",
+                "israeli pop"
+            ],
+            "duration": 212867,
+            "acousticness": 0.33,
+            "danceability": 6.616,
+            "instrumentalness": 0,
+            "liveness": 0.358,
+            "loudness": -4.857,
+            "speechiness": 0.0383,
+            "time_signature": 4,
+            "happiness": 7.057
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "\u05dc\u05e2\u05d5\u05e3",
+        "Artist": "Harel Skaat",
+        "Key": "1B",
+        "Energy": 7.849,
+        "Popularity": 1.0,
+        "BPM": 148,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "72VsZnbAJspmfEgRlvo0Or",
+            "explicit": false,
+            "album": "\u05dc\u05d0 \u05d9\u05d0\u05d5\u05de\u05df \u05db\u05e4\u05e1\u05d8\u05d9\u05d2\u05dc (2004)",
+            "release_date": "2004-12-01",
+            "genres": [
+                "festigal",
+                "israeli pop"
+            ],
+            "duration": 224200,
+            "acousticness": 0.29,
+            "danceability": 4.771,
+            "instrumentalness": 0,
+            "liveness": 0.382,
+            "loudness": -5.537,
+            "speechiness": 0.0424,
+            "time_signature": 4,
+            "happiness": 4.132
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "\u05d0\u05e0\u05d9 \u05d4\u05d5\u05d0 \u05d6\u05d5\u05e8\u05d5",
+        "Artist": "Harel Moyal",
+        "Key": "6A",
+        "Energy": 8.992,
+        "Popularity": 1.0,
+        "BPM": 116,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3HnCfil1ncvxspuzRuTz8R",
+            "explicit": false,
+            "album": "\u05dc\u05d0 \u05d9\u05d0\u05d5\u05de\u05df \u05db\u05e4\u05e1\u05d8\u05d9\u05d2\u05dc (2004)",
+            "release_date": "2004-12-01",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop"
+            ],
+            "duration": 212520,
+            "acousticness": 0.308,
+            "danceability": 6.904,
+            "instrumentalness": 0,
+            "liveness": 0.0686,
+            "loudness": -5.316,
+            "speechiness": 0.0703,
+            "time_signature": 4,
+            "happiness": 8.460999999999999
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "\u05e9\u05dc\u05d5\u05e9 \u05d7\u05d1\u05e8\u05d5\u05ea",
+        "Artist": "Adi Himelbloy, Shira Vilenski, Don Lenny Gabai",
+        "Key": "9A",
+        "Energy": 7.57,
+        "Popularity": 1.0,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2xSb920dpp5qUyQppNSrmJ",
+            "explicit": false,
+            "album": "\u05e4\u05e1\u05d8\u05d9\u05d2\u05dc \u05d2\u05d9\u05d1\u05d5\u05e8\u05d9 \u05d4\u05de\u05de\u05dc\u05db\u05d4 \u05d4\u05d0\u05d1\u05d5\u05d3\u05d4 (2006)",
+            "release_date": "2006-12-01",
+            "genres": [
+                "festigal"
+            ],
+            "duration": 207320,
+            "acousticness": 0.461,
+            "danceability": 7.380999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.0461,
+            "loudness": -7.172,
+            "speechiness": 0.0674,
+            "time_signature": 4,
+            "happiness": 9.136000000000001
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "\u05d4\u05d7\u05e5 \u05d4\u05de\u05e0\u05e6\u05d7",
+        "Artist": "Eliana Bekyer",
+        "Key": "10B",
+        "Energy": 8.578,
+        "Popularity": 1.0,
+        "BPM": 148,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "0CBeahlmFwharRiOXm701J",
+            "explicit": false,
+            "album": "\u05e4\u05e1\u05d8\u05d9\u05d2\u05dc \u05d2\u05d9\u05d1\u05d5\u05e8\u05d9 \u05d4\u05de\u05de\u05dc\u05db\u05d4 \u05d4\u05d0\u05d1\u05d5\u05d3\u05d4 (2006)",
+            "release_date": "2006-12-01",
+            "genres": [
+                "festigal"
+            ],
+            "duration": 179453,
+            "acousticness": 0.4,
+            "danceability": 6.643,
+            "instrumentalness": 0,
+            "liveness": 0.297,
+            "loudness": -5.04,
+            "speechiness": 0.061,
+            "time_signature": 4,
+            "happiness": 6.913
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "\u05ea\u05ea\u05d0\u05e8\u05d5 \u05dc\u05db\u05dd",
+        "Artist": "Shlomo Artzi",
+        "Key": "6B",
+        "Energy": 6.724,
+        "Popularity": 1.0,
+        "BPM": 91,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "0CgiwDmWBRlmD4wYXBsQ5I",
+            "explicit": false,
+            "album": "\u05e9\u05e4\u05d5\u05d9\u05d9\u05dd",
+            "release_date": "2007-03-22",
+            "genres": [
+                "classic israeli pop",
+                "israeli rock",
+                "israeli singer-songwriter"
+            ],
+            "duration": 227333,
+            "acousticness": 0.774,
+            "danceability": 5.833,
+            "instrumentalness": 0,
+            "liveness": 0.156,
+            "loudness": -6.384,
+            "speechiness": 0.0331,
+            "time_signature": 4,
+            "happiness": 5.95
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "\u05e1\u05d9\u05d2\u05e4\u05d5",
+        "Artist": "Beit Habubot",
+        "Key": "11A",
+        "Energy": 6.337,
+        "Popularity": 5.32,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "6NMXueYXvUAKmDYISUehwy",
+            "explicit": false,
+            "album": "\u05de\u05d3\u05e4\u05d9\u05dd",
+            "release_date": "2005-01-01",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 270520,
+            "acousticness": 0.0162,
+            "danceability": 5.8870000000000005,
+            "instrumentalness": 4.68e-05,
+            "liveness": 0.266,
+            "loudness": -8.937,
+            "speechiness": 0.0249,
+            "time_signature": 4,
+            "happiness": 3.43
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "\u05de\u05db\u05d4 \u05d0\u05e4\u05d5\u05e8\u05d4",
+        "Artist": "Monica Sex",
+        "Key": "1A",
+        "Energy": 7.03,
+        "Popularity": 1.0,
+        "BPM": 142,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "90s"
+        ],
+        "Additional Info": {
+            "id": "0UMo7B4w0lZzsQIlj2OIFh",
+            "explicit": false,
+            "album": "\u05e4\u05e6\u05e2\u05d9\u05dd \u05d5\u05e0\u05e9\u05d9\u05e7\u05d5\u05ea",
+            "release_date": "1995-02-01",
+            "genres": [
+                "israeli rock"
+            ],
+            "duration": 223160,
+            "acousticness": 0.0666,
+            "danceability": 6.049,
+            "instrumentalness": 0.000144,
+            "liveness": 0.352,
+            "loudness": -9.373,
+            "speechiness": 0.0369,
+            "time_signature": 4,
+            "happiness": 6.616
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "\u05d4\u05d9\u05d0 \u05dc\u05d0 \u05d3\u05d5\u05de\u05d4",
+        "Artist": "Arkadi Duchin",
+        "Key": "11B",
+        "Energy": 5.599,
+        "Popularity": 1.0,
+        "BPM": 72,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "5HAAw6TW8hCuB1hDDoenRC",
+            "explicit": false,
+            "album": "\u05dc\u05d4\u05e8\u05d2\u05d9\u05e9",
+            "release_date": "2001-01-01",
+            "genres": [
+                "classic israeli pop",
+                "israeli rock"
+            ],
+            "duration": 228933,
+            "acousticness": 0.309,
+            "danceability": 3.9970000000000003,
+            "instrumentalness": 8.31e-06,
+            "liveness": 0.182,
+            "loudness": -7.756,
+            "speechiness": 0.0296,
+            "time_signature": 4,
+            "happiness": 4.636
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "\u05d1\u05d5\u05d0\u05d9 \u05e0\u05e2\u05d6\u05d5\u05d1",
+        "Artist": "Elai Botner, Ran Danker",
+        "Key": "12A",
+        "Energy": 7.183000000000001,
+        "Popularity": 1.0,
+        "BPM": 102,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "7a5eaCNSzbp2oKIx7C8Ugj",
+            "explicit": false,
+            "album": "\u05e9\u05d5\u05d5\u05d9\u05dd",
+            "release_date": "2007-08-16",
+            "genres": [
+                "israeli pop",
+                "festigal",
+                "israeli pop"
+            ],
+            "duration": 250773,
+            "acousticness": 0.378,
+            "danceability": 6.337,
+            "instrumentalness": 0,
+            "liveness": 0.0586,
+            "loudness": -5.485,
+            "speechiness": 0.0281,
+            "time_signature": 4,
+            "happiness": 4.024
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "\u05e9\u05d9\u05e8 \u05d1\u05e2\u05e4\u05e8\u05d5\u05df",
+        "Artist": "Beit Habubot",
+        "Key": "11A",
+        "Energy": 5.005,
+        "Popularity": 4.96,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "1vBRipAlR5MO9jAaabbW7f",
+            "explicit": false,
+            "album": "\u05de\u05d3\u05e4\u05d9\u05dd",
+            "release_date": "2005-01-01",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 230093,
+            "acousticness": 0.125,
+            "danceability": 6.634,
+            "instrumentalness": 3.12e-06,
+            "liveness": 0.0906,
+            "loudness": -9.582,
+            "speechiness": 0.0295,
+            "time_signature": 4,
+            "happiness": 3.052
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "\u05de\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05da \u05d9\u05d5\u05ea\u05e8 \u05de\u05de\u05e0\u05d9?",
+        "Artist": "Arkadi Duchin",
+        "Key": "2B",
+        "Energy": 4.348,
+        "Popularity": 1.0,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "0KuDlu7zsdvVEPkXQkeq5v",
+            "explicit": false,
+            "album": "\u05d9\u05d5\u05ea\u05e8 \u05de\u05de\u05e0\u05d9 - \u05d0\u05d5\u05e1\u05e3",
+            "release_date": "2004-01-01",
+            "genres": [
+                "classic israeli pop",
+                "israeli rock"
+            ],
+            "duration": 226933,
+            "acousticness": 0.564,
+            "danceability": 5.599,
+            "instrumentalness": 0.00963,
+            "liveness": 0.127,
+            "loudness": -8.624,
+            "speechiness": 0.0278,
+            "time_signature": 4,
+            "happiness": 2.773
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "\u05de\u05e2\u05dc\u05d9\u05d5\u05ea",
+        "Artist": "Dudu Tassa, Roni Alter",
+        "Key": "9A",
+        "Energy": 3.9970000000000003,
+        "Popularity": 1.0,
+        "BPM": 143,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "6DmmH8JIYRW5yvEB5BDmmd",
+            "explicit": false,
+            "album": "\u05dc\u05d5\u05dc\u05d4",
+            "release_date": "2006-07-05",
+            "genres": [
+                "israeli pop",
+                "israeli rock",
+                "israeli singer-songwriter",
+                "israeli singer-songwriter"
+            ],
+            "duration": 182480,
+            "acousticness": 0.721,
+            "danceability": 6.463,
+            "instrumentalness": 0,
+            "liveness": 0.0895,
+            "loudness": -8.303,
+            "speechiness": 0.0307,
+            "time_signature": 4,
+            "happiness": 4.744
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "\u05d0\u05e0\u05d9 \u05d0\u05e9",
+        "Artist": "Elai Botner, Ran Danker",
+        "Key": "8B",
+        "Energy": 6.823,
+        "Popularity": 1.0,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "1QWGW2mfh85hxbAOlozUQC",
+            "explicit": false,
+            "album": "\u05e9\u05d5\u05d5\u05d9\u05dd",
+            "release_date": "2007-08-16",
+            "genres": [
+                "israeli pop",
+                "festigal",
+                "israeli pop"
+            ],
+            "duration": 207507,
+            "acousticness": 0.144,
+            "danceability": 6.787,
+            "instrumentalness": 4.52e-06,
+            "liveness": 0.183,
+            "loudness": -4.451,
+            "speechiness": 0.0281,
+            "time_signature": 4,
+            "happiness": 6.724
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "\u05d5\u05d0\u05ea",
+        "Artist": "Harel Skaat",
+        "Key": "2A",
+        "Energy": 2.6559999999999997,
+        "Popularity": 1.0,
+        "BPM": 121,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "78dgPOTXplwqdjfweKq8TN",
+            "explicit": false,
+            "album": "\u05d4\u05e8\u05d0\u05dc \u05e1\u05e7\u05e2\u05ea",
+            "release_date": "2006-03-07",
+            "genres": [
+                "festigal",
+                "israeli pop"
+            ],
+            "duration": 218840,
+            "acousticness": 0.91,
+            "danceability": 4.843,
+            "instrumentalness": 0,
+            "liveness": 0.164,
+            "loudness": -12.268,
+            "speechiness": 0.0388,
+            "time_signature": 3,
+            "happiness": 5.077
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "\u05dc\u05e9\u05dd",
+        "Artist": "Miri Mesika",
+        "Key": "1A",
+        "Energy": 6.7780000000000005,
+        "Popularity": 4.6,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "0kz1BWeXgQHPb6LkuQ9zkw",
+            "explicit": false,
+            "album": "\u05de\u05d9\u05e8\u05d9 \u05de\u05e1\u05d9\u05e7\u05d4",
+            "release_date": "2005-01-01",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 240440,
+            "acousticness": 0.0746,
+            "danceability": 4.573,
+            "instrumentalness": 1.32e-06,
+            "liveness": 0.0869,
+            "loudness": -6.653,
+            "speechiness": 0.0434,
+            "time_signature": 4,
+            "happiness": 1.7056
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "\u05de\u05d1\u05d5\u05dc",
+        "Artist": "Keren Peles",
+        "Key": "5A",
+        "Energy": 7.795,
+        "Popularity": 1.0,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7B0xsfbI6q4h0NWMjqmZXk",
+            "explicit": false,
+            "album": "\u05de\u05d1\u05d5\u05dc",
+            "release_date": "2008-02-04",
+            "genres": [
+                "israeli singer-songwriter"
+            ],
+            "duration": 252467,
+            "acousticness": 0.162,
+            "danceability": 5.6080000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.204,
+            "loudness": -3.459,
+            "speechiness": 0.0495,
+            "time_signature": 4,
+            "happiness": 8.398
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "\u05d4\u05dc\u05d1",
+        "Artist": "Maya Buskila",
+        "Key": "9A",
+        "Energy": 9.379000000000001,
+        "Popularity": 3.43,
+        "BPM": 133,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "4qqgGwBMczLVx1tCvOron9",
+            "explicit": false,
+            "album": "\u05e1\u05d9\u05e4\u05d5\u05e8 \u05de\u05db\u05d5\u05e8",
+            "release_date": "2004-04-16",
+            "genres": [
+                "festigal"
+            ],
+            "duration": 193853,
+            "acousticness": 0.389,
+            "danceability": 5.167,
+            "instrumentalness": 0.00032,
+            "liveness": 0.323,
+            "loudness": -3.565,
+            "speechiness": 0.122,
+            "time_signature": 4,
+            "happiness": 6.301
+        }
+    },
+    {
+        "#": 52,
+        "Track Title": "\u05e1\u05d9\u05e4\u05d5\u05e8 \u05de\u05db\u05d5\u05e8",
+        "Artist": "Maya Buskila",
+        "Key": "11A",
+        "Energy": 6.346,
+        "Popularity": 3.16,
+        "BPM": 134,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "29ZMNxgnctWU45NdvBtiX6",
+            "explicit": false,
+            "album": "\u05e1\u05d9\u05e4\u05d5\u05e8 \u05de\u05db\u05d5\u05e8",
+            "release_date": "2004-04-16",
+            "genres": [
+                "festigal"
+            ],
+            "duration": 267587,
+            "acousticness": 0.775,
+            "danceability": 6.022,
+            "instrumentalness": 0.000163,
+            "liveness": 0.0882,
+            "loudness": -4.052,
+            "speechiness": 0.0297,
+            "time_signature": 4,
+            "happiness": 4.078
+        }
+    },
+    {
+        "#": 53,
+        "Track Title": "\u05d1\u05dc\u05e2\u05d3\u05d9\u05d9\u05da",
+        "Artist": "Maya Buskila",
+        "Key": "8A",
+        "Energy": 9.217,
+        "Popularity": 2.8899999999999997,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "4mQTE5hi898RWoFu3qRePx",
+            "explicit": false,
+            "album": "\u05d9\u05de\u05d9\u05dd \u05e9\u05dc \u05d0\u05d4\u05d1\u05d4",
+            "release_date": "2008-01-01",
+            "genres": [
+                "festigal"
+            ],
+            "duration": 212160,
+            "acousticness": 0.0342,
+            "danceability": 6.706,
+            "instrumentalness": 0,
+            "liveness": 0.276,
+            "loudness": -3.561,
+            "speechiness": 0.0415,
+            "time_signature": 4,
+            "happiness": 3.025
+        }
+    },
+    {
+        "#": 54,
+        "Track Title": "Shir Ahava Indiani (Miguel)",
+        "Artist": "Alma Zohar",
+        "Key": "12A",
+        "Energy": 7.4799999999999995,
+        "Popularity": 5.05,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5j9UHXux8JYPpmapZgOIBw",
+            "explicit": false,
+            "album": "Dabri",
+            "release_date": "2008",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 248686,
+            "acousticness": 0.361,
+            "danceability": 7.561,
+            "instrumentalness": 6.84e-05,
+            "liveness": 0.0707,
+            "loudness": -5.615,
+            "speechiness": 0.0586,
+            "time_signature": 4,
+            "happiness": 7.759
+        }
+    },
+    {
+        "#": 55,
+        "Track Title": "\u05e0\u05e8\u05e0\u05d9\u05d4 \u05d6\u05d4 \u05db\u05de\u05d5 \u05e8\u05de\u05ea \u05d2\u05df",
+        "Artist": "Oded Paz, Ilan Rosenfeld, Kobi Farag",
+        "Key": "12A",
+        "Energy": 8.407,
+        "Popularity": 1.0,
+        "BPM": 147,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5VSA85u1C8RBjvmxeTHrnx",
+            "explicit": false,
+            "album": "\u05e4\u05e1\u05d8\u05d9\u05d2\u05dc \u05d2\u05d9\u05d1\u05d5\u05e8\u05d9 \u05d4\u05de\u05de\u05dc\u05db\u05d4 \u05d4\u05d0\u05d1\u05d5\u05d3\u05d4 (2006)",
+            "release_date": "2006-12-01",
+            "genres": [
+                "festigal"
+            ],
+            "duration": 198080,
+            "acousticness": 0.587,
+            "danceability": 7.0840000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.167,
+            "loudness": -7.339,
+            "speechiness": 0.0418,
+            "time_signature": 4,
+            "happiness": 9.298
+        }
+    },
+    {
+        "#": 56,
+        "Track Title": "\u05d0\u05d6 \u05de\u05d4",
+        "Artist": "Margalit Tzan'ani",
+        "Key": "4B",
+        "Energy": 8.803,
+        "Popularity": 5.2299999999999995,
+        "BPM": 108,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Mizrahit",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "03DcpryHcONqKi2uKXK5Ow",
+            "explicit": false,
+            "album": "\u05d2\u05dc\u05d4 \u05dc\u05d9",
+            "release_date": "2005-01-01",
+            "genres": [
+                "classic israeli pop",
+                "mizrahi"
+            ],
+            "duration": 253507,
+            "acousticness": 0.0711,
+            "danceability": 7.345,
+            "instrumentalness": 0,
+            "liveness": 0.356,
+            "loudness": -4.276,
+            "speechiness": 0.0267,
+            "time_signature": 4,
+            "happiness": 9.685
+        }
+    },
+    {
+        "#": 57,
+        "Track Title": "\u05d0\u05e9\u05dd",
+        "Artist": "Synergia",
+        "Key": "1A",
+        "Energy": 8.937999999999999,
+        "Popularity": 1.0,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "3Hmav3TdzpisKmol2gOXeJ",
+            "explicit": false,
+            "album": "\u05de\u05e8\u05d2\u05d9\u05e9 \u05d0\u05d7\u05e8",
+            "release_date": "2006-09-01",
+            "genres": [
+                "israeli rock"
+            ],
+            "duration": 270013,
+            "acousticness": 0.0523,
+            "danceability": 5.635,
+            "instrumentalness": 1.1e-06,
+            "liveness": 0.148,
+            "loudness": -3.463,
+            "speechiness": 0.0622,
+            "time_signature": 4,
+            "happiness": 6.904
+        }
+    },
+    {
+        "#": 58,
+        "Track Title": "\u05de\u05d4\u05de\u05e8\u05d7\u05e7\u05d9\u05dd",
+        "Artist": "Gali Atari, Sagiv Cohen",
+        "Key": "1B",
+        "Energy": 5.473,
+        "Popularity": 1.0,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Mizrahit"
+        ],
+        "Additional Info": {
+            "id": "0QzA8KYIH6rQHXsNhxfzZf",
+            "explicit": false,
+            "album": "\u05d1\u05d9\u05df \u05d4\u05d0\u05e9 \u05d5\u05d1\u05d9\u05df \u05d4\u05de\u05d9\u05dd",
+            "release_date": "2008-09-07",
+            "genres": [
+                "classic israeli pop",
+                "mizrahi"
+            ],
+            "duration": 289040,
+            "acousticness": 0.589,
+            "danceability": 6.103,
+            "instrumentalness": 0,
+            "liveness": 0.279,
+            "loudness": -7.286,
+            "speechiness": 0.0236,
+            "time_signature": 4,
+            "happiness": 2.5300000000000002
+        }
+    },
+    {
+        "#": 59,
+        "Track Title": "\u05e0\u05d5\u05d1\u05de\u05d1\u05e8",
+        "Artist": "Miri Mesika",
+        "Key": "11B",
+        "Energy": 7.831,
+        "Popularity": 4.51,
+        "BPM": 135,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "43p28wQBFKN8DS5925Matp",
+            "explicit": false,
+            "album": "\u05de\u05d9\u05e8\u05d9 \u05de\u05e1\u05d9\u05e7\u05d4",
+            "release_date": "2005-01-01",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 208693,
+            "acousticness": 0.112,
+            "danceability": 6.688,
+            "instrumentalness": 0,
+            "liveness": 0.113,
+            "loudness": -5.792,
+            "speechiness": 0.0415,
+            "time_signature": 4,
+            "happiness": 7.66
+        }
+    },
+    {
+        "#": 60,
+        "Track Title": "\u05de\u05e9\u05d4\u05d5 \u05de\u05de\u05e0\u05d9",
+        "Artist": "Harel Skaat",
+        "Key": "8B",
+        "Energy": 6.22,
+        "Popularity": 1.0,
+        "BPM": 79,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "031E8SZDFkGuTgpvpYWGoK",
+            "explicit": false,
+            "album": "\u05d4\u05e8\u05d0\u05dc \u05e1\u05e7\u05e2\u05ea",
+            "release_date": "2006-03-07",
+            "genres": [
+                "festigal",
+                "israeli pop"
+            ],
+            "duration": 254493,
+            "acousticness": 0.09,
+            "danceability": 4.717,
+            "instrumentalness": 0,
+            "liveness": 0.342,
+            "loudness": -4.62,
+            "speechiness": 0.0277,
+            "time_signature": 4,
+            "happiness": 1.963
+        }
+    },
+    {
+        "#": 61,
+        "Track Title": "\u05e8\u05db\u05d1\u05ea \u05dc\u05e6\u05e4\u05d5\u05df",
+        "Artist": "Assaf Amdursky",
+        "Key": "7B",
+        "Energy": 8.821,
+        "Popularity": 1.0,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7xACNRZiNLzj2gyfFVZrI3",
+            "explicit": false,
+            "album": "\u05d4\u05e8\u05d9 \u05d0\u05ea",
+            "release_date": "2008-01-01",
+            "genres": [
+                "israeli rock"
+            ],
+            "duration": 251693,
+            "acousticness": 0.0233,
+            "danceability": 6.346,
+            "instrumentalness": 0.00491,
+            "liveness": 0.53,
+            "loudness": -5.199,
+            "speechiness": 0.0304,
+            "time_signature": 3,
+            "happiness": 9.019
+        }
+    },
+    {
+        "#": 62,
+        "Track Title": "\u05e4\u05e8\u05e4\u05e8\u05d9\u05dd",
+        "Artist": "Uri Banai",
+        "Key": "1A",
+        "Energy": 7.372,
+        "Popularity": 1.0,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7C6aBVq54SEWDY76bZGvJ0",
+            "explicit": false,
+            "album": "\u05e4\u05e8\u05e4\u05e8\u05d9\u05dd",
+            "release_date": "2000-01-01",
+            "genres": [],
+            "duration": 246360,
+            "acousticness": 0.00174,
+            "danceability": 6.661,
+            "instrumentalness": 2.49e-05,
+            "liveness": 0.302,
+            "loudness": -8.235,
+            "speechiness": 0.0254,
+            "time_signature": 4,
+            "happiness": 7.165000000000001
+        }
+    },
+    {
+        "#": 63,
+        "Track Title": "\u05db\u05de\u05d4 \u05e2\u05d5\u05d3 \u05d0\u05e4\u05e9\u05e8",
+        "Artist": "Harel Skaat",
+        "Key": "11B",
+        "Energy": 7.335999999999999,
+        "Popularity": 1.0,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "1qbleovieFzt9syTjiF98Y",
+            "explicit": false,
+            "album": "\u05d4\u05e8\u05d0\u05dc \u05e1\u05e7\u05e2\u05ea",
+            "release_date": "2006-03-07",
+            "genres": [
+                "festigal",
+                "israeli pop"
+            ],
+            "duration": 260707,
+            "acousticness": 0.136,
+            "danceability": 5.2299999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.066,
+            "loudness": -3.705,
+            "speechiness": 0.0322,
+            "time_signature": 4,
+            "happiness": 4.5280000000000005
+        }
+    },
+    {
+        "#": 64,
+        "Track Title": "\u05e8\u05d1\u05d5\u05ea \u05d4\u05d3\u05e8\u05db\u05d9\u05dd",
+        "Artist": "Daniel Salomon",
+        "Key": "9A",
+        "Energy": 3.484,
+        "Popularity": 1.0,
+        "BPM": 67,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "0ji8zDeUxs4pWL6OD1bB7w",
+            "explicit": false,
+            "album": "\u05e8\u05d1\u05d5\u05ea \u05d4\u05d3\u05e8\u05db\u05d9\u05dd",
+            "release_date": "2005-01-01",
+            "genres": [
+                "classic israeli pop",
+                "israeli pop"
+            ],
+            "duration": 270667,
+            "acousticness": 0.643,
+            "danceability": 5.797000000000001,
+            "instrumentalness": 1.03e-06,
+            "liveness": 0.108,
+            "loudness": -9.305,
+            "speechiness": 0.027,
+            "time_signature": 4,
+            "happiness": 1.5814
+        }
+    },
+    {
+        "#": 65,
+        "Track Title": "Shir Hafreicha",
+        "Artist": "Ofra Haza",
+        "Key": "6A",
+        "Energy": 4.824999999999999,
+        "Popularity": 4.0600000000000005,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "80s",
+            "Mizrahit"
+        ],
+        "Additional Info": {
+            "id": "2KFOUFc73iXD53vRzivVwL",
+            "explicit": false,
+            "album": "Al Ahavot Shelanu",
+            "release_date": "1980",
+            "genres": [
+                "classic israeli pop",
+                "israeli singer-songwriter",
+                "mizrahi",
+                "world"
+            ],
+            "duration": 148349,
+            "acousticness": 0.774,
+            "danceability": 6.913,
+            "instrumentalness": 0,
+            "liveness": 0.138,
+            "loudness": -10.331,
+            "speechiness": 0.0481,
+            "time_signature": 4,
+            "happiness": 6.427
+        }
+    },
+    {
+        "#": 66,
+        "Track Title": "\u05d0\u05d9\u05ea\u05d9",
+        "Artist": "Keren Peles",
+        "Key": "1B",
+        "Energy": 4.636,
+        "Popularity": 1.0,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "44tZuCt7cz71rpBYBBAbsx",
+            "explicit": false,
+            "album": "\u05d0\u05dd \u05d0\u05dc\u05d4 \u05d4\u05d7\u05d9\u05d9\u05dd",
+            "release_date": "2006-11-07",
+            "genres": [
+                "israeli singer-songwriter"
+            ],
+            "duration": 160333,
+            "acousticness": 0.78,
+            "danceability": 6.228999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.169,
+            "loudness": -8.273,
+            "speechiness": 0.0524,
+            "time_signature": 4,
+            "happiness": 5.266
+        }
+    },
+    {
+        "#": 67,
+        "Track Title": "\u05d4\u05d0\u05dd \u05dc\u05d4\u05d9\u05d5\u05ea \u05d1\u05da \u05de\u05d0\u05d5\u05d4\u05d1",
+        "Artist": "Aviv Geffen",
+        "Key": "9B",
+        "Energy": 3.358,
+        "Popularity": 1.0,
+        "BPM": 107,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "90s"
+        ],
+        "Additional Info": {
+            "id": "2yBhkks90HqXOKhNCQimYW",
+            "explicit": false,
+            "album": "\u05d4\u05e9\u05dc\u05d9\u05e9\u05d9",
+            "release_date": "1994-01-04",
+            "genres": [
+                "israeli rock"
+            ],
+            "duration": 158093,
+            "acousticness": 0.905,
+            "danceability": 5.491,
+            "instrumentalness": 0.000485,
+            "liveness": 0.122,
+            "loudness": -14.224,
+            "speechiness": 0.0281,
+            "time_signature": 4,
+            "happiness": 3.16
+        }
+    },
+    {
+        "#": 68,
+        "Track Title": "Hashaot Haktanot",
+        "Artist": "Niv Demirel",
+        "Key": "3A",
+        "Energy": 7.462,
+        "Popularity": 1.0,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2010s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "2UTkrmMCsDZmIWk4OUhWjW",
+            "explicit": false,
+            "album": "Bein Hasimanim",
+            "release_date": "2017-03-19",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop"
+            ],
+            "duration": 202480,
+            "acousticness": 0.0934,
+            "danceability": 5.5,
+            "instrumentalness": 0,
+            "liveness": 0.096,
+            "loudness": -6.942,
+            "speechiness": 0.0335,
+            "time_signature": 4,
+            "happiness": 3.1149999999999998
+        }
+    },
+    {
+        "#": 69,
+        "Track Title": "\u05de\u05e9\u05d4\u05d5 \u05e7\u05d8\u05df \u05d5\u05d8\u05d5\u05d1",
+        "Artist": "Mashina",
+        "Key": "9B",
+        "Energy": 7.75,
+        "Popularity": 1.0,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2010s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "4YBtAHRn9rYNuMO4lkxpgr",
+            "explicit": false,
+            "album": "\u05e2\u05e1\u05e7\u05d9 \u05d4\u05e8\u05d5\u05e7\u05e0\u05e8\u05d5\u05dc- \u05d0\u05d5\u05e1\u05e3 \u05db\u05e4\u05d5\u05dc",
+            "release_date": "2010-11-01",
+            "genres": [
+                "classic israeli pop",
+                "israeli rock"
+            ],
+            "duration": 281373,
+            "acousticness": 0.0837,
+            "danceability": 6.877000000000001,
+            "instrumentalness": 0.000109,
+            "liveness": 0.0867,
+            "loudness": -4.924,
+            "speechiness": 0.0271,
+            "time_signature": 4,
+            "happiness": 2.062
+        }
+    },
+    {
+        "#": 70,
+        "Track Title": "\u05d0\u05de\u05e6\u05e2 \u05d4\u05dc\u05d9\u05dc\u05d4 \u05d1\u05db\u05e4\u05e8",
+        "Artist": "Harel Moyal",
+        "Key": "1A",
+        "Energy": 8.866,
+        "Popularity": 1.0,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "2EkCL4RUPDLz4vlktE8v2N",
+            "explicit": false,
+            "album": "\u05d4\u05e8\u05d0\u05dc \u05de\u05d5\u05d9\u05d0\u05dc",
+            "release_date": "2005-01-01",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop"
+            ],
+            "duration": 257707,
+            "acousticness": 0.016,
+            "danceability": 6.2379999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.102,
+            "loudness": -4.54,
+            "speechiness": 0.0378,
+            "time_signature": 4,
+            "happiness": 5.644
+        }
+    },
+    {
+        "#": 71,
+        "Track Title": "\u05e1\u05d9\u05de\u05e0\u05d9\u05dd",
+        "Artist": "Harel Moyal",
+        "Key": "1A",
+        "Energy": 7.93,
+        "Popularity": 1.0,
+        "BPM": 132,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "2m2qHTRycVp2FJRmE2S98J",
+            "explicit": false,
+            "album": "\u05d4\u05e8\u05d0\u05dc \u05de\u05d5\u05d9\u05d0\u05dc",
+            "release_date": "2005-01-01",
+            "genres": [
+                "israeli mediterranean",
+                "israeli pop"
+            ],
+            "duration": 253440,
+            "acousticness": 0.177,
+            "danceability": 7.048,
+            "instrumentalness": 0,
+            "liveness": 0.151,
+            "loudness": -4.278,
+            "speechiness": 0.0294,
+            "time_signature": 4,
+            "happiness": 6.463
+        }
+    },
+    {
+        "#": 72,
+        "Track Title": "\u05d9\u05dc\u05d3\u05d4 \u05e1\u05d5\u05db\u05e8",
+        "Artist": "Mooki",
+        "Key": "12A",
+        "Energy": 8.992,
+        "Popularity": 1.0,
+        "BPM": 112,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0R72UXv94YqAPHOaOOC27G",
+            "explicit": false,
+            "album": "\u05e9\u05de\u05e2 \u05d9\u05e9\u05e8\u05d0\u05dc",
+            "release_date": "2002-01-01",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 166973,
+            "acousticness": 0.00439,
+            "danceability": 7.282,
+            "instrumentalness": 0.000451,
+            "liveness": 0.145,
+            "loudness": -3.587,
+            "speechiness": 0.0347,
+            "time_signature": 4,
+            "happiness": 7.804
+        }
+    },
+    {
+        "#": 73,
+        "Track Title": "\u05db\u05dc \u05d4\u05e6\u05d9\u05e4\u05d5\u05e8\u05d9\u05dd",
+        "Artist": "Harel Skaat",
+        "Key": "4A",
+        "Energy": 8.236,
+        "Popularity": 1.0,
+        "BPM": 129,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "63iCb2Rm8ihpTWu8iyvNsO",
+            "explicit": false,
+            "album": "\u05d4\u05e8\u05d0\u05dc \u05e1\u05e7\u05e2\u05ea",
+            "release_date": "2006-03-07",
+            "genres": [
+                "festigal",
+                "israeli pop"
+            ],
+            "duration": 259240,
+            "acousticness": 0.207,
+            "danceability": 6.679,
+            "instrumentalness": 0,
+            "liveness": 0.133,
+            "loudness": -5.235,
+            "speechiness": 0.053,
+            "time_signature": 4,
+            "happiness": 6.661
+        }
+    },
+    {
+        "#": 74,
+        "Track Title": "\u05d4\u05d9\u05d0 \u05dc\u05d0 \u05ea\u05d3\u05e2",
+        "Artist": "Gazoz",
+        "Key": "11A",
+        "Energy": 4.609,
+        "Popularity": 1.0,
+        "BPM": 119,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4vOGYiYo081DQNC1pnBAfb",
+            "explicit": false,
+            "album": "\u05d2\u05d6\u05d5\u05d6 - 20 \u05d4\u05dc\u05d4\u05d9\u05d8\u05d9\u05dd",
+            "release_date": "2002-01-01",
+            "genres": [
+                "classic israeli pop",
+                "israeli rock"
+            ],
+            "duration": 242120,
+            "acousticness": 0.461,
+            "danceability": 7.588,
+            "instrumentalness": 2.51e-06,
+            "liveness": 0.129,
+            "loudness": -7.21,
+            "speechiness": 0.0388,
+            "time_signature": 4,
+            "happiness": 8.460999999999999
+        }
+    },
+    {
+        "#": 75,
+        "Track Title": "\u05d8\u05d5\u05e8\u05d5",
+        "Artist": "Subliminal, Alon De Loco, Itzik Shamli",
+        "Key": "1A",
+        "Energy": 8.748999999999999,
+        "Popularity": 1.0,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Hip Hop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "6sVZeiNyyRVWkMJ2GooboK",
+            "explicit": false,
+            "album": "\u05d1\u05d3\u05d9\u05d5\u05e7 \u05db\u05e9\u05d7\u05e9\u05d1\u05ea\u05dd \u05e9\u05d4\u05db\u05dc \u05e0\u05d2\u05de\u05e8",
+            "release_date": "2006-01-01",
+            "genres": [
+                "israeli hip hop",
+                "israeli hip hop"
+            ],
+            "duration": 254093,
+            "acousticness": 0.288,
+            "danceability": 7.5249999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.169,
+            "loudness": -7.649,
+            "speechiness": 0.128,
+            "time_signature": 4,
+            "happiness": 6.688
+        }
+    },
+    {
+        "#": 76,
+        "Track Title": "\u05d9\u05e7\u05d9\u05e8\u05ea\u05d9",
+        "Artist": "Assaf Amdursky",
+        "Key": "10B",
+        "Energy": 3.817,
+        "Popularity": 1.0,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "90s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "0rMVZRlWSHdv4QS6Y0kFiB",
+            "explicit": false,
+            "album": "\u05d0\u05e1\u05e3 \u05d0\u05de\u05d3\u05d5\u05e8\u05e1\u05e7\u05d9",
+            "release_date": "1994-01-01",
+            "genres": [
+                "israeli rock"
+            ],
+            "duration": 210373,
+            "acousticness": 0.0181,
+            "danceability": 6.715,
+            "instrumentalness": 0.0011,
+            "liveness": 0.11,
+            "loudness": -11.114,
+            "speechiness": 0.0315,
+            "time_signature": 4,
+            "happiness": 2.296
+        }
+    },
+    {
+        "#": 77,
+        "Track Title": "\u05e0\u05d5\u05e4\u05dc \u05d5\u05e7\u05dd",
+        "Artist": "Shabak Samech",
+        "Key": "4A",
+        "Energy": 7.452999999999999,
+        "Popularity": 1.0,
+        "BPM": 102,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Hip Hop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "4sMo7UFmmg6knn8tqowxzl",
+            "explicit": false,
+            "album": "\u05db\u05e0\u05e2\u05df 2000",
+            "release_date": "2000-01-19",
+            "genres": [
+                "classic israeli pop",
+                "israeli hip hop",
+                "jewish hip hop"
+            ],
+            "duration": 237080,
+            "acousticness": 0.125,
+            "danceability": 6.751,
+            "instrumentalness": 0,
+            "liveness": 0.0813,
+            "loudness": -6.584,
+            "speechiness": 0.211,
+            "time_signature": 4,
+            "happiness": 4.078
+        }
+    },
+    {
+        "#": 78,
+        "Track Title": "\u05d1\u05d9\u05df \u05d4\u05d7\u05dc\u05d5\u05de\u05d5\u05ea",
+        "Artist": "Dor Daniel",
+        "Key": "2B",
+        "Energy": 7.813,
+        "Popularity": 3.34,
+        "BPM": 103,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "3Qn8raXXqS9fq099D5aFLS",
+            "explicit": false,
+            "album": "\u05d1\u05d9\u05df \u05d4\u05d7\u05dc\u05d5\u05de\u05d5\u05ea",
+            "release_date": "2009-01-01",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 222973,
+            "acousticness": 0.398,
+            "danceability": 5.8420000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.318,
+            "loudness": -3.902,
+            "speechiness": 0.0273,
+            "time_signature": 4,
+            "happiness": 5.626
+        }
+    },
+    {
+        "#": 79,
+        "Track Title": "\u05e7\u05d5\u05e8\u05d0 \u05dc\u05da",
+        "Artist": "Dor Daniel",
+        "Key": "2A",
+        "Energy": 8.731,
+        "Popularity": 3.0700000000000003,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2010s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "2GPg9ukLh6FGmzwvoTZbIh",
+            "explicit": false,
+            "album": "\u05e2\u05e9\u05e8\u05d4 \u05d7\u05d5\u05d3\u05e9\u05d9\u05dd",
+            "release_date": "2011-01-01",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 239440,
+            "acousticness": 0.0473,
+            "danceability": 5.266,
+            "instrumentalness": 0,
+            "liveness": 0.366,
+            "loudness": -6.247,
+            "speechiness": 0.0422,
+            "time_signature": 4,
+            "happiness": 4.933
+        }
+    },
+    {
+        "#": 80,
+        "Track Title": "\u05dc\u05d1 \u05d0\u05de\u05d9\u05e5",
+        "Artist": "Ran Danker",
+        "Key": "3B",
+        "Energy": 7.561,
+        "Popularity": 1.0,
+        "BPM": 116,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "2GsMrQLLYNsqzPRUPscAZa",
+            "explicit": false,
+            "album": "\u05e4\u05e1\u05d8\u05d9\u05d2\u05dc \u05d2\u05d9\u05d1\u05d5\u05e8\u05d9 \u05d4\u05de\u05de\u05dc\u05db\u05d4 \u05d4\u05d0\u05d1\u05d5\u05d3\u05d4 (2006)",
+            "release_date": "2006-12-01",
+            "genres": [
+                "festigal",
+                "israeli pop"
+            ],
+            "duration": 206000,
+            "acousticness": 0.215,
+            "danceability": 5.86,
+            "instrumentalness": 0,
+            "liveness": 0.228,
+            "loudness": -6.014,
+            "speechiness": 0.042,
+            "time_signature": 4,
+            "happiness": 5.869000000000001
+        }
+    },
+    {
+        "#": 81,
+        "Track Title": "\u05de\u05dc\u05db\u05d4 \u05e7\u05e8\u05d4",
+        "Artist": "Liraz Charhi",
+        "Key": "2A",
+        "Energy": 8.434,
+        "Popularity": 1.0,
+        "BPM": 150,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "2qV7cVBBC14EczihnUM1M5",
+            "explicit": false,
+            "album": "\u05e4\u05e1\u05d8\u05d9\u05d2\u05dc \u05d2\u05d9\u05d1\u05d5\u05e8\u05d9 \u05d4\u05de\u05de\u05dc\u05db\u05d4 \u05d4\u05d0\u05d1\u05d5\u05d3\u05d4 (2006)",
+            "release_date": "2006-12-01",
+            "genres": [
+                "festigal"
+            ],
+            "duration": 179760,
+            "acousticness": 0.0503,
+            "danceability": 5.491,
+            "instrumentalness": 0,
+            "liveness": 0.21,
+            "loudness": -5.431,
+            "speechiness": 0.173,
+            "time_signature": 4,
+            "happiness": 4.555
+        }
+    },
+    {
+        "#": 82,
+        "Track Title": "\u05d0\u05dc \u05ea\u05d5\u05d5\u05ea\u05e8",
+        "Artist": "Amir Fryszer Guttman",
+        "Key": "2B",
+        "Energy": 8.956,
+        "Popularity": 1.0,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0oHiz9SgZwsW30m1Xxcld6",
+            "explicit": false,
+            "album": "\u05e4\u05e1\u05d8\u05d9\u05d2\u05dc \u05e2\u05dc \u05d4\u05d6\u05de\u05df (2007)",
+            "release_date": "2007-12-01",
+            "genres": [
+                "festigal"
+            ],
+            "duration": 183667,
+            "acousticness": 0.0585,
+            "danceability": 7.651,
+            "instrumentalness": 0,
+            "liveness": 0.158,
+            "loudness": -4.478,
+            "speechiness": 0.0342,
+            "time_signature": 4,
+            "happiness": 9.622
+        }
+    },
+    {
+        "#": 83,
+        "Track Title": "\u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc \u05d4\u05e2\u05ea\u05d9\u05d3",
+        "Artist": "Eliana Tidhar, Tuval Shafir",
+        "Key": "2A",
+        "Energy": 9.064,
+        "Popularity": 1.0,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2010s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "4TU4QbBdztKL1JnNgzK8dO",
+            "explicit": false,
+            "album": "i \u05e4\u05e1\u05d8\u05d9\u05d2\u05dc Game On (2011)",
+            "release_date": "2011-12-01",
+            "genres": [
+                "festigal",
+                "israeli pop",
+                "festigal"
+            ],
+            "duration": 192894,
+            "acousticness": 0.00851,
+            "danceability": 4.789,
+            "instrumentalness": 0,
+            "liveness": 0.0223,
+            "loudness": -4.472,
+            "speechiness": 0.143,
+            "time_signature": 4,
+            "happiness": 5.59
+        }
+    },
+    {
+        "#": 84,
+        "Track Title": "\u05d0\u05d4\u05d1\u05d4",
+        "Artist": "Daniel Salomon",
+        "Key": "10B",
+        "Energy": 5.824,
+        "Popularity": 1.0,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "7MFJxxWgCJBqwaHvs56a2f",
+            "explicit": false,
+            "album": "\u05e8\u05d1\u05d5\u05ea \u05d4\u05d3\u05e8\u05db\u05d9\u05dd",
+            "release_date": "2005-01-01",
+            "genres": [
+                "classic israeli pop",
+                "israeli pop"
+            ],
+            "duration": 266720,
+            "acousticness": 0.0602,
+            "danceability": 4.663,
+            "instrumentalness": 2.93e-06,
+            "liveness": 0.36,
+            "loudness": -6.095,
+            "speechiness": 0.0269,
+            "time_signature": 3,
+            "happiness": 2.431
+        }
+    },
+    {
+        "#": 85,
+        "Track Title": "\u05e0\u05d9\u05e1\u05d9\u05dd",
+        "Artist": "Ivri Lider",
+        "Key": "7A",
+        "Energy": 8.668,
+        "Popularity": 3.61,
+        "BPM": 106,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2010s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "4I4b9tnAsV2a0fDHx6fTRt",
+            "explicit": false,
+            "album": "\u05e7\u05d9\u05e1\u05e8\u05d9\u05d4 \u05dc\u05d9\u05d9\u05d1 (Live)",
+            "release_date": "2017-01-01",
+            "genres": [
+                "israeli pop",
+                "israeli rock",
+                "israeli singer-songwriter"
+            ],
+            "duration": 276907,
+            "acousticness": 0.0101,
+            "danceability": 7.191999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.593,
+            "loudness": -6.651,
+            "speechiness": 0.0318,
+            "time_signature": 4,
+            "happiness": 6.49
+        }
+    },
+    {
+        "#": 86,
+        "Track Title": "\u05e9\u05d5\u05d5\u05d9\u05dd",
+        "Artist": "Elai Botner, Ran Danker",
+        "Key": "1A",
+        "Energy": 3.988,
+        "Popularity": 1.0,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "473arymV35aJX7itxBJh4p",
+            "explicit": false,
+            "album": "\u05e9\u05d5\u05d5\u05d9\u05dd",
+            "release_date": "2007-08-16",
+            "genres": [
+                "israeli pop",
+                "festigal",
+                "israeli pop"
+            ],
+            "duration": 232613,
+            "acousticness": 0.887,
+            "danceability": 4.933,
+            "instrumentalness": 0.000196,
+            "liveness": 0.108,
+            "loudness": -4.857,
+            "speechiness": 0.028,
+            "time_signature": 4,
+            "happiness": 3.097
+        }
+    },
+    {
+        "#": 87,
+        "Track Title": "\u05e2\u05d5\u05de\u05d3 \u05e2\u05dc \u05e6\u05d5\u05e7",
+        "Artist": "Hi Five",
+        "Key": "12A",
+        "Energy": 8.370999999999999,
+        "Popularity": 1.0,
+        "BPM": 136,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "90s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5NRExXfMUgxYye6hXma7kH",
+            "explicit": false,
+            "album": "Take 1 + 2",
+            "release_date": "1999-07-01",
+            "genres": [
+                "festigal"
+            ],
+            "duration": 249320,
+            "acousticness": 0.0349,
+            "danceability": 6.544,
+            "instrumentalness": 5.34e-05,
+            "liveness": 0.0933,
+            "loudness": -7.745,
+            "speechiness": 0.0341,
+            "time_signature": 4,
+            "happiness": 8.578
+        }
+    },
+    {
+        "#": 88,
+        "Track Title": "\u05ea\u05e0\u05d5 \u05dc\u05d2\u05d3\u05d5\u05dc \u05d1\u05e9\u05e7\u05d8",
+        "Artist": "Shlomi Shabat",
+        "Key": "8A",
+        "Energy": 4.987,
+        "Popularity": 1.0,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Mizrahit",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "6AQiYUvzo3ESKcEVZv2EVx",
+            "explicit": false,
+            "album": "\u05d6\u05de\u05df \u05d0\u05d4\u05d1\u05d4",
+            "release_date": "2003-06-12",
+            "genres": [
+                "israeli mediterranean",
+                "mizrahi"
+            ],
+            "duration": 255227,
+            "acousticness": 0.597,
+            "danceability": 7.651,
+            "instrumentalness": 0,
+            "liveness": 0.218,
+            "loudness": -7.795,
+            "speechiness": 0.028,
+            "time_signature": 4,
+            "happiness": 3.466
+        }
+    },
+    {
+        "#": 89,
+        "Track Title": "\u05d1\u05d0\u05d4 \u05d0\u05dc\u05d9\u05db\u05dd",
+        "Artist": "Miri Mesika",
+        "Key": "10A",
+        "Energy": 8.137,
+        "Popularity": 4.42,
+        "BPM": 88,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "60p7XJ6wEwNIOv3nQjSGFQ",
+            "explicit": false,
+            "album": "\u05de\u05d9\u05e8\u05d9 \u05de\u05e1\u05d9\u05e7\u05d4",
+            "release_date": "2005-01-01",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 178160,
+            "acousticness": 0.0111,
+            "danceability": 4.42,
+            "instrumentalness": 3.1e-06,
+            "liveness": 0.063,
+            "loudness": -5.394,
+            "speechiness": 0.0468,
+            "time_signature": 4,
+            "happiness": 5.644
+        }
+    },
+    {
+        "#": 90,
+        "Track Title": "\u05e0\u05e9\u05d9\u05de\u05d4",
+        "Artist": "Chen Aharoni",
+        "Key": "1A",
+        "Energy": 7.507,
+        "Popularity": 5.32,
+        "BPM": 136,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2010s",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4bm2aZg3iiqMjO3MIiyhAo",
+            "explicit": false,
+            "album": "\u05d7\u05df \u05d0\u05d4\u05e8\u05d5\u05e0\u05d9",
+            "release_date": "2010-05-11",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 201333,
+            "acousticness": 0.0408,
+            "danceability": 6.814,
+            "instrumentalness": 0,
+            "liveness": 0.284,
+            "loudness": -6.308,
+            "speechiness": 0.0301,
+            "time_signature": 4,
+            "happiness": 7.759
+        }
+    },
+    {
+        "#": 91,
+        "Track Title": "\u05d1\u05d7\u05d5\u05dd \u05e9\u05dc \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 - Live",
+        "Artist": "Ivri Lider",
+        "Key": "7A",
+        "Energy": 8.443,
+        "Popularity": 3.43,
+        "BPM": 141,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2010s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "4sZ1JF6xmKgpj3RR7REx3i",
+            "explicit": false,
+            "album": "\u05d1\u05d7\u05d5\u05dd \u05e9\u05dc \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 (Live)",
+            "release_date": "2013-01-01",
+            "genres": [
+                "israeli pop",
+                "israeli rock",
+                "israeli singer-songwriter"
+            ],
+            "duration": 294374,
+            "acousticness": 0.0019,
+            "danceability": 3.988,
+            "instrumentalness": 0,
+            "liveness": 0.983,
+            "loudness": -6.499,
+            "speechiness": 0.0699,
+            "time_signature": 4,
+            "happiness": 3.394
+        }
+    },
+    {
+        "#": 92,
+        "Track Title": "\u05d0\u05dd \u05d0\u05dc\u05d4 \u05d4\u05d7\u05d9\u05d9\u05dd",
+        "Artist": "Keren Peles",
+        "Key": "12A",
+        "Energy": 5.932,
+        "Popularity": 4.42,
+        "BPM": 144,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "4LoGynSnGx867Kr2uiaTy8",
+            "explicit": false,
+            "album": "\u05d0\u05dd \u05d0\u05dc\u05d4 \u05d4\u05d7\u05d9\u05d9\u05dd",
+            "release_date": "2006-11-07",
+            "genres": [
+                "israeli singer-songwriter"
+            ],
+            "duration": 200907,
+            "acousticness": 0.676,
+            "danceability": 4.627000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.105,
+            "loudness": -5.985,
+            "speechiness": 0.0476,
+            "time_signature": 4,
+            "happiness": 3.151
+        }
+    },
+    {
+        "#": 93,
+        "Track Title": "\u05d4\u05d1\u05d5\u05e7\u05e8 \u05d9\u05d0\u05d9\u05e8",
+        "Artist": "Shira Gavrielov",
+        "Key": "12B",
+        "Energy": 5.122,
+        "Popularity": 2.8899999999999997,
+        "BPM": 78,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "6Pu9bO0sEmk5aNzRWKlOX6",
+            "explicit": false,
+            "album": "\u05d4\u05d1\u05d5\u05e7\u05e8 \u05d9\u05d0\u05d9\u05e8",
+            "release_date": "2007-01-01",
+            "genres": [],
+            "duration": 226547,
+            "acousticness": 0.752,
+            "danceability": 5.140000000000001,
+            "instrumentalness": 0.000117,
+            "liveness": 0.172,
+            "loudness": -6.491,
+            "speechiness": 0.0252,
+            "time_signature": 4,
+            "happiness": 2.737
+        }
+    },
+    {
+        "#": 94,
+        "Track Title": "\u05d9\u05dd \u05e9\u05dc \u05d3\u05de\u05e2\u05d5\u05ea",
+        "Artist": "Ninet Tayeb, \u05db\u05d5\u05db\u05d1 \u05e0\u05d5\u05dc\u05d3",
+        "Key": "11A",
+        "Energy": 4.321,
+        "Popularity": 3.25,
+        "BPM": 91,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "1QXoHMinSrX6KibAcQkIfm",
+            "explicit": false,
+            "album": "\u05db\u05d5\u05db\u05d1 \u05e0\u05d5\u05dc\u05d3, \u05e2\u05d5\u05e0\u05d4 1 - \u05d4\u05e8\u05d2\u05e2\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd",
+            "release_date": "2003-01-01",
+            "genres": [
+                "israeli rock",
+                "israeli singer-songwriter"
+            ],
+            "duration": 320880,
+            "acousticness": 0.655,
+            "danceability": 3.061,
+            "instrumentalness": 0,
+            "liveness": 0.93,
+            "loudness": -12.715,
+            "speechiness": 0.0436,
+            "time_signature": 3,
+            "happiness": 3.835
+        }
+    },
+    {
+        "#": 95,
+        "Track Title": "\u05d4\u05e9\u05d9\u05e8 \u05d4\u05d6\u05d4",
+        "Artist": "Sharona Pick, Daniella Pick",
+        "Key": "5B",
+        "Energy": 7.732,
+        "Popularity": 3.5200000000000005,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3mIZQJWFdwTDCXcA5H8w2N",
+            "explicit": false,
+            "album": "\u05d4\u05e9\u05d9\u05e8 \u05d4\u05d6\u05d4",
+            "release_date": "2004-01-01",
+            "genres": [],
+            "duration": 217773,
+            "acousticness": 0.00616,
+            "danceability": 6.994000000000001,
+            "instrumentalness": 2.43e-06,
+            "liveness": 0.169,
+            "loudness": -7.418,
+            "speechiness": 0.0334,
+            "time_signature": 4,
+            "happiness": 8.983
+        }
+    },
+    {
+        "#": 96,
+        "Track Title": "\u05e4\u05d9\u05e0\u05d5\u05e7\u05d9\u05d5",
+        "Artist": "Avi Mesika, \u05de\u05d5\u05e8\u05df \u05d0\u05d4\u05e8\u05d5\u05e0\u05d9 \u05d5\u05e9\u05d5\u05e8\u05d8\u05d9",
+        "Key": "1B",
+        "Energy": 5.878,
+        "Popularity": 3.25,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Hip Hop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2C3uITqamRrp6HDCf6zJg5",
+            "explicit": false,
+            "album": "\u05d9\u05dc\u05d3\u05d9\u05dd \u05d2\u05d3\u05d5\u05dc\u05d9\u05dd",
+            "release_date": "2004-01-01",
+            "genres": [
+                "israeli hip hop"
+            ],
+            "duration": 214333,
+            "acousticness": 0.197,
+            "danceability": 9.244,
+            "instrumentalness": 0,
+            "liveness": 0.102,
+            "loudness": -6.281,
+            "speechiness": 0.249,
+            "time_signature": 4,
+            "happiness": 7.057
+        }
+    },
+    {
+        "#": 97,
+        "Track Title": "\u05ea\u05ea\u05e0\u05d5 \u05dc\u05d5 \u05e6'\u05d0\u05e0\u05e1",
+        "Artist": "Ma Kashur",
+        "Key": "10A",
+        "Energy": 6.526,
+        "Popularity": 3.79,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7KBHAxIfoEkDK9eERyPvha",
+            "explicit": false,
+            "album": "\u05ea\u05ea\u05e0\u05d5 \u05dc\u05d5 \u05e6\u05f3\u05d0\u05e0\u05e1",
+            "release_date": "2005-01-06",
+            "genres": [],
+            "duration": 197173,
+            "acousticness": 0.298,
+            "danceability": 4.249,
+            "instrumentalness": 0,
+            "liveness": 0.0809,
+            "loudness": -7.442,
+            "speechiness": 0.0404,
+            "time_signature": 4,
+            "happiness": 7.03
+        }
+    },
+    {
+        "#": 98,
+        "Track Title": "\u05d7\u05d5\u05e9\u05d1 \u05e2\u05dc\u05d9\u05d4",
+        "Artist": "Idan Yaniv",
+        "Key": "3A",
+        "Energy": 6.598,
+        "Popularity": 3.97,
+        "BPM": 76,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "2uzZpkdWJw8ZR1KGlgX4ty",
+            "explicit": false,
+            "album": "\u05d7\u05d5\u05e9\u05d1 \u05e2\u05dc\u05d9\u05d4",
+            "release_date": "2006-01-01",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 233561,
+            "acousticness": 0.642,
+            "danceability": 5.302,
+            "instrumentalness": 1.13e-06,
+            "liveness": 0.0867,
+            "loudness": -6.302,
+            "speechiness": 0.0273,
+            "time_signature": 4,
+            "happiness": 3.232
+        }
+    },
+    {
+        "#": 99,
+        "Track Title": "\u05e4\u05e8\u05d7\u05d9\u05dd \u05d1\u05e7\u05e0\u05d4",
+        "Artist": "Subliminal, Gavriel Butler, Itzik Shamli, Sivan, The Shadow",
+        "Key": "4A",
+        "Energy": 8.884,
+        "Popularity": 4.0600000000000005,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2010s",
+            "Hip Hop",
+            "Israeli - Kibutz"
+        ],
+        "Additional Info": {
+            "id": "1dLzUm8Hnzl0wgRDt09fdL",
+            "explicit": false,
+            "album": "\u05d4\u05d9\u05e6\u05d9\u05e8\u05d4 \u05e9\u05dc\u05d9",
+            "release_date": "2012-04-01",
+            "genres": [
+                "israeli hip hop",
+                "israeli hip hop"
+            ],
+            "duration": 286133,
+            "acousticness": 0.239,
+            "danceability": 6.913,
+            "instrumentalness": 0,
+            "liveness": 0.171,
+            "loudness": -3.805,
+            "speechiness": 0.0455,
+            "time_signature": 4,
+            "happiness": 6.544
+        }
+    },
+    {
+        "#": 100,
+        "Track Title": "Adain Shelach",
+        "Artist": "Avihu Shabat",
+        "Key": "4B",
+        "Energy": 8.128,
+        "Popularity": 3.61,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "Israel [Loc]",
+            "Israeli - Kibutz",
+            "2000s",
+            "Pop",
+            "Israeli - Kibutz",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2EsFuqDRvbGDElkztp6Riw",
+            "explicit": false,
+            "album": "Avihu",
+            "release_date": "2009-02-28",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 203827,
+            "acousticness": 0.0343,
+            "danceability": 6.976,
+            "instrumentalness": 0,
+            "liveness": 0.0806,
+            "loudness": -5.174,
+            "speechiness": 0.0382,
+            "time_signature": 4,
+            "happiness": 7.218999999999999
+        }
+    }
+]

@@ -10,7 +10,7 @@ export default class SongManager {
         this.filteredByTagsSongs = songs; // Using it to prevent additional computations. (don't need to go over the entire DB when adding constraint)
 
         this.isBpmFilterActive = true;
-        this.bpmRange = [60, 140]; // Default BPM range
+        this.bpmRange = [60, 150]; // Default BPM range
 
         this.isBpmFilterActive=true;
         this.keyRange = []

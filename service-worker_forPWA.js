@@ -64,6 +64,8 @@ var URLS = [
   `${GHPATH}/data/collections/Sp- Bach Party ISRAEL.json`,
   `${GHPATH}/data/collections/Sp - Party by decades.json`,
   `${GHPATH}/data/collections/Sp- Wedding.json`,
+  `${GHPATH}/data/collections/Sp- PsyTrance.json`,
+  `${GHPATH}/data/collections/Sp- Nostalgic.json`,
   
   "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@100;200;300;400;600;700;900&display=swap"
 ]

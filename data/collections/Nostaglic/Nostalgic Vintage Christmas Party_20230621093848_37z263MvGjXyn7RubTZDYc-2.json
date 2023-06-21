@@ -1,0 +1,3239 @@
+[
+    {
+        "#": 1,
+        "Track Title": "Rudolph The Red-Nosed Reindeer",
+        "Artist": "Ella Fitzgerald",
+        "Key": "4B",
+        "Energy": 3.835,
+        "Popularity": 3.5200000000000005,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Romantic & Slow Dance",
+            "Nostalgic",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "6UpuOy5AFhLa1W3V7gl6J2",
+            "explicit": false,
+            "album": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+            "release_date": "1960-01-01",
+            "genres": [
+                "adult standards",
+                "jazz",
+                "jazz blues",
+                "soul",
+                "swing",
+                "vocal jazz"
+            ],
+            "duration": 171773,
+            "acousticness": 0.961,
+            "danceability": 6.382,
+            "instrumentalness": 0,
+            "liveness": 0.258,
+            "loudness": -9.175,
+            "speechiness": 0.0429,
+            "time_signature": 4,
+            "happiness": 6.769
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Let It Snow, Let It Snow, Let It Snow",
+        "Artist": "Frank Sinatra",
+        "Key": "10B",
+        "Energy": 3.277,
+        "Popularity": 1.0,
+        "BPM": 142,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Club-Hotel",
+            "Nostalgic",
+            "Calm",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "12YqSj0noej4OQnctFHYC7",
+            "explicit": false,
+            "album": "White Christmas and Many More Famous Christmas Songs",
+            "release_date": "2010-01-01",
+            "genres": [
+                "adult standards",
+                "easy listening",
+                "lounge"
+            ],
+            "duration": 154553,
+            "acousticness": 0.923,
+            "danceability": 6.787,
+            "instrumentalness": 0,
+            "liveness": 0.562,
+            "loudness": -14.519,
+            "speechiness": 0.0622,
+            "time_signature": 4,
+            "happiness": 8.407
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "White Christmas - 1947 Version",
+        "Artist": "Bing Crosby, Ken Darby Singers, John Scott Trotter & His Orchestra",
+        "Key": "11B",
+        "Energy": 2.4219999999999997,
+        "Popularity": 5.41,
+        "BPM": 131,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "40s",
+            "Club-Hotel",
+            "Nostalgic",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "4so0Wek9Ig1p6CRCHuINwW",
+            "explicit": false,
+            "album": "Holiday Inn (Original Motion Picture Soundtrack)",
+            "release_date": "1942-01-01",
+            "genres": [
+                "adult standards",
+                "easy listening",
+                "lounge",
+                "light music"
+            ],
+            "duration": 177480,
+            "acousticness": 0.673,
+            "danceability": 3.853,
+            "instrumentalness": 0.353,
+            "liveness": 0.338,
+            "loudness": -16.485,
+            "speechiness": 0.0381,
+            "time_signature": 3,
+            "happiness": 3.223
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Dancin' with Santa",
+        "Artist": "The Trashmen",
+        "Key": "11B",
+        "Energy": 5.815,
+        "Popularity": 1.0,
+        "BPM": 78,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "90s",
+            "California [Loc]",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0SRX0dmsX0lWkkYRyJo2ux",
+            "explicit": false,
+            "album": "Dancin' with Santa / Real Live Doll",
+            "release_date": "1996-01-01",
+            "genres": [
+                "classic garage rock",
+                "protopunk",
+                "surf music"
+            ],
+            "duration": 161520,
+            "acousticness": 0.747,
+            "danceability": 4.807,
+            "instrumentalness": 9.6e-06,
+            "liveness": 0.143,
+            "loudness": -8.034,
+            "speechiness": 0.0327,
+            "time_signature": 4,
+            "happiness": 7.66
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "When You Wish Upon a Star",
+        "Artist": "Cliff Edwards, Disney Studio Chorus",
+        "Key": "10B",
+        "Energy": 3.349,
+        "Popularity": 6.3999999999999995,
+        "BPM": 93,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "90s",
+            "Inspiring",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "1WrPa4lrIddctGWAIYYfP9",
+            "explicit": false,
+            "album": "Pinocchio",
+            "release_date": "1992-01-01",
+            "genres": [
+                "movie tunes",
+                "movie tunes"
+            ],
+            "duration": 195067,
+            "acousticness": 0.955,
+            "danceability": 3.1239999999999997,
+            "instrumentalness": 0.0245,
+            "liveness": 0.424,
+            "loudness": -13.647,
+            "speechiness": 0.0374,
+            "time_signature": 3,
+            "happiness": 1.954
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "It's the Most Wonderful Time of the Year",
+        "Artist": "Andy Williams",
+        "Key": "9B",
+        "Energy": 6.382,
+        "Popularity": 5.95,
+        "BPM": 101,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5hslUAKq9I9CG2bAulFkHN",
+            "explicit": false,
+            "album": "The Andy Williams Christmas Album",
+            "release_date": "1963-11-24",
+            "genres": [
+                "adult standards",
+                "easy listening"
+            ],
+            "duration": 151933,
+            "acousticness": 0.766,
+            "danceability": 3.16,
+            "instrumentalness": 0,
+            "liveness": 0.117,
+            "loudness": -8.435,
+            "speechiness": 0.0369,
+            "time_signature": 3,
+            "happiness": 7.984
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Rockin' Around The Christmas Tree",
+        "Artist": "Brenda Lee",
+        "Key": "4B",
+        "Energy": 5.247999999999999,
+        "Popularity": 6.3999999999999995,
+        "BPM": 67,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Club-Hotel",
+            "Nostalgic",
+            "Calm",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2EjXfH91m7f8HiJN1yQg97",
+            "explicit": false,
+            "album": "Merry Christmas From Brenda Lee",
+            "release_date": "1964-10-19",
+            "genres": [
+                "adult standards",
+                "easy listening",
+                "lounge",
+                "rockabilly"
+            ],
+            "duration": 126267,
+            "acousticness": 0.614,
+            "danceability": 6.301,
+            "instrumentalness": 0,
+            "liveness": 0.505,
+            "loudness": -8.749,
+            "speechiness": 0.0502,
+            "time_signature": 4,
+            "happiness": 9.082
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "The Christmas Song (Merry Christmas To You)",
+        "Artist": "Nat King Cole",
+        "Key": "3B",
+        "Energy": 2.8899999999999997,
+        "Popularity": 5.95,
+        "BPM": 79,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Nostalgic",
+            "Calm",
+            "Romantic & Slow Dance",
+            "Club-Hotel",
+            "Dance Remixes",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "4PS1e8f2LvuTFgUs1Cn3ON",
+            "explicit": false,
+            "album": "The Christmas Song (Expanded Edition)",
+            "release_date": "1962",
+            "genres": [
+                "adult standards",
+                "lounge",
+                "soul",
+                "swing",
+                "vocal jazz"
+            ],
+            "duration": 192160,
+            "acousticness": 0.92,
+            "danceability": 3.871,
+            "instrumentalness": 8.06e-05,
+            "liveness": 0.138,
+            "loudness": -15.231,
+            "speechiness": 0.0341,
+            "time_signature": 4,
+            "happiness": 2.8810000000000002
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Sleigh Ride",
+        "Artist": "The Ronettes",
+        "Key": "10B",
+        "Energy": 7.948,
+        "Popularity": 5.5,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Pop",
+            "Nostalgic",
+            "Girl Power",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5ASM6Qjiav2xPe7gRkQMsQ",
+            "explicit": false,
+            "album": "A Christmas Gift For You From Phil Spector",
+            "release_date": "1963",
+            "genres": [
+                "brill building pop",
+                "classic girl group",
+                "motown",
+                "rock-and-roll"
+            ],
+            "duration": 181267,
+            "acousticness": 0.403,
+            "danceability": 5.761,
+            "instrumentalness": 2.21e-06,
+            "liveness": 0.316,
+            "loudness": -7.013,
+            "speechiness": 0.0287,
+            "time_signature": 4,
+            "happiness": 8.677
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Jingle Bell Rock",
+        "Artist": "Bobby Helms",
+        "Key": "10B",
+        "Energy": 4.816,
+        "Popularity": 6.3999999999999995,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "50s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7vQbuQcyTflfCIOu3Uzzya",
+            "explicit": false,
+            "album": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+            "release_date": "1957-12-02",
+            "genres": [],
+            "duration": 130973,
+            "acousticness": 0.643,
+            "danceability": 7.786,
+            "instrumentalness": 0,
+            "liveness": 0.0652,
+            "loudness": -8.463,
+            "speechiness": 0.0363,
+            "time_signature": 4,
+            "happiness": 8.254000000000001
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Happy Holiday / The Holiday Season",
+        "Artist": "Andy Williams",
+        "Key": "11A",
+        "Energy": 5.059,
+        "Popularity": 5.05,
+        "BPM": 74,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3sDdyBHQ60Cs1opmIyRvhp",
+            "explicit": false,
+            "album": "The Andy Williams Christmas Album",
+            "release_date": "1963-11-24",
+            "genres": [
+                "adult standards",
+                "easy listening"
+            ],
+            "duration": 156867,
+            "acousticness": 0.727,
+            "danceability": 5.545,
+            "instrumentalness": 0,
+            "liveness": 0.233,
+            "loudness": -10.193,
+            "speechiness": 0.0329,
+            "time_signature": 4,
+            "happiness": 7.696
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "Frosty the Snowman",
+        "Artist": "The Ronettes",
+        "Key": "9B",
+        "Energy": 8.911,
+        "Popularity": 4.6899999999999995,
+        "BPM": 144,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Pop",
+            "Nostalgic",
+            "Girl Power"
+        ],
+        "Additional Info": {
+            "id": "7n5m8nDAnyXo81tr4B3Bcw",
+            "explicit": false,
+            "album": "A Christmas Gift For You From Phil Spector",
+            "release_date": "1963",
+            "genres": [
+                "brill building pop",
+                "classic girl group",
+                "motown",
+                "rock-and-roll"
+            ],
+            "duration": 136307,
+            "acousticness": 0.228,
+            "danceability": 4.438000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.408,
+            "loudness": -7.584,
+            "speechiness": 0.0642,
+            "time_signature": 4,
+            "happiness": 6.031000000000001
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "Jingle Bells - Remastered 1999",
+        "Artist": "Frank Sinatra",
+        "Key": "4B",
+        "Energy": 4.051,
+        "Popularity": 5.32,
+        "BPM": 87,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "50s",
+            "Club-Hotel",
+            "Nostalgic",
+            "Calm",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4HEOgBHRCExyYVeTyrXsnL",
+            "explicit": false,
+            "album": "A Jolly Christmas From Frank Sinatra",
+            "release_date": "1957-09",
+            "genres": [
+                "adult standards",
+                "easy listening",
+                "lounge"
+            ],
+            "duration": 120693,
+            "acousticness": 0.727,
+            "danceability": 5.6080000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.0977,
+            "loudness": -13.119,
+            "speechiness": 0.0498,
+            "time_signature": 4,
+            "happiness": 9.559
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "Have Yourself A Merry Little Christmas",
+        "Artist": "Judy Garland",
+        "Key": "2B",
+        "Energy": 2.6559999999999997,
+        "Popularity": 5.05,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "40s",
+            "Nostalgic",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "030mot3ZKR3oskfMsqDB2R",
+            "explicit": false,
+            "album": "Meet Me In St. Louis",
+            "release_date": "1944-01-01",
+            "genres": [
+                "adult standards",
+                "torch song",
+                "vocal jazz"
+            ],
+            "duration": 162333,
+            "acousticness": 0.97,
+            "danceability": 2.404,
+            "instrumentalness": 0.00458,
+            "liveness": 0.26,
+            "loudness": -14.82,
+            "speechiness": 0.0393,
+            "time_signature": 3,
+            "happiness": 1.963
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Sleigh Ride",
+        "Artist": "Leroy Anderson, Iain Sutherland Concert Orchestra, Iain Sutherland",
+        "Key": "7B",
+        "Energy": 5.023,
+        "Popularity": 3.6999999999999997,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "79R7rJGvh4cIdQJO4IL0J7",
+            "explicit": false,
+            "album": "Blue Tango Very Best of Leroy Anderson",
+            "release_date": "2016-10-28",
+            "genres": [
+                "american modern classical",
+                "easy listening",
+                "space age pop",
+                "man's orchestra"
+            ],
+            "duration": 192400,
+            "acousticness": 0.891,
+            "danceability": 6.571,
+            "instrumentalness": 0.0718,
+            "liveness": 0.254,
+            "loudness": -9.342,
+            "speechiness": 0.0275,
+            "time_signature": 4,
+            "happiness": 7.588
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "Santa Claus Is Back In Town",
+        "Artist": "Elvis Presley",
+        "Key": "5B",
+        "Energy": 5.365,
+        "Popularity": 4.24,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "50s"
+        ],
+        "Additional Info": {
+            "id": "5b1jXYUOgAX5QAHXPVHdld",
+            "explicit": false,
+            "album": "Elvis' Christmas Album",
+            "release_date": "1957-10-15",
+            "genres": [
+                "rock-and-roll",
+                "rockabilly"
+            ],
+            "duration": 142600,
+            "acousticness": 0.709,
+            "danceability": 4.771,
+            "instrumentalness": 8.16e-05,
+            "liveness": 0.11,
+            "loudness": -11.007,
+            "speechiness": 0.0423,
+            "time_signature": 4,
+            "happiness": 5.86
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "Christmas (Baby Please Come Home)",
+        "Artist": "Darlene Love",
+        "Key": "4B",
+        "Energy": 7.831,
+        "Popularity": 4.96,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "47ohYW8e7dxCYn9qbUMBCI",
+            "explicit": false,
+            "album": "Christmas (Baby, Please Come Home)",
+            "release_date": "2020-12-04",
+            "genres": [],
+            "duration": 166453,
+            "acousticness": 0.395,
+            "danceability": 3.9250000000000003,
+            "instrumentalness": 0.000362,
+            "liveness": 0.0773,
+            "loudness": -7.146,
+            "speechiness": 0.053,
+            "time_signature": 4,
+            "happiness": 4.24
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "I Saw Mommy Kissing Santa Claus",
+        "Artist": "The Jackson 5",
+        "Key": "5B",
+        "Energy": 7.4079999999999995,
+        "Popularity": 5.140000000000001,
+        "BPM": 129,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "70s",
+            "Romantic & Slow Dance",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "15sxLiiChE5dCW3Y756oas",
+            "explicit": false,
+            "album": "Christmas Album",
+            "release_date": "1970-10-15",
+            "genres": [
+                "motown",
+                "soul"
+            ],
+            "duration": 181267,
+            "acousticness": 0.263,
+            "danceability": 6.247,
+            "instrumentalness": 1.02e-06,
+            "liveness": 0.817,
+            "loudness": -8.222,
+            "speechiness": 0.0538,
+            "time_signature": 4,
+            "happiness": 6.526
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Santa Claus Is Coming To Town",
+        "Artist": "Frank Sinatra",
+        "Key": "8A",
+        "Energy": 4.591,
+        "Popularity": 4.33,
+        "BPM": 142,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Club-Hotel",
+            "Nostalgic",
+            "Calm",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6syO6UTl8QiiWADJy3Uy2d",
+            "explicit": false,
+            "album": "Ultimate Christmas",
+            "release_date": "2017-10-06",
+            "genres": [
+                "adult standards",
+                "easy listening",
+                "lounge"
+            ],
+            "duration": 134827,
+            "acousticness": 0.665,
+            "danceability": 6.076,
+            "instrumentalness": 0,
+            "liveness": 0.243,
+            "loudness": -10.378,
+            "speechiness": 0.0511,
+            "time_signature": 4,
+            "happiness": 7.1290000000000004
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "Mele Kalikimaka - Single Version",
+        "Artist": "Bing Crosby, The Andrews Sisters",
+        "Key": "5B",
+        "Energy": 2.404,
+        "Popularity": 3.97,
+        "BPM": 104,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "90s",
+            "Dance Remixes",
+            "Club-Hotel",
+            "Nostalgic",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "1GQ3cCJMAhLqWARyVZWxnO",
+            "explicit": false,
+            "album": "Their Complete Recordings Together",
+            "release_date": "1996-11-19",
+            "genres": [
+                "adult standards",
+                "easy listening",
+                "lounge",
+                "adult standards",
+                "swing",
+                "torch song",
+                "vocal harmony group"
+            ],
+            "duration": 172173,
+            "acousticness": 0.808,
+            "danceability": 5.617,
+            "instrumentalness": 0,
+            "liveness": 0.322,
+            "loudness": -13.668,
+            "speechiness": 0.0717,
+            "time_signature": 4,
+            "happiness": 6.301
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Silver Bells",
+        "Artist": "Bing Crosby, Carol Richards",
+        "Key": "7B",
+        "Energy": 2.224,
+        "Popularity": 4.779999999999999,
+        "BPM": 71,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "40s",
+            "Club-Hotel",
+            "Nostalgic",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "7ehhnVu3JUWMaSJzY1zC4k",
+            "explicit": false,
+            "album": "White Christmas",
+            "release_date": "1945-01-01",
+            "genres": [
+                "adult standards",
+                "easy listening",
+                "lounge"
+            ],
+            "duration": 182667,
+            "acousticness": 0.749,
+            "danceability": 4.087,
+            "instrumentalness": 0,
+            "liveness": 0.261,
+            "loudness": -15.142,
+            "speechiness": 0.0385,
+            "time_signature": 4,
+            "happiness": 6.31
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "Winter Wonderland",
+        "Artist": "The Andrews Sisters",
+        "Key": "7B",
+        "Energy": 3.394,
+        "Popularity": 1.0,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Nostalgic",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "7lw74Ia1zSUodFgUfUJ1tR",
+            "explicit": false,
+            "album": "Silver Bells: The Very Best Traditional Christmas Music by Ray Conniff, Perry Como, Percy Faith, And More",
+            "release_date": "2013-11-18",
+            "genres": [
+                "adult standards",
+                "swing",
+                "torch song",
+                "vocal harmony group"
+            ],
+            "duration": 163466,
+            "acousticness": 0.948,
+            "danceability": 7.426,
+            "instrumentalness": 5.86e-06,
+            "liveness": 0.206,
+            "loudness": -13.885,
+            "speechiness": 0.0427,
+            "time_signature": 4,
+            "happiness": 6.796
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "Jingle Bell Rock",
+        "Artist": "Brenda Lee",
+        "Key": "7B",
+        "Energy": 4.546,
+        "Popularity": 2.2600000000000002,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "90s",
+            "Club-Hotel",
+            "Nostalgic",
+            "Calm",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5r1RRIizK2WACdbjQTDSss",
+            "explicit": false,
+            "album": "Rockin' Around The Christmas Tree/The Decca Christmas Recordings",
+            "release_date": "1999-01-01",
+            "genres": [
+                "adult standards",
+                "easy listening",
+                "lounge",
+                "rockabilly"
+            ],
+            "duration": 130200,
+            "acousticness": 0.673,
+            "danceability": 7.174,
+            "instrumentalness": 0,
+            "liveness": 0.175,
+            "loudness": -9.601,
+            "speechiness": 0.039,
+            "time_signature": 4,
+            "happiness": 8.434
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "Let It Snow! Let It Snow! Let It Snow!",
+        "Artist": "Dean Martin",
+        "Key": "3B",
+        "Energy": 3.16,
+        "Popularity": 6.22,
+        "BPM": 134,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "50s",
+            "Club-Hotel",
+            "Nostalgic",
+            "Calm",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2uFaJJtFpPDc5Pa95XzTvg",
+            "explicit": false,
+            "album": "A Winter Romance",
+            "release_date": "1959-01-01",
+            "genres": [
+                "adult standards",
+                "easy listening",
+                "lounge",
+                "vocal jazz"
+            ],
+            "duration": 117147,
+            "acousticness": 0.912,
+            "danceability": 5.059,
+            "instrumentalness": 2.45e-06,
+            "liveness": 0.175,
+            "loudness": -14.014,
+            "speechiness": 0.0351,
+            "time_signature": 4,
+            "happiness": 7.308999999999999
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "It's a Marshmallow World",
+        "Artist": "Jo Stafford",
+        "Key": "4B",
+        "Energy": 3.151,
+        "Popularity": 2.71,
+        "BPM": 136,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2kSoq79VBHXG46PfHMpErb",
+            "explicit": false,
+            "album": "It Had to Be You: Lost Radio Recordings",
+            "release_date": "2017-08-11",
+            "genres": [
+                "torch song"
+            ],
+            "duration": 130345,
+            "acousticness": 0.968,
+            "danceability": 6.499,
+            "instrumentalness": 1.55e-06,
+            "liveness": 0.767,
+            "loudness": -9.192,
+            "speechiness": 0.0538,
+            "time_signature": 4,
+            "happiness": 7.93
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "Merry Christmas",
+        "Artist": "Judy Garland",
+        "Key": "4B",
+        "Energy": 3.178,
+        "Popularity": 1.3599999999999999,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "66OieiAnO9xIrr82aZN6iw",
+            "explicit": false,
+            "album": "Merry Christmas",
+            "release_date": "1960",
+            "genres": [
+                "adult standards",
+                "torch song",
+                "vocal jazz"
+            ],
+            "duration": 162277,
+            "acousticness": 0.977,
+            "danceability": 3.88,
+            "instrumentalness": 0.000607,
+            "liveness": 0.159,
+            "loudness": -14.471,
+            "speechiness": 0.0401,
+            "time_signature": 4,
+            "happiness": 3.6639999999999997
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
+        "Artist": "Elvis Presley",
+        "Key": "10B",
+        "Energy": 3.1239999999999997,
+        "Popularity": 5.2299999999999995,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "50s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7n7VsX3sv66znBwA8b5uhp",
+            "explicit": false,
+            "album": "Elvis' Christmas Album",
+            "release_date": "1957-10-15",
+            "genres": [
+                "rock-and-roll",
+                "rockabilly"
+            ],
+            "duration": 115827,
+            "acousticness": 0.968,
+            "danceability": 6.175,
+            "instrumentalness": 0.0178,
+            "liveness": 0.105,
+            "loudness": -16.982,
+            "speechiness": 0.0422,
+            "time_signature": 4,
+            "happiness": 8.460999999999999
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "It's Beginning To Look Like Christmas",
+        "Artist": "Bing Crosby",
+        "Key": "8A",
+        "Energy": 2.908,
+        "Popularity": 4.15,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "40s",
+            "Club-Hotel",
+            "Nostalgic",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "44mYhOVgerj2qPjkGDVA6n",
+            "explicit": false,
+            "album": "White Christmas",
+            "release_date": "1945-01-01",
+            "genres": [
+                "adult standards",
+                "easy listening",
+                "lounge"
+            ],
+            "duration": 166000,
+            "acousticness": 0.77,
+            "danceability": 5.257,
+            "instrumentalness": 0,
+            "liveness": 0.136,
+            "loudness": -15.018,
+            "speechiness": 0.0496,
+            "time_signature": 4,
+            "happiness": 6.183999999999999
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "A Marshmallow World",
+        "Artist": "Dean Martin",
+        "Key": "1B",
+        "Energy": 5.905,
+        "Popularity": 4.42,
+        "BPM": 111,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Club-Hotel",
+            "Nostalgic",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "3szI9hDVbyOYU0yd77G35n",
+            "explicit": false,
+            "album": "The Dean Martin Christmas Album",
+            "release_date": "1966",
+            "genres": [
+                "adult standards",
+                "easy listening",
+                "lounge",
+                "vocal jazz"
+            ],
+            "duration": 160947,
+            "acousticness": 0.822,
+            "danceability": 5.491,
+            "instrumentalness": 0,
+            "liveness": 0.187,
+            "loudness": -10.476,
+            "speechiness": 0.0366,
+            "time_signature": 4,
+            "happiness": 6.706
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Little Saint Nick",
+        "Artist": "The Beach Boys",
+        "Key": "2B",
+        "Energy": 6.8950000000000005,
+        "Popularity": 4.51,
+        "BPM": 129,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Nostalgic",
+            "Calm",
+            "Inspiring",
+            "Rock",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "75dfH68JDisE8dDaD4KlVY",
+            "explicit": false,
+            "album": "Christmas With The Beach Boys",
+            "release_date": "2004",
+            "genres": [
+                "baroque pop",
+                "classic rock",
+                "folk rock",
+                "mellow gold",
+                "psychedelic rock",
+                "rock",
+                "sunshine pop"
+            ],
+            "duration": 130680,
+            "acousticness": 0.464,
+            "danceability": 5.914000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.0791,
+            "loudness": -7.015,
+            "speechiness": 0.0456,
+            "time_signature": 4,
+            "happiness": 9.649
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "Winter Wonderland",
+        "Artist": "Chet Baker Quartet, Russ Freeman",
+        "Key": "5B",
+        "Energy": 5.338,
+        "Popularity": 2.8,
+        "BPM": 121,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "50s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7GLQ0fBEq1W9QnKJ5TkGL3",
+            "explicit": false,
+            "album": "Chet Baker Quartet Featuring Russ Freeman (Expanded Edition)",
+            "release_date": "1953",
+            "genres": [
+                "cool jazz",
+                "jazz quartet",
+                "smooth jazz"
+            ],
+            "duration": 146600,
+            "acousticness": 0.91,
+            "danceability": 7.714,
+            "instrumentalness": 0.87,
+            "liveness": 0.139,
+            "loudness": -10.424,
+            "speechiness": 0.0534,
+            "time_signature": 4,
+            "happiness": 8.083
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "I've Got My Love To Keep Me Warm",
+        "Artist": "Ella Fitzgerald, Louis Armstrong",
+        "Key": "8B",
+        "Energy": 4.843,
+        "Popularity": 3.88,
+        "BPM": 111,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "50s",
+            "Romantic & Slow Dance",
+            "Nostalgic",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5OLmn2zkijgVleNhMRjYQp",
+            "explicit": false,
+            "album": "Ella And Louis Again",
+            "release_date": "1957-02-25",
+            "genres": [
+                "adult standards",
+                "jazz",
+                "jazz blues",
+                "soul",
+                "swing",
+                "vocal jazz",
+                "adult standards",
+                "dixieland",
+                "harlem renaissance",
+                "jazz trumpet",
+                "new orleans jazz",
+                "soul",
+                "swing",
+                "vocal jazz"
+            ],
+            "duration": 189040,
+            "acousticness": 0.774,
+            "danceability": 5.707,
+            "instrumentalness": 0,
+            "liveness": 0.448,
+            "loudness": -11.556,
+            "speechiness": 0.0766,
+            "time_signature": 4,
+            "happiness": 8.056000000000001
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "I'd Like To Trim A Tree With",
+        "Artist": "The McGuire Sisters",
+        "Key": "4B",
+        "Energy": 3.565,
+        "Popularity": 3.16,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "50s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4nR06NVyOF9Pu5GsWDRFyB",
+            "explicit": false,
+            "album": "Greetings From The McGuire Sisters (Expanded Edition)",
+            "release_date": "1958-10-26",
+            "genres": [
+                "doo-wop",
+                "easy listening",
+                "vocal harmony group"
+            ],
+            "duration": 117720,
+            "acousticness": 0.972,
+            "danceability": 7.912,
+            "instrumentalness": 0,
+            "liveness": 0.0646,
+            "loudness": -11.413,
+            "speechiness": 0.033,
+            "time_signature": 4,
+            "happiness": 8.884
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "A Winter Romance",
+        "Artist": "Dean Martin",
+        "Key": "5B",
+        "Energy": 1.621,
+        "Popularity": 2.98,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "50s",
+            "Club-Hotel",
+            "Nostalgic",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "2soRRa3SVNVJrGctH897t9",
+            "explicit": false,
+            "album": "A Winter Romance",
+            "release_date": "1959-01-01",
+            "genres": [
+                "adult standards",
+                "easy listening",
+                "lounge",
+                "vocal jazz"
+            ],
+            "duration": 179707,
+            "acousticness": 0.912,
+            "danceability": 3.8890000000000002,
+            "instrumentalness": 0.000548,
+            "liveness": 0.335,
+            "loudness": -20.12,
+            "speechiness": 0.0315,
+            "time_signature": 4,
+            "happiness": 3.151
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "I Heard the Bells on Christmas Day",
+        "Artist": "Harry Belafonte",
+        "Key": "7B",
+        "Energy": 2.377,
+        "Popularity": 1.9,
+        "BPM": 86,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "3QXQc9zYWMK5hQjiRAS5du",
+            "explicit": false,
+            "album": "To Wish You A Merry Christmas",
+            "release_date": "1962",
+            "genres": [
+                "calypso"
+            ],
+            "duration": 184533,
+            "acousticness": 0.958,
+            "danceability": 3.358,
+            "instrumentalness": 0.253,
+            "liveness": 0.106,
+            "loudness": -19.642,
+            "speechiness": 0.0387,
+            "time_signature": 5,
+            "happiness": 2.359
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
+        "Artist": "Gene Autry",
+        "Key": "8B",
+        "Energy": 4.258,
+        "Popularity": 1.72,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "50s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1zFd6zN2lbUTdsFmi8166m",
+            "explicit": false,
+            "album": "The Original: Gene Autry Sings Rudolph The Red-Nosed Reindeer & Other Christmas Favorites",
+            "release_date": "1957-01-01",
+            "genres": [
+                "classic oklahoma country",
+                "cowboy western",
+                "traditional country",
+                "western swing",
+                "yodeling"
+            ],
+            "duration": 163240,
+            "acousticness": 0.847,
+            "danceability": 7.2909999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.154,
+            "loudness": -11.159,
+            "speechiness": 0.0448,
+            "time_signature": 4,
+            "happiness": 9.676
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "The First Noel - Remastered 1999",
+        "Artist": "Frank Sinatra",
+        "Key": "8B",
+        "Energy": 2.377,
+        "Popularity": 3.97,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "50s",
+            "Club-Hotel",
+            "Nostalgic",
+            "Calm",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "6keKIzkXWdbwJWMBJQUwYl",
+            "explicit": false,
+            "album": "A Jolly Christmas From Frank Sinatra",
+            "release_date": "1957-09",
+            "genres": [
+                "adult standards",
+                "easy listening",
+                "lounge"
+            ],
+            "duration": 161373,
+            "acousticness": 0.956,
+            "danceability": 2.5839999999999996,
+            "instrumentalness": 0.00012,
+            "liveness": 0.158,
+            "loudness": -15.969,
+            "speechiness": 0.0365,
+            "time_signature": 1,
+            "happiness": 2.4130000000000003
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "The Man With All The Toys - 1991 Remix",
+        "Artist": "The Beach Boys",
+        "Key": "2B",
+        "Energy": 5.428,
+        "Popularity": 3.88,
+        "BPM": 138,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Nostalgic",
+            "Calm",
+            "Inspiring",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5DIQSVlGERTbU5UR7sx1x4",
+            "explicit": false,
+            "album": "The Beach Boys' Christmas Album",
+            "release_date": "1964-11-09",
+            "genres": [
+                "baroque pop",
+                "classic rock",
+                "folk rock",
+                "mellow gold",
+                "psychedelic rock",
+                "rock",
+                "sunshine pop"
+            ],
+            "duration": 91187,
+            "acousticness": 0.442,
+            "danceability": 7.372,
+            "instrumentalness": 9.88e-06,
+            "liveness": 0.0624,
+            "loudness": -8.596,
+            "speechiness": 0.0365,
+            "time_signature": 4,
+            "happiness": 6.958
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "Santa Baby",
+        "Artist": "Eartha Kitt",
+        "Key": "7A",
+        "Energy": 1.927,
+        "Popularity": 5.2299999999999995,
+        "BPM": 84,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "1vZKP9XURuqMp1SpXGnoyb",
+            "explicit": false,
+            "album": "The Essential Eartha Kitt",
+            "release_date": "2011-03-15",
+            "genres": [
+                "torch song",
+                "vocal jazz"
+            ],
+            "duration": 206507,
+            "acousticness": 0.897,
+            "danceability": 7.335999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.192,
+            "loudness": -15.056,
+            "speechiness": 0.0607,
+            "time_signature": 4,
+            "happiness": 5.212000000000001
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "(There's No Place Like) Home For The Holidays",
+        "Artist": "Carpenters",
+        "Key": "12B",
+        "Energy": 3.6639999999999997,
+        "Popularity": 3.88,
+        "BPM": 84,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "70s",
+            "Rock",
+            "Nostalgic",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "7wGl806edcp34SOk5r7DEG",
+            "explicit": false,
+            "album": "Christmas Portrait (Special Edition/Reissue)",
+            "release_date": "1978-10-13",
+            "genres": [
+                "adult standards",
+                "mellow gold",
+                "soft rock"
+            ],
+            "duration": 155960,
+            "acousticness": 0.915,
+            "danceability": 3.5829999999999997,
+            "instrumentalness": 0,
+            "liveness": 0.0849,
+            "loudness": -14.797,
+            "speechiness": 0.0328,
+            "time_signature": 3,
+            "happiness": 4.852
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "A Holly Jolly Christmas",
+        "Artist": "Burl Ives",
+        "Key": "8B",
+        "Energy": 4.375,
+        "Popularity": 5.68,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "77khP2fIVhSW23NwxrRluh",
+            "explicit": false,
+            "album": "Have A Holly Jolly Christmas",
+            "release_date": "1965-10-01",
+            "genres": [
+                "adult standards",
+                "american folk revival"
+            ],
+            "duration": 135533,
+            "acousticness": 0.579,
+            "danceability": 7.147,
+            "instrumentalness": 0,
+            "liveness": 0.076,
+            "loudness": -13.056,
+            "speechiness": 0.0303,
+            "time_signature": 4,
+            "happiness": 8.992
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "Jing a Ling, Jing a Ling",
+        "Artist": "The Andrews Sisters",
+        "Key": "6B",
+        "Energy": 4.122999999999999,
+        "Popularity": 1.0,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Nostalgic",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1V2hEFlQFH5gdKWruCm0ri",
+            "explicit": false,
+            "album": "The Andrews Sisters Sing Christmas",
+            "release_date": "2010-11-09",
+            "genres": [
+                "adult standards",
+                "swing",
+                "torch song",
+                "vocal harmony group"
+            ],
+            "duration": 176240,
+            "acousticness": 0.303,
+            "danceability": 7.588,
+            "instrumentalness": 0,
+            "liveness": 0.125,
+            "loudness": -12.031,
+            "speechiness": 0.0505,
+            "time_signature": 4,
+            "happiness": 9.594999999999999
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "Silver Bells",
+        "Artist": "Jo Stafford",
+        "Key": "9B",
+        "Energy": 1.7992,
+        "Popularity": 1.0,
+        "BPM": 101,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "2sW8WKbeVvoRxUP0AnnPAI",
+            "explicit": false,
+            "album": "Joyful Season",
+            "release_date": "2005-01-01",
+            "genres": [
+                "torch song"
+            ],
+            "duration": 163800,
+            "acousticness": 0.985,
+            "danceability": 4.609,
+            "instrumentalness": 3.07e-06,
+            "liveness": 0.448,
+            "loudness": -17.304,
+            "speechiness": 0.0339,
+            "time_signature": 3,
+            "happiness": 4.807
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "Merry Twist-mas",
+        "Artist": "The Marcels",
+        "Key": "7A",
+        "Energy": 8.632,
+        "Popularity": 1.0,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1xfJqCx3JQFlzKVMTEVkDr",
+            "explicit": false,
+            "album": "The Marcels: The Extended Play Collection",
+            "release_date": "2013-03-11",
+            "genres": [
+                "doo-wop",
+                "rhythm and blues",
+                "rock-and-roll"
+            ],
+            "duration": 127919,
+            "acousticness": 0.73,
+            "danceability": 5.869000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.319,
+            "loudness": -5.425,
+            "speechiness": 0.0514,
+            "time_signature": 4,
+            "happiness": 9.037
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "Mistletoe And Holly",
+        "Artist": "Frank Sinatra",
+        "Key": "11B",
+        "Energy": 2.323,
+        "Popularity": 4.24,
+        "BPM": 111,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Club-Hotel",
+            "Nostalgic",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "53cumdNGYE6NFmGL0zHvx7",
+            "explicit": false,
+            "album": "Christmas",
+            "release_date": "2013-09-17",
+            "genres": [
+                "adult standards",
+                "easy listening",
+                "lounge"
+            ],
+            "duration": 137547,
+            "acousticness": 0.821,
+            "danceability": 6.589,
+            "instrumentalness": 0,
+            "liveness": 0.0754,
+            "loudness": -11.111,
+            "speechiness": 0.0374,
+            "time_signature": 4,
+            "happiness": 4.114
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
+        "Artist": "Perry Como, The Fontane Sisters, Mitchell Ayres & His Orchestra",
+        "Key": "9B",
+        "Energy": 3.484,
+        "Popularity": 5.5,
+        "BPM": 113,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "90s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2pXpURmn6zC5ZYDMms6fwa",
+            "explicit": false,
+            "album": "Greatest Christmas Songs",
+            "release_date": "1999-08-20",
+            "genres": [
+                "adult standards",
+                "easy listening",
+                "deep adult standards",
+                "vocal harmony group",
+                "man's orchestra"
+            ],
+            "duration": 155933,
+            "acousticness": 0.76,
+            "danceability": 7.516,
+            "instrumentalness": 0,
+            "liveness": 0.116,
+            "loudness": -12.25,
+            "speechiness": 0.0599,
+            "time_signature": 4,
+            "happiness": 7.462
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "A Merry Christmas At Grand Mother's",
+        "Artist": "The Andrews Sisters",
+        "Key": "3B",
+        "Energy": 4.573,
+        "Popularity": 1.0,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Nostalgic",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1Tbuk9OZoRprB9iVfW3DXR",
+            "explicit": false,
+            "album": "The Andrews Sisters Sing Christmas",
+            "release_date": "2010-11-09",
+            "genres": [
+                "adult standards",
+                "swing",
+                "torch song",
+                "vocal harmony group"
+            ],
+            "duration": 137853,
+            "acousticness": 0.6,
+            "danceability": 8.065000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.0769,
+            "loudness": -11.544,
+            "speechiness": 0.0894,
+            "time_signature": 4,
+            "happiness": 9.676
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "Frosty the Snowman",
+        "Artist": "Perry Como",
+        "Key": "6B",
+        "Energy": 3.277,
+        "Popularity": 2.8899999999999997,
+        "BPM": 79,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "90s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6JMxqLhm8PakcIKbdeEy0V",
+            "explicit": false,
+            "album": "Greatest Christmas Songs",
+            "release_date": "1999-08-20",
+            "genres": [
+                "adult standards",
+                "easy listening"
+            ],
+            "duration": 140000,
+            "acousticness": 0.844,
+            "danceability": 6.364,
+            "instrumentalness": 0,
+            "liveness": 0.0864,
+            "loudness": -12.795,
+            "speechiness": 0.189,
+            "time_signature": 4,
+            "happiness": 8.425
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "Do You Hear What I Hear? - Remastered 2006",
+        "Artist": "Bing Crosby",
+        "Key": "6B",
+        "Energy": 3.214,
+        "Popularity": 5.140000000000001,
+        "BPM": 102,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Club-Hotel",
+            "Nostalgic",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "5aDoUmxBsbdpS16alksb5Z",
+            "explicit": false,
+            "album": "Bing Crosby - Christmas Classics",
+            "release_date": "2006-01-01",
+            "genres": [
+                "adult standards",
+                "easy listening",
+                "lounge"
+            ],
+            "duration": 165667,
+            "acousticness": 0.813,
+            "danceability": 6.093999999999999,
+            "instrumentalness": 1.48e-06,
+            "liveness": 0.195,
+            "loudness": -15.499,
+            "speechiness": 0.0276,
+            "time_signature": 4,
+            "happiness": 4.708
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "Hark! The Herald Angels Sing - Remastered 1999",
+        "Artist": "Frank Sinatra",
+        "Key": "7B",
+        "Energy": 2.692,
+        "Popularity": 4.15,
+        "BPM": 86,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "50s",
+            "Club-Hotel",
+            "Nostalgic",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "2BLwLAc1swTc4TC7K3J506",
+            "explicit": false,
+            "album": "A Jolly Christmas From Frank Sinatra",
+            "release_date": "1957-09",
+            "genres": [
+                "adult standards",
+                "easy listening",
+                "lounge"
+            ],
+            "duration": 141040,
+            "acousticness": 0.882,
+            "danceability": 3.34,
+            "instrumentalness": 0,
+            "liveness": 0.116,
+            "loudness": -13.117,
+            "speechiness": 0.0301,
+            "time_signature": 1,
+            "happiness": 3.142
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "The Rocking Tree",
+        "Artist": "Marguerite Trina",
+        "Key": "7A",
+        "Energy": 6.274,
+        "Popularity": 1.0,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4bYN59UZseYN8bpo7DaOP2",
+            "explicit": false,
+            "album": "Rockabilly Christmas",
+            "release_date": "2013-12-09",
+            "genres": [],
+            "duration": 122613,
+            "acousticness": 0.921,
+            "danceability": 7.353999999999999,
+            "instrumentalness": 5.96e-05,
+            "liveness": 0.102,
+            "loudness": -8.056,
+            "speechiness": 0.0612,
+            "time_signature": 4,
+            "happiness": 9.829
+        }
+    },
+    {
+        "#": 52,
+        "Track Title": "That's What I Want For Christmas",
+        "Artist": "Nancy Wilson",
+        "Key": "6B",
+        "Energy": 1.7497,
+        "Popularity": 1.45,
+        "BPM": 74,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "4jxBwczdzscRdoNKxnX3YT",
+            "explicit": false,
+            "album": "Christmas Kisses",
+            "release_date": "2011-01-01",
+            "genres": [
+                "vocal jazz"
+            ],
+            "duration": 140400,
+            "acousticness": 0.661,
+            "danceability": 5.32,
+            "instrumentalness": 0,
+            "liveness": 0.102,
+            "loudness": -17.599,
+            "speechiness": 0.0368,
+            "time_signature": 3,
+            "happiness": 2.9619999999999997
+        }
+    },
+    {
+        "#": 53,
+        "Track Title": "Merry Christmas Polka",
+        "Artist": "The Andrews Sisters",
+        "Key": "9B",
+        "Energy": 4.186,
+        "Popularity": 1.0,
+        "BPM": 104,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Nostalgic",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0CPwGXucDTaeOhnfvof2H9",
+            "explicit": false,
+            "album": "The Andrews Sisters Sing Christmas",
+            "release_date": "2010-11-09",
+            "genres": [
+                "adult standards",
+                "swing",
+                "torch song",
+                "vocal harmony group"
+            ],
+            "duration": 172187,
+            "acousticness": 0.795,
+            "danceability": 8.370999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.306,
+            "loudness": -11.075,
+            "speechiness": 0.0417,
+            "time_signature": 4,
+            "happiness": 9.514
+        }
+    },
+    {
+        "#": 54,
+        "Track Title": "Boogie Woogie Santa Claus",
+        "Artist": "Mabel Scott",
+        "Key": "7A",
+        "Energy": 3.745,
+        "Popularity": 1.0,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "56hzKW7d43yMST4Q390RMS",
+            "explicit": false,
+            "album": "Deck the Halls: 30 Timeless Christmas Songs by Danny Kaye, Roy Orbison, Connie Francis, And More",
+            "release_date": "2013-11-17",
+            "genres": [],
+            "duration": 140093,
+            "acousticness": 0.943,
+            "danceability": 5.3469999999999995,
+            "instrumentalness": 0.00016,
+            "liveness": 0.0614,
+            "loudness": -10.494,
+            "speechiness": 0.122,
+            "time_signature": 3,
+            "happiness": 7.417
+        }
+    },
+    {
+        "#": 55,
+        "Track Title": "Christmas (Baby Please Come Home)",
+        "Artist": "Darlene Love",
+        "Key": "4B",
+        "Energy": 7.831,
+        "Popularity": 5.2299999999999995,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s"
+        ],
+        "Additional Info": {
+            "id": "46pF1zFimM582ss1PrMy68",
+            "explicit": false,
+            "album": "A Christmas Gift For You From Phil Spector",
+            "release_date": "1963",
+            "genres": [],
+            "duration": 166453,
+            "acousticness": 0.395,
+            "danceability": 3.9250000000000003,
+            "instrumentalness": 0.000362,
+            "liveness": 0.0773,
+            "loudness": -7.146,
+            "speechiness": 0.053,
+            "time_signature": 4,
+            "happiness": 4.24
+        }
+    },
+    {
+        "#": 56,
+        "Track Title": "Winter Wonderland",
+        "Artist": "Tony Bennett",
+        "Key": "8A",
+        "Energy": 4.2940000000000005,
+        "Popularity": 1.0,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Club-Hotel",
+            "Nostalgic",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "4ricyQVd20UQde1jpXCSuJ",
+            "explicit": false,
+            "album": "Snowfall - The Tony Bennett Christmas Album",
+            "release_date": "1968-11-06",
+            "genres": [
+                "adult standards",
+                "easy listening",
+                "lounge",
+                "vocal jazz"
+            ],
+            "duration": 133867,
+            "acousticness": 0.833,
+            "danceability": 5.0680000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.0789,
+            "loudness": -14.152,
+            "speechiness": 0.0415,
+            "time_signature": 4,
+            "happiness": 6.661
+        }
+    },
+    {
+        "#": 57,
+        "Track Title": "Frosty The Snowman - 1991 Remix",
+        "Artist": "The Beach Boys",
+        "Key": "7B",
+        "Energy": 5.257,
+        "Popularity": 3.34,
+        "BPM": 91,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Nostalgic",
+            "Calm",
+            "Inspiring",
+            "Rock",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4tOFhZ7hRxAvnZYt0gUtol",
+            "explicit": false,
+            "album": "The Beach Boys' Christmas Album",
+            "release_date": "1964-11-09",
+            "genres": [
+                "baroque pop",
+                "classic rock",
+                "folk rock",
+                "mellow gold",
+                "psychedelic rock",
+                "rock",
+                "sunshine pop"
+            ],
+            "duration": 114280,
+            "acousticness": 0.72,
+            "danceability": 4.717,
+            "instrumentalness": 0,
+            "liveness": 0.0418,
+            "loudness": -9.56,
+            "speechiness": 0.0316,
+            "time_signature": 4,
+            "happiness": 9.693999999999999
+        }
+    },
+    {
+        "#": 58,
+        "Track Title": "Baby, It's Cold Outside",
+        "Artist": "Dean Martin",
+        "Key": "8B",
+        "Energy": 2.7640000000000002,
+        "Popularity": 5.140000000000001,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "50s",
+            "Club-Hotel",
+            "Nostalgic",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "4MrfQL4TYQXJBlZYpAHTuE",
+            "explicit": false,
+            "album": "A Winter Romance",
+            "release_date": "1959-01-01",
+            "genres": [
+                "adult standards",
+                "easy listening",
+                "lounge",
+                "vocal jazz"
+            ],
+            "duration": 143733,
+            "acousticness": 0.882,
+            "danceability": 5.221,
+            "instrumentalness": 0,
+            "liveness": 0.0513,
+            "loudness": -16.093,
+            "speechiness": 0.0571,
+            "time_signature": 3,
+            "happiness": 5.833
+        }
+    },
+    {
+        "#": 59,
+        "Track Title": "Twelve Days Of Christmas",
+        "Artist": "Bing Crosby, The Andrews Sisters",
+        "Key": "5B",
+        "Energy": 4.717,
+        "Popularity": 4.6899999999999995,
+        "BPM": 144,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "40s",
+            "Dance Remixes",
+            "Club-Hotel",
+            "Nostalgic",
+            "Calm",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0cAhE2iDJApegDnVRx6fCK",
+            "explicit": false,
+            "album": "Christmas Greetings",
+            "release_date": "1949-01-01",
+            "genres": [
+                "adult standards",
+                "easy listening",
+                "lounge",
+                "adult standards",
+                "swing",
+                "torch song",
+                "vocal harmony group"
+            ],
+            "duration": 203746,
+            "acousticness": 0.926,
+            "danceability": 6.769,
+            "instrumentalness": 0,
+            "liveness": 0.191,
+            "loudness": -5.624,
+            "speechiness": 0.0435,
+            "time_signature": 4,
+            "happiness": 8.506
+        }
+    },
+    {
+        "#": 60,
+        "Track Title": "The Christmas Waltz",
+        "Artist": "Peggy Lee",
+        "Key": "1B",
+        "Energy": 2.4939999999999998,
+        "Popularity": 3.5200000000000005,
+        "BPM": 106,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Nostalgic",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "4DV9KToOaC0khx2MqOZstE",
+            "explicit": false,
+            "album": "Christmas Carousel",
+            "release_date": "1960",
+            "genres": [
+                "adult standards",
+                "torch song",
+                "vocal jazz"
+            ],
+            "duration": 173133,
+            "acousticness": 0.829,
+            "danceability": 3.277,
+            "instrumentalness": 0.000313,
+            "liveness": 0.14,
+            "loudness": -16.882,
+            "speechiness": 0.0313,
+            "time_signature": 3,
+            "happiness": 2.62
+        }
+    },
+    {
+        "#": 61,
+        "Track Title": "Frosty the Snowman",
+        "Artist": "The Ronettes",
+        "Key": "9B",
+        "Energy": 8.911,
+        "Popularity": 4.6899999999999995,
+        "BPM": 144,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Pop",
+            "Nostalgic",
+            "Girl Power"
+        ],
+        "Additional Info": {
+            "id": "7n5m8nDAnyXo81tr4B3Bcw",
+            "explicit": false,
+            "album": "A Christmas Gift For You From Phil Spector",
+            "release_date": "1963",
+            "genres": [
+                "brill building pop",
+                "classic girl group",
+                "motown",
+                "rock-and-roll"
+            ],
+            "duration": 136307,
+            "acousticness": 0.228,
+            "danceability": 4.438000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.408,
+            "loudness": -7.584,
+            "speechiness": 0.0642,
+            "time_signature": 4,
+            "happiness": 6.031000000000001
+        }
+    },
+    {
+        "#": 62,
+        "Track Title": "Rudolph the Red-Nosed Reindeer",
+        "Artist": "The Crystals",
+        "Key": "11B",
+        "Energy": 8.092,
+        "Popularity": 2.98,
+        "BPM": 136,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Pop",
+            "Nostalgic",
+            "Girl Power"
+        ],
+        "Additional Info": {
+            "id": "24bMh8AF6XZsklVgnHwlrP",
+            "explicit": false,
+            "album": "A Christmas Gift For You From Phil Spector",
+            "release_date": "1963",
+            "genres": [
+                "classic girl group",
+                "doo-wop",
+                "rock-and-roll"
+            ],
+            "duration": 151133,
+            "acousticness": 0.614,
+            "danceability": 4.2940000000000005,
+            "instrumentalness": 3.61e-05,
+            "liveness": 0.123,
+            "loudness": -7.001,
+            "speechiness": 0.0385,
+            "time_signature": 4,
+            "happiness": 6.301
+        }
+    },
+    {
+        "#": 63,
+        "Track Title": "Deck the Hall with Boughs of Holly",
+        "Artist": "Percy Faith & His Orchestra",
+        "Key": "11B",
+        "Energy": 3.88,
+        "Popularity": 2.08,
+        "BPM": 103,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "50s"
+        ],
+        "Additional Info": {
+            "id": "6Ujq9jLX1erUPeBdgavI85",
+            "explicit": false,
+            "album": "The Music of Christmas (Expanded Edition)",
+            "release_date": "1954-04-01",
+            "genres": [
+                "easy listening",
+                "man's orchestra"
+            ],
+            "duration": 175720,
+            "acousticness": 0.851,
+            "danceability": 5.329,
+            "instrumentalness": 0.486,
+            "liveness": 0.0656,
+            "loudness": -12.254,
+            "speechiness": 0.0287,
+            "time_signature": 4,
+            "happiness": 4.051
+        }
+    },
+    {
+        "#": 64,
+        "Track Title": "Winter Wonderland - Remastered",
+        "Artist": "Bing Crosby",
+        "Key": "5B",
+        "Energy": 3.088,
+        "Popularity": 4.6899999999999995,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Club-Hotel",
+            "Nostalgic",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "3pdQTWpq09XCBosbTtYIiZ",
+            "explicit": false,
+            "album": "Christmas",
+            "release_date": "2015-09-30",
+            "genres": [
+                "adult standards",
+                "easy listening",
+                "lounge"
+            ],
+            "duration": 142480,
+            "acousticness": 0.835,
+            "danceability": 6.301,
+            "instrumentalness": 0,
+            "liveness": 0.108,
+            "loudness": -13.633,
+            "speechiness": 0.0579,
+            "time_signature": 4,
+            "happiness": 5.7700000000000005
+        }
+    },
+    {
+        "#": 65,
+        "Track Title": "The Christmas Song - Remastered",
+        "Artist": "June Christy",
+        "Key": "4B",
+        "Energy": 3.4570000000000003,
+        "Popularity": 2.44,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "7iAPspumA5z9fCNwipiHpX",
+            "explicit": false,
+            "album": "The Cool Jazz of June Christy (Remastered)",
+            "release_date": "2019-11-01",
+            "genres": [
+                "cool jazz",
+                "torch song",
+                "vocal jazz"
+            ],
+            "duration": 214973,
+            "acousticness": 0.956,
+            "danceability": 3.943,
+            "instrumentalness": 0.0423,
+            "liveness": 0.0973,
+            "loudness": -12.145,
+            "speechiness": 0.0327,
+            "time_signature": 3,
+            "happiness": 4.0600000000000005
+        }
+    },
+    {
+        "#": 66,
+        "Track Title": "I Saw Mommy Kissing Santa Claus",
+        "Artist": "The Ronettes",
+        "Key": "11B",
+        "Energy": 6.976,
+        "Popularity": 3.34,
+        "BPM": 146,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Pop",
+            "Nostalgic",
+            "Girl Power"
+        ],
+        "Additional Info": {
+            "id": "0EwuAHdON2ma8UBa7Flpee",
+            "explicit": false,
+            "album": "A Christmas Gift For You From Phil Spector",
+            "release_date": "1963",
+            "genres": [
+                "brill building pop",
+                "classic girl group",
+                "motown",
+                "rock-and-roll"
+            ],
+            "duration": 157613,
+            "acousticness": 0.189,
+            "danceability": 3.799,
+            "instrumentalness": 7.34e-06,
+            "liveness": 0.129,
+            "loudness": -8.179,
+            "speechiness": 0.0377,
+            "time_signature": 4,
+            "happiness": 4.204
+        }
+    },
+    {
+        "#": 67,
+        "Track Title": "Jingle Jingle Jingle - From \"Rudolph The Red-Nosed Reindeer\" Soundtrack",
+        "Artist": "Stan Francis",
+        "Key": "7A",
+        "Energy": 5.41,
+        "Popularity": 3.88,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0UsjzB56qfLhxD9mEAscJP",
+            "explicit": false,
+            "album": "Rudolph The Red-Nosed Reindeer",
+            "release_date": "1965-12-01",
+            "genres": [
+                "christmas instrumental"
+            ],
+            "duration": 77000,
+            "acousticness": 0.754,
+            "danceability": 6.319,
+            "instrumentalness": 0,
+            "liveness": 0.386,
+            "loudness": -13.387,
+            "speechiness": 0.0424,
+            "time_signature": 4,
+            "happiness": 9.685
+        }
+    },
+    {
+        "#": 68,
+        "Track Title": "Here Comes Santa Claus",
+        "Artist": "Cliffie Stone",
+        "Key": "10B",
+        "Energy": 3.16,
+        "Popularity": 1.27,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "90s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "60QQz4lt5hF6tJEnGghCHH",
+            "explicit": false,
+            "album": "Christmas On The Range",
+            "release_date": "1995-01-01",
+            "genres": [],
+            "duration": 148240,
+            "acousticness": 0.51,
+            "danceability": 6.904,
+            "instrumentalness": 0.0033,
+            "liveness": 0.0861,
+            "loudness": -14.656,
+            "speechiness": 0.0509,
+            "time_signature": 4,
+            "happiness": 9.721
+        }
+    },
+    {
+        "#": 69,
+        "Track Title": "Caroling, Caroling",
+        "Artist": "Nat King Cole",
+        "Key": "7B",
+        "Energy": 4.429,
+        "Popularity": 4.779999999999999,
+        "BPM": 93,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Nostalgic",
+            "Calm",
+            "Romantic & Slow Dance",
+            "Club-Hotel",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "11Z7sdkpC5IaaydoIvDn74",
+            "explicit": false,
+            "album": "The Christmas Song (Expanded Edition)",
+            "release_date": "1962",
+            "genres": [
+                "adult standards",
+                "lounge",
+                "soul",
+                "swing",
+                "vocal jazz"
+            ],
+            "duration": 121987,
+            "acousticness": 0.763,
+            "danceability": 3.772,
+            "instrumentalness": 0,
+            "liveness": 0.0649,
+            "loudness": -11.143,
+            "speechiness": 0.0302,
+            "time_signature": 3,
+            "happiness": 6.372999999999999
+        }
+    },
+    {
+        "#": 70,
+        "Track Title": "White Christmas",
+        "Artist": "Vera Lynn",
+        "Key": "4B",
+        "Energy": 3.232,
+        "Popularity": 1.81,
+        "BPM": 106,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "60qH8TUvtwUPO6R9aUbmw1",
+            "explicit": false,
+            "album": "National Treasure - The Ultimate Collection",
+            "release_date": "2014-01-01",
+            "genres": [
+                "music hall"
+            ],
+            "duration": 205800,
+            "acousticness": 0.991,
+            "danceability": 3.466,
+            "instrumentalness": 0.489,
+            "liveness": 0.299,
+            "loudness": -12.206,
+            "speechiness": 0.0326,
+            "time_signature": 4,
+            "happiness": 2.458
+        }
+    },
+    {
+        "#": 71,
+        "Track Title": "The Christmas Song",
+        "Artist": "Doris Day",
+        "Key": "4B",
+        "Energy": 1.5121,
+        "Popularity": 1.3599999999999999,
+        "BPM": 112,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "30s",
+            "Club-Hotel",
+            "Nostalgic",
+            "Calm",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "5uSGS7LADxmsdRJiZMu6QX",
+            "explicit": false,
+            "album": "From The Sony Vault: Christmas With The Big Bands",
+            "release_date": "1932",
+            "genres": [
+                "adult standards",
+                "easy listening",
+                "lounge",
+                "vocal jazz"
+            ],
+            "duration": 189600,
+            "acousticness": 0.994,
+            "danceability": 3.817,
+            "instrumentalness": 0.081,
+            "liveness": 0.0985,
+            "loudness": -19.332,
+            "speechiness": 0.0362,
+            "time_signature": 3,
+            "happiness": 1.8406
+        }
+    },
+    {
+        "#": 72,
+        "Track Title": "The Merriest",
+        "Artist": "June Christy",
+        "Key": "8B",
+        "Energy": 3.232,
+        "Popularity": 1.27,
+        "BPM": 74,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "0cwDwodUUhWUBroDJO5MPL",
+            "explicit": false,
+            "album": "Ultra-Lounge/Christmas Cocktails (Vol. 2)",
+            "release_date": "2000-10-24",
+            "genres": [
+                "cool jazz",
+                "torch song",
+                "vocal jazz"
+            ],
+            "duration": 128360,
+            "acousticness": 0.44,
+            "danceability": 6.877000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.176,
+            "loudness": -12.2,
+            "speechiness": 0.0594,
+            "time_signature": 4,
+            "happiness": 6.544
+        }
+    },
+    {
+        "#": 73,
+        "Track Title": "Happy Holiday - From \"Holiday Inn\" Soundtrack",
+        "Artist": "Bing Crosby, The Music Maids & Hal, John Scott Trotter & His Orchestra",
+        "Key": "6B",
+        "Energy": 2.683,
+        "Popularity": 1.0,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Club-Hotel",
+            "Nostalgic",
+            "Calm",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7nJoq75SZQnFhMXAtfg9iB",
+            "explicit": false,
+            "album": "Holiday Inn",
+            "release_date": "1962-01-01",
+            "genres": [
+                "adult standards",
+                "easy listening",
+                "lounge",
+                "light music"
+            ],
+            "duration": 149160,
+            "acousticness": 0.994,
+            "danceability": 5.491,
+            "instrumentalness": 0.217,
+            "liveness": 0.153,
+            "loudness": -14.91,
+            "speechiness": 0.109,
+            "time_signature": 4,
+            "happiness": 8.370999999999999
+        }
+    },
+    {
+        "#": 74,
+        "Track Title": "Merry Christmas Darling - Album Version/Remix",
+        "Artist": "Carpenters",
+        "Key": "9B",
+        "Energy": 3.16,
+        "Popularity": 1.0,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "70s",
+            "Rock",
+            "Nostalgic",
+            "Calm",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "1QXg7pVx5hpAZWw8KIAcGw",
+            "explicit": false,
+            "album": "Christmas Portrait (Special Edition)",
+            "release_date": "1978",
+            "genres": [
+                "adult standards",
+                "mellow gold",
+                "soft rock"
+            ],
+            "duration": 186973,
+            "acousticness": 0.851,
+            "danceability": 3.943,
+            "instrumentalness": 0,
+            "liveness": 0.0997,
+            "loudness": -15.181,
+            "speechiness": 0.0327,
+            "time_signature": 4,
+            "happiness": 2.737
+        }
+    },
+    {
+        "#": 75,
+        "Track Title": "O Holy Night - 1959 Version",
+        "Artist": "Percy Faith & His Orchestra",
+        "Key": "10B",
+        "Energy": 3.835,
+        "Popularity": 1.81,
+        "BPM": 79,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "50s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "7KOZLQFIFeR9sfDqoo00Dr",
+            "explicit": false,
+            "album": "The Music of Christmas (Expanded Edition)",
+            "release_date": "1954-04-01",
+            "genres": [
+                "easy listening",
+                "man's orchestra"
+            ],
+            "duration": 221653,
+            "acousticness": 0.762,
+            "danceability": 1.8334000000000001,
+            "instrumentalness": 0.905,
+            "liveness": 0.127,
+            "loudness": -9.901,
+            "speechiness": 0.0347,
+            "time_signature": 4,
+            "happiness": 1.5283
+        }
+    },
+    {
+        "#": 76,
+        "Track Title": "Hey Santa Claus",
+        "Artist": "The Moonglows",
+        "Key": "3B",
+        "Energy": 4.726,
+        "Popularity": 2.62,
+        "BPM": 76,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "80s"
+        ],
+        "Additional Info": {
+            "id": "2SVUJQfhNxFx6dMK1JivFw",
+            "explicit": false,
+            "album": "Rockin' Little Christmas",
+            "release_date": "1986-01-01",
+            "genres": [
+                "doo-wop",
+                "rhythm and blues"
+            ],
+            "duration": 143800,
+            "acousticness": 0.753,
+            "danceability": 6.904,
+            "instrumentalness": 0,
+            "liveness": 0.439,
+            "loudness": -11.673,
+            "speechiness": 0.0373,
+            "time_signature": 4,
+            "happiness": 6.346
+        }
+    },
+    {
+        "#": 77,
+        "Track Title": "Rockin' J-Bells - Mono",
+        "Artist": "Little Bobby Rey",
+        "Key": "7B",
+        "Energy": 9.118,
+        "Popularity": 1.09,
+        "BPM": 93,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3pbAuAcJHvvAf2RCdlqCuk",
+            "explicit": false,
+            "album": "Rockin' J-Bells / Corrido de Auld Lang Syne",
+            "release_date": "2013-01-01",
+            "genres": [],
+            "duration": 145414,
+            "acousticness": 0.44,
+            "danceability": 5.707,
+            "instrumentalness": 0.527,
+            "liveness": 0.354,
+            "loudness": -6.953,
+            "speechiness": 0.0306,
+            "time_signature": 4,
+            "happiness": 9.748
+        }
+    },
+    {
+        "#": 78,
+        "Track Title": "Winter Wonderland",
+        "Artist": "Allan & The Flames",
+        "Key": "8B",
+        "Energy": 9.01,
+        "Popularity": 1.18,
+        "BPM": 149,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1vNBvkCCLe9Q21iV89Q7sr",
+            "explicit": false,
+            "album": "That'll Flat Git It, Vol. 31 - Rockabilly and Rock 'n' Roll from the Vaults of Colonial Records",
+            "release_date": "2018-08-17",
+            "genres": [],
+            "duration": 115387,
+            "acousticness": 0.211,
+            "danceability": 4.411,
+            "instrumentalness": 0.0883,
+            "liveness": 0.161,
+            "loudness": -7.986,
+            "speechiness": 0.03,
+            "time_signature": 4,
+            "happiness": 9.721
+        }
+    },
+    {
+        "#": 79,
+        "Track Title": "Blue Christmas",
+        "Artist": "The Platters",
+        "Key": "10B",
+        "Energy": 5.059,
+        "Popularity": 2.62,
+        "BPM": 78,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7uUuKwcPbPU1vcw2HTtG9O",
+            "explicit": false,
+            "album": "Christmas With The Platters",
+            "release_date": "1963",
+            "genres": [
+                "adult standards",
+                "easy listening",
+                "rock-and-roll",
+                "rockabilly"
+            ],
+            "duration": 119667,
+            "acousticness": 0.652,
+            "danceability": 5.419,
+            "instrumentalness": 0,
+            "liveness": 0.675,
+            "loudness": -9.89,
+            "speechiness": 0.0372,
+            "time_signature": 4,
+            "happiness": 7.651
+        }
+    },
+    {
+        "#": 80,
+        "Track Title": "Mama's Twistin' With Santa",
+        "Artist": "Marc Anthony",
+        "Key": "6B",
+        "Energy": 7.885,
+        "Popularity": 1.0,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Pop",
+            "Latin",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4rAJCSSOu6d5wfxFfkvHqf",
+            "explicit": false,
+            "album": "Jump 'N Jivin' Rockabilly Christmas",
+            "release_date": "2011-10-04",
+            "genres": [
+                "latin pop",
+                "modern salsa",
+                "salsa",
+                "tropical"
+            ],
+            "duration": 134800,
+            "acousticness": 0.835,
+            "danceability": 4.15,
+            "instrumentalness": 0,
+            "liveness": 0.405,
+            "loudness": -5.035,
+            "speechiness": 0.0672,
+            "time_signature": 4,
+            "happiness": 9.649
+        }
+    },
+    {
+        "#": 81,
+        "Track Title": "Parade Of The Wooden Soldiers",
+        "Artist": "The Crystals",
+        "Key": "11B",
+        "Energy": 8.074,
+        "Popularity": 2.3499999999999996,
+        "BPM": 143,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Pop",
+            "Nostalgic",
+            "Girl Power"
+        ],
+        "Additional Info": {
+            "id": "2t1rFVhlcummHG9ZG4JeNZ",
+            "explicit": false,
+            "album": "A Christmas Gift For You From Phil Spector",
+            "release_date": "1963",
+            "genres": [
+                "classic girl group",
+                "doo-wop",
+                "rock-and-roll"
+            ],
+            "duration": 175013,
+            "acousticness": 0.79,
+            "danceability": 6.210999999999999,
+            "instrumentalness": 0.000132,
+            "liveness": 0.156,
+            "loudness": -5.919,
+            "speechiness": 0.0356,
+            "time_signature": 4,
+            "happiness": 6.661
+        }
+    },
+    {
+        "#": 82,
+        "Track Title": "Rock 'N' Rudolph",
+        "Artist": "The Uniques",
+        "Key": "11B",
+        "Energy": 9.541,
+        "Popularity": 1.0,
+        "BPM": 78,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1VE2oZSC7WNHiOOFJXUU6Y",
+            "explicit": false,
+            "album": "Rockabilly Christmas",
+            "release_date": "2013-12-09",
+            "genres": [
+                "early reggae",
+                "rocksteady"
+            ],
+            "duration": 106440,
+            "acousticness": 0.71,
+            "danceability": 4.915,
+            "instrumentalness": 0,
+            "liveness": 0.165,
+            "loudness": -5.852,
+            "speechiness": 0.0384,
+            "time_signature": 4,
+            "happiness": 9.775
+        }
+    },
+    {
+        "#": 83,
+        "Track Title": "Santa's Beard - 1991 Remix",
+        "Artist": "The Beach Boys",
+        "Key": "4B",
+        "Energy": 5.869000000000001,
+        "Popularity": 2.8,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Nostalgic",
+            "Calm",
+            "Inspiring",
+            "Rock",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3TuJ9irIwqwJ86ueELXU8V",
+            "explicit": false,
+            "album": "The Beach Boys' Christmas Album",
+            "release_date": "1964-11-09",
+            "genres": [
+                "baroque pop",
+                "classic rock",
+                "folk rock",
+                "mellow gold",
+                "psychedelic rock",
+                "rock",
+                "sunshine pop"
+            ],
+            "duration": 119240,
+            "acousticness": 0.489,
+            "danceability": 7.2459999999999996,
+            "instrumentalness": 0,
+            "liveness": 0.102,
+            "loudness": -9.976,
+            "speechiness": 0.0302,
+            "time_signature": 4,
+            "happiness": 9.568
+        }
+    },
+    {
+        "#": 84,
+        "Track Title": "Jingle Bells",
+        "Artist": "Vel Mares",
+        "Key": "1B",
+        "Energy": 9.316,
+        "Popularity": 1.18,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5BiPKZ3JwuBTh4ZzFlIsEa",
+            "explicit": false,
+            "album": "Rockabilly Xmas",
+            "release_date": "2000-07-01",
+            "genres": [],
+            "duration": 109346,
+            "acousticness": 0.874,
+            "danceability": 5.077,
+            "instrumentalness": 0.952,
+            "liveness": 0.134,
+            "loudness": -7.366,
+            "speechiness": 0.0371,
+            "time_signature": 4,
+            "happiness": 9.504999999999999
+        }
+    },
+    {
+        "#": 85,
+        "Track Title": "Here Comes Santa Claus",
+        "Artist": "Bob B. Soxx & The Blue Jeans",
+        "Key": "11B",
+        "Energy": 8.632,
+        "Popularity": 2.8,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0BZADNTotC07pQ6PFGRLGS",
+            "explicit": false,
+            "album": "A Christmas Gift For You From Phil Spector",
+            "release_date": "1963",
+            "genres": [
+                "brill building pop"
+            ],
+            "duration": 123747,
+            "acousticness": 0.719,
+            "danceability": 5.05,
+            "instrumentalness": 4.39e-06,
+            "liveness": 0.461,
+            "loudness": -5.763,
+            "speechiness": 0.0418,
+            "time_signature": 4,
+            "happiness": 7.218999999999999
+        }
+    },
+    {
+        "#": 86,
+        "Track Title": "Auld Lang Syne - 1991 Remix",
+        "Artist": "The Beach Boys",
+        "Key": "3B",
+        "Energy": 2.107,
+        "Popularity": 2.5300000000000002,
+        "BPM": 114,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Nostalgic",
+            "60s",
+            "Nostalgic",
+            "Calm",
+            "Inspiring",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1nwQILbWx9WXke8gT8xRsS",
+            "explicit": false,
+            "album": "The Beach Boys' Christmas Album",
+            "release_date": "1964-11-09",
+            "genres": [
+                "baroque pop",
+                "classic rock",
+                "folk rock",
+                "mellow gold",
+                "psychedelic rock",
+                "rock",
+                "sunshine pop"
+            ],
+            "duration": 80120,
+            "acousticness": 0.722,
+            "danceability": 4.824999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.171,
+            "loudness": -19.565,
+            "speechiness": 0.0681,
+            "time_signature": 3,
+            "happiness": 4.033
+        }
+    }
+]

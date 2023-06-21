@@ -1,7 +1,7 @@
 [
     {
         "#": 1,
-        "Track Title": "עוגה עוגה",
+        "Track Title": "\u05e2\u05d5\u05d2\u05d4 \u05e2\u05d5\u05d2\u05d4",
         "Artist": "Hana Laszlo",
         "Key": "12B",
         "Energy": 2.863,
@@ -10,14 +10,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "0mdD9QchboWExaeKUn5pIM",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "muzika l'yeladim"
@@ -35,7 +37,7 @@
     },
     {
         "#": 2,
-        "Track Title": "יש לי קוביות קטנות",
+        "Track Title": "\u05d9\u05e9 \u05dc\u05d9 \u05e7\u05d5\u05d1\u05d9\u05d5\u05ea \u05e7\u05d8\u05e0\u05d5\u05ea",
         "Artist": "Chava Alberstein",
         "Key": "1B",
         "Energy": 2.8449999999999998,
@@ -44,13 +46,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "1VuGoGxiPXgnyLyF8l5BjD",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -69,7 +73,7 @@
     },
     {
         "#": 3,
-        "Track Title": "ידיים למעלה",
+        "Track Title": "\u05d9\u05d3\u05d9\u05d9\u05dd \u05dc\u05de\u05e2\u05dc\u05d4",
         "Artist": "Group",
         "Key": "7B",
         "Energy": 2.917,
@@ -78,13 +82,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "2SJ6z8ZavALZbJrjLSiino",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 51627,
@@ -100,7 +106,7 @@
     },
     {
         "#": 4,
-        "Track Title": "עשר אצבעות לי",
+        "Track Title": "\u05e2\u05e9\u05e8 \u05d0\u05e6\u05d1\u05e2\u05d5\u05ea \u05dc\u05d9",
         "Artist": "Osnat Paz",
         "Key": "8B",
         "Energy": 5.167,
@@ -109,14 +115,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "3B6oqWOv2MLyhWIfLzzXZS",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "muzika l'yeladim"
@@ -134,7 +142,7 @@
     },
     {
         "#": 5,
-        "Track Title": "יש לי שתי ידיים",
+        "Track Title": "\u05d9\u05e9 \u05dc\u05d9 \u05e9\u05ea\u05d9 \u05d9\u05d3\u05d9\u05d9\u05dd",
         "Artist": "Participants of 'Parpar Nechmad'",
         "Key": "9B",
         "Energy": 4.6450000000000005,
@@ -143,14 +151,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "3hk1n2pm9R8GDecSzWuxwy",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 106000,
@@ -166,7 +176,7 @@
     },
     {
         "#": 6,
-        "Track Title": "כולם מוחאים איתי כף",
+        "Track Title": "\u05db\u05d5\u05dc\u05dd \u05de\u05d5\u05d7\u05d0\u05d9\u05dd \u05d0\u05d9\u05ea\u05d9 \u05db\u05e3",
         "Artist": "Chava Alberstein",
         "Key": "8B",
         "Energy": 5.5,
@@ -175,14 +185,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "07Jeb05OYifWqP0SXgF4Gs",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -201,7 +213,7 @@
     },
     {
         "#": 7,
-        "Track Title": "ימינה ימינה",
+        "Track Title": "\u05d9\u05de\u05d9\u05e0\u05d4 \u05d9\u05de\u05d9\u05e0\u05d4",
         "Artist": "Hana Laszlo, Chani Lindenboim",
         "Key": "8B",
         "Energy": 5.176,
@@ -210,14 +222,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "505Chjea625Y8BK2FeX0o6",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "muzika l'yeladim"
@@ -235,7 +249,7 @@
     },
     {
         "#": 8,
-        "Track Title": "יש לנו תיש",
+        "Track Title": "\u05d9\u05e9 \u05dc\u05e0\u05d5 \u05ea\u05d9\u05e9",
         "Artist": "Group",
         "Key": "6B",
         "Energy": 6.949,
@@ -244,14 +258,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "71famsSWNziqF8QMJRv2vs",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 58027,
@@ -267,7 +283,7 @@
     },
     {
         "#": 9,
-        "Track Title": "אל תכה",
+        "Track Title": "\u05d0\u05dc \u05ea\u05db\u05d4",
         "Artist": "Dafna Armoni, Yorik Ben David",
         "Key": "10B",
         "Energy": 7.2909999999999995,
@@ -276,14 +292,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "4CLckBMGidxSalPwPxM4aM",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -302,7 +320,7 @@
     },
     {
         "#": 10,
-        "Track Title": "אני עומדת במעגל",
+        "Track Title": "\u05d0\u05e0\u05d9 \u05e2\u05d5\u05de\u05d3\u05ea \u05d1\u05de\u05e2\u05d2\u05dc",
         "Artist": "Girl Group",
         "Key": "6B",
         "Energy": 5.869000000000001,
@@ -311,14 +329,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "3IHBGhjnYBIhBWLDhn0KSa",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 102293,
@@ -334,7 +354,7 @@
     },
     {
         "#": 11,
-        "Track Title": "יש לי גלידה",
+        "Track Title": "\u05d9\u05e9 \u05dc\u05d9 \u05d2\u05dc\u05d9\u05d3\u05d4",
         "Artist": "Boys and Girls Group",
         "Key": "2A",
         "Energy": 6.337,
@@ -343,14 +363,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "5jKWARmwXsIvlMm7xks3nT",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 55480,
@@ -366,7 +388,7 @@
     },
     {
         "#": 12,
-        "Track Title": "בין הרים ובין סלעים",
+        "Track Title": "\u05d1\u05d9\u05df \u05d4\u05e8\u05d9\u05dd \u05d5\u05d1\u05d9\u05df \u05e1\u05dc\u05e2\u05d9\u05dd",
         "Artist": "Effi Ben Israel",
         "Key": "7B",
         "Energy": 5.473,
@@ -375,14 +397,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "0eAJBOYMFX18ka2PO7Wp14",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "muzika l'yeladim"
@@ -400,7 +424,7 @@
     },
     {
         "#": 13,
-        "Track Title": "כבר סידרנו הרכבת",
+        "Track Title": "\u05db\u05d1\u05e8 \u05e1\u05d9\u05d3\u05e8\u05e0\u05d5 \u05d4\u05e8\u05db\u05d1\u05ea",
         "Artist": "Boys and Girls Group",
         "Key": "5B",
         "Energy": 7.345,
@@ -409,14 +433,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "7gohuSMhE2iM7vPPHqBd3B",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 115240,
@@ -432,7 +458,7 @@
     },
     {
         "#": 14,
-        "Track Title": "רכבת ארוכה",
+        "Track Title": "\u05e8\u05db\u05d1\u05ea \u05d0\u05e8\u05d5\u05db\u05d4",
         "Artist": "Hana Laszlo",
         "Key": "9B",
         "Energy": 8.911,
@@ -441,13 +467,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "2nXFLvMyLBpsK3tLXm7Uy2",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "muzika l'yeladim"
@@ -465,7 +493,7 @@
     },
     {
         "#": 15,
-        "Track Title": "הנה באה התזמורת",
+        "Track Title": "\u05d4\u05e0\u05d4 \u05d1\u05d0\u05d4 \u05d4\u05ea\u05d6\u05de\u05d5\u05e8\u05ea",
         "Artist": "Ruchama Raz",
         "Key": "10B",
         "Energy": 8.794,
@@ -474,14 +502,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "2VP0uh4pC49t6Q1i3thG62",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -500,7 +530,7 @@
     },
     {
         "#": 16,
-        "Track Title": "שימי ידך",
+        "Track Title": "\u05e9\u05d9\u05de\u05d9 \u05d9\u05d3\u05da",
         "Artist": "Tzachi & Yael",
         "Key": "10B",
         "Energy": 5.869000000000001,
@@ -509,14 +539,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "7aQCpj2DaIGfq7poEPg4Vm",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 62107,
@@ -532,7 +564,7 @@
     },
     {
         "#": 17,
-        "Track Title": "נסדר מעגל גדול",
+        "Track Title": "\u05e0\u05e1\u05d3\u05e8 \u05de\u05e2\u05d2\u05dc \u05d2\u05d3\u05d5\u05dc",
         "Artist": "Tzachi & Yael",
         "Key": "6B",
         "Energy": 3.799,
@@ -541,14 +573,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "5tDoK8nqe3KtCUb1DCGMqH",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 52133,
@@ -564,7 +598,7 @@
     },
     {
         "#": 18,
-        "Track Title": "על שפת הנחל",
+        "Track Title": "\u05e2\u05dc \u05e9\u05e4\u05ea \u05d4\u05e0\u05d7\u05dc",
         "Artist": "Boys and Girls Group",
         "Key": "8B",
         "Energy": 8.407,
@@ -573,14 +607,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "2vcEDNwmbW31Eb7xMTSQe4",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 60347,
@@ -596,7 +632,7 @@
     },
     {
         "#": 19,
-        "Track Title": "מאחורי ההר",
+        "Track Title": "\u05de\u05d0\u05d7\u05d5\u05e8\u05d9 \u05d4\u05d4\u05e8",
         "Artist": "Miki Kam, Reuven Shefer",
         "Key": "12B",
         "Energy": 8.704,
@@ -605,14 +641,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "5QrXXXn0nfEQ4SFoyZjkMS",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "festigal"
@@ -630,7 +668,7 @@
     },
     {
         "#": 20,
-        "Track Title": "גשר מזהב",
+        "Track Title": "\u05d2\u05e9\u05e8 \u05de\u05d6\u05d4\u05d1",
         "Artist": "Boys and Girls Group",
         "Key": "7B",
         "Energy": 5.734,
@@ -639,13 +677,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "6MNqRhQBEFgOuoM5URyab6",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 122120,
@@ -661,7 +701,7 @@
     },
     {
         "#": 21,
-        "Track Title": "פתחו את השער",
+        "Track Title": "\u05e4\u05ea\u05d7\u05d5 \u05d0\u05ea \u05d4\u05e9\u05e2\u05e8",
         "Artist": "Nira Adi, Ariel Forman, Yonit Shoam, Eli Chachmon",
         "Key": "11A",
         "Energy": 3.142,
@@ -670,13 +710,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "4OQcl5ETZ18yXj6gWAtrmH",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 132200,
@@ -692,7 +734,7 @@
     },
     {
         "#": 22,
-        "Track Title": "לדוד משה היתה חוה",
+        "Track Title": "\u05dc\u05d3\u05d5\u05d3 \u05de\u05e9\u05d4 \u05d4\u05d9\u05ea\u05d4 \u05d7\u05d5\u05d4",
         "Artist": "Dalia Friedland",
         "Key": "7B",
         "Energy": 6.526,
@@ -701,14 +743,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "1hzxdfiMyUJHLN2jOwVD2h",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "muzika l'yeladim"
@@ -726,7 +770,7 @@
     },
     {
         "#": 23,
-        "Track Title": "לכובע שלי",
+        "Track Title": "\u05dc\u05db\u05d5\u05d1\u05e2 \u05e9\u05dc\u05d9",
         "Artist": "Yoel Lerner",
         "Key": "12B",
         "Energy": 3.4210000000000003,
@@ -735,13 +779,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "5ivVzkuT4w0V1tXjYpPvuf",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "muzika l'yeladim"
@@ -759,7 +805,7 @@
     },
     {
         "#": 24,
-        "Track Title": "ברווזים (לסבתא של אפרים)",
+        "Track Title": "\u05d1\u05e8\u05d5\u05d5\u05d6\u05d9\u05dd (\u05dc\u05e1\u05d1\u05ea\u05d0 \u05e9\u05dc \u05d0\u05e4\u05e8\u05d9\u05dd)",
         "Artist": "Shoshik Shani",
         "Key": "7A",
         "Energy": 5.0680000000000005,
@@ -768,14 +814,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "6r1xkBKUvxEYhOfXYEIxay",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -794,7 +842,7 @@
     },
     {
         "#": 25,
-        "Track Title": "הנה מה טוב",
+        "Track Title": "\u05d4\u05e0\u05d4 \u05de\u05d4 \u05d8\u05d5\u05d1",
         "Artist": "Yorik Ben David",
         "Key": "10A",
         "Energy": 4.6450000000000005,
@@ -803,13 +851,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "7CwcgIWwiz42Og3yLBqevS",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "muzika l'yeladim"
@@ -827,7 +877,7 @@
     },
     {
         "#": 26,
-        "Track Title": "דו רה מי",
+        "Track Title": "\u05d3\u05d5 \u05e8\u05d4 \u05de\u05d9",
         "Artist": "Miki Kam",
         "Key": "8B",
         "Energy": 5.518,
@@ -836,13 +886,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "2W9U2yPJSMQmzUpnDoAsLF",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "festigal"
@@ -860,7 +912,7 @@
     },
     {
         "#": 27,
-        "Track Title": "שעור בחשבון",
+        "Track Title": "\u05e9\u05e2\u05d5\u05e8 \u05d1\u05d7\u05e9\u05d1\u05d5\u05df",
         "Artist": "Dalya Fridland, Chaim Yavin",
         "Key": "8B",
         "Energy": 4.744,
@@ -869,13 +921,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "7JnYopOoXJZqTFna50Jr2b",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 101520,
@@ -891,7 +945,7 @@
     },
     {
         "#": 28,
-        "Track Title": "אני נשאר אני",
+        "Track Title": "\u05d0\u05e0\u05d9 \u05e0\u05e9\u05d0\u05e8 \u05d0\u05e0\u05d9",
         "Artist": "Participants of 'Parpar Nechmad'",
         "Key": "8B",
         "Energy": 5.158,
@@ -900,14 +954,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "3yJWAZUmSmbNfdJ2eWdFUt",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 167453,
@@ -923,7 +979,7 @@
     },
     {
         "#": 29,
-        "Track Title": "יש לי חבר",
+        "Track Title": "\u05d9\u05e9 \u05dc\u05d9 \u05d7\u05d1\u05e8",
         "Artist": "Naomi Shemer, Children's Music of 'Eich Shovrim Hamsin'",
         "Key": "8B",
         "Energy": 5.617,
@@ -932,14 +988,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "1Uo11qEj440EWYrVnLy3VD",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop"
@@ -957,7 +1015,7 @@
     },
     {
         "#": 30,
-        "Track Title": "שלום לכם",
+        "Track Title": "\u05e9\u05dc\u05d5\u05dd \u05dc\u05db\u05dd",
         "Artist": "Participants of 'Parpar Nechmad'",
         "Key": "5B",
         "Energy": 5.536,
@@ -966,14 +1024,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "4Ve4Fm6ZJnIxxfSdoqnuvM",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 56960,
@@ -989,7 +1049,7 @@
     },
     {
         "#": 31,
-        "Track Title": "איזה יום שמח",
+        "Track Title": "\u05d0\u05d9\u05d6\u05d4 \u05d9\u05d5\u05dd \u05e9\u05de\u05d7",
         "Artist": "Miki Kam",
         "Key": "9B",
         "Energy": 7.003,
@@ -998,14 +1058,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "6GDwB5q3fSqFQiAWI13cnV",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "festigal"
@@ -1023,7 +1085,7 @@
     },
     {
         "#": 32,
-        "Track Title": "רק פעם בשנה",
+        "Track Title": "\u05e8\u05e7 \u05e4\u05e2\u05dd \u05d1\u05e9\u05e0\u05d4",
         "Artist": "Orna & Moshe Datz",
         "Key": "10B",
         "Energy": 6.931,
@@ -1032,14 +1094,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "5NTjbouFBhBsC6Gb56HEgW",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop"
@@ -1057,7 +1121,7 @@
     },
     {
         "#": 33,
-        "Track Title": "איפה העוגה",
+        "Track Title": "\u05d0\u05d9\u05e4\u05d4 \u05d4\u05e2\u05d5\u05d2\u05d4",
         "Artist": "Orna Datz, Moshe Datz",
         "Key": "8A",
         "Energy": 4.537,
@@ -1066,14 +1130,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "032a31dWAROcXn5mO1EtAB",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "festigal"
@@ -1091,7 +1157,7 @@
     },
     {
         "#": 34,
-        "Track Title": "היום יום הולדת",
+        "Track Title": "\u05d4\u05d9\u05d5\u05dd \u05d9\u05d5\u05dd \u05d4\u05d5\u05dc\u05d3\u05ea",
         "Artist": "Yoel Lerner, Mazi Cohen",
         "Key": "6B",
         "Energy": 7.912,
@@ -1100,14 +1166,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "3DR3Gl8AY3COdt0Amof6LC",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "muzika l'yeladim",
@@ -1127,7 +1195,7 @@
     },
     {
         "#": 35,
-        "Track Title": "יום הולדת השמחה לילדים",
+        "Track Title": "\u05d9\u05d5\u05dd \u05d4\u05d5\u05dc\u05d3\u05ea \u05d4\u05e9\u05de\u05d7\u05d4 \u05dc\u05d9\u05dc\u05d3\u05d9\u05dd",
         "Artist": "Hana Laszlo",
         "Key": "8A",
         "Energy": 6.22,
@@ -1136,14 +1204,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "3V84gY186vuI91PH0cfYM6",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "muzika l'yeladim"
@@ -1161,7 +1231,7 @@
     },
     {
         "#": 36,
-        "Track Title": "גדלתי בשנה",
+        "Track Title": "\u05d2\u05d3\u05dc\u05ea\u05d9 \u05d1\u05e9\u05e0\u05d4",
         "Artist": "Effi Ben Israel",
         "Key": "9B",
         "Energy": 5.968,
@@ -1170,14 +1240,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "0AKaFFnBZ4cHOPAD25OY12",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "muzika l'yeladim"
@@ -1195,7 +1267,7 @@
     },
     {
         "#": 37,
-        "Track Title": "לרותי יום הולדת",
+        "Track Title": "\u05dc\u05e8\u05d5\u05ea\u05d9 \u05d9\u05d5\u05dd \u05d4\u05d5\u05dc\u05d3\u05ea",
         "Artist": "Effi Ben Israel",
         "Key": "5B",
         "Energy": 6.706,
@@ -1204,14 +1276,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "1rOaSCycKs5ShsF3RQ2ygk",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "muzika l'yeladim"
@@ -1229,7 +1303,7 @@
     },
     {
         "#": 38,
-        "Track Title": "כן תזכה לשנה הבאה",
+        "Track Title": "\u05db\u05df \u05ea\u05d6\u05db\u05d4 \u05dc\u05e9\u05e0\u05d4 \u05d4\u05d1\u05d0\u05d4",
         "Artist": "Dudu Elharar",
         "Key": "10B",
         "Energy": 6.418,
@@ -1238,14 +1312,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "37cKq4fzysGJJhJNFlqTst",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -1264,7 +1340,7 @@
     },
     {
         "#": 39,
-        "Track Title": "יום הולדת שמח",
+        "Track Title": "\u05d9\u05d5\u05dd \u05d4\u05d5\u05dc\u05d3\u05ea \u05e9\u05de\u05d7",
         "Artist": "Boys and Girls Group",
         "Key": "11A",
         "Energy": 2.296,
@@ -1273,13 +1349,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "3mTYeZOET3SgWnRx56E6w7",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 54573,
@@ -1295,7 +1373,7 @@
     },
     {
         "#": 40,
-        "Track Title": "יום הולדת מפלסטלינה",
+        "Track Title": "\u05d9\u05d5\u05dd \u05d4\u05d5\u05dc\u05d3\u05ea \u05de\u05e4\u05dc\u05e1\u05d8\u05dc\u05d9\u05e0\u05d4",
         "Artist": "Participants of 'Zraim Shel Mastik'",
         "Key": "8B",
         "Energy": 6.643,
@@ -1304,13 +1382,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "0c10pTTM8fKAiio6cLIwby",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 142267,
@@ -1326,7 +1406,7 @@
     },
     {
         "#": 41,
-        "Track Title": "ענת אוהבת חגיגות",
+        "Track Title": "\u05e2\u05e0\u05ea \u05d0\u05d5\u05d4\u05d1\u05ea \u05d7\u05d2\u05d9\u05d2\u05d5\u05ea",
         "Artist": "Shoshik Shani",
         "Key": "10B",
         "Energy": 6.463,
@@ -1335,14 +1415,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "0h80IPlyMM4X2FVYQFZxGH",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -1361,7 +1443,7 @@
     },
     {
         "#": 42,
-        "Track Title": "יונתן הקטן",
+        "Track Title": "\u05d9\u05d5\u05e0\u05ea\u05df \u05d4\u05e7\u05d8\u05df",
         "Artist": "Hanan Yovel",
         "Key": "7B",
         "Energy": 4.186,
@@ -1370,14 +1452,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "6xb0f8mFYX1jMYXUVwP7ht",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -1396,7 +1480,7 @@
     },
     {
         "#": 43,
-        "Track Title": "נדנדה",
+        "Track Title": "\u05e0\u05d3\u05e0\u05d3\u05d4",
         "Artist": "Shula Chen",
         "Key": "6B",
         "Energy": 5.689,
@@ -1405,14 +1489,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "3n67gGE2GsJWNbYcbYXayk",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop"
@@ -1430,7 +1516,7 @@
     },
     {
         "#": 44,
-        "Track Title": "שעון בן חיל",
+        "Track Title": "\u05e9\u05e2\u05d5\u05df \u05d1\u05df \u05d7\u05d9\u05dc",
         "Artist": "Dalia Friedland",
         "Key": "11B",
         "Energy": 6.247,
@@ -1439,14 +1525,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "4gdH6GfBWTXGICxNpT60U1",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "muzika l'yeladim"
@@ -1464,7 +1552,7 @@
     },
     {
         "#": 45,
-        "Track Title": "אמא יקרה לי",
+        "Track Title": "\u05d0\u05de\u05d0 \u05d9\u05e7\u05e8\u05d4 \u05dc\u05d9",
         "Artist": "Ruchama Raz",
         "Key": "10A",
         "Energy": 3.4570000000000003,
@@ -1473,13 +1561,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "5LNUhswF64yAhy7XRKBECY",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -1498,7 +1588,7 @@
     },
     {
         "#": 46,
-        "Track Title": "אבא שלי",
+        "Track Title": "\u05d0\u05d1\u05d0 \u05e9\u05dc\u05d9",
         "Artist": "Osnat Paz",
         "Key": "7B",
         "Energy": 4.996,
@@ -1507,14 +1597,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "4Lvm53wlOULtiCnVfKkZCM",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "muzika l'yeladim"
@@ -1532,7 +1624,7 @@
     },
     {
         "#": 47,
-        "Track Title": "אבא אבא",
+        "Track Title": "\u05d0\u05d1\u05d0 \u05d0\u05d1\u05d0",
         "Artist": "Aric Lavie, Shoshik Shani",
         "Key": "7B",
         "Energy": 5.779,
@@ -1541,13 +1633,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "5ALCno3kG1gzSNl0OpQJrM",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -1567,7 +1661,7 @@
     },
     {
         "#": 48,
-        "Track Title": "הדואר בא היום",
+        "Track Title": "\u05d4\u05d3\u05d5\u05d0\u05e8 \u05d1\u05d0 \u05d4\u05d9\u05d5\u05dd",
         "Artist": "Yoel Lerner",
         "Key": "3A",
         "Energy": 7.8580000000000005,
@@ -1576,14 +1670,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "1YWzJihwwtYH4sutKin7Nf",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "muzika l'yeladim"
@@ -1601,7 +1697,7 @@
     },
     {
         "#": 49,
-        "Track Title": "האוטו שלנו",
+        "Track Title": "\u05d4\u05d0\u05d5\u05d8\u05d5 \u05e9\u05dc\u05e0\u05d5",
         "Artist": "Danny Golan",
         "Key": "12B",
         "Energy": 4.231,
@@ -1610,14 +1706,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "4jlk0GCGUeUeO29cSUaBEA",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 54427,
@@ -1633,7 +1731,7 @@
     },
     {
         "#": 50,
-        "Track Title": "מפרשי זהב (שיר ההפלגה)",
+        "Track Title": "\u05de\u05e4\u05e8\u05e9\u05d9 \u05d6\u05d4\u05d1 (\u05e9\u05d9\u05e8 \u05d4\u05d4\u05e4\u05dc\u05d2\u05d4)",
         "Artist": "Hanan Yovel",
         "Key": "8A",
         "Energy": 5.86,
@@ -1642,13 +1740,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "5vlQHIz77ONTP0v9gBn7No",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -1667,7 +1767,7 @@
     },
     {
         "#": 51,
-        "Track Title": "במדינת הגמדים",
+        "Track Title": "\u05d1\u05de\u05d3\u05d9\u05e0\u05ea \u05d4\u05d2\u05de\u05d3\u05d9\u05dd",
         "Artist": "Ruchama Raz",
         "Key": "6B",
         "Energy": 7.0840000000000005,
@@ -1676,14 +1776,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "6KkZmQPEiERjhThgFK57oS",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -1702,7 +1804,7 @@
     },
     {
         "#": 52,
-        "Track Title": "אצו רצו גמדים",
+        "Track Title": "\u05d0\u05e6\u05d5 \u05e8\u05e6\u05d5 \u05d2\u05de\u05d3\u05d9\u05dd",
         "Artist": "Shmulik Kraus, Josie Katz",
         "Key": "8B",
         "Energy": 4.204,
@@ -1711,14 +1813,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "2wmzsp1gPjaYpk6NS9Tvsr",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -1738,7 +1842,7 @@
     },
     {
         "#": 53,
-        "Track Title": "ידידי טינטן",
+        "Track Title": "\u05d9\u05d3\u05d9\u05d3\u05d9 \u05d8\u05d9\u05e0\u05d8\u05df",
         "Artist": "Hana Laszlo",
         "Key": "7B",
         "Energy": 5.3469999999999995,
@@ -1747,13 +1851,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "1wzbvW4QFa7MfBQcB08L0H",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "muzika l'yeladim"
@@ -1771,7 +1877,7 @@
     },
     {
         "#": 54,
-        "Track Title": "בגינת הירק",
+        "Track Title": "\u05d1\u05d2\u05d9\u05e0\u05ea \u05d4\u05d9\u05e8\u05e7",
         "Artist": "Shula Chen",
         "Key": "10B",
         "Energy": 3.943,
@@ -1780,14 +1886,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "3lxe5hWy9UzAJm6xM4GKlW",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop"
@@ -1805,7 +1913,7 @@
     },
     {
         "#": 55,
-        "Track Title": "גינה לי",
+        "Track Title": "\u05d2\u05d9\u05e0\u05d4 \u05dc\u05d9",
         "Artist": "Chava Alberstein",
         "Key": "10B",
         "Energy": 3.7359999999999998,
@@ -1814,14 +1922,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "6qO5kXTDXyybN8AeY6kZ89",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -1840,7 +1950,7 @@
     },
     {
         "#": 56,
-        "Track Title": "אנדנדינו",
+        "Track Title": "\u05d0\u05e0\u05d3\u05e0\u05d3\u05d9\u05e0\u05d5",
         "Artist": "Hana Laszlo, Miki Kam",
         "Key": "9B",
         "Energy": 7.156000000000001,
@@ -1849,14 +1959,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "6D8HT2LRX9zEkEB9AFMIUV",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "muzika l'yeladim",
@@ -1875,7 +1987,7 @@
     },
     {
         "#": 57,
-        "Track Title": "הודי חמודי",
+        "Track Title": "\u05d4\u05d5\u05d3\u05d9 \u05d7\u05de\u05d5\u05d3\u05d9",
         "Artist": "Shula Chen",
         "Key": "9B",
         "Energy": 4.033,
@@ -1884,14 +1996,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "0PLr13y4EfZzBvUWaUbvkt",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop"
@@ -1909,7 +2023,7 @@
     },
     {
         "#": 58,
-        "Track Title": "מיכאל",
+        "Track Title": "\u05de\u05d9\u05db\u05d0\u05dc",
         "Artist": "Shoshik Shani",
         "Key": "9A",
         "Energy": 3.223,
@@ -1918,7 +2032,9 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Mad",
             "Calm"
@@ -1926,7 +2042,7 @@
         "Additional Info": {
             "id": "7Ij6nY8PFuvEoa0xPvaJ5m",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -1945,7 +2061,7 @@
     },
     {
         "#": 59,
-        "Track Title": "חמש שנים",
+        "Track Title": "\u05d7\u05de\u05e9 \u05e9\u05e0\u05d9\u05dd",
         "Artist": "Simona Boner",
         "Key": "7B",
         "Energy": 3.358,
@@ -1954,13 +2070,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "2CP3JEAnkgjrLGnYXYdHEl",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 118173,
@@ -1976,7 +2094,7 @@
     },
     {
         "#": 60,
-        "Track Title": "דני גיבור",
+        "Track Title": "\u05d3\u05e0\u05d9 \u05d2\u05d9\u05d1\u05d5\u05e8",
         "Artist": "Osnat Paz",
         "Key": "11B",
         "Energy": 4.213,
@@ -1985,14 +2103,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "4bt5jhqnc4vgGeaBnd764A",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "muzika l'yeladim"
@@ -2010,7 +2130,7 @@
     },
     {
         "#": 61,
-        "Track Title": "מה עושים העצים",
+        "Track Title": "\u05de\u05d4 \u05e2\u05d5\u05e9\u05d9\u05dd \u05d4\u05e2\u05e6\u05d9\u05dd",
         "Artist": "Shoshik Shani",
         "Key": "6B",
         "Energy": 4.555,
@@ -2019,13 +2139,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "2CgtIaqAlBEjRanL7HopbM",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -2044,7 +2166,7 @@
     },
     {
         "#": 62,
-        "Track Title": "אני אוהב לשרוק",
+        "Track Title": "\u05d0\u05e0\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05dc\u05e9\u05e8\u05d5\u05e7",
         "Artist": "Dudu Elharar",
         "Key": "7B",
         "Energy": 5.689,
@@ -2053,14 +2175,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "6XS5UpVNIPpK06DgNRkAI3",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -2079,7 +2203,7 @@
     },
     {
         "#": 63,
-        "Track Title": "מכופף הבננות",
+        "Track Title": "\u05de\u05db\u05d5\u05e4\u05e3 \u05d4\u05d1\u05e0\u05e0\u05d5\u05ea",
         "Artist": "Arik Einstein",
         "Key": "7B",
         "Energy": 4.6899999999999995,
@@ -2088,14 +2212,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "7pO8XyaH9mLnj7085UQ3kH",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -2115,7 +2241,7 @@
     },
     {
         "#": 64,
-        "Track Title": "מה קרה לחתלתול",
+        "Track Title": "\u05de\u05d4 \u05e7\u05e8\u05d4 \u05dc\u05d7\u05ea\u05dc\u05ea\u05d5\u05dc",
         "Artist": "Shoshik Shani",
         "Key": "10B",
         "Energy": 4.438000000000001,
@@ -2124,14 +2250,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "14TojS6a0aUuRhiy73Qy5r",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -2150,7 +2278,7 @@
     },
     {
         "#": 65,
-        "Track Title": "אמא אווזה",
+        "Track Title": "\u05d0\u05de\u05d0 \u05d0\u05d5\u05d5\u05d6\u05d4",
         "Artist": "Mazi Cohen",
         "Key": "7B",
         "Energy": 5.257,
@@ -2159,14 +2287,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "0oE9H6vluCGlj1LaId5x8T",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -2185,7 +2315,7 @@
     },
     {
         "#": 66,
-        "Track Title": "רוגז",
+        "Track Title": "\u05e8\u05d5\u05d2\u05d6",
         "Artist": "Shula Chen",
         "Key": "6B",
         "Energy": 5.428,
@@ -2194,14 +2324,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "0z5F8nfIiBb2U4Vb16c5w4",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop"
@@ -2219,7 +2351,7 @@
     },
     {
         "#": 67,
-        "Track Title": "אליעזר והגזר",
+        "Track Title": "\u05d0\u05dc\u05d9\u05e2\u05d6\u05e8 \u05d5\u05d4\u05d2\u05d6\u05e8",
         "Artist": "Nira Adi, Ariel Forman, Yonit Shoam, Eli Chachmon",
         "Key": "9B",
         "Energy": 5.878,
@@ -2228,14 +2360,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "0lyn7AhB37d1q93zWpqA7Q",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 197987,
@@ -2251,7 +2385,7 @@
     },
     {
         "#": 68,
-        "Track Title": "בובה זהבה",
+        "Track Title": "\u05d1\u05d5\u05d1\u05d4 \u05d6\u05d4\u05d1\u05d4",
         "Artist": "Chava Alberstein",
         "Key": "7B",
         "Energy": 5.014,
@@ -2260,13 +2394,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "0ZmXpB0ofDbCLGTQxVsURf",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -2285,7 +2421,7 @@
     },
     {
         "#": 69,
-        "Track Title": "קומי קומי",
+        "Track Title": "\u05e7\u05d5\u05de\u05d9 \u05e7\u05d5\u05de\u05d9",
         "Artist": "Shoshik Shani",
         "Key": "9A",
         "Energy": 5.941000000000001,
@@ -2294,14 +2430,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "4w5jpkGXQGe8MQBEFBIPHq",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -2320,7 +2458,7 @@
     },
     {
         "#": 70,
-        "Track Title": "מקהלת נוגנים",
+        "Track Title": "\u05de\u05e7\u05d4\u05dc\u05ea \u05e0\u05d5\u05d2\u05e0\u05d9\u05dd",
         "Artist": "Danny Golan",
         "Key": "8B",
         "Energy": 6.031000000000001,
@@ -2329,14 +2467,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "0O54oZAVzuGCbrHeY48Khb",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 52573,
@@ -2352,7 +2492,7 @@
     },
     {
         "#": 71,
-        "Track Title": "על ראש החרמון",
+        "Track Title": "\u05e2\u05dc \u05e8\u05d0\u05e9 \u05d4\u05d7\u05e8\u05de\u05d5\u05df",
         "Artist": "Chava Alberstein",
         "Key": "7B",
         "Energy": 4.987,
@@ -2361,14 +2501,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "3bDn1L42uk6DF0RV9pU1HI",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -2387,7 +2529,7 @@
     },
     {
         "#": 72,
-        "Track Title": "דוגית נוסעת",
+        "Track Title": "\u05d3\u05d5\u05d2\u05d9\u05ea \u05e0\u05d5\u05e1\u05e2\u05ea",
         "Artist": "The Brothers & The Sisters",
         "Key": "1A",
         "Energy": 4.231,
@@ -2396,13 +2538,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "1VK0mK4QDg7eMzrxqJ8RS8",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop"
@@ -2420,7 +2564,7 @@
     },
     {
         "#": 73,
-        "Track Title": "מעבר לים",
+        "Track Title": "\u05de\u05e2\u05d1\u05e8 \u05dc\u05d9\u05dd",
         "Artist": "Lior Yeini",
         "Key": "8B",
         "Energy": 2.404,
@@ -2429,13 +2573,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "6bazMx59Qx01Xruj2ilERu",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -2454,7 +2600,7 @@
     },
     {
         "#": 74,
-        "Track Title": "פזמון ליקינתון",
+        "Track Title": "\u05e4\u05d6\u05de\u05d5\u05df \u05dc\u05d9\u05e7\u05d9\u05e0\u05ea\u05d5\u05df",
         "Artist": "Yehoram Gaon",
         "Key": "5B",
         "Energy": 3.322,
@@ -2463,13 +2609,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "4xsu1DNP1diYpC6f3uTegO",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -2488,7 +2636,7 @@
     },
     {
         "#": 75,
-        "Track Title": "מה עושות הרכבות על הפסים",
+        "Track Title": "\u05de\u05d4 \u05e2\u05d5\u05e9\u05d5\u05ea \u05d4\u05e8\u05db\u05d1\u05d5\u05ea \u05e2\u05dc \u05d4\u05e4\u05e1\u05d9\u05dd",
         "Artist": "Dalia Friedland",
         "Key": "6A",
         "Energy": 3.016,
@@ -2497,13 +2645,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "0DkBe7pgHVI47CulEON6Le",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "muzika l'yeladim"
@@ -2521,7 +2671,7 @@
     },
     {
         "#": 76,
-        "Track Title": "שיר ערש לבאבאר",
+        "Track Title": "\u05e9\u05d9\u05e8 \u05e2\u05e8\u05e9 \u05dc\u05d1\u05d0\u05d1\u05d0\u05e8",
         "Artist": "Cilla Dagan",
         "Key": "11A",
         "Energy": 4.4830000000000005,
@@ -2530,13 +2680,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "5Q5FLnRlsQ1xk0h5C3nDkN",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop"
@@ -2554,7 +2706,7 @@
     },
     {
         "#": 77,
-        "Track Title": "נומי, נומי ילדתי",
+        "Track Title": "\u05e0\u05d5\u05de\u05d9, \u05e0\u05d5\u05de\u05d9 \u05d9\u05dc\u05d3\u05ea\u05d9",
         "Artist": "Shula Chen",
         "Key": "8A",
         "Energy": 3.016,
@@ -2563,13 +2715,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "3CSphNqX23TEJC2slAYkzS",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop"
@@ -2587,7 +2741,7 @@
     },
     {
         "#": 78,
-        "Track Title": "השפן הקטן",
+        "Track Title": "\u05d4\u05e9\u05e4\u05df \u05d4\u05e7\u05d8\u05df",
         "Artist": "Yoel Lerner, Mazi Cohen",
         "Key": "9B",
         "Energy": 4.321,
@@ -2596,14 +2750,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "2gQDV3rIjfS1Fbrh1B9U0G",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "muzika l'yeladim",
@@ -2623,7 +2779,7 @@
     },
     {
         "#": 79,
-        "Track Title": "פרש",
+        "Track Title": "\u05e4\u05e8\u05e9",
         "Artist": "Yehoram Gaon",
         "Key": "10B",
         "Energy": 5.833,
@@ -2632,13 +2788,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "3c0HMPUGaVocCpuhjZYPEi",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -2657,7 +2815,7 @@
     },
     {
         "#": 80,
-        "Track Title": "הפרח לפרפר",
+        "Track Title": "\u05d4\u05e4\u05e8\u05d7 \u05dc\u05e4\u05e8\u05e4\u05e8",
         "Artist": "Shula Chen",
         "Key": "10B",
         "Energy": 3.772,
@@ -2666,13 +2824,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "0DYhxiPGGYB3EtxcF8iQnE",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop"
@@ -2690,7 +2850,7 @@
     },
     {
         "#": 81,
-        "Track Title": "קן לציפור",
+        "Track Title": "\u05e7\u05df \u05dc\u05e6\u05d9\u05e4\u05d5\u05e8",
         "Artist": "Ofra Gluska",
         "Key": "9B",
         "Energy": 4.843,
@@ -2699,13 +2859,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "4VwRLIUfcJMvWoZi6azNmp",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 118333,
@@ -2721,7 +2883,7 @@
     },
     {
         "#": 82,
-        "Track Title": "אדון חרדון",
+        "Track Title": "\u05d0\u05d3\u05d5\u05df \u05d7\u05e8\u05d3\u05d5\u05df",
         "Artist": "Dalia Friedland",
         "Key": "8B",
         "Energy": 5.149,
@@ -2730,14 +2892,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "5WJ4V1VYOHPNsMLBstUV2P",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "muzika l'yeladim"
@@ -2755,7 +2919,7 @@
     },
     {
         "#": 83,
-        "Track Title": "תרנגול אני",
+        "Track Title": "\u05ea\u05e8\u05e0\u05d2\u05d5\u05dc \u05d0\u05e0\u05d9",
         "Artist": "Dalia Friedland",
         "Key": "11B",
         "Energy": 3.835,
@@ -2764,14 +2928,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "02sThTUGUmktZ1Hbty1q0D",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "muzika l'yeladim"
@@ -2789,7 +2955,7 @@
     },
     {
         "#": 84,
-        "Track Title": "אצא לי אל היער",
+        "Track Title": "\u05d0\u05e6\u05d0 \u05dc\u05d9 \u05d0\u05dc \u05d4\u05d9\u05e2\u05e8",
         "Artist": "Group",
         "Key": "5B",
         "Energy": 4.824999999999999,
@@ -2798,13 +2964,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "4uFekmdqaOhMwmdMuQlyf6",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 74560,
@@ -2820,7 +2988,7 @@
     },
     {
         "#": 85,
-        "Track Title": "זאת הגברת שפנפנית",
+        "Track Title": "\u05d6\u05d0\u05ea \u05d4\u05d2\u05d1\u05e8\u05ea \u05e9\u05e4\u05e0\u05e4\u05e0\u05d9\u05ea",
         "Artist": "Shula Chen",
         "Key": "8B",
         "Energy": 6.138999999999999,
@@ -2829,14 +2997,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "6WG6L85qwaBr9Mwas2ox4z",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop"
@@ -2854,7 +3024,7 @@
     },
     {
         "#": 86,
-        "Track Title": "כושי כלב קט",
+        "Track Title": "\u05db\u05d5\u05e9\u05d9 \u05db\u05dc\u05d1 \u05e7\u05d8",
         "Artist": "Dalia Friedland",
         "Key": "8B",
         "Energy": 6.535,
@@ -2863,14 +3033,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "1d8S89ZvO84wk63zJlZs7K",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "muzika l'yeladim"
@@ -2888,7 +3060,7 @@
     },
     {
         "#": 87,
-        "Track Title": "פילפילון",
+        "Track Title": "\u05e4\u05d9\u05dc\u05e4\u05d9\u05dc\u05d5\u05df",
         "Artist": "Chava Alberstein",
         "Key": "11A",
         "Energy": 2.188,
@@ -2897,13 +3069,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "5DymDrp196co72mK596vjt",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -2922,7 +3096,7 @@
     },
     {
         "#": 88,
-        "Track Title": "מה עושות האילות",
+        "Track Title": "\u05de\u05d4 \u05e2\u05d5\u05e9\u05d5\u05ea \u05d4\u05d0\u05d9\u05dc\u05d5\u05ea",
         "Artist": "Yehudit Ravitz, Yoni Rechter",
         "Key": "2B",
         "Energy": 5.518,
@@ -2931,13 +3105,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "6uSrPMni2Ev8vW2NOwfY6a",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -2958,7 +3134,7 @@
     },
     {
         "#": 89,
-        "Track Title": "דב",
+        "Track Title": "\u05d3\u05d1",
         "Artist": "Yehoram Gaon",
         "Key": "11B",
         "Energy": 3.952,
@@ -2967,13 +3143,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "42OnwV7cGTQIvAGLD4sLLf",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -2992,7 +3170,7 @@
     },
     {
         "#": 90,
-        "Track Title": "עכבר עכבר",
+        "Track Title": "\u05e2\u05db\u05d1\u05e8 \u05e2\u05db\u05d1\u05e8",
         "Artist": "Boys and Girls Group",
         "Key": "10B",
         "Energy": 3.826,
@@ -3001,14 +3179,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "6mFnWDM7or3dv2WYYKoQGl",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 41333,
@@ -3024,7 +3204,7 @@
     },
     {
         "#": 91,
-        "Track Title": "החמור הקטן",
+        "Track Title": "\u05d4\u05d7\u05de\u05d5\u05e8 \u05d4\u05e7\u05d8\u05df",
         "Artist": "Chava Alberstein",
         "Key": "10B",
         "Energy": 3.844,
@@ -3033,14 +3213,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "2JONrzzW81C06cX3TzzAUa",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -3059,7 +3241,7 @@
     },
     {
         "#": 92,
-        "Track Title": "עגלה עם סוסה",
+        "Track Title": "\u05e2\u05d2\u05dc\u05d4 \u05e2\u05dd \u05e1\u05d5\u05e1\u05d4",
         "Artist": "Shem-Tov Levi",
         "Key": "8A",
         "Energy": 3.9970000000000003,
@@ -3068,14 +3250,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "0JbH15lSuL4Tgc0gsx5JQt",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop"
@@ -3093,7 +3277,7 @@
     },
     {
         "#": 93,
-        "Track Title": "הדובים",
+        "Track Title": "\u05d4\u05d3\u05d5\u05d1\u05d9\u05dd",
         "Artist": "Osnat Paz",
         "Key": "11A",
         "Energy": 2.854,
@@ -3102,14 +3286,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "0TALWwriP34xSIOyd2wOwH",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "muzika l'yeladim"
@@ -3127,7 +3313,7 @@
     },
     {
         "#": 94,
-        "Track Title": "בולבול למה ככה",
+        "Track Title": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05dc\u05de\u05d4 \u05db\u05db\u05d4",
         "Artist": "Cilla Dagan, Ezra Dagan",
         "Key": "10A",
         "Energy": 4.789,
@@ -3136,13 +3322,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "6OOQ7WaqW7RcDi0aCcwGZj",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop"
@@ -3160,7 +3348,7 @@
     },
     {
         "#": 95,
-        "Track Title": "מדוע הזברה לובשת פיג'מה",
+        "Track Title": "\u05de\u05d3\u05d5\u05e2 \u05d4\u05d6\u05d1\u05e8\u05d4 \u05dc\u05d5\u05d1\u05e9\u05ea \u05e4\u05d9\u05d2'\u05de\u05d4",
         "Artist": "Geula Gill",
         "Key": "10B",
         "Energy": 5.428,
@@ -3169,14 +3357,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "1M2iJuWkHQQqUXc8NgzbTr",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop",
@@ -3195,7 +3385,7 @@
     },
     {
         "#": 96,
-        "Track Title": "היפו היפי",
+        "Track Title": "\u05d4\u05d9\u05e4\u05d5 \u05d4\u05d9\u05e4\u05d9",
         "Artist": "Hanan Goldblat",
         "Key": "3B",
         "Energy": 7.849,
@@ -3204,14 +3394,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "4LbufHP2nDhAPqL6PyDBHU",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 153867,
@@ -3227,7 +3419,7 @@
     },
     {
         "#": 97,
-        "Track Title": "למה ככה",
+        "Track Title": "\u05dc\u05de\u05d4 \u05db\u05db\u05d4",
         "Artist": "Riki Gal",
         "Key": "5B",
         "Energy": 5.662,
@@ -3236,13 +3428,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "31gItuuXiddcSP7Z7EcNO7",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop"
@@ -3260,7 +3454,7 @@
     },
     {
         "#": 98,
-        "Track Title": "שנים עשר הירחים",
+        "Track Title": "\u05e9\u05e0\u05d9\u05dd \u05e2\u05e9\u05e8 \u05d4\u05d9\u05e8\u05d7\u05d9\u05dd",
         "Artist": "Shula Chen",
         "Key": "9B",
         "Energy": 6.183999999999999,
@@ -3269,14 +3463,16 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s",
             "Happy"
         ],
         "Additional Info": {
             "id": "1dgYzP1GoMrcyBFeIRG14V",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop"
@@ -3294,7 +3490,7 @@
     },
     {
         "#": 99,
-        "Track Title": "בראש השנה",
+        "Track Title": "\u05d1\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4",
         "Artist": "Naomi Shemer",
         "Key": "11A",
         "Energy": 4.114,
@@ -3303,13 +3499,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "6IL3tCYPcxqA4FUaHagKCI",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [
                 "classic israeli pop"
@@ -3327,7 +3525,7 @@
     },
     {
         "#": 100,
-        "Track Title": "שנה טובה",
+        "Track Title": "\u05e9\u05e0\u05d4 \u05d8\u05d5\u05d1\u05d4",
         "Artist": "Hag Lataf' Group",
         "Key": "5B",
         "Energy": 3.979,
@@ -3336,13 +3534,15 @@
         "DJ Play Count": 0,
         "Rating": "*******",
         "My Tag": [
-            "Sp- Kids Party, PEGI 4 [Age], Israel [Loc]",
+            "Sp- Kids Party",
+            "PEGI 4 [Age]",
+            "Israel [Loc]",
             "2000s"
         ],
         "Additional Info": {
             "id": "67f2wrGz9lteAomOIZ46JE",
             "explicit": false,
-            "album": "שירי הילדים הגדולים בכל הזמנים",
+            "album": "\u05e9\u05d9\u05e8\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d1\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd",
             "release_date": "2008-04-09",
             "genres": [],
             "duration": 83600,

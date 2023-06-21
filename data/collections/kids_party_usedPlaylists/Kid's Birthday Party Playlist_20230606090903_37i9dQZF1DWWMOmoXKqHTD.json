@@ -340,7 +340,7 @@
     {
         "#": 11,
         "Track Title": "I Am Your Gummy Bear (The Gummy Bear Song)",
-        "Artist": "Gummibär",
+        "Artist": "Gummib\u00e4r",
         "Key": "11A",
         "Energy": 9.028,
         "Popularity": 6.76,
@@ -1585,8 +1585,8 @@
     },
     {
         "#": 47,
-        "Track Title": "Frère Jacques",
-        "Artist": "La Reine des chansons pour enfants et bébés",
+        "Track Title": "Fr\u00e8re Jacques",
+        "Artist": "La Reine des chansons pour enfants et b\u00e9b\u00e9s",
         "Key": "11B",
         "Energy": 2.242,
         "Popularity": 6.13,
@@ -1601,7 +1601,7 @@
         "Additional Info": {
             "id": "4vtLMw7V9b6BdaevH2i8PS",
             "explicit": false,
-            "album": "Comptines pour enfants et bébés",
+            "album": "Comptines pour enfants et b\u00e9b\u00e9s",
             "release_date": "2016-06-14",
             "genres": [
                 "musique pour enfants"
