@@ -1,5 +1,5 @@
 // Change this to your repository name
-var GHPATH = '/Song-Instant-Selector';
+var GHPATH = '/DTrack-Finder';
  
 // Choose a different app prefix name
 var APP_PREFIX = 'dtrack_';

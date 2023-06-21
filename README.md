@@ -24,13 +24,18 @@ Available On mobile📱, and desktop💻. It's Open-Source and FREE to use, Enjo
 
 # Usage Demos
 
-[Detailed video with timestamps](https://youtu.be/r5v5RHf9te4)
 
 
+Find the perfect Mashup for any song! (How To)
 
+<a href="https://www.youtube.com/watch?v=03K2DUSp9W4&t=6s"><img src="https://img.youtube.com/vi/03K2DUSp9W4/maxresdefault.jpg" width="550"></a>
 
-[Using it as a DJ, to easily find mixable tracks in different genres with ease!](https://www.youtube.com/watch?v=6hylz07pKjs&t=2s)
+STEM mixing demo
 
+<a href="https://www.youtube.com/watch?v=pu7TVer5uGg"><img src="https://img.youtube.com/vi/pu7TVer5uGg/maxresdefault.jpg" width="550"></a>
 
+Install on Iphone
+
+<a href="https://youtube.com/shorts/Xalwxsj1RB8?feature=share"><img src="https://img.youtube.com/vi/Xalwxsj1RB8/hqdefault.jpg" width="550"></a>
 
 Simply choose your target vibes, favorite genres, and desired BPM, and find the selector will offer you the best songs! Just press the copy button, and paste it to your DJ software / your Spotify Playlist.
