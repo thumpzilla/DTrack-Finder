@@ -2,19 +2,19 @@
   "name": "DTrack Music Selector",
   "short_name": "DTrack finder",
   "description": "Find the best song based on energy, popularity, genres and more - fast!",
-  "scope": "/Song-Instant-Selector/",
-  "start_url": "/Song-Instant-Selector/",
+  "scope": "/DTrack-Finder/",
+  "start_url": "/DTrack-Finder/",
   "background_color": "#8639DB",
   "display": "standalone",
   "theme_color": "#6C4BF3",
   "icons": [
     {
-      "src": "/Song-Instant-Selector/images/output_192.png",
+      "src": "/DTrack-Finder/images/output_192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/Song-Instant-Selector/images/output_512.png",
+      "src": "/DTrack-Finder/images/output_512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
