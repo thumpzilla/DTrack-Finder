@@ -22,7 +22,7 @@ export default class TagFilter {
             ],
             'Collections': [
                 "DTracks", "Sp- Sing-Along", "Sp- Kids Party", "Sp- Bach Party", "Sp- Workout",
-                "Sp- Bach Israel", "Sp- Wedding", "Sp- PsyTrance", "Sp- Nostalgic",
+                "Sp- Bach Israel", "Sp- Wedding", "Sp- PsyTrance", "Sp- Nostalgic", "Sp- Party by Eras",
             ],
 
             'Extra': [
