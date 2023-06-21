@@ -40,7 +40,7 @@ export default class SongListItemUI {
         spotifyLink.alignItems = 'center';
         spotifyLink.href = `https://open.spotify.com/track/${this.song.additional_info.id}`;
         spotifyLink.style.fontSize = '1rem'; // Keeping text size consistent
-        spotifyLink.style.color = '#FE8C2A'; // Change the color to blue (or any other desired color)
+        spotifyLink.style.color = '#09AD72'; // Change the color to blue (or any other desired color)
         spotifyLink.style.textDecoration = 'none'; // Remove underline from text
         spotifyLink.style.display = 'flex'; // Align items along a row
         spotifyLink.style.alignItems = 'center'; // Center items vertically in the container
@@ -52,7 +52,7 @@ export default class SongListItemUI {
         spotifyIcon.alt = 'Play on Spotify';
         spotifyIcon.style.marginLeft = '1rem'; // Add some spacing between the SVG and the text
 
-        spotifyIcon.style.width = '1.3rem'; // Set the width of the SVG image
+        spotifyIcon.style.width = '1.5rem'; // Set the width of the SVG image
     
         const playNowText = document.createElement('span');
         playNowText.textContent = 'Play Now';

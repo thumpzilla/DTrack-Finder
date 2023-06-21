@@ -41,7 +41,14 @@ var URLS = [
   `${GHPATH}/images/energy.svg`,
   `${GHPATH}/images/popularity.svg`,
   `${GHPATH}/images/tags.svg`,
-  `${GHPATH}/images/colored/tags.svg `,
+
+  `${GHPATH}/images/colored/tags.svg`,
+  `${GHPATH}/images/colored/Spotify-colored.svg`,
+  `${GHPATH}/images/colored/play-colored.svg`,
+  `${GHPATH}/images/colored/Popular-trendy-colored.svg`,
+  `${GHPATH}/images/colored/energy-colored.svg`,
+
+
 
   `${GHPATH}/images/drum-bpm.svg`,
   `${GHPATH}/images/sound-note-single.svg`,

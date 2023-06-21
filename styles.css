@@ -221,6 +221,7 @@ li:hover {
     margin: 0.2rem;  /* Adjust this to manage the margin of individual tag */
     border-radius: 0.31rem;
     padding: 0.2rem 0.45rem;
+    transform: translateX(-0.54rem);
     white-space: nowrap; /* Prevents the text inside the tag from wrapping to the next line */
     overflow: hidden; /* Hide overflowed text */
     text-overflow: ellipsis; /* Display ellipsis when the text overflows */
