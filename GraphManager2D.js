@@ -68,6 +68,36 @@ export default class GraphManager {
         this.ctx.fill();
     }
 
+    drawStar(x, y, spikes, outerRadius, innerRadius) {
+        var rotation = Math.PI / 2 * 3;
+        var step = Math.PI / spikes;
+        var ctx = this.ctx;
+    
+        ctx.beginPath();
+        ctx.moveTo(x, y - outerRadius);
+    
+        for (let i = 0; i < spikes; i++) {
+            ctx.lineTo(x + Math.cos(rotation) * outerRadius, y + Math.sin(rotation) * outerRadius);
+            rotation += step;
+    
+            ctx.lineTo(x + Math.cos(rotation) * innerRadius, y + Math.sin(rotation) * innerRadius);
+            rotation += step;
+        }
+        ctx.lineTo(x, y - outerRadius);
+        ctx.closePath();
+        
+        // Fill with gradient
+        let gradient = this.ctx.createLinearGradient(x - outerRadius, y + outerRadius, x + outerRadius, y - outerRadius);
+    
+
+        gradient.addColorStop(1, '#000');
+        gradient.addColorStop(0.6, '#fff');
+    
+        ctx.fillStyle = gradient;
+        ctx.fill();
+    }
+    
+
     handleClick(event, songManager) {
         const rect = this.canvas.getBoundingClientRect();
         const x = event.clientX - rect.left;
@@ -79,7 +109,9 @@ export default class GraphManager {
         const energyRounded = Math.round(energy); // Change the scaling factor and add 1
         const popularityRounded = Math.round(popularity); 
         this.drawGraph(); // Clear and redraw the graph
-        this.drawDot(x, y); // Draw the new dot
+        this.drawStar(x, y, 5, 17, 8);  // Example usage
+
+        // this.drawDot(x, y); // Draw the new dot
 
         songManager.updateSongList(energy, popularity);
     }
@@ -110,7 +142,7 @@ export default class GraphManager {
         }, { passive: false }); // Enable preventDefault in passive event listener
     
         this.canvas.addEventListener('click', (event) => this.handleClick(event, songManager));
-        this.mockClick(5, 9); // As set in SongManager.updateSongList()
+        this.mockClick(9, 9); // As set in SongManager.updateSongList()
 
         // this.initializeDefaultSelection();
     }

@@ -4,8 +4,10 @@ export default class TagFilter {
     constructor(songManager) {
         this.tagWCategories = {
             'Hot':  [
-                "Happy", "Fool Around", "Sing", "Pool", "Sexy", "Club", "EDM", "Hip Hop", "Latin",
-                "Dance Remixes" , "Pop", "Jump", "PEGI 4 [Age]", "Wedding", "Flying High"
+                "Sp- 4July", "70s", "80s", "90s", "2000s", "2010s", "2020s", "Pop", "Rock", "EDM", "Latin",
+                "Psy-Trance", "Nostalgic", "Wedding", "Sp- Bach Party",
+                // "Happy", "Fool Around", "Sing", "Pool", "Sexy", "Club", "EDM", "Hip Hop", "Latin",
+                // "Dance Remixes" , "Pop", "Jump", "PEGI 4 [Age]", "Wedding", "Flying High"
             ], 
             'Vibes':  [
                 "Wedding", "Pool", "Bars", "Club", "Strip Club", "Build up", "Jump", "Sing", "Fool Around", "Flying High", "Happy", "Cheer Competitors",
@@ -13,7 +15,7 @@ export default class TagFilter {
                 "Drink Up", "MC Hype", "Inspiring" 
             ],
             'Genres':  [
-                "Pop", "Dance Remixes", "EDM", "Hip Hop", ,"Rock",  "Latin", "Tribal",  "Club-Hotel",
+                "Pop", "Dance Remixes", "EDM", "Hip Hop", "Rock",  "Latin", "Tribal",  "Club-Hotel",
                 "Psy-Trance", "Israeli - Kibutz", "Mizrahit", "Nostalgic"
             ],
             'Eras': [
@@ -22,7 +24,7 @@ export default class TagFilter {
             ],
             'Collections': [
                 "DTracks", "Sp- Sing-Along", "Sp- Kids Party", "Sp- Bach Party", "Sp- Workout",
-                "Sp- Bach Israel", "Sp- Wedding", "Sp- PsyTrance", "Sp- Nostalgic", "Sp- Party by Eras",
+                "Sp- Bach Israel", "Sp- Wedding", "Sp- PsyTrance", "Sp- Nostalgic", "Sp- Party by Eras", "Sp- 4July",
             ],
 
             'Extra': [
@@ -33,7 +35,7 @@ export default class TagFilter {
         };
         this.twoDSelector = document.getElementById('2dSelector'); // style.display - 'block' or 'none'
         this.songManager = songManager;
-        this.activeTags = ["Sp- Wedding", "Happy", "Pop", "2010s"]; // Default active tags
+        this.activeTags = ["Sp- 4July", "2010s"]; // Default active tags
 
 
         this.filterElement = document.getElementById('tags-filtering-div');

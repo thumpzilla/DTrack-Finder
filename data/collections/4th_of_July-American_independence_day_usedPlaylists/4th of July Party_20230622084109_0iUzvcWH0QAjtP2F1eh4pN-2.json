@@ -1,0 +1,3907 @@
+[
+    {
+        "#": 1,
+        "Track Title": "American Pie",
+        "Artist": "Don McLean",
+        "Key": "9B",
+        "Energy": 5.581,
+        "Popularity": 7.3,
+        "BPM": 138,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Calm",
+            "Nostalgic",
+            "Rock",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "2QgWuCtBpNIpl5trmKCxRf",
+            "explicit": false,
+            "album": "The Best Of Don McLean",
+            "release_date": "1988-01-01",
+            "genres": [
+                "classic rock",
+                "folk",
+                "folk rock",
+                "heartland rock",
+                "mellow gold",
+                "singer-songwriter",
+                "soft rock"
+            ],
+            "duration": 515867,
+            "acousticness": 0.6,
+            "danceability": 5.734,
+            "instrumentalness": 0,
+            "liveness": 0.144,
+            "loudness": -10.893,
+            "speechiness": 0.0628,
+            "time_signature": 4,
+            "happiness": 5.473
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "American Woman",
+        "Artist": "Lenny Kravitz",
+        "Key": "3B",
+        "Energy": 7.282,
+        "Popularity": 5.5,
+        "BPM": 84,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Rock",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "2BdSaGVMxZzEeJYjjrlo6n",
+            "explicit": false,
+            "album": "Greatest Hits",
+            "release_date": "2000",
+            "genres": [
+                "permanent wave",
+                "rock"
+            ],
+            "duration": 261707,
+            "acousticness": 0.0243,
+            "danceability": 7.021000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.0782,
+            "loudness": -7.971,
+            "speechiness": 0.0713,
+            "time_signature": 4,
+            "happiness": 6.3999999999999995
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "God Bless The U.S.A.",
+        "Artist": "Lee Greenwood",
+        "Key": "7B",
+        "Energy": 4.798,
+        "Popularity": 6.22,
+        "BPM": 68,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "90s"
+        ],
+        "Additional Info": {
+            "id": "623lYBOJ7bLwh1bu3yeN5V",
+            "explicit": false,
+            "album": "American Patriot",
+            "release_date": "1992-01-01",
+            "genres": [
+                "classic country pop"
+            ],
+            "duration": 191600,
+            "acousticness": 0.0873,
+            "danceability": 3.691,
+            "instrumentalness": 0,
+            "liveness": 0.182,
+            "loudness": -9.977,
+            "speechiness": 0.0285,
+            "time_signature": 4,
+            "happiness": 2.512
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Courtesy Of The Red, White And Blue (The Angry American)",
+        "Artist": "Toby Keith",
+        "Key": "10B",
+        "Energy": 6.949,
+        "Popularity": 7.4799999999999995,
+        "BPM": 112,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0M7mWKqwTIaVjYyxfZmtTa",
+            "explicit": false,
+            "album": "Unleashed",
+            "release_date": "2002-01-01",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 195533,
+            "acousticness": 0.521,
+            "danceability": 4.816,
+            "instrumentalness": 1.62e-06,
+            "liveness": 0.0719,
+            "loudness": -5.547,
+            "speechiness": 0.0425,
+            "time_signature": 4,
+            "happiness": 4.4559999999999995
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Sweet Home Alabama",
+        "Artist": "Lynyrd Skynyrd",
+        "Key": "8B",
+        "Energy": 6.337,
+        "Popularity": 1.0,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "90s",
+            "Mad",
+            "Nostalgic",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "74QCZPlpayjvQ4yJJFljfQ",
+            "explicit": false,
+            "album": "Lynyrd Skynyrd",
+            "release_date": "1991-01-01",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "rock",
+                "southern rock"
+            ],
+            "duration": 285160,
+            "acousticness": 0.181,
+            "danceability": 6.409,
+            "instrumentalness": 0.000441,
+            "liveness": 0.121,
+            "loudness": -11.685,
+            "speechiness": 0.0257,
+            "time_signature": 4,
+            "happiness": 9.118
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "American Soldier",
+        "Artist": "Toby Keith",
+        "Key": "11B",
+        "Energy": 6.031000000000001,
+        "Popularity": 1.0,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "4WygRabom8WGpPb44r40sK",
+            "explicit": false,
+            "album": "Shock 'N Y'all",
+            "release_date": "2003-01-01",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 263333,
+            "acousticness": 0.157,
+            "danceability": 5.9590000000000005,
+            "instrumentalness": 1.29e-05,
+            "liveness": 0.0589,
+            "loudness": -8.238,
+            "speechiness": 0.0381,
+            "time_signature": 4,
+            "happiness": 3.6999999999999997
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Red Solo Cup",
+        "Artist": "Toby Keith",
+        "Key": "12B",
+        "Energy": 6.066999999999999,
+        "Popularity": 1.0,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "47nm8czanMUzIqHsnr5x61",
+            "explicit": false,
+            "album": "Clancy's Tavern (Deluxe Edition)",
+            "release_date": "2011-01-01",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 223387,
+            "acousticness": 0.279,
+            "danceability": 5.941000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.215,
+            "loudness": -6.655,
+            "speechiness": 0.0669,
+            "time_signature": 4,
+            "happiness": 8.290000000000001
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Jack & Diane",
+        "Artist": "John Mellencamp",
+        "Key": "11B",
+        "Energy": 4.663,
+        "Popularity": 1.0,
+        "BPM": 104,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Inspiring",
+            "Mad",
+            "Nostalgic",
+            "Rock",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "3vmOEg3JBiNxaz0mHxPSPC",
+            "explicit": false,
+            "album": "Words & Music: John Mellencamp's Greatest Hits",
+            "release_date": "2004-01-01",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "hard rock",
+                "heartland rock",
+                "mellow gold",
+                "rock",
+                "singer-songwriter",
+                "soft rock"
+            ],
+            "duration": 256093,
+            "acousticness": 0.0338,
+            "danceability": 8.308,
+            "instrumentalness": 3.83e-06,
+            "liveness": 0.0555,
+            "loudness": -8.152,
+            "speechiness": 0.0433,
+            "time_signature": 4,
+            "happiness": 6.255999999999999
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Fortunate Son",
+        "Artist": "Creedence Clearwater Revival",
+        "Key": "8B",
+        "Energy": 7.714,
+        "Popularity": 1.0,
+        "BPM": 132,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "5e6x5YRnMJIKvYpZxLqdpH",
+            "explicit": false,
+            "album": "The Long Road Home - The Ultimate John Fogerty / Creedence Collection",
+            "release_date": "2005-12-14",
+            "genres": [
+                "classic rock",
+                "country rock",
+                "rock",
+                "southern rock",
+                "swamp rock"
+            ],
+            "duration": 138053,
+            "acousticness": 0.0648,
+            "danceability": 6.724,
+            "instrumentalness": 0.29,
+            "liveness": 0.173,
+            "loudness": -3.785,
+            "speechiness": 0.0393,
+            "time_signature": 4,
+            "happiness": 4.888
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Dirt Road Anthem",
+        "Artist": "Jason Aldean",
+        "Key": "10B",
+        "Energy": 7.651,
+        "Popularity": 1.0,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0adTN3vBO3pimO3yfxm9vg",
+            "explicit": false,
+            "album": "My Kinda Party",
+            "release_date": "2010-11-02",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 229413,
+            "acousticness": 0.32,
+            "danceability": 7.093,
+            "instrumentalness": 2.36e-06,
+            "liveness": 0.12,
+            "loudness": -5.068,
+            "speechiness": 0.0352,
+            "time_signature": 4,
+            "happiness": 6.922000000000001
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Boys 'Round Here (feat. Pistol Annies & Friends)",
+        "Artist": "Blake Shelton, Pistol Annies",
+        "Key": "10B",
+        "Energy": 7.191999999999999,
+        "Popularity": 7.209999999999999,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "39FwE8edwuyiaa4PrGBkP7",
+            "explicit": false,
+            "album": "Based on a True Story... (Deluxe Edition)",
+            "release_date": "2013-03-26",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road",
+                "contemporary country",
+                "country",
+                "country dawn",
+                "country road"
+            ],
+            "duration": 288760,
+            "acousticness": 0.251,
+            "danceability": 6.499,
+            "instrumentalness": 2.35e-06,
+            "liveness": 0.248,
+            "loudness": -6.369,
+            "speechiness": 0.0529,
+            "time_signature": 4,
+            "happiness": 6.841
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "Drink In My Hand",
+        "Artist": "Eric Church",
+        "Key": "8B",
+        "Energy": 9.217,
+        "Popularity": 7.93,
+        "BPM": 113,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1cktZnxiONH0hR6Q3DKy8h",
+            "explicit": false,
+            "album": "Chief",
+            "release_date": "2011-01-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 191307,
+            "acousticness": 0.00635,
+            "danceability": 6.634,
+            "instrumentalness": 0,
+            "liveness": 0.293,
+            "loudness": -4.452,
+            "speechiness": 0.0318,
+            "time_signature": 4,
+            "happiness": 9.514
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "Brown Eyed Girl",
+        "Artist": "Van Morrison",
+        "Key": "9B",
+        "Energy": 6.274,
+        "Popularity": 1.0,
+        "BPM": 149,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Calm",
+            "Nostalgic",
+            "Rock",
+            "Inspiring",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "30g3R8mv8qyLKv1A0cAFil",
+            "explicit": false,
+            "album": "Brown Eyed Girl (Digital 45)",
+            "release_date": "2009-07-07",
+            "genres": [
+                "classic rock",
+                "folk",
+                "folk rock",
+                "heartland rock",
+                "mellow gold",
+                "rock",
+                "singer-songwriter",
+                "soft rock"
+            ],
+            "duration": 183520,
+            "acousticness": 0.182,
+            "danceability": 5.464,
+            "instrumentalness": 0,
+            "liveness": 0.332,
+            "loudness": -10.991,
+            "speechiness": 0.0353,
+            "time_signature": 4,
+            "happiness": 9.091000000000001
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "Santeria",
+        "Artist": "Sublime",
+        "Key": "3A",
+        "Energy": 7.948,
+        "Popularity": 1.0,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "90s",
+            "Dance Remixes",
+            "Rock",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "6cJqlSO19vsfCsH1FeFI35",
+            "explicit": false,
+            "album": "Sublime (Explicit Version)",
+            "release_date": "1996-07-30",
+            "genres": [
+                "rap rock",
+                "reggae fusion",
+                "ska mexicano",
+                "ska punk"
+            ],
+            "duration": 183200,
+            "acousticness": 0.0223,
+            "danceability": 7.057,
+            "instrumentalness": 1.23e-06,
+            "liveness": 0.141,
+            "loudness": -5.246,
+            "speechiness": 0.0427,
+            "time_signature": 4,
+            "happiness": 6.265
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Ring of Fire",
+        "Artist": "Johnny Cash",
+        "Key": "9B",
+        "Energy": 5.671,
+        "Popularity": 1.0,
+        "BPM": 104,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "90s",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5nAXp1Vypbcsk9RLJCJLvO",
+            "explicit": false,
+            "album": "Johnny Cash - 16 Biggest Hits",
+            "release_date": "1999-02-02",
+            "genres": [
+                "arkansas country",
+                "outlaw country",
+                "rock"
+            ],
+            "duration": 155733,
+            "acousticness": 0.73,
+            "danceability": 7.03,
+            "instrumentalness": 3.1e-05,
+            "liveness": 0.379,
+            "loudness": -9.28,
+            "speechiness": 0.0308,
+            "time_signature": 4,
+            "happiness": 7.84
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "Glad You Came",
+        "Artist": "The Wanted",
+        "Key": "9A",
+        "Energy": 8.596,
+        "Popularity": 1.0,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Dance Remixes",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1OXfWI3FQMdsKKC6lkvzSx",
+            "explicit": false,
+            "album": "Glad You Came",
+            "release_date": "2011-01-01",
+            "genres": [
+                "boy band",
+                "dance pop",
+                "pop",
+                "post-teen pop"
+            ],
+            "duration": 198467,
+            "acousticness": 0.0577,
+            "danceability": 7.282,
+            "instrumentalness": 1.69e-05,
+            "liveness": 0.105,
+            "loudness": -4.549,
+            "speechiness": 0.067,
+            "time_signature": 4,
+            "happiness": 5.014
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "Carry on Wayward Son",
+        "Artist": "Kansas",
+        "Key": "9B",
+        "Energy": 8.092,
+        "Popularity": 6.94,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Inspiring",
+            "Mad",
+            "Nostalgic",
+            "Rock",
+            "Calm",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2SUpC3UgKwLVOS2FtZif9N",
+            "explicit": false,
+            "album": "The Essential Kansas",
+            "release_date": "2010",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "heartland rock",
+                "mellow gold",
+                "progressive rock",
+                "rock",
+                "soft rock"
+            ],
+            "duration": 322093,
+            "acousticness": 0.00283,
+            "danceability": 5.0680000000000005,
+            "instrumentalness": 0.000116,
+            "liveness": 0.441,
+            "loudness": -5.712,
+            "speechiness": 0.0326,
+            "time_signature": 4,
+            "happiness": 8.137
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "Livin' On A Prayer",
+        "Artist": "Bon Jovi",
+        "Key": "8B",
+        "Energy": 8.983,
+        "Popularity": 1.0,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7qQnBfwXrw2tZNFG4Uf57N",
+            "explicit": false,
+            "album": "Bon Jovi Greatest Hits",
+            "release_date": "2010-01-01",
+            "genres": [
+                "glam metal",
+                "rock"
+            ],
+            "duration": 250627,
+            "acousticness": 0.0665,
+            "danceability": 5.68,
+            "instrumentalness": 0.000179,
+            "liveness": 0.186,
+            "loudness": -3.296,
+            "speechiness": 0.0349,
+            "time_signature": 4,
+            "happiness": 8.137
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Somethin' 'Bout A Truck",
+        "Artist": "Kip Moore",
+        "Key": "1B",
+        "Energy": 8.146,
+        "Popularity": 7.4799999999999995,
+        "BPM": 88,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6Ymvlzom4TQeoKqAWsZRD8",
+            "explicit": false,
+            "album": "Up All Night",
+            "release_date": "2012-01-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 213827,
+            "acousticness": 0.0697,
+            "danceability": 5.986000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.63,
+            "loudness": -5.417,
+            "speechiness": 0.035,
+            "time_signature": 4,
+            "happiness": 8.11
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "No Shoes, No Shirt, No Problems",
+        "Artist": "Kenny Chesney",
+        "Key": "9B",
+        "Energy": 6.427,
+        "Popularity": 6.13,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4LZqNiZHiQvGLlt0RkXtqt",
+            "explicit": false,
+            "album": "Greatest Hits II",
+            "release_date": "2009-05-19",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 209347,
+            "acousticness": 0.255,
+            "danceability": 7.462,
+            "instrumentalness": 0.0146,
+            "liveness": 0.47,
+            "loudness": -8.455,
+            "speechiness": 0.0317,
+            "time_signature": 4,
+            "happiness": 7.308999999999999
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Crash My Party",
+        "Artist": "Luke Bryan",
+        "Key": "9B",
+        "Energy": 8.299,
+        "Popularity": 1.0,
+        "BPM": 144,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "2aD522ogF60nzLlju8mfb7",
+            "explicit": false,
+            "album": "Crash My Party",
+            "release_date": "2013-01-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 234800,
+            "acousticness": 0.034,
+            "danceability": 5.689,
+            "instrumentalness": 0,
+            "liveness": 0.169,
+            "loudness": -4.014,
+            "speechiness": 0.0422,
+            "time_signature": 4,
+            "happiness": 4.834
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "When the Sun Goes Down",
+        "Artist": "Kenny Chesney, Uncle Kracker",
+        "Key": "11B",
+        "Energy": 7.3,
+        "Popularity": 5.86,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Pop",
+            "Rock",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6KbpvmsV6L8JsON1C3JHAV",
+            "explicit": false,
+            "album": "Greatest Hits II",
+            "release_date": "2009-05-19",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "country",
+                "pop rock",
+                "post-grunge"
+            ],
+            "duration": 289973,
+            "acousticness": 0.0546,
+            "danceability": 8.173,
+            "instrumentalness": 2.91e-06,
+            "liveness": 0.231,
+            "loudness": -7.876,
+            "speechiness": 0.0283,
+            "time_signature": 4,
+            "happiness": 7.435
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "Pontoon",
+        "Artist": "Little Big Town",
+        "Key": "12A",
+        "Energy": 8.326,
+        "Popularity": 1.0,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2pnmi9VUgtiEnP1iAi2xfx",
+            "explicit": false,
+            "album": "Pontoon",
+            "release_date": "2012",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country dawn",
+                "country road"
+            ],
+            "duration": 214960,
+            "acousticness": 0.484,
+            "danceability": 7.4799999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.129,
+            "loudness": -5.222,
+            "speechiness": 0.026,
+            "time_signature": 4,
+            "happiness": 8.677
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "Summer Of '69",
+        "Artist": "Bryan Adams",
+        "Key": "10B",
+        "Energy": 8.668,
+        "Popularity": 1.0,
+        "BPM": 139,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Calm",
+            "Rock",
+            "Nostalgic",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5EU1mh0C4Km3k6vGvIDN2J",
+            "explicit": false,
+            "album": "The Best Of Me",
+            "release_date": "2002-01-01",
+            "genres": [
+                "canadian pop",
+                "canadian singer-songwriter",
+                "classic canadian rock",
+                "heartland rock",
+                "mellow gold",
+                "soft rock"
+            ],
+            "duration": 212933,
+            "acousticness": 0.0155,
+            "danceability": 5.473,
+            "instrumentalness": 0,
+            "liveness": 0.0793,
+            "loudness": -5.517,
+            "speechiness": 0.0405,
+            "time_signature": 4,
+            "happiness": 7.417
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "Blow",
+        "Artist": "Kesha",
+        "Key": "1A",
+        "Energy": 7.57,
+        "Popularity": 1.0,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Dance Remixes",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5FQazQxWUHsJ8QDaXLdFzR",
+            "explicit": false,
+            "album": "Cannibal",
+            "release_date": "2010-11-19",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 218825,
+            "acousticness": 0.00272,
+            "danceability": 7.768,
+            "instrumentalness": 3.62e-05,
+            "liveness": 0.175,
+            "loudness": -3.897,
+            "speechiness": 0.0412,
+            "time_signature": 4,
+            "happiness": 7.921
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "Turn Down for What",
+        "Artist": "DJ Snake, Lil Jon",
+        "Key": "3A",
+        "Energy": 8.191,
+        "Popularity": 7.66,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Dance Remixes",
+            "Pop",
+            "EDM",
+            "Happy",
+            "Nostalgic",
+            "Hip Hop",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "67awxiNHNyjMXhVgsHuIrs",
+            "explicit": false,
+            "album": "Turn Down for What",
+            "release_date": "2013-12-18",
+            "genres": [
+                "edm",
+                "electronic trap",
+                "pop",
+                "pop dance",
+                "atl hip hop",
+                "crunk",
+                "dance pop",
+                "dirty south rap",
+                "old school atlanta hip hop",
+                "pop rap",
+                "southern hip hop",
+                "trap"
+            ],
+            "duration": 213733,
+            "acousticness": 0.00107,
+            "danceability": 8.361999999999998,
+            "instrumentalness": 0.128,
+            "liveness": 0.057,
+            "loudness": -4.1,
+            "speechiness": 0.156,
+            "time_signature": 4,
+            "happiness": 1.7335
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "On The Floor - Radio Edit",
+        "Artist": "Jennifer Lopez, Pitbull",
+        "Key": "1B",
+        "Energy": 7.174,
+        "Popularity": 7.84,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Happy",
+            "Dance Remixes",
+            "Pop",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "0Oe49j06Bjrxs8PltuVeaW",
+            "explicit": false,
+            "album": "On The Floor",
+            "release_date": "2011-01-01",
+            "genres": [
+                "dance pop",
+                "pop",
+                "urban contemporary",
+                "dance pop",
+                "miami hip hop",
+                "pop"
+            ],
+            "duration": 230907,
+            "acousticness": 0.0848,
+            "danceability": 7.822,
+            "instrumentalness": 0.00127,
+            "liveness": 0.142,
+            "loudness": -6.346,
+            "speechiness": 0.0792,
+            "time_signature": 4,
+            "happiness": 4.996
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "Dance Again (feat. Pitbull)",
+        "Artist": "Jennifer Lopez, Pitbull",
+        "Key": "1A",
+        "Energy": 8.704,
+        "Popularity": 3.16,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Happy",
+            "Dance Remixes",
+            "Pop",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4d2hD63oUGU3s7L66JD0BE",
+            "explicit": false,
+            "album": "Dance Again...The Hits",
+            "release_date": "2012-07-20",
+            "genres": [
+                "dance pop",
+                "pop",
+                "urban contemporary",
+                "dance pop",
+                "miami hip hop",
+                "pop"
+            ],
+            "duration": 237267,
+            "acousticness": 0.0159,
+            "danceability": 8.128,
+            "instrumentalness": 2.88e-06,
+            "liveness": 0.0981,
+            "loudness": -5.236,
+            "speechiness": 0.067,
+            "time_signature": 4,
+            "happiness": 7.426
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "Imma Be",
+        "Artist": "Black Eyed Peas",
+        "Key": "8B",
+        "Energy": 5.6530000000000005,
+        "Popularity": 1.0,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Dance Remixes",
+            "Pop",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "5OiLJ8tjUPFiPX2gVM8fxJ",
+            "explicit": false,
+            "album": "THE E.N.D. (THE ENERGY NEVER DIES)",
+            "release_date": "2009-01-01",
+            "genres": [
+                "dance pop",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 257560,
+            "acousticness": 0.179,
+            "danceability": 6.372999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.307,
+            "loudness": -6.963,
+            "speechiness": 0.365,
+            "time_signature": 4,
+            "happiness": 4.708
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Pump It",
+        "Artist": "Black Eyed Peas",
+        "Key": "3A",
+        "Energy": 9.379000000000001,
+        "Popularity": 7.4799999999999995,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Dance Remixes",
+            "Pop",
+            "Hip Hop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6btyEL6NwUa97Nex9cZFvo",
+            "explicit": true,
+            "album": "Monkey Business",
+            "release_date": "2005-01-01",
+            "genres": [
+                "dance pop",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 213067,
+            "acousticness": 0.0093,
+            "danceability": 6.841,
+            "instrumentalness": 0,
+            "liveness": 0.751,
+            "loudness": -3.15,
+            "speechiness": 0.181,
+            "time_signature": 4,
+            "happiness": 7.696
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "Work Work",
+        "Artist": "Britney Spears",
+        "Key": "11B",
+        "Energy": 8.227,
+        "Popularity": 1.0,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Dance Remixes",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4XTvlpyOnks77BWrnDmQ7S",
+            "explicit": false,
+            "album": "Work Work",
+            "release_date": "2013-09-27",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 248080,
+            "acousticness": 0.135,
+            "danceability": 6.679,
+            "instrumentalness": 0.00192,
+            "liveness": 0.0667,
+            "loudness": -6.47,
+            "speechiness": 0.169,
+            "time_signature": 4,
+            "happiness": 8.533
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "Kickin Up Mud",
+        "Artist": "The Lacs",
+        "Key": "7A",
+        "Energy": 6.526,
+        "Popularity": 5.86,
+        "BPM": 65,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6eHTrSCKzmYNQjXtTKDpHV",
+            "explicit": false,
+            "album": "Country Boy's Paradise",
+            "release_date": "2010-09-28",
+            "genres": [
+                "country rap",
+                "redneck"
+            ],
+            "duration": 216493,
+            "acousticness": 0.0417,
+            "danceability": 8.047,
+            "instrumentalness": 0,
+            "liveness": 0.0938,
+            "loudness": -5.935,
+            "speechiness": 0.29,
+            "time_signature": 4,
+            "happiness": 7.912
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "Just Can\u2019t Get Enough",
+        "Artist": "Black Eyed Peas",
+        "Key": "8A",
+        "Energy": 6.652,
+        "Popularity": 8.2,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Dance Remixes",
+            "Pop",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "3JA9Jsuxr4xgHXEawAdCp4",
+            "explicit": false,
+            "album": "The Beginning",
+            "release_date": "2010-01-01",
+            "genres": [
+                "dance pop",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 219427,
+            "acousticness": 0.186,
+            "danceability": 6.931,
+            "instrumentalness": 0,
+            "liveness": 0.105,
+            "loudness": -8.685,
+            "speechiness": 0.179,
+            "time_signature": 4,
+            "happiness": 3.358
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "GDFR (feat. Sage the Gemini & Lookas)",
+        "Artist": "Flo Rida, Sage The Gemini, Lookas",
+        "Key": "7B",
+        "Energy": 8.443,
+        "Popularity": 6.31,
+        "BPM": 146,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "EDM",
+            "Dance Remixes",
+            "Happy",
+            "Pop",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6N9ZOtguCnnrvwH7zD82WJ",
+            "explicit": false,
+            "album": "GDFR (feat. Sage The Gemini & Lookas)",
+            "release_date": "2014-09-29",
+            "genres": [
+                "dance pop",
+                "miami hip hop",
+                "pop",
+                "pop rap",
+                "hyphy",
+                "pop rap",
+                "southern hip hop",
+                "trap",
+                "brostep",
+                "electro house",
+                "electronic trap"
+            ],
+            "duration": 190186,
+            "acousticness": 0.000704,
+            "danceability": 6.913,
+            "instrumentalness": 0.00534,
+            "liveness": 0.065,
+            "loudness": -4.036,
+            "speechiness": 0.0734,
+            "time_signature": 4,
+            "happiness": 7.209999999999999
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "Shake Senora (feat. T-Pain & Sean Paul)",
+        "Artist": "Pitbull, T-Pain, Sean Paul",
+        "Key": "7B",
+        "Energy": 9.495999999999999,
+        "Popularity": 6.8500000000000005,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Dance Remixes",
+            "Pop",
+            "EDM",
+            "Happy",
+            "Mad",
+            "Hip Hop",
+            "Romantic & Slow Dance"
+        ],
+        "Additional Info": {
+            "id": "1LomM3L6atrf79ZL7nHDp4",
+            "explicit": false,
+            "album": "Planet Pit (Deluxe Version)",
+            "release_date": "2011-06-17",
+            "genres": [
+                "dance pop",
+                "miami hip hop",
+                "pop",
+                "dance pop",
+                "gangster rap",
+                "hip hop",
+                "pop rap",
+                "r&b",
+                "rap",
+                "southern hip hop",
+                "trap",
+                "urban contemporary",
+                "dance pop",
+                "dancehall",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 214827,
+            "acousticness": 0.134,
+            "danceability": 7.165000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.361,
+            "loudness": -5.19,
+            "speechiness": 0.341,
+            "time_signature": 4,
+            "happiness": 5.8870000000000005
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "Live for the Drop",
+        "Artist": "Capital Kings",
+        "Key": "3B",
+        "Energy": 9.307,
+        "Popularity": 1.0,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "3hfDl12AHis9jgRi5wMqFo",
+            "explicit": false,
+            "album": "II",
+            "release_date": "2015-10-02",
+            "genres": [
+                "ccm",
+                "cedm",
+                "christian alternative rock",
+                "christian dance",
+                "christian music"
+            ],
+            "duration": 191960,
+            "acousticness": 0.0441,
+            "danceability": 6.553,
+            "instrumentalness": 0.00243,
+            "liveness": 0.0669,
+            "loudness": -3.543,
+            "speechiness": 0.0534,
+            "time_signature": 4,
+            "happiness": 5.68
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "Me Too",
+        "Artist": "Meghan Trainor",
+        "Key": "1A",
+        "Energy": 7.2459999999999996,
+        "Popularity": 5.86,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Pop",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1m4dXbkplvaOO4Wbdjbwxs",
+            "explicit": false,
+            "album": "Thank You (Deluxe)",
+            "release_date": "2016-05-13",
+            "genres": [
+                "hip pop",
+                "pop"
+            ],
+            "duration": 181240,
+            "acousticness": 0.0963,
+            "danceability": 9.415000000000001,
+            "instrumentalness": 1.2e-06,
+            "liveness": 0.479,
+            "loudness": -5.849,
+            "speechiness": 0.101,
+            "time_signature": 4,
+            "happiness": 8.506
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "London Bridge",
+        "Artist": "Fergie",
+        "Key": "3B",
+        "Energy": 6.724,
+        "Popularity": 1.0,
+        "BPM": 91,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Dance Remixes",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5wbuiAF5uY8dZnaNuIxtnj",
+            "explicit": false,
+            "album": "The Dutchess",
+            "release_date": "2006-09-13",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 241307,
+            "acousticness": 0.211,
+            "danceability": 6.805,
+            "instrumentalness": 0,
+            "liveness": 0.18,
+            "loudness": -5.298,
+            "speechiness": 0.457,
+            "time_signature": 4,
+            "happiness": 6.634
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "Get Up (feat. Chamillionaire)",
+        "Artist": "Ciara, Chamillionaire",
+        "Key": "3A",
+        "Energy": 6.3549999999999995,
+        "Popularity": 6.49,
+        "BPM": 129,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Dance Remixes",
+            "Pop",
+            "Happy",
+            "Hip Hop",
+            "Romantic & Slow Dance"
+        ],
+        "Additional Info": {
+            "id": "3rKCDtV8UcF0RytSiXxypc",
+            "explicit": false,
+            "album": "The Evolution",
+            "release_date": "2006",
+            "genres": [
+                "dance pop",
+                "hip pop",
+                "pop",
+                "r&b",
+                "urban contemporary",
+                "dirty south rap",
+                "southern hip hop"
+            ],
+            "duration": 261880,
+            "acousticness": 0.0248,
+            "danceability": 9.676,
+            "instrumentalness": 5.14e-06,
+            "liveness": 0.0405,
+            "loudness": -6.887,
+            "speechiness": 0.109,
+            "time_signature": 4,
+            "happiness": 6.661
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "Cheap Thrills (feat. Sean Paul)",
+        "Artist": "Sia, Sean Paul",
+        "Key": "2A",
+        "Energy": 8.2,
+        "Popularity": 7.3,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Dance Remixes",
+            "Pop",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6b3b7lILUJqXcp6w9wNQSm",
+            "explicit": false,
+            "album": "Cheap Thrills (feat. Sean Paul)",
+            "release_date": "2016-02-11",
+            "genres": [
+                "australian dance",
+                "australian pop",
+                "pop",
+                "dance pop",
+                "dancehall",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 224813,
+            "acousticness": 0.0561,
+            "danceability": 6.327999999999999,
+            "instrumentalness": 2.01e-06,
+            "liveness": 0.0775,
+            "loudness": -4.931,
+            "speechiness": 0.215,
+            "time_signature": 4,
+            "happiness": 7.552
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "Outside",
+        "Artist": "Staind",
+        "Key": "3B",
+        "Energy": 6.346,
+        "Popularity": 6.94,
+        "BPM": 147,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "50Re2bLgXqG9qN7v2QHNTm",
+            "explicit": false,
+            "album": "Break the Cycle",
+            "release_date": "2001-05-22",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "post-grunge"
+            ],
+            "duration": 293133,
+            "acousticness": 0.00844,
+            "danceability": 5.635,
+            "instrumentalness": 0.00658,
+            "liveness": 0.0752,
+            "loudness": -4.708,
+            "speechiness": 0.0262,
+            "time_signature": 4,
+            "happiness": 2.9619999999999997
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "Red, White & Blue",
+        "Artist": "Aaron Lewis",
+        "Key": "3B",
+        "Energy": 5.509,
+        "Popularity": 1.0,
+        "BPM": 106,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "5wuXrc1MziN40kl06tMKrY",
+            "explicit": false,
+            "album": "The Road",
+            "release_date": "2012-11-08",
+            "genres": [
+                "country road",
+                "outlaw country"
+            ],
+            "duration": 341387,
+            "acousticness": 0.0205,
+            "danceability": 4.384,
+            "instrumentalness": 1.11e-05,
+            "liveness": 0.0748,
+            "loudness": -7.431,
+            "speechiness": 0.0287,
+            "time_signature": 3,
+            "happiness": 4.51
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "Tangled Up In You",
+        "Artist": "Aaron Lewis",
+        "Key": "3B",
+        "Energy": 4.816,
+        "Popularity": 1.0,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "5GSaPqkhGZvSOmy8abDCto",
+            "explicit": false,
+            "album": "Town Line",
+            "release_date": "2011-03-01",
+            "genres": [
+                "country road",
+                "outlaw country"
+            ],
+            "duration": 268880,
+            "acousticness": 0.547,
+            "danceability": 4.447,
+            "instrumentalness": 0.000524,
+            "liveness": 0.0866,
+            "loudness": -6.16,
+            "speechiness": 0.0261,
+            "time_signature": 4,
+            "happiness": 2.593
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "That Ain\u2019t Country",
+        "Artist": "Aaron Lewis",
+        "Key": "2B",
+        "Energy": 8.407,
+        "Popularity": 1.0,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "45N7fddjBP6J1SZE9Wi4r0",
+            "explicit": false,
+            "album": "That Ain't Country",
+            "release_date": "2016-06-17",
+            "genres": [
+                "country road",
+                "outlaw country"
+            ],
+            "duration": 242907,
+            "acousticness": 0.0198,
+            "danceability": 7.5969999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.328,
+            "loudness": -4.098,
+            "speechiness": 0.0257,
+            "time_signature": 4,
+            "happiness": 8.632
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "Work from Home (feat. Ty Dolla $ign)",
+        "Artist": "Fifth Harmony, Ty Dolla $ign",
+        "Key": "4B",
+        "Energy": 6.265,
+        "Popularity": 8.11,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "EDM",
+            "Pop",
+            "Inspiring",
+            "Girl Power",
+            "Hip Hop",
+            "Romantic & Slow Dance"
+        ],
+        "Additional Info": {
+            "id": "4tCtwWceOPWzenK2HAIJSb",
+            "explicit": false,
+            "album": "7/27 (Deluxe)",
+            "release_date": "2016-05-27",
+            "genres": [
+                "girl group",
+                "pop",
+                "talent show",
+                "hip hop",
+                "pop rap",
+                "r&b",
+                "southern hip hop",
+                "trap",
+                "trap soul"
+            ],
+            "duration": 214480,
+            "acousticness": 0.103,
+            "danceability": 8.227,
+            "instrumentalness": 3.94e-06,
+            "liveness": 0.0644,
+            "loudness": -5.861,
+            "speechiness": 0.0432,
+            "time_signature": 4,
+            "happiness": 6.337
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "In The Light",
+        "Artist": "DC Talk",
+        "Key": "4A",
+        "Energy": 8.506,
+        "Popularity": 4.42,
+        "BPM": 106,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0ns55oQB9v1MsFYmSzRu9P",
+            "explicit": false,
+            "album": "8 Great Hits dc Talk",
+            "release_date": "2003-01-01",
+            "genres": [
+                "ccm",
+                "christian alternative rock",
+                "christian music"
+            ],
+            "duration": 296160,
+            "acousticness": 0.179,
+            "danceability": 6.769,
+            "instrumentalness": 1.25e-05,
+            "liveness": 0.208,
+            "loudness": -5.77,
+            "speechiness": 0.0526,
+            "time_signature": 4,
+            "happiness": 7.3629999999999995
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "Jesus Freak",
+        "Artist": "DC Talk",
+        "Key": "7A",
+        "Energy": 8.83,
+        "Popularity": 5.2299999999999995,
+        "BPM": 104,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "5ID6qIRs04r4fMajBDY7uK",
+            "explicit": false,
+            "album": "8 Great Hits dc Talk",
+            "release_date": "2003-01-01",
+            "genres": [
+                "ccm",
+                "christian alternative rock",
+                "christian music"
+            ],
+            "duration": 287173,
+            "acousticness": 0.0125,
+            "danceability": 6.3999999999999995,
+            "instrumentalness": 0.000128,
+            "liveness": 0.513,
+            "loudness": -4.719,
+            "speechiness": 0.0429,
+            "time_signature": 4,
+            "happiness": 5.212000000000001
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "Lift Your Head Weary Sinner (Chains)",
+        "Artist": "Crowder",
+        "Key": "12A",
+        "Energy": 8.361999999999998,
+        "Popularity": 5.86,
+        "BPM": 144,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "4iddUbzyhbLEqhsVcZmc7u",
+            "explicit": false,
+            "album": "Neon Steeple",
+            "release_date": "2014-01-01",
+            "genres": [
+                "ccm",
+                "christian alternative rock",
+                "christian music"
+            ],
+            "duration": 224667,
+            "acousticness": 0.331,
+            "danceability": 6.0040000000000004,
+            "instrumentalness": 6.92e-06,
+            "liveness": 0.498,
+            "loudness": -6.698,
+            "speechiness": 0.0363,
+            "time_signature": 4,
+            "happiness": 4.627000000000001
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "Move (Keep Walkin\u2019)",
+        "Artist": "TobyMac",
+        "Key": "7A",
+        "Energy": 7.3,
+        "Popularity": 6.040000000000001,
+        "BPM": 116,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "4Opt8AwROn5AXMQ20mNvHq",
+            "explicit": false,
+            "album": "This Is Not A Test",
+            "release_date": "2015-08-07",
+            "genres": [
+                "ccm",
+                "christian alternative rock",
+                "christian hip hop",
+                "christian music"
+            ],
+            "duration": 221627,
+            "acousticness": 0.313,
+            "danceability": 7.372,
+            "instrumentalness": 0,
+            "liveness": 0.276,
+            "loudness": -5.449,
+            "speechiness": 0.0324,
+            "time_signature": 4,
+            "happiness": 5.869000000000001
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "Til The Day I Die",
+        "Artist": "TobyMac, NF",
+        "Key": "6A",
+        "Energy": 8.893,
+        "Popularity": 6.67,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Pop",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "2v49NJk4EhgM4xVkNKrfqc",
+            "explicit": false,
+            "album": "This Is Not A Test",
+            "release_date": "2015-08-07",
+            "genres": [
+                "ccm",
+                "christian alternative rock",
+                "christian hip hop",
+                "christian music",
+                "hip hop",
+                "pop rap"
+            ],
+            "duration": 227813,
+            "acousticness": 0.00766,
+            "danceability": 6.922000000000001,
+            "instrumentalness": 2.54e-05,
+            "liveness": 0.127,
+            "loudness": -5.502,
+            "speechiness": 0.0352,
+            "time_signature": 4,
+            "happiness": 4.114
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "Brother (feat. Gavin DeGraw)",
+        "Artist": "NEEDTOBREATHE, Gavin DeGraw",
+        "Key": "1B",
+        "Energy": 8.227,
+        "Popularity": 6.94,
+        "BPM": 79,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Calm",
+            "Rock",
+            "Nostalgic",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "62M9yafZsSRzlsphzeJPGo",
+            "explicit": false,
+            "album": "Brother",
+            "release_date": "2015-02-02",
+            "genres": [
+                "ccm",
+                "christian alternative rock",
+                "christian indie",
+                "christian music",
+                "folk-pop",
+                "neo mellow",
+                "pop rock"
+            ],
+            "duration": 208205,
+            "acousticness": 0.135,
+            "danceability": 5.734,
+            "instrumentalness": 0,
+            "liveness": 0.119,
+            "loudness": -3.989,
+            "speechiness": 0.127,
+            "time_signature": 4,
+            "happiness": 6.076
+        }
+    },
+    {
+        "#": 52,
+        "Track Title": "Lights Shine Bright",
+        "Artist": "TobyMac, Hollyn",
+        "Key": "4B",
+        "Energy": 6.210999999999999,
+        "Popularity": 5.86,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "36g3CdSXU0vBSOW4P1dtsZ",
+            "explicit": false,
+            "album": "This Is Not A Test",
+            "release_date": "2015-08-07",
+            "genres": [
+                "ccm",
+                "christian alternative rock",
+                "christian hip hop",
+                "christian music",
+                "ccm",
+                "christian alternative rock",
+                "christian music"
+            ],
+            "duration": 275587,
+            "acousticness": 0.0232,
+            "danceability": 7.318,
+            "instrumentalness": 0,
+            "liveness": 0.892,
+            "loudness": -8.406,
+            "speechiness": 0.206,
+            "time_signature": 4,
+            "happiness": 5.221
+        }
+    },
+    {
+        "#": 53,
+        "Track Title": "Feel It",
+        "Artist": "TobyMac, Mr. Talkbox",
+        "Key": "11A",
+        "Energy": 9.037,
+        "Popularity": 5.68,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7Fu8J4ddQBl9zf1tUbXrMc",
+            "explicit": false,
+            "album": "This Is Not A Test",
+            "release_date": "2015-08-07",
+            "genres": [
+                "ccm",
+                "christian alternative rock",
+                "christian hip hop",
+                "christian music",
+                "popping"
+            ],
+            "duration": 279600,
+            "acousticness": 0.0611,
+            "danceability": 7.444,
+            "instrumentalness": 0,
+            "liveness": 0.0673,
+            "loudness": -5.284,
+            "speechiness": 0.0545,
+            "time_signature": 4,
+            "happiness": 9.586
+        }
+    },
+    {
+        "#": 54,
+        "Track Title": "Light Up the Sky",
+        "Artist": "The Afters",
+        "Key": "10B",
+        "Energy": 7.966,
+        "Popularity": 1.0,
+        "BPM": 142,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2YEQNToSXA0iOxzpHPlkw9",
+            "explicit": false,
+            "album": "Light Up the Sky",
+            "release_date": "2010-09-14",
+            "genres": [
+                "ccm",
+                "christian alternative rock",
+                "christian music"
+            ],
+            "duration": 218840,
+            "acousticness": 0.0319,
+            "danceability": 5.212000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.0666,
+            "loudness": -4.716,
+            "speechiness": 0.0316,
+            "time_signature": 4,
+            "happiness": 4.672
+        }
+    },
+    {
+        "#": 55,
+        "Track Title": "One, Two Step (feat. Missy Elliott)",
+        "Artist": "Ciara, Missy Elliott",
+        "Key": "7A",
+        "Energy": 5.599,
+        "Popularity": 7.93,
+        "BPM": 113,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Dance Remixes",
+            "Pop",
+            "Happy",
+            "Hip Hop",
+            "Romantic & Slow Dance",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7uKcScNXuO3MWw6LowBjW1",
+            "explicit": false,
+            "album": "Goodies",
+            "release_date": "2004-09-27",
+            "genres": [
+                "dance pop",
+                "hip pop",
+                "pop",
+                "r&b",
+                "urban contemporary",
+                "dance pop",
+                "hip hop",
+                "hip pop",
+                "neo soul",
+                "pop rap",
+                "r&b",
+                "rap",
+                "urban contemporary",
+                "virginia hip hop"
+            ],
+            "duration": 203787,
+            "acousticness": 0.042,
+            "danceability": 9.495999999999999,
+            "instrumentalness": 0.00107,
+            "liveness": 0.0379,
+            "loudness": -10.96,
+            "speechiness": 0.161,
+            "time_signature": 4,
+            "happiness": 8.578
+        }
+    },
+    {
+        "#": 56,
+        "Track Title": "With Or Without You - Remastered 2007",
+        "Artist": "U2",
+        "Key": "10B",
+        "Energy": 4.888,
+        "Popularity": 5.7700000000000005,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "5JGEAz15LkPoOtFHttDtVs",
+            "explicit": false,
+            "album": "The Joshua Tree",
+            "release_date": "1987-03-10",
+            "genres": [
+                "irish rock",
+                "permanent wave",
+                "rock"
+            ],
+            "duration": 295520,
+            "acousticness": 0.000185,
+            "danceability": 5.8420000000000005,
+            "instrumentalness": 0.309,
+            "liveness": 0.139,
+            "loudness": -11.882,
+            "speechiness": 0.0295,
+            "time_signature": 4,
+            "happiness": 2.044
+        }
+    },
+    {
+        "#": 57,
+        "Track Title": "Hotel California - 2013 Remaster",
+        "Artist": "Eagles",
+        "Key": "10B",
+        "Energy": 5.572,
+        "Popularity": 6.31,
+        "BPM": 147,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Calm",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "4Vn7TykT27PIygBiZjTR2s",
+            "explicit": false,
+            "album": "The Very Best of the Eagles (2013 Remaster)",
+            "release_date": "2003-10-21",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "heartland rock",
+                "mellow gold",
+                "rock",
+                "soft rock",
+                "yacht rock"
+            ],
+            "duration": 391376,
+            "acousticness": 0.00574,
+            "danceability": 6.210999999999999,
+            "instrumentalness": 0.000494,
+            "liveness": 0.0575,
+            "loudness": -9.484,
+            "speechiness": 0.027,
+            "time_signature": 4,
+            "happiness": 6.481
+        }
+    },
+    {
+        "#": 58,
+        "Track Title": "Bennie And The Jets - Remastered 2014",
+        "Artist": "Elton John",
+        "Key": "8B",
+        "Energy": 7.0120000000000005,
+        "Popularity": 1.0,
+        "BPM": 133,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Calm",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3iJxloILmOu2NIRZ0OGyui",
+            "explicit": false,
+            "album": "Goodbye Yellow Brick Road (40th Anniversary Celebration/ Super Deluxe Edition)",
+            "release_date": "1973-10-05",
+            "genres": [
+                "glam rock",
+                "mellow gold",
+                "piano rock",
+                "rock"
+            ],
+            "duration": 322549,
+            "acousticness": 0.251,
+            "danceability": 6.994000000000001,
+            "instrumentalness": 5.77e-06,
+            "liveness": 0.499,
+            "loudness": -7.961,
+            "speechiness": 0.0523,
+            "time_signature": 4,
+            "happiness": 7.885
+        }
+    },
+    {
+        "#": 59,
+        "Track Title": "Dangerous (feat. Sam Martin)",
+        "Artist": "David Guetta, Sam Martin",
+        "Key": "12A",
+        "Energy": 7.723,
+        "Popularity": 5.59,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Pop",
+            "Dance Remixes",
+            "EDM",
+            "Club-Hotel"
+        ],
+        "Additional Info": {
+            "id": "2w2lfwoTELQyN940qM7Nfd",
+            "explicit": false,
+            "album": "Listen (Deluxe)",
+            "release_date": "2014-11-24",
+            "genres": [
+                "big room",
+                "dance pop",
+                "edm",
+                "pop",
+                "pop dance"
+            ],
+            "duration": 203641,
+            "acousticness": 0.417,
+            "danceability": 5.194,
+            "instrumentalness": 9.76e-06,
+            "liveness": 0.107,
+            "loudness": -4.838,
+            "speechiness": 0.0795,
+            "time_signature": 4,
+            "happiness": 4.87
+        }
+    },
+    {
+        "#": 60,
+        "Track Title": "Cum on Feel the Noize",
+        "Artist": "Quiet Riot",
+        "Key": "1A",
+        "Energy": 9.172,
+        "Popularity": 6.94,
+        "BPM": 145,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "90s",
+            "Mad",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "6FBmHx1FuaSnTnnnaThgbF",
+            "explicit": false,
+            "album": "Quiet Riot - Greatest Hits",
+            "release_date": "1996",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "glam metal",
+                "hard rock",
+                "metal",
+                "rock"
+            ],
+            "duration": 287400,
+            "acousticness": 0.000183,
+            "danceability": 4.968999999999999,
+            "instrumentalness": 0.00328,
+            "liveness": 0.0612,
+            "loudness": -4.627,
+            "speechiness": 0.115,
+            "time_signature": 4,
+            "happiness": 6.688
+        }
+    },
+    {
+        "#": 61,
+        "Track Title": "Metal Health (Bang Your Head)",
+        "Artist": "Quiet Riot",
+        "Key": "10B",
+        "Energy": 9.397,
+        "Popularity": 6.76,
+        "BPM": 121,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Mad",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "28clONjZmul6FjfO6tZQDE",
+            "explicit": false,
+            "album": "Metal Health",
+            "release_date": "1983",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "glam metal",
+                "hard rock",
+                "metal",
+                "rock"
+            ],
+            "duration": 316867,
+            "acousticness": 0.0434,
+            "danceability": 5.446,
+            "instrumentalness": 0.00108,
+            "liveness": 0.228,
+            "loudness": -5.977,
+            "speechiness": 0.0808,
+            "time_signature": 4,
+            "happiness": 5.563
+        }
+    },
+    {
+        "#": 62,
+        "Track Title": "Seven Nation Army",
+        "Artist": "The White Stripes",
+        "Key": "8B",
+        "Energy": 5.158,
+        "Popularity": 1.0,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "3ctoHckjyd13eBi2IDw2Ip",
+            "explicit": false,
+            "album": "Elephant",
+            "release_date": "2003-04-01",
+            "genres": [
+                "alternative rock",
+                "blues rock",
+                "detroit rock",
+                "garage rock",
+                "modern blues rock",
+                "permanent wave",
+                "punk blues",
+                "rock"
+            ],
+            "duration": 231800,
+            "acousticness": 0.00576,
+            "danceability": 7.75,
+            "instrumentalness": 0.545,
+            "liveness": 0.307,
+            "loudness": -7.664,
+            "speechiness": 0.0779,
+            "time_signature": 4,
+            "happiness": 3.781
+        }
+    },
+    {
+        "#": 63,
+        "Track Title": "Good Directions",
+        "Artist": "Billy Currington",
+        "Key": "7B",
+        "Energy": 7.497999999999999,
+        "Popularity": 5.68,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "7iDDWqSjOa4PNvHQgUFI73",
+            "explicit": false,
+            "album": "Best Of",
+            "release_date": "2011-01-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 216133,
+            "acousticness": 0.322,
+            "danceability": 7.435,
+            "instrumentalness": 0,
+            "liveness": 0.139,
+            "loudness": -2.533,
+            "speechiness": 0.0316,
+            "time_signature": 4,
+            "happiness": 4.9239999999999995
+        }
+    },
+    {
+        "#": 64,
+        "Track Title": "Rock Your Body",
+        "Artist": "Justin Timberlake",
+        "Key": "12A",
+        "Energy": 7.426,
+        "Popularity": 8.2,
+        "BPM": 101,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Dance Remixes",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1AWQoqb9bSvzTjaLralEkT",
+            "explicit": false,
+            "album": "Justified",
+            "release_date": "2002-11-04",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 267267,
+            "acousticness": 0.201,
+            "danceability": 9.028,
+            "instrumentalness": 0.000234,
+            "liveness": 0.0521,
+            "loudness": -6.055,
+            "speechiness": 0.141,
+            "time_signature": 4,
+            "happiness": 8.353
+        }
+    },
+    {
+        "#": 65,
+        "Track Title": "Step In the Name of Love - Remix",
+        "Artist": "R. Kelly",
+        "Key": "12B",
+        "Energy": 5.7700000000000005,
+        "Popularity": 1.0,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "90s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "22HX8moAHWULPAu6t5CivV",
+            "explicit": false,
+            "album": "Playlist: The Very Best Of R. Kelly",
+            "release_date": "1993",
+            "genres": [],
+            "duration": 431827,
+            "acousticness": 0.213,
+            "danceability": 8.02,
+            "instrumentalness": 0,
+            "liveness": 0.288,
+            "loudness": -6.486,
+            "speechiness": 0.121,
+            "time_signature": 4,
+            "happiness": 8.065000000000001
+        }
+    },
+    {
+        "#": 66,
+        "Track Title": "Cupid Shuffle",
+        "Artist": "Cupid",
+        "Key": "7A",
+        "Energy": 6.2379999999999995,
+        "Popularity": 6.94,
+        "BPM": 72,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "07Tx168RSsUS1HqkDIOZbH",
+            "explicit": false,
+            "album": "Time for a Change",
+            "release_date": "2007-09-11",
+            "genres": [
+                "kids dance party"
+            ],
+            "duration": 231360,
+            "acousticness": 0.191,
+            "danceability": 8.065000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.2,
+            "loudness": -4.877,
+            "speechiness": 0.237,
+            "time_signature": 4,
+            "happiness": 8.748999999999999
+        }
+    },
+    {
+        "#": 67,
+        "Track Title": "Fake ID (feat. Gretchen Wilson)",
+        "Artist": "Big & Rich, Gretchen Wilson",
+        "Key": "8B",
+        "Energy": 9.604,
+        "Popularity": 6.22,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6dFcL5hsy8dy0RCFx7f5FD",
+            "explicit": false,
+            "album": "Fake ID (feat. Gretchen Wilson)",
+            "release_date": "2011-05-17",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "contemporary country",
+                "country",
+                "country dawn",
+                "country road"
+            ],
+            "duration": 203280,
+            "acousticness": 0.0614,
+            "danceability": 6.9670000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.233,
+            "loudness": -2.322,
+            "speechiness": 0.0395,
+            "time_signature": 4,
+            "happiness": 7.57
+        }
+    },
+    {
+        "#": 68,
+        "Track Title": "Watch Me (Whip / Nae Nae)",
+        "Artist": "Silent\u00f3",
+        "Key": "4B",
+        "Energy": 7.831,
+        "Popularity": 7.03,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5RIVoVdkDLEygELLCniZFr",
+            "explicit": false,
+            "album": "Watch Me (Whip / Nae Nae)",
+            "release_date": "2015-05-04",
+            "genres": [
+                "chicago bop",
+                "pinoy hip hop"
+            ],
+            "duration": 185143,
+            "acousticness": 0.247,
+            "danceability": 8.389,
+            "instrumentalness": 0,
+            "liveness": 0.321,
+            "loudness": -8.541,
+            "speechiness": 0.121,
+            "time_signature": 4,
+            "happiness": 9.658
+        }
+    },
+    {
+        "#": 69,
+        "Track Title": "Fake ID (feat. Gretchen Wilson)",
+        "Artist": "Big & Rich, Gretchen Wilson",
+        "Key": "8B",
+        "Energy": 9.604,
+        "Popularity": 6.22,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6dFcL5hsy8dy0RCFx7f5FD",
+            "explicit": false,
+            "album": "Fake ID (feat. Gretchen Wilson)",
+            "release_date": "2011-05-17",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "contemporary country",
+                "country",
+                "country dawn",
+                "country road"
+            ],
+            "duration": 203280,
+            "acousticness": 0.0614,
+            "danceability": 6.9670000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.233,
+            "loudness": -2.322,
+            "speechiness": 0.0395,
+            "time_signature": 4,
+            "happiness": 7.57
+        }
+    },
+    {
+        "#": 70,
+        "Track Title": "Swamp Thing",
+        "Artist": "The Grid",
+        "Key": "10B",
+        "Energy": 8.326,
+        "Popularity": 3.25,
+        "BPM": 134,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "90s"
+        ],
+        "Additional Info": {
+            "id": "7FPtRhFIM1vH1al7tFPwg4",
+            "explicit": false,
+            "album": "Pecker",
+            "release_date": "1998-09-29",
+            "genres": [
+                "big beat",
+                "hip house"
+            ],
+            "duration": 435000,
+            "acousticness": 5.33e-05,
+            "danceability": 6.8950000000000005,
+            "instrumentalness": 0.918,
+            "liveness": 0.062,
+            "loudness": -14.604,
+            "speechiness": 0.0479,
+            "time_signature": 4,
+            "happiness": 5.6530000000000005
+        }
+    },
+    {
+        "#": 71,
+        "Track Title": "Wobble",
+        "Artist": "V.I.C.",
+        "Key": "5A",
+        "Energy": 7.714,
+        "Popularity": 6.8500000000000005,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6JLcz9UGiVxAmEZXlCucn5",
+            "explicit": true,
+            "album": "Beast",
+            "release_date": "2008",
+            "genres": [
+                "atl hip hop",
+                "futuristic swag"
+            ],
+            "duration": 321987,
+            "acousticness": 0.402,
+            "danceability": 8.695,
+            "instrumentalness": 0,
+            "liveness": 0.146,
+            "loudness": -3.777,
+            "speechiness": 0.232,
+            "time_signature": 4,
+            "happiness": 4.375
+        }
+    },
+    {
+        "#": 72,
+        "Track Title": "I Don't Dance",
+        "Artist": "Lee Brice",
+        "Key": "3B",
+        "Energy": 6.031000000000001,
+        "Popularity": 1.0,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "45AMSEnL53E37Vas7tGhaS",
+            "explicit": false,
+            "album": "I Don't Dance (Single)",
+            "release_date": "2014-02-25",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 221173,
+            "acousticness": 0.399,
+            "danceability": 6.2829999999999995,
+            "instrumentalness": 6.69e-06,
+            "liveness": 0.0992,
+            "loudness": -7.742,
+            "speechiness": 0.0321,
+            "time_signature": 4,
+            "happiness": 2.71
+        }
+    },
+    {
+        "#": 73,
+        "Track Title": "Copperhead Road",
+        "Artist": "Steve Earle",
+        "Key": "9B",
+        "Energy": 7.678,
+        "Popularity": 1.0,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Rock",
+            "Nostalgic",
+            "Inspiring",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0ttKO7eBjyoq5Khr2X9lwV",
+            "explicit": false,
+            "album": "Copperhead Road (Deluxe Edition)",
+            "release_date": "2008-01-01",
+            "genres": [
+                "alternative country",
+                "classic texas country",
+                "country rock",
+                "folk",
+                "heartland rock",
+                "outlaw country",
+                "roots rock",
+                "singer-songwriter"
+            ],
+            "duration": 270067,
+            "acousticness": 0.0257,
+            "danceability": 4.402,
+            "instrumentalness": 0.000125,
+            "liveness": 0.0659,
+            "loudness": -10.002,
+            "speechiness": 0.0444,
+            "time_signature": 4,
+            "happiness": 7.885
+        }
+    },
+    {
+        "#": 74,
+        "Track Title": "Hypnotize",
+        "Artist": "The Notorious B.I.G.",
+        "Key": "11B",
+        "Energy": 5.545,
+        "Popularity": 1.0,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "90s",
+            "Mad",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1oLIBuedMjAbHlO4WTGJi3",
+            "explicit": false,
+            "album": "Life After Death",
+            "release_date": "1997-03-04",
+            "genres": [
+                "east coast hip hop",
+                "gangster rap",
+                "hardcore hip hop",
+                "hip hop",
+                "rap"
+            ],
+            "duration": 237867,
+            "acousticness": 0.136,
+            "danceability": 9.253,
+            "instrumentalness": 0,
+            "liveness": 0.201,
+            "loudness": -6.756,
+            "speechiness": 0.277,
+            "time_signature": 4,
+            "happiness": 7.471
+        }
+    },
+    {
+        "#": 75,
+        "Track Title": "Hillbilly Deluxe",
+        "Artist": "Brooks & Dunn",
+        "Key": "9B",
+        "Energy": 8.370999999999999,
+        "Popularity": 5.32,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "7esJti70vOf5JB2ZYdihSc",
+            "explicit": false,
+            "album": "#1s ... and then some",
+            "release_date": "2009-09-08",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 258720,
+            "acousticness": 0.319,
+            "danceability": 6.022,
+            "instrumentalness": 1.32e-06,
+            "liveness": 0.58,
+            "loudness": -4.771,
+            "speechiness": 0.0508,
+            "time_signature": 4,
+            "happiness": 6.093999999999999
+        }
+    },
+    {
+        "#": 76,
+        "Track Title": "Neon Moon",
+        "Artist": "Brooks & Dunn",
+        "Key": "11B",
+        "Energy": 6.688,
+        "Popularity": 7.75,
+        "BPM": 102,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "3EUl8M6SzxZl03NPkB8mUd",
+            "explicit": false,
+            "album": "#1s ... and then some",
+            "release_date": "2009-09-08",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 263760,
+            "acousticness": 0.554,
+            "danceability": 7.282,
+            "instrumentalness": 0,
+            "liveness": 0.118,
+            "loudness": -6.508,
+            "speechiness": 0.0247,
+            "time_signature": 4,
+            "happiness": 5.122
+        }
+    },
+    {
+        "#": 77,
+        "Track Title": "Crazy Girl",
+        "Artist": "Eli Young Band",
+        "Key": "12B",
+        "Energy": 6.859,
+        "Popularity": 7.57,
+        "BPM": 76,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Rock",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "1nVLAEzhBXMJLR5zAl90Nl",
+            "explicit": false,
+            "album": "Life At Best",
+            "release_date": "2011-01-01",
+            "genres": [
+                "classic texas country",
+                "contemporary country",
+                "country",
+                "country road",
+                "heartland rock"
+            ],
+            "duration": 200707,
+            "acousticness": 0.000415,
+            "danceability": 4.2940000000000005,
+            "instrumentalness": 0.00526,
+            "liveness": 0.271,
+            "loudness": -3.842,
+            "speechiness": 0.031,
+            "time_signature": 3,
+            "happiness": 3.313
+        }
+    },
+    {
+        "#": 78,
+        "Track Title": "Dirty Diana",
+        "Artist": "Michael Jackson",
+        "Key": "5B",
+        "Energy": 8.191,
+        "Popularity": 6.67,
+        "BPM": 131,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Romantic & Slow Dance"
+        ],
+        "Additional Info": {
+            "id": "6JZYMxvcoeLD4IifJPvDux",
+            "explicit": false,
+            "album": "Number Ones",
+            "release_date": "2003-11-18",
+            "genres": [
+                "r&b",
+                "soul"
+            ],
+            "duration": 280600,
+            "acousticness": 0.239,
+            "danceability": 7.669,
+            "instrumentalness": 0.000795,
+            "liveness": 0.421,
+            "loudness": -4.56,
+            "speechiness": 0.062,
+            "time_signature": 4,
+            "happiness": 4.132
+        }
+    },
+    {
+        "#": 79,
+        "Track Title": "Forever",
+        "Artist": "Aaron Lewis",
+        "Key": "4B",
+        "Energy": 6.625,
+        "Popularity": 1.0,
+        "BPM": 138,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "68uTOhnWyHLsIQnDC30Oqq",
+            "explicit": false,
+            "album": "The Road",
+            "release_date": "2012-11-08",
+            "genres": [
+                "country road",
+                "outlaw country"
+            ],
+            "duration": 267613,
+            "acousticness": 0.0112,
+            "danceability": 5.995,
+            "instrumentalness": 4.18e-05,
+            "liveness": 0.128,
+            "loudness": -5.746,
+            "speechiness": 0.028,
+            "time_signature": 4,
+            "happiness": 3.331
+        }
+    },
+    {
+        "#": 80,
+        "Track Title": "Country Boy (feat. George Jones & Charlie Daniels)",
+        "Artist": "Aaron Lewis",
+        "Key": "2B",
+        "Energy": 7.003,
+        "Popularity": 1.0,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "2MwY5LBRTEBwbNDbtC7vQR",
+            "explicit": false,
+            "album": "Town Line",
+            "release_date": "2011-03-01",
+            "genres": [
+                "country road",
+                "outlaw country"
+            ],
+            "duration": 283347,
+            "acousticness": 0.296,
+            "danceability": 6.3549999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.109,
+            "loudness": -6.442,
+            "speechiness": 0.034,
+            "time_signature": 4,
+            "happiness": 3.4480000000000004
+        }
+    },
+    {
+        "#": 81,
+        "Track Title": "Meant to Live",
+        "Artist": "Switchfoot",
+        "Key": "10B",
+        "Energy": 9.136000000000001,
+        "Popularity": 5.68,
+        "BPM": 76,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "79cAPxneo5AvbNgR6ch3Cj",
+            "explicit": false,
+            "album": "The Best Yet",
+            "release_date": "2008-10-31",
+            "genres": [
+                "ccm",
+                "christian alternative rock",
+                "christian music"
+            ],
+            "duration": 199813,
+            "acousticness": 0.00424,
+            "danceability": 4.555,
+            "instrumentalness": 0,
+            "liveness": 0.42,
+            "loudness": -3.949,
+            "speechiness": 0.0468,
+            "time_signature": 4,
+            "happiness": 5.644
+        }
+    },
+    {
+        "#": 82,
+        "Track Title": "Dare You to Move",
+        "Artist": "Switchfoot",
+        "Key": "12B",
+        "Energy": 9.172,
+        "Popularity": 6.040000000000001,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "45sziCSqS4BWSQWUlLRpyf",
+            "explicit": false,
+            "album": "The Best Yet",
+            "release_date": "2008-10-31",
+            "genres": [
+                "ccm",
+                "christian alternative rock",
+                "christian music"
+            ],
+            "duration": 246827,
+            "acousticness": 0.0196,
+            "danceability": 4.9510000000000005,
+            "instrumentalness": 0.00537,
+            "liveness": 0.137,
+            "loudness": -4.08,
+            "speechiness": 0.0644,
+            "time_signature": 4,
+            "happiness": 4.15
+        }
+    },
+    {
+        "#": 83,
+        "Track Title": "Who Are You When I'm Not Looking",
+        "Artist": "Blake Shelton",
+        "Key": "12B",
+        "Energy": 5.113,
+        "Popularity": 5.95,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "15fZHvjZXoAILTvmt4EXIk",
+            "explicit": false,
+            "album": "All About Tonight",
+            "release_date": "2010-08-06",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 187733,
+            "acousticness": 0.409,
+            "danceability": 4.708,
+            "instrumentalness": 0.0187,
+            "liveness": 0.0978,
+            "loudness": -9.142,
+            "speechiness": 0.0288,
+            "time_signature": 4,
+            "happiness": 2.818
+        }
+    },
+    {
+        "#": 84,
+        "Track Title": "#thatPOWER",
+        "Artist": "will.i.am, Justin Bieber",
+        "Key": "2A",
+        "Energy": 6.454,
+        "Popularity": 1.0,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Dance Remixes",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1SbxAreKptHVvH3Q585wDd",
+            "explicit": false,
+            "album": "#willpower",
+            "release_date": "2013-04-23",
+            "genres": [
+                "dance pop",
+                "pop",
+                "canadian pop",
+                "pop"
+            ],
+            "duration": 279507,
+            "acousticness": 0.00136,
+            "danceability": 8.155000000000001,
+            "instrumentalness": 3.74e-05,
+            "liveness": 0.0756,
+            "loudness": -6.144,
+            "speechiness": 0.0618,
+            "time_signature": 4,
+            "happiness": 4.753
+        }
+    },
+    {
+        "#": 85,
+        "Track Title": "Somewhere With You",
+        "Artist": "Kenny Chesney",
+        "Key": "3A",
+        "Energy": 8.641,
+        "Popularity": 6.8500000000000005,
+        "BPM": 112,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "3pkzJjJXfdDjhpXx639MIH",
+            "explicit": false,
+            "album": "Hemingway's Whiskey",
+            "release_date": "2010-09-28",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 243520,
+            "acousticness": 0.0862,
+            "danceability": 7.12,
+            "instrumentalness": 0.00013,
+            "liveness": 0.174,
+            "loudness": -6.475,
+            "speechiness": 0.0376,
+            "time_signature": 4,
+            "happiness": 5.824
+        }
+    },
+    {
+        "#": 86,
+        "Track Title": "Creepin'",
+        "Artist": "Eric Church",
+        "Key": "7B",
+        "Energy": 9.001,
+        "Popularity": 6.22,
+        "BPM": 88,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "2krJlC7MXXpOdPipgc0TaS",
+            "explicit": false,
+            "album": "Chief",
+            "release_date": "2011-01-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 232720,
+            "acousticness": 0.0389,
+            "danceability": 5.176,
+            "instrumentalness": 0.0272,
+            "liveness": 0.31,
+            "loudness": -5.042,
+            "speechiness": 0.0497,
+            "time_signature": 4,
+            "happiness": 5.851
+        }
+    },
+    {
+        "#": 87,
+        "Track Title": "Smoke A Little Smoke",
+        "Artist": "Eric Church",
+        "Key": "6A",
+        "Energy": 6.769,
+        "Popularity": 1.0,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "2uZhNjlUQ9mnt0rS7hcAgF",
+            "explicit": false,
+            "album": "Carolina",
+            "release_date": "2009-01-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 191333,
+            "acousticness": 0.0206,
+            "danceability": 7.93,
+            "instrumentalness": 0.00023,
+            "liveness": 0.106,
+            "loudness": -6.077,
+            "speechiness": 0.035,
+            "time_signature": 4,
+            "happiness": 6.751
+        }
+    },
+    {
+        "#": 88,
+        "Track Title": "Lights",
+        "Artist": "Ellie Goulding",
+        "Key": "3B",
+        "Energy": 8.119,
+        "Popularity": 1.0,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Pop",
+            "EDM",
+            "Club-Hotel",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "1JP779IkUMANQVaPGzc6Ld",
+            "explicit": false,
+            "album": "Lights (Bassnectar Remix)",
+            "release_date": "2010-01-01",
+            "genres": [
+                "indietronica",
+                "metropopolis",
+                "pop",
+                "uk pop"
+            ],
+            "duration": 281196,
+            "acousticness": 0.00483,
+            "danceability": 5.761,
+            "instrumentalness": 0.758,
+            "liveness": 0.739,
+            "loudness": -4.894,
+            "speechiness": 0.0289,
+            "time_signature": 4,
+            "happiness": 3.5020000000000002
+        }
+    },
+    {
+        "#": 89,
+        "Track Title": "18 & Life (Live)",
+        "Artist": "Sebastian Bach",
+        "Key": "3A",
+        "Energy": 9.064,
+        "Popularity": 1.0,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Mad",
+            "Rock",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "1d54dVR47WC3Vfd5FldEeO",
+            "explicit": false,
+            "album": "Bring Em Bach - Live",
+            "release_date": "2003-02-11",
+            "genres": [
+                "glam metal",
+                "hard rock"
+            ],
+            "duration": 310747,
+            "acousticness": 0.186,
+            "danceability": 3.9250000000000003,
+            "instrumentalness": 0,
+            "liveness": 1.0,
+            "loudness": -4.47,
+            "speechiness": 0.0541,
+            "time_signature": 4,
+            "happiness": 2.782
+        }
+    },
+    {
+        "#": 90,
+        "Track Title": "Youth Gone Wild",
+        "Artist": "Skid Row",
+        "Key": "9A",
+        "Energy": 7.4799999999999995,
+        "Popularity": 7.12,
+        "BPM": 117,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "1jF5Id0OPFU1Mae8BEUF5u",
+            "explicit": false,
+            "album": "Skid Row",
+            "release_date": "1989-01-24",
+            "genres": [
+                "album rock",
+                "glam metal",
+                "hard rock",
+                "metal",
+                "rock"
+            ],
+            "duration": 198907,
+            "acousticness": 0.00202,
+            "danceability": 5.824,
+            "instrumentalness": 0.000127,
+            "liveness": 0.357,
+            "loudness": -11.277,
+            "speechiness": 0.0436,
+            "time_signature": 4,
+            "happiness": 6.697
+        }
+    },
+    {
+        "#": 91,
+        "Track Title": "Pour Some Sugar on Me",
+        "Artist": "Def Leppard",
+        "Key": "6A",
+        "Energy": 9.577,
+        "Popularity": 1.0,
+        "BPM": 88,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Mad",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "1LJiDycHs6p6hNFvYwVZAx",
+            "explicit": false,
+            "album": "Viva! Hysteria (Original Soundtrack)",
+            "release_date": "2013-10-22",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "glam metal",
+                "hard rock",
+                "nwobhm",
+                "rock"
+            ],
+            "duration": 272173,
+            "acousticness": 0.00156,
+            "danceability": 4.726,
+            "instrumentalness": 0,
+            "liveness": 0.99,
+            "loudness": -5.462,
+            "speechiness": 0.243,
+            "time_signature": 4,
+            "happiness": 5.158
+        }
+    },
+    {
+        "#": 92,
+        "Track Title": "Love Bites",
+        "Artist": "Def Leppard",
+        "Key": "6A",
+        "Energy": 8.452,
+        "Popularity": 1.0,
+        "BPM": 131,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Mad",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "3SoNMDkQr86wqib28yaBI7",
+            "explicit": false,
+            "album": "Viva! Hysteria (Original Soundtrack)",
+            "release_date": "2013-10-22",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "glam metal",
+                "hard rock",
+                "nwobhm",
+                "rock"
+            ],
+            "duration": 368120,
+            "acousticness": 0.00263,
+            "danceability": 4.114,
+            "instrumentalness": 2.97e-05,
+            "liveness": 0.893,
+            "loudness": -6.512,
+            "speechiness": 0.0388,
+            "time_signature": 4,
+            "happiness": 3.268
+        }
+    },
+    {
+        "#": 93,
+        "Track Title": "Animal",
+        "Artist": "Def Leppard",
+        "Key": "3A",
+        "Energy": 9.298,
+        "Popularity": 1.0,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Mad",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "3Dkl2HOfQTXtgzA83IUciz",
+            "explicit": false,
+            "album": "Viva! Hysteria (Original Soundtrack)",
+            "release_date": "2013-10-22",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "glam metal",
+                "hard rock",
+                "nwobhm",
+                "rock"
+            ],
+            "duration": 247093,
+            "acousticness": 3.87e-05,
+            "danceability": 5.9590000000000005,
+            "instrumentalness": 1.29e-05,
+            "liveness": 0.98,
+            "loudness": -5.336,
+            "speechiness": 0.0396,
+            "time_signature": 4,
+            "happiness": 4.96
+        }
+    },
+    {
+        "#": 94,
+        "Track Title": "Photograph",
+        "Artist": "Def Leppard",
+        "Key": "5A",
+        "Energy": 9.73,
+        "Popularity": 1.0,
+        "BPM": 121,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Mad",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "3MT0uaKFJ259NrGDib8EO5",
+            "explicit": false,
+            "album": "Viva! Hysteria (Original Soundtrack)",
+            "release_date": "2013-10-22",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "glam metal",
+                "hard rock",
+                "nwobhm",
+                "rock"
+            ],
+            "duration": 373653,
+            "acousticness": 0.00113,
+            "danceability": 4.96,
+            "instrumentalness": 1.24e-06,
+            "liveness": 0.864,
+            "loudness": -5.01,
+            "speechiness": 0.111,
+            "time_signature": 4,
+            "happiness": 4.006
+        }
+    },
+    {
+        "#": 95,
+        "Track Title": "Nothing Else Matters",
+        "Artist": "Metallica",
+        "Key": "12A",
+        "Energy": 4.276,
+        "Popularity": 1.0,
+        "BPM": 142,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "90s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "3ZFwuJwUpIl0GeXsvF1ELf",
+            "explicit": false,
+            "album": "Metallica",
+            "release_date": "1991-08-12",
+            "genres": [
+                "hard rock",
+                "metal",
+                "old school thrash",
+                "rock",
+                "thrash metal"
+            ],
+            "duration": 388733,
+            "acousticness": 0.0505,
+            "danceability": 6.022,
+            "instrumentalness": 5.02e-06,
+            "liveness": 0.0753,
+            "loudness": -11.258,
+            "speechiness": 0.0265,
+            "time_signature": 3,
+            "happiness": 2.5300000000000002
+        }
+    },
+    {
+        "#": 96,
+        "Track Title": "One",
+        "Artist": "Metallica",
+        "Key": "9B",
+        "Energy": 7.327,
+        "Popularity": 1.0,
+        "BPM": 106,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "64Ret7Tf2M8pDE4aqbW2tX",
+            "explicit": false,
+            "album": "...And Justice For All",
+            "release_date": "1988-08-25",
+            "genres": [
+                "hard rock",
+                "metal",
+                "old school thrash",
+                "rock",
+                "thrash metal"
+            ],
+            "duration": 447440,
+            "acousticness": 0.00112,
+            "danceability": 4.996,
+            "instrumentalness": 0.0761,
+            "liveness": 0.127,
+            "loudness": -9.443,
+            "speechiness": 0.0641,
+            "time_signature": 4,
+            "happiness": 4.771
+        }
+    },
+    {
+        "#": 97,
+        "Track Title": "Superstition - Single Version",
+        "Artist": "Stevie Wonder",
+        "Key": "4B",
+        "Energy": 7.615,
+        "Popularity": 1.0,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Nostalgic",
+            "Romantic & Slow Dance",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "300RfAPZ57B0y6YYj9n6DN",
+            "explicit": false,
+            "album": "Number Ones",
+            "release_date": "2007-01-01",
+            "genres": [
+                "motown",
+                "soul"
+            ],
+            "duration": 244827,
+            "acousticness": 0.0172,
+            "danceability": 6.7780000000000005,
+            "instrumentalness": 0.000733,
+            "liveness": 0.0391,
+            "loudness": -8.866,
+            "speechiness": 0.0806,
+            "time_signature": 4,
+            "happiness": 8.776
+        }
+    },
+    {
+        "#": 98,
+        "Track Title": "Hold the Line",
+        "Artist": "TOTO",
+        "Key": "2A",
+        "Energy": 9.082,
+        "Popularity": 8.469999999999999,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Calm",
+            "Mad",
+            "Nostalgic",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4aVuWgvD0X63hcOCnZtNFA",
+            "explicit": false,
+            "album": "Toto",
+            "release_date": "1978-10-10",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "mellow gold",
+                "rock",
+                "soft rock",
+                "yacht rock"
+            ],
+            "duration": 235547,
+            "acousticness": 0.00783,
+            "danceability": 5.257,
+            "instrumentalness": 0.0618,
+            "liveness": 0.173,
+            "loudness": -4.797,
+            "speechiness": 0.0561,
+            "time_signature": 4,
+            "happiness": 8.272
+        }
+    },
+    {
+        "#": 99,
+        "Track Title": "Low Rider",
+        "Artist": "War",
+        "Key": "8B",
+        "Energy": 5.788,
+        "Popularity": 1.0,
+        "BPM": 139,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Dance Remixes",
+            "Nostalgic",
+            "Romantic & Slow Dance",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2sanowZfqS5ivgW6TanhcC",
+            "explicit": false,
+            "album": "The Best World Dance Music Vol. 2",
+            "release_date": "2012-01-01",
+            "genres": [
+                "classic soul",
+                "funk",
+                "motown",
+                "soul"
+            ],
+            "duration": 193920,
+            "acousticness": 0.073,
+            "danceability": 8.254000000000001,
+            "instrumentalness": 0.596,
+            "liveness": 0.0602,
+            "loudness": -14.445,
+            "speechiness": 0.0605,
+            "time_signature": 4,
+            "happiness": 9.874
+        }
+    },
+    {
+        "#": 100,
+        "Track Title": "Cecilia",
+        "Artist": "Simon & Garfunkel",
+        "Key": "8B",
+        "Energy": 8.866,
+        "Popularity": 1.0,
+        "BPM": 103,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Calm",
+            "Nostalgic",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6pgQoiHr6U9SDt66lCyq0X",
+            "explicit": false,
+            "album": "Bridge Over Troubled Water",
+            "release_date": "1970-01-26",
+            "genres": [
+                "classic rock",
+                "folk",
+                "folk rock",
+                "melancholia",
+                "mellow gold",
+                "rock",
+                "soft rock"
+            ],
+            "duration": 174640,
+            "acousticness": 0.434,
+            "danceability": 7.777,
+            "instrumentalness": 1.7e-05,
+            "liveness": 0.138,
+            "loudness": -8.626,
+            "speechiness": 0.0355,
+            "time_signature": 4,
+            "happiness": 9.450999999999999
+        }
+    }
+]

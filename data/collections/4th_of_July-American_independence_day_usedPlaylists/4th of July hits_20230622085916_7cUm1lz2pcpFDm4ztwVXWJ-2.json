@@ -1,0 +1,3675 @@
+[
+    {
+        "#": 1,
+        "Track Title": "Sweet Home Alabama",
+        "Artist": "Lynyrd Skynyrd",
+        "Key": "9B",
+        "Energy": 6.445,
+        "Popularity": 8.649999999999999,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Mad",
+            "Nostalgic",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "7e89621JPkKaeDSTQ3avtg",
+            "explicit": true,
+            "album": "Second Helping (Expanded Edition)",
+            "release_date": "1974-04-15",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "rock",
+                "southern rock"
+            ],
+            "duration": 283800,
+            "acousticness": 0.181,
+            "danceability": 6.364,
+            "instrumentalness": 0.000331,
+            "liveness": 0.0863,
+            "loudness": -12.145,
+            "speechiness": 0.0255,
+            "time_signature": 4,
+            "happiness": 8.974
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Born in the U.S.A.",
+        "Artist": "Bruce Springsteen",
+        "Key": "12B",
+        "Energy": 9.568,
+        "Popularity": 7.93,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Calm",
+            "Inspiring",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0dOg1ySSI7NkpAe89Zo0b9",
+            "explicit": false,
+            "album": "Born In The U.S.A.",
+            "release_date": "1984-06-04",
+            "genres": [
+                "heartland rock",
+                "mellow gold",
+                "permanent wave",
+                "rock",
+                "singer-songwriter"
+            ],
+            "duration": 278680,
+            "acousticness": 0.000373,
+            "danceability": 4.582000000000001,
+            "instrumentalness": 7.75e-05,
+            "liveness": 0.1,
+            "loudness": -6.042,
+            "speechiness": 0.061,
+            "time_signature": 4,
+            "happiness": 6.255999999999999
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "American Woman",
+        "Artist": "Lenny Kravitz",
+        "Key": "3B",
+        "Energy": 7.039000000000001,
+        "Popularity": 7.03,
+        "BPM": 84,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "90s",
+            "Rock",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "3X6iIrFuQoCshIWBseEKPl",
+            "explicit": false,
+            "album": "5",
+            "release_date": "1998-05-12",
+            "genres": [
+                "permanent wave",
+                "rock"
+            ],
+            "duration": 264560,
+            "acousticness": 0.0304,
+            "danceability": 7.191999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.0782,
+            "loudness": -7.872,
+            "speechiness": 0.0975,
+            "time_signature": 4,
+            "happiness": 5.833
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Livin' On A Prayer",
+        "Artist": "Bon Jovi",
+        "Key": "8B",
+        "Energy": 8.983,
+        "Popularity": 8.92,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "37ZJ0p5Jm13JPevGcx4SkF",
+            "explicit": false,
+            "album": "Slippery When Wet",
+            "release_date": "1986-08-16",
+            "genres": [
+                "glam metal",
+                "rock"
+            ],
+            "duration": 249293,
+            "acousticness": 0.0778,
+            "danceability": 5.788,
+            "instrumentalness": 0.000214,
+            "liveness": 0.294,
+            "loudness": -3.757,
+            "speechiness": 0.0335,
+            "time_signature": 4,
+            "happiness": 8.155000000000001
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Juke Box Hero",
+        "Artist": "Foreigner",
+        "Key": "11B",
+        "Energy": 6.877000000000001,
+        "Popularity": 7.57,
+        "BPM": 88,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Calm",
+            "Rock",
+            "Mad",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "00qOE7OjRl0BpYiCiweZB2",
+            "explicit": false,
+            "album": "4 (Expanded)",
+            "release_date": "1981",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "glam metal",
+                "hard rock",
+                "heartland rock",
+                "mellow gold",
+                "rock",
+                "soft rock"
+            ],
+            "duration": 259800,
+            "acousticness": 0.0828,
+            "danceability": 4.213,
+            "instrumentalness": 0,
+            "liveness": 0.0844,
+            "loudness": -5.554,
+            "speechiness": 0.0654,
+            "time_signature": 4,
+            "happiness": 5.698
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Godzilla",
+        "Artist": "Blue \u00d6yster Cult",
+        "Key": "12B",
+        "Energy": 8.821,
+        "Popularity": 6.8500000000000005,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Mad",
+            "Inspiring",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6N0AnkdDFZUetw8KAGHV7e",
+            "explicit": false,
+            "album": "Spectres",
+            "release_date": "1977",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "glam metal",
+                "hard rock",
+                "progressive rock",
+                "rock"
+            ],
+            "duration": 221400,
+            "acousticness": 0.164,
+            "danceability": 4.357,
+            "instrumentalness": 7.76e-06,
+            "liveness": 0.605,
+            "loudness": -7.719,
+            "speechiness": 0.0554,
+            "time_signature": 4,
+            "happiness": 7.263999999999999
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "(Don't Fear) The Reaper",
+        "Artist": "Blue \u00d6yster Cult",
+        "Key": "11A",
+        "Energy": 9.343,
+        "Popularity": 8.02,
+        "BPM": 141,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Mad",
+            "Inspiring",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "5QTxFnGygVM4jFQiBovmRo",
+            "explicit": false,
+            "album": "Agents Of Fortune",
+            "release_date": "1976",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "glam metal",
+                "hard rock",
+                "progressive rock",
+                "rock"
+            ],
+            "duration": 308120,
+            "acousticness": 0.0029,
+            "danceability": 3.9970000000000003,
+            "instrumentalness": 0.000208,
+            "liveness": 0.297,
+            "loudness": -8.55,
+            "speechiness": 0.0733,
+            "time_signature": 4,
+            "happiness": 4.465
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Free Bird",
+        "Artist": "Lynyrd Skynyrd",
+        "Key": "8B",
+        "Energy": 8.506,
+        "Popularity": 8.290000000000001,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Mad",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "5EWPGh7jbTNO2wakv8LjUI",
+            "explicit": false,
+            "album": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
+            "release_date": "1973-01-01",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "rock",
+                "southern rock"
+            ],
+            "duration": 547107,
+            "acousticness": 0.0738,
+            "danceability": 3.241,
+            "instrumentalness": 9.48e-05,
+            "liveness": 0.0924,
+            "loudness": -8.21,
+            "speechiness": 0.0577,
+            "time_signature": 4,
+            "happiness": 4.042
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "I Wanna Rock",
+        "Artist": "Twisted Sister",
+        "Key": "10B",
+        "Energy": 9.199,
+        "Popularity": 7.75,
+        "BPM": 106,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Mad",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "70Z9t1qhytWtG4cCmmi7mU",
+            "explicit": false,
+            "album": "Stay Hungry",
+            "release_date": "1984-05-10",
+            "genres": [
+                "album rock",
+                "glam metal",
+                "hard rock",
+                "metal",
+                "rock"
+            ],
+            "duration": 179760,
+            "acousticness": 0.00512,
+            "danceability": 5.536,
+            "instrumentalness": 0.0123,
+            "liveness": 0.355,
+            "loudness": -2.97,
+            "speechiness": 0.0738,
+            "time_signature": 4,
+            "happiness": 7.039000000000001
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Welcome To The Jungle",
+        "Artist": "Guns N' Roses",
+        "Key": "4B",
+        "Energy": 9.883,
+        "Popularity": 8.649999999999999,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Mad",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0G21yYKMZoHa30cYVi1iA8",
+            "explicit": true,
+            "album": "Appetite For Destruction",
+            "release_date": "1987-07-21",
+            "genres": [
+                "glam metal",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 273480,
+            "acousticness": 0.0195,
+            "danceability": 5.077,
+            "instrumentalness": 0.283,
+            "liveness": 0.268,
+            "loudness": -4.485,
+            "speechiness": 0.0889,
+            "time_signature": 4,
+            "happiness": 3.844
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Pour Some Sugar On Me - Remastered 2017",
+        "Artist": "Def Leppard",
+        "Key": "3A",
+        "Energy": 9.577,
+        "Popularity": 8.02,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Mad",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0PdM2a6oIjqepoEfcJo0RO",
+            "explicit": false,
+            "album": "Hysteria (Super Deluxe)",
+            "release_date": "1987-08-03",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "glam metal",
+                "hard rock",
+                "nwobhm",
+                "rock"
+            ],
+            "duration": 267307,
+            "acousticness": 0.00211,
+            "danceability": 3.403,
+            "instrumentalness": 0,
+            "liveness": 0.283,
+            "loudness": -4.899,
+            "speechiness": 0.096,
+            "time_signature": 4,
+            "happiness": 6.111999999999999
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "Fight For Your Right",
+        "Artist": "Beastie Boys",
+        "Key": "4B",
+        "Energy": 8.722,
+        "Popularity": 7.66,
+        "BPM": 134,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Hip Hop",
+            "Rock",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "5NLuC70kZQv8q34QyQa1DP",
+            "explicit": false,
+            "album": "Licensed To Ill",
+            "release_date": "1986-11-15",
+            "genres": [
+                "alternative rock",
+                "east coast hip hop",
+                "golden age hip hop",
+                "hip hop",
+                "old school hip hop",
+                "rap",
+                "rap rock",
+                "rock"
+            ],
+            "duration": 208653,
+            "acousticness": 0.00757,
+            "danceability": 5.527,
+            "instrumentalness": 0.00234,
+            "liveness": 0.0803,
+            "loudness": -6.296,
+            "speechiness": 0.0657,
+            "time_signature": 5,
+            "happiness": 4.771
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "Cowboy",
+        "Artist": "Kid Rock",
+        "Key": "3B",
+        "Energy": 9.073,
+        "Popularity": 7.12,
+        "BPM": 83,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "90s",
+            "Rock",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "19LT4ZUEeoUdimKE04WJJg",
+            "explicit": true,
+            "album": "Devil Without a Cause",
+            "release_date": "1998-08-05",
+            "genres": [
+                "nu metal"
+            ],
+            "duration": 257867,
+            "acousticness": 0.085,
+            "danceability": 6.4719999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.108,
+            "loudness": -2.921,
+            "speechiness": 0.291,
+            "time_signature": 4,
+            "happiness": 8.812000000000001
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "Barracuda",
+        "Artist": "Heart",
+        "Key": "12A",
+        "Energy": 7.218999999999999,
+        "Popularity": 8.02,
+        "BPM": 137,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Mad",
+            "Pop",
+            "Nostalgic",
+            "Rock",
+            "Inspiring",
+            "Calm",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4KfSdst7rW39C0sfhArdrz",
+            "explicit": false,
+            "album": "Little Queen",
+            "release_date": "1977-05-14",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "glam metal",
+                "hard rock",
+                "heartland rock",
+                "mellow gold",
+                "new wave pop",
+                "rock",
+                "singer-songwriter",
+                "soft rock"
+            ],
+            "duration": 261933,
+            "acousticness": 0.015,
+            "danceability": 5.932,
+            "instrumentalness": 0.106,
+            "liveness": 0.144,
+            "loudness": -13.553,
+            "speechiness": 0.0369,
+            "time_signature": 4,
+            "happiness": 7.003
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Life in the Fast Lane - 2013 Remaster",
+        "Artist": "Eagles",
+        "Key": "11B",
+        "Energy": 7.795,
+        "Popularity": 7.75,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Calm",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6gXrEUzibufX9xYPk3HD5p",
+            "explicit": false,
+            "album": "Hotel California (2013 Remaster)",
+            "release_date": "1976-12-08",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "heartland rock",
+                "mellow gold",
+                "rock",
+                "soft rock",
+                "yacht rock"
+            ],
+            "duration": 286220,
+            "acousticness": 0.0966,
+            "danceability": 7.003,
+            "instrumentalness": 6.94e-05,
+            "liveness": 0.0523,
+            "loudness": -7.246,
+            "speechiness": 0.069,
+            "time_signature": 4,
+            "happiness": 8.947
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "Small Town",
+        "Artist": "John Mellencamp",
+        "Key": "1B",
+        "Energy": 9.271,
+        "Popularity": 7.209999999999999,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Mad",
+            "Nostalgic",
+            "Rock",
+            "Inspiring",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "2HsjJJL4DhPCzMlnaGv7ap",
+            "explicit": false,
+            "album": "Scarecrow",
+            "release_date": "1985",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "hard rock",
+                "heartland rock",
+                "mellow gold",
+                "rock",
+                "singer-songwriter",
+                "soft rock"
+            ],
+            "duration": 221627,
+            "acousticness": 0.155,
+            "danceability": 6.931,
+            "instrumentalness": 0.0054,
+            "liveness": 0.312,
+            "loudness": -2.658,
+            "speechiness": 0.0333,
+            "time_signature": 4,
+            "happiness": 6.679
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "Get It On",
+        "Artist": "T. Rex",
+        "Key": "1A",
+        "Energy": 8.902000000000001,
+        "Popularity": 1.0,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5nbNdS5SKdpiDZjCBh8W7b",
+            "explicit": false,
+            "album": "Electric Warrior (Deluxe Edition)",
+            "release_date": "1971-09-24",
+            "genres": [
+                "classic rock",
+                "glam rock",
+                "protopunk",
+                "rock"
+            ],
+            "duration": 262613,
+            "acousticness": 0.176,
+            "danceability": 7.552,
+            "instrumentalness": 0.856,
+            "liveness": 0.61,
+            "loudness": -6.926,
+            "speechiness": 0.0564,
+            "time_signature": 4,
+            "happiness": 9.199
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "T.N.T.",
+        "Artist": "AC/DC",
+        "Key": "11B",
+        "Energy": 7.831,
+        "Popularity": 8.290000000000001,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "7LRMbd3LEoV5wZJvXT1Lwb",
+            "explicit": false,
+            "album": "High Voltage",
+            "release_date": "1976-05-14",
+            "genres": [
+                "australian rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 214667,
+            "acousticness": 0.153,
+            "danceability": 7.786,
+            "instrumentalness": 0.000108,
+            "liveness": 0.101,
+            "loudness": -5.218,
+            "speechiness": 0.302,
+            "time_signature": 4,
+            "happiness": 4.915
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Thunderstruck",
+        "Artist": "AC/DC",
+        "Key": "12B",
+        "Energy": 9.01,
+        "Popularity": 8.83,
+        "BPM": 134,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "90s",
+            "Rock",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "57bgtoPSgt236HzfBOd8kj",
+            "explicit": false,
+            "album": "The Razors Edge",
+            "release_date": "1990-09-24",
+            "genres": [
+                "australian rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 292880,
+            "acousticness": 0.000147,
+            "danceability": 5.518,
+            "instrumentalness": 0.0117,
+            "liveness": 0.217,
+            "loudness": -5.175,
+            "speechiness": 0.0364,
+            "time_signature": 4,
+            "happiness": 3.331
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "Kickstart My Heart",
+        "Artist": "M\u00f6tley Cr\u00fce",
+        "Key": "9A",
+        "Energy": 9.82,
+        "Popularity": 4.6899999999999995,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "1RQwcsdHIW5p86cx8zuf1I",
+            "explicit": false,
+            "album": "Dr Feelgood",
+            "release_date": "1989",
+            "genres": [
+                "album rock",
+                "alternative metal",
+                "glam metal",
+                "hard rock",
+                "metal",
+                "rock",
+                "sleaze rock"
+            ],
+            "duration": 282709,
+            "acousticness": 0.00141,
+            "danceability": 4.249,
+            "instrumentalness": 0.00268,
+            "liveness": 0.294,
+            "loudness": -3.635,
+            "speechiness": 0.33,
+            "time_signature": 4,
+            "happiness": 3.142
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Rock And Roll All Nite",
+        "Artist": "KISS",
+        "Key": "3B",
+        "Energy": 9.361,
+        "Popularity": 8.02,
+        "BPM": 145,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Mad",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6KTv0Z8BmVqM7DPxbGzpVC",
+            "explicit": false,
+            "album": "Dressed To Kill",
+            "release_date": "1975-03-19",
+            "genres": [
+                "glam rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 168840,
+            "acousticness": 0.0468,
+            "danceability": 6.886,
+            "instrumentalness": 0,
+            "liveness": 0.0539,
+            "loudness": -5.906,
+            "speechiness": 0.0998,
+            "time_signature": 4,
+            "happiness": 9.118
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "Detroit Rock City",
+        "Artist": "KISS",
+        "Key": "7B",
+        "Energy": 9.1,
+        "Popularity": 1.09,
+        "BPM": 91,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "2jz6rWGqVCYsymwxGoaON4",
+            "explicit": false,
+            "album": "Double Platinum",
+            "release_date": "1978-01-01",
+            "genres": [
+                "glam rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 215933,
+            "acousticness": 0.0421,
+            "danceability": 5.914000000000001,
+            "instrumentalness": 4.57e-05,
+            "liveness": 0.292,
+            "loudness": -6.728,
+            "speechiness": 0.0691,
+            "time_signature": 4,
+            "happiness": 5.023
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "All Right Now",
+        "Artist": "Free",
+        "Key": "10B",
+        "Energy": 5.247999999999999,
+        "Popularity": 7.75,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Mad",
+            "Inspiring",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1gcESexgftSuLuML57Y69q",
+            "explicit": false,
+            "album": "Fire And Water",
+            "release_date": "1970-06-26",
+            "genres": [
+                "album rock",
+                "blues rock",
+                "british blues",
+                "classic rock",
+                "country rock",
+                "hard rock",
+                "progressive rock"
+            ],
+            "duration": 330643,
+            "acousticness": 0.221,
+            "danceability": 8.083,
+            "instrumentalness": 0.000336,
+            "liveness": 0.153,
+            "loudness": -12.824,
+            "speechiness": 0.0832,
+            "time_signature": 4,
+            "happiness": 8.416
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "La Grange - 2005 Remaster",
+        "Artist": "ZZ Top",
+        "Key": "12A",
+        "Energy": 6.76,
+        "Popularity": 8.2,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Mad",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "70YvYr2hGlS01bKRIho1HM",
+            "explicit": false,
+            "album": "Tres Hombres (Expanded 2006 Remaster)",
+            "release_date": "1973-07-26",
+            "genres": [
+                "album rock",
+                "blues rock",
+                "classic rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 230480,
+            "acousticness": 0.00249,
+            "danceability": 5.905,
+            "instrumentalness": 0.0304,
+            "liveness": 0.196,
+            "loudness": -9.937,
+            "speechiness": 0.224,
+            "time_signature": 4,
+            "happiness": 6.454
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "Tush - 2006 Remaster",
+        "Artist": "ZZ Top",
+        "Key": "8A",
+        "Energy": 8.965,
+        "Popularity": 7.66,
+        "BPM": 145,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Mad",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6zGDIDjfDkPyNxrEERO3XG",
+            "explicit": false,
+            "album": "Fandango! (Expanded 2006 Remaster)",
+            "release_date": "1975-04-18",
+            "genres": [
+                "album rock",
+                "blues rock",
+                "classic rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 137933,
+            "acousticness": 0.1,
+            "danceability": 6.22,
+            "instrumentalness": 0.00157,
+            "liveness": 0.146,
+            "loudness": -5.154,
+            "speechiness": 0.0715,
+            "time_signature": 4,
+            "happiness": 8.092
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "Born To Be Wild - Single Version",
+        "Artist": "Steppenwolf",
+        "Key": "10B",
+        "Energy": 7.606,
+        "Popularity": 7.39,
+        "BPM": 146,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "60s",
+            "Mad",
+            "Nostalgic",
+            "Rock",
+            "Inspiring",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "3lN8PP6R2IxbLP05QpYXng",
+            "explicit": false,
+            "album": "Steppenwolf",
+            "release_date": "1968-01-01",
+            "genres": [
+                "acid rock",
+                "album rock",
+                "blues rock",
+                "british blues",
+                "classic canadian rock",
+                "classic rock",
+                "hard rock",
+                "proto-metal",
+                "rock",
+                "singer-songwriter",
+                "soft rock"
+            ],
+            "duration": 212893,
+            "acousticness": 0.262,
+            "danceability": 4.9510000000000005,
+            "instrumentalness": 0.333,
+            "liveness": 0.244,
+            "loudness": -12.168,
+            "speechiness": 0.097,
+            "time_signature": 4,
+            "happiness": 5.86
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "American Girl",
+        "Artist": "Tom Petty and the Heartbreakers",
+        "Key": "10B",
+        "Energy": 8.416,
+        "Popularity": 7.75,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Mad",
+            "Nostalgic",
+            "Rock",
+            "Inspiring",
+            "Calm",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7MRyJPksH3G2cXHN8UKYzP",
+            "explicit": false,
+            "album": "Tom Petty & The Heartbreakers",
+            "release_date": "1976-11-09",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "heartland rock",
+                "mellow gold",
+                "rock",
+                "singer-songwriter",
+                "soft rock"
+            ],
+            "duration": 214733,
+            "acousticness": 0.448,
+            "danceability": 5.95,
+            "instrumentalness": 0.000127,
+            "liveness": 0.366,
+            "loudness": -5.988,
+            "speechiness": 0.0334,
+            "time_signature": 4,
+            "happiness": 7.993
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "Sunshine Of Your Love",
+        "Artist": "Cream",
+        "Key": "10B",
+        "Energy": 6.327999999999999,
+        "Popularity": 1.0,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "60s",
+            "Rock",
+            "Mad",
+            "Inspiring",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5y4761pjcksXs1hNsCmc4n",
+            "explicit": false,
+            "album": "Disraeli Gears (Deluxe Edition)",
+            "release_date": "1967-11-02",
+            "genres": [
+                "album rock",
+                "blues rock",
+                "british blues",
+                "classic rock",
+                "folk rock",
+                "hard rock",
+                "psychedelic rock",
+                "rock",
+                "singer-songwriter",
+                "supergroup"
+            ],
+            "duration": 250400,
+            "acousticness": 0.389,
+            "danceability": 7.218999999999999,
+            "instrumentalness": 3.29e-05,
+            "liveness": 0.124,
+            "loudness": -8.089,
+            "speechiness": 0.0366,
+            "time_signature": 4,
+            "happiness": 7.624
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "Runnin' With The Devil",
+        "Artist": "Van Halen",
+        "Key": "3A",
+        "Energy": 8.92,
+        "Popularity": 1.0,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Mad",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "3gLlcZQMvpwgtV9THHXrGp",
+            "explicit": false,
+            "album": "Van Halen (Reissue)",
+            "release_date": "1978-02-07",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 216733,
+            "acousticness": 0.0206,
+            "danceability": 4.888,
+            "instrumentalness": 0.000191,
+            "liveness": 0.185,
+            "loudness": -5.769,
+            "speechiness": 0.0656,
+            "time_signature": 4,
+            "happiness": 5.743
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Carry on Wayward Son",
+        "Artist": "Kansas",
+        "Key": "9B",
+        "Energy": 8.074,
+        "Popularity": 8.11,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Mad",
+            "Nostalgic",
+            "Rock",
+            "Inspiring",
+            "Calm",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4DMKwE2E2iYDKY01C335Uw",
+            "explicit": false,
+            "album": "Leftoverture (Expanded Edition)",
+            "release_date": "1976",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "heartland rock",
+                "mellow gold",
+                "progressive rock",
+                "rock",
+                "soft rock"
+            ],
+            "duration": 323000,
+            "acousticness": 0.00321,
+            "danceability": 5.338,
+            "instrumentalness": 8.88e-05,
+            "liveness": 0.446,
+            "loudness": -5.735,
+            "speechiness": 0.032,
+            "time_signature": 4,
+            "happiness": 8.137
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "Welcome To The Jungle",
+        "Artist": "Guns N' Roses",
+        "Key": "6A",
+        "Energy": 9.802,
+        "Popularity": 1.0,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Rock",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "0eFvoRSTTaR2q8bSWVjwfp",
+            "explicit": false,
+            "album": "Greatest Hits",
+            "release_date": "2004-03-23",
+            "genres": [
+                "glam metal",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 271867,
+            "acousticness": 0.0301,
+            "danceability": 5.104,
+            "instrumentalness": 0.499,
+            "liveness": 0.313,
+            "loudness": -4.869,
+            "speechiness": 0.112,
+            "time_signature": 4,
+            "happiness": 3.943
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "Sweet Home Alabama",
+        "Artist": "Lynyrd Skynyrd",
+        "Key": "9B",
+        "Energy": 6.445,
+        "Popularity": 1.0,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Mad",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4CJVkjo5WpmUAKp3R44LNb",
+            "explicit": false,
+            "album": "Second Helping",
+            "release_date": "1974-04-15",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "rock",
+                "southern rock"
+            ],
+            "duration": 281147,
+            "acousticness": 0.181,
+            "danceability": 6.372999999999999,
+            "instrumentalness": 0.000331,
+            "liveness": 0.118,
+            "loudness": -12.013,
+            "speechiness": 0.0255,
+            "time_signature": 4,
+            "happiness": 8.974
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "Drift Away",
+        "Artist": "Dobie Gray",
+        "Key": "1B",
+        "Energy": 5.140000000000001,
+        "Popularity": 6.22,
+        "BPM": 76,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "11YWR8tzDTR2P4KZ3lAySj",
+            "explicit": false,
+            "album": "Throwback Tunes: 70s",
+            "release_date": "2017-10-20",
+            "genres": [
+                "northern soul"
+            ],
+            "duration": 234301,
+            "acousticness": 0.325,
+            "danceability": 5.572,
+            "instrumentalness": 0,
+            "liveness": 0.648,
+            "loudness": -7.662,
+            "speechiness": 0.0404,
+            "time_signature": 4,
+            "happiness": 6.084999999999999
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "The Boys Are Back In Town",
+        "Artist": "Thin Lizzy",
+        "Key": "4B",
+        "Energy": 7.353999999999999,
+        "Popularity": 8.02,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Mad",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "43DeSV93pJPT4lCZaWZ6b1",
+            "explicit": false,
+            "album": "Jailbreak (Deluxe Edition)",
+            "release_date": "1976",
+            "genres": [
+                "album rock",
+                "blues rock",
+                "classic rock",
+                "glam metal",
+                "hard rock",
+                "irish rock",
+                "metal",
+                "rock"
+            ],
+            "duration": 266720,
+            "acousticness": 0.234,
+            "danceability": 5.005,
+            "instrumentalness": 0.000252,
+            "liveness": 0.205,
+            "loudness": -9.803,
+            "speechiness": 0.0461,
+            "time_signature": 4,
+            "happiness": 7.912
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "Paranoid",
+        "Artist": "Black Sabbath",
+        "Key": "12A",
+        "Energy": 6.679,
+        "Popularity": 8.559999999999999,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Nostalgic",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "1jzDzZWeSDBg5fhNc3tczV",
+            "explicit": false,
+            "album": "Paranoid (2009 Remastered Version)",
+            "release_date": "1970-09-18",
+            "genres": [
+                "album rock",
+                "alternative metal",
+                "birmingham metal",
+                "classic rock",
+                "hard rock",
+                "metal",
+                "rock",
+                "stoner rock",
+                "uk doom metal"
+            ],
+            "duration": 168440,
+            "acousticness": 7.85e-05,
+            "danceability": 4.861,
+            "instrumentalness": 0.00411,
+            "liveness": 0.175,
+            "loudness": -11.514,
+            "speechiness": 0.0769,
+            "time_signature": 4,
+            "happiness": 4.384
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "Back In Black",
+        "Artist": "AC/DC",
+        "Key": "11B",
+        "Energy": 7.3,
+        "Popularity": 8.74,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Mad",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "08mG3Y1vljYA6bvDt4Wqkj",
+            "explicit": false,
+            "album": "Back In Black",
+            "release_date": "1980-07-25",
+            "genres": [
+                "australian rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 255493,
+            "acousticness": 0.011,
+            "danceability": 3.79,
+            "instrumentalness": 0.00965,
+            "liveness": 0.0828,
+            "loudness": -5.678,
+            "speechiness": 0.047,
+            "time_signature": 4,
+            "happiness": 7.867
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "Fortunate Son",
+        "Artist": "Creedence Clearwater Revival",
+        "Key": "8B",
+        "Energy": 7.714,
+        "Popularity": 1.0,
+        "BPM": 132,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Rock",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "5e6x5YRnMJIKvYpZxLqdpH",
+            "explicit": false,
+            "album": "The Long Road Home - The Ultimate John Fogerty / Creedence Collection",
+            "release_date": "2005-12-14",
+            "genres": [
+                "classic rock",
+                "country rock",
+                "rock",
+                "southern rock",
+                "swamp rock"
+            ],
+            "duration": 138053,
+            "acousticness": 0.0648,
+            "danceability": 6.724,
+            "instrumentalness": 0.29,
+            "liveness": 0.173,
+            "loudness": -3.785,
+            "speechiness": 0.0393,
+            "time_signature": 4,
+            "happiness": 4.888
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "Freedom! '90",
+        "Artist": "George Michael",
+        "Key": "7B",
+        "Energy": 8.857,
+        "Popularity": 6.76,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "90s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1SKApv6ZfJ9bkUxeRObJEF",
+            "explicit": false,
+            "album": "Ladies And Gentlemen... The Best Of George Michael",
+            "release_date": "1998-11-09",
+            "genres": [
+                "new wave pop"
+            ],
+            "duration": 388400,
+            "acousticness": 0.0998,
+            "danceability": 7.075,
+            "instrumentalness": 1.48e-05,
+            "liveness": 0.0541,
+            "loudness": -7.697,
+            "speechiness": 0.0441,
+            "time_signature": 4,
+            "happiness": 8.353
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "Magic Carpet Ride",
+        "Artist": "Steppenwolf",
+        "Key": "12A",
+        "Energy": 6.859,
+        "Popularity": 7.57,
+        "BPM": 112,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "60s",
+            "Mad",
+            "Nostalgic",
+            "Rock",
+            "Inspiring",
+            "Calm",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4c4jJJoaiY21t2TyRZgdWS",
+            "explicit": false,
+            "album": "The Second",
+            "release_date": "1968-10-01",
+            "genres": [
+                "acid rock",
+                "album rock",
+                "blues rock",
+                "british blues",
+                "classic canadian rock",
+                "classic rock",
+                "hard rock",
+                "proto-metal",
+                "rock",
+                "singer-songwriter",
+                "soft rock"
+            ],
+            "duration": 271573,
+            "acousticness": 0.142,
+            "danceability": 6.76,
+            "instrumentalness": 0.28,
+            "liveness": 0.0341,
+            "loudness": -14.981,
+            "speechiness": 0.0517,
+            "time_signature": 4,
+            "happiness": 8.209
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "Authority Song",
+        "Artist": "John Mellencamp",
+        "Key": "10B",
+        "Energy": 9.721,
+        "Popularity": 6.67,
+        "BPM": 78,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Mad",
+            "Nostalgic",
+            "Rock",
+            "Inspiring",
+            "Calm",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "38Lf9Im0jQhAaKx8ehQM1S",
+            "explicit": false,
+            "album": "Uh-HUH!",
+            "release_date": "1983",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "hard rock",
+                "heartland rock",
+                "mellow gold",
+                "rock",
+                "singer-songwriter",
+                "soft rock"
+            ],
+            "duration": 229240,
+            "acousticness": 0.00399,
+            "danceability": 5.455,
+            "instrumentalness": 2.55e-05,
+            "liveness": 0.404,
+            "loudness": -4.994,
+            "speechiness": 0.0427,
+            "time_signature": 4,
+            "happiness": 9.693999999999999
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "Centerfold",
+        "Artist": "The J. Geils Band",
+        "Key": "8B",
+        "Energy": 7.093,
+        "Popularity": 7.66,
+        "BPM": 114,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Mad",
+            "Nostalgic",
+            "Rock",
+            "Inspiring",
+            "Calm",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1ynmMEK1fkyiZ6Z6F3ThEt",
+            "explicit": false,
+            "album": "Freeze Frame",
+            "release_date": "1981",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "country rock",
+                "hard rock",
+                "mellow gold",
+                "rock",
+                "singer-songwriter",
+                "soft rock"
+            ],
+            "duration": 216533,
+            "acousticness": 0.249,
+            "danceability": 6.877000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.403,
+            "loudness": -12.244,
+            "speechiness": 0.0396,
+            "time_signature": 4,
+            "happiness": 8.992
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "The Joker",
+        "Artist": "Steve Miller Band",
+        "Key": "7B",
+        "Energy": 5.032,
+        "Popularity": 8.02,
+        "BPM": 83,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Mad",
+            "Nostalgic",
+            "Rock",
+            "Inspiring",
+            "Calm",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1bp2IO61zbQrbWNmKKxg3f",
+            "explicit": false,
+            "album": "The Joker",
+            "release_date": "1973-01-01",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "heartland rock",
+                "mellow gold",
+                "rock",
+                "singer-songwriter",
+                "soft rock"
+            ],
+            "duration": 264504,
+            "acousticness": 0.365,
+            "danceability": 6.364,
+            "instrumentalness": 5.3e-06,
+            "liveness": 0.206,
+            "loudness": -9.616,
+            "speechiness": 0.0396,
+            "time_signature": 4,
+            "happiness": 8.164000000000001
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "Gimme Three Steps",
+        "Artist": "Lynyrd Skynyrd",
+        "Key": "11B",
+        "Energy": 7.66,
+        "Popularity": 7.4799999999999995,
+        "BPM": 133,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Mad",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0x2wtJbtJrox3SDmnMj97x",
+            "explicit": false,
+            "album": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
+            "release_date": "1973-01-01",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "rock",
+                "southern rock"
+            ],
+            "duration": 267173,
+            "acousticness": 0.698,
+            "danceability": 5.986000000000001,
+            "instrumentalness": 6.9e-05,
+            "liveness": 0.225,
+            "loudness": -7.706,
+            "speechiness": 0.0803,
+            "time_signature": 4,
+            "happiness": 8.236
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "Takin' Care Of Business",
+        "Artist": "Bachman-Turner Overdrive",
+        "Key": "7B",
+        "Energy": 7.327,
+        "Popularity": 7.209999999999999,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Mad",
+            "Nostalgic",
+            "Rock",
+            "Inspiring",
+            "Calm",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0lzNXoZINVBLHWNIxKxWOo",
+            "explicit": false,
+            "album": "Bachman-Turner Overdrive II",
+            "release_date": "1973-12-01",
+            "genres": [
+                "album rock",
+                "classic canadian rock",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "hard rock",
+                "mellow gold",
+                "rock",
+                "singer-songwriter",
+                "soft rock"
+            ],
+            "duration": 289893,
+            "acousticness": 0.0488,
+            "danceability": 7.516,
+            "instrumentalness": 2.69e-06,
+            "liveness": 0.146,
+            "loudness": -14.007,
+            "speechiness": 0.0498,
+            "time_signature": 4,
+            "happiness": 9.685
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "Listen to the Music",
+        "Artist": "The Doobie Brothers",
+        "Key": "3A",
+        "Energy": 6.382,
+        "Popularity": 8.2,
+        "BPM": 106,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Calm",
+            "Inspiring",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7Ar4G7Ci11gpt6sfH9Cgz5",
+            "explicit": false,
+            "album": "Toulouse Street",
+            "release_date": "1972",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "heartland rock",
+                "mellow gold",
+                "rock",
+                "singer-songwriter",
+                "soft rock",
+                "yacht rock"
+            ],
+            "duration": 227267,
+            "acousticness": 0.221,
+            "danceability": 6.805,
+            "instrumentalness": 3.53e-06,
+            "liveness": 0.0721,
+            "loudness": -13.18,
+            "speechiness": 0.0335,
+            "time_signature": 4,
+            "happiness": 9.217
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "American Bad Ass",
+        "Artist": "Kid Rock",
+        "Key": "10B",
+        "Energy": 8.911,
+        "Popularity": 5.41,
+        "BPM": 89,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Rock",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "1uxNeN5106dIHNA0iNKaNX",
+            "explicit": true,
+            "album": "Power Rock",
+            "release_date": "2019-10-18",
+            "genres": [
+                "nu metal"
+            ],
+            "duration": 276013,
+            "acousticness": 0.000243,
+            "danceability": 5.779,
+            "instrumentalness": 0,
+            "liveness": 0.0851,
+            "loudness": -5.815,
+            "speechiness": 0.123,
+            "time_signature": 4,
+            "happiness": 6.499
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "No Sleep Till Brooklyn",
+        "Artist": "Beastie Boys",
+        "Key": "4B",
+        "Energy": 7.218999999999999,
+        "Popularity": 8.02,
+        "BPM": 97,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Hip Hop",
+            "Rock",
+            "Nostalgic",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "5qxChyzKLEyoPJ5qGrdurN",
+            "explicit": true,
+            "album": "Licensed To Ill",
+            "release_date": "1986-11-15",
+            "genres": [
+                "alternative rock",
+                "east coast hip hop",
+                "golden age hip hop",
+                "hip hop",
+                "old school hip hop",
+                "rap",
+                "rap rock",
+                "rock"
+            ],
+            "duration": 246933,
+            "acousticness": 0.122,
+            "danceability": 7.4079999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.0538,
+            "loudness": -8.157,
+            "speechiness": 0.128,
+            "time_signature": 4,
+            "happiness": 7.678
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "Crazy Train",
+        "Artist": "Ozzy Osbourne",
+        "Key": "11B",
+        "Energy": 9.217,
+        "Popularity": 8.290000000000001,
+        "BPM": 138,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Rock",
+            "Nostalgic",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "7ACxUo21jtTHzy7ZEV56vU",
+            "explicit": false,
+            "album": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
+            "release_date": "2020-09-18",
+            "genres": [
+                "album rock",
+                "alternative metal",
+                "birmingham metal",
+                "classic rock",
+                "glam metal",
+                "hard rock",
+                "metal",
+                "nu metal",
+                "rock"
+            ],
+            "duration": 293183,
+            "acousticness": 0.408,
+            "danceability": 5.086,
+            "instrumentalness": 0.000271,
+            "liveness": 0.248,
+            "loudness": -4.008,
+            "speechiness": 0.107,
+            "time_signature": 4,
+            "happiness": 5.689
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "Sharp Dressed Man - 2008 Remaster",
+        "Artist": "ZZ Top",
+        "Key": "7B",
+        "Energy": 8.731,
+        "Popularity": 8.02,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Mad",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "1UBQ5GK8JaQjm5VbkBZY66",
+            "explicit": false,
+            "album": "Eliminator",
+            "release_date": "1983-03-23",
+            "genres": [
+                "album rock",
+                "blues rock",
+                "classic rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 258027,
+            "acousticness": 0.000359,
+            "danceability": 6.409,
+            "instrumentalness": 0.00124,
+            "liveness": 0.0871,
+            "loudness": -5.263,
+            "speechiness": 0.0276,
+            "time_signature": 4,
+            "happiness": 5.014
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "Dude (Looks Like A Lady)",
+        "Artist": "Aerosmith",
+        "Key": "12A",
+        "Energy": 9.838,
+        "Popularity": 7.57,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Mad",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6gQUbFwwdYXlKdmqRoWKJe",
+            "explicit": false,
+            "album": "Permanent Vacation",
+            "release_date": "1987-01-01",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 265773,
+            "acousticness": 0.435,
+            "danceability": 5.86,
+            "instrumentalness": 3.37e-05,
+            "liveness": 0.0457,
+            "loudness": -2.962,
+            "speechiness": 0.0458,
+            "time_signature": 4,
+            "happiness": 9.19
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "Bad Medicine",
+        "Artist": "Bon Jovi",
+        "Key": "11B",
+        "Energy": 9.757,
+        "Popularity": 7.4799999999999995,
+        "BPM": 119,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "72hcFp4tYkd3dbNA9dZ3Pv",
+            "explicit": false,
+            "album": "New Jersey (Deluxe Edition)",
+            "release_date": "1988-09-13",
+            "genres": [
+                "glam metal",
+                "rock"
+            ],
+            "duration": 316707,
+            "acousticness": 0.048,
+            "danceability": 5.995,
+            "instrumentalness": 0,
+            "liveness": 0.0853,
+            "loudness": -3.804,
+            "speechiness": 0.035,
+            "time_signature": 4,
+            "happiness": 8.245000000000001
+        }
+    },
+    {
+        "#": 52,
+        "Track Title": "Black Betty",
+        "Artist": "Ram Jam",
+        "Key": "1A",
+        "Energy": 9.163,
+        "Popularity": 7.66,
+        "BPM": 117,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6kooDsorCpWVMGc994XjWN",
+            "explicit": false,
+            "album": "Ram Jam",
+            "release_date": "1977-06-20",
+            "genres": [
+                "southern rock"
+            ],
+            "duration": 238973,
+            "acousticness": 0.0241,
+            "danceability": 5.1850000000000005,
+            "instrumentalness": 0.00118,
+            "liveness": 0.13,
+            "loudness": -6.404,
+            "speechiness": 0.113,
+            "time_signature": 4,
+            "happiness": 7.1290000000000004
+        }
+    },
+    {
+        "#": 53,
+        "Track Title": "Any Way You Want It",
+        "Artist": "Journey",
+        "Key": "9B",
+        "Energy": 9.388,
+        "Popularity": 7.84,
+        "BPM": 138,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Calm",
+            "Rock",
+            "Mad",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "71SvEDmsOwIWw1IozsZoMA",
+            "explicit": false,
+            "album": "Departure",
+            "release_date": "1980",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "heartland rock",
+                "mellow gold",
+                "rock",
+                "soft rock"
+            ],
+            "duration": 201693,
+            "acousticness": 0.00251,
+            "danceability": 5.761,
+            "instrumentalness": 0.00109,
+            "liveness": 0.136,
+            "loudness": -7.501,
+            "speechiness": 0.0488,
+            "time_signature": 4,
+            "happiness": 6.138999999999999
+        }
+    },
+    {
+        "#": 54,
+        "Track Title": "Janie's Got A Gun",
+        "Artist": "Aerosmith",
+        "Key": "7B",
+        "Energy": 8.407,
+        "Popularity": 6.8500000000000005,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "90s",
+            "Rock",
+            "Mad",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "5fMwvrqujbQjUxcNPcYrUF",
+            "explicit": false,
+            "album": "Big Ones",
+            "release_date": "1994-01-01",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 330533,
+            "acousticness": 0.0516,
+            "danceability": 6.697,
+            "instrumentalness": 0.000496,
+            "liveness": 0.188,
+            "loudness": -5.792,
+            "speechiness": 0.0287,
+            "time_signature": 4,
+            "happiness": 4.996
+        }
+    },
+    {
+        "#": 55,
+        "Track Title": "We Built This City",
+        "Artist": "Starship",
+        "Key": "7B",
+        "Energy": 9.172,
+        "Popularity": 8.11,
+        "BPM": 144,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Romantic & Slow Dance",
+            "Pop",
+            "Nostalgic",
+            "Rock",
+            "EDM",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "6OnfBiiSc9RGKiBKKtZXgQ",
+            "explicit": false,
+            "album": "Knee Deep In The Hoopla",
+            "release_date": "1985-09-10",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "heartland rock",
+                "mellow gold",
+                "new romantic",
+                "new wave pop",
+                "soft rock",
+                "synthpop"
+            ],
+            "duration": 296080,
+            "acousticness": 0.052,
+            "danceability": 6.949,
+            "instrumentalness": 0,
+            "liveness": 0.0708,
+            "loudness": -4.897,
+            "speechiness": 0.039,
+            "time_signature": 4,
+            "happiness": 6.904
+        }
+    },
+    {
+        "#": 56,
+        "Track Title": "You Shook Me All Night Long",
+        "Artist": "AC/DC",
+        "Key": "9B",
+        "Energy": 7.9030000000000005,
+        "Popularity": 8.649999999999999,
+        "BPM": 127,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Mad",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2SiXAy7TuUkycRVbbWDEpo",
+            "explicit": false,
+            "album": "Back In Black",
+            "release_date": "1980-07-25",
+            "genres": [
+                "australian rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 210173,
+            "acousticness": 0.00287,
+            "danceability": 5.788,
+            "instrumentalness": 0.000513,
+            "liveness": 0.39,
+            "loudness": -5.509,
+            "speechiness": 0.0574,
+            "time_signature": 4,
+            "happiness": 7.795
+        }
+    },
+    {
+        "#": 57,
+        "Track Title": "Highway to Hell",
+        "Artist": "AC/DC",
+        "Key": "2A",
+        "Energy": 9.217,
+        "Popularity": 8.83,
+        "BPM": 116,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "2zYzyRzz6pRmhPzyfMEC8s",
+            "explicit": false,
+            "album": "Highway to Hell",
+            "release_date": "1979-07-27",
+            "genres": [
+                "australian rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 208400,
+            "acousticness": 0.061,
+            "danceability": 6.1659999999999995,
+            "instrumentalness": 0.00158,
+            "liveness": 0.156,
+            "loudness": -4.793,
+            "speechiness": 0.133,
+            "time_signature": 4,
+            "happiness": 4.807
+        }
+    },
+    {
+        "#": 58,
+        "Track Title": "Paradise City",
+        "Artist": "Guns N' Roses",
+        "Key": "1B",
+        "Energy": 9.568,
+        "Popularity": 4.96,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Mad",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3YBZIN3rekqsKxbJc9FZko",
+            "explicit": true,
+            "album": "Appetite For Destruction",
+            "release_date": "1987-07-21",
+            "genres": [
+                "glam metal",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 405640,
+            "acousticness": 0.0169,
+            "danceability": 3.4570000000000003,
+            "instrumentalness": 0.0111,
+            "liveness": 0.142,
+            "loudness": -8.762,
+            "speechiness": 0.0843,
+            "time_signature": 4,
+            "happiness": 5.247999999999999
+        }
+    },
+    {
+        "#": 59,
+        "Track Title": "Sweet Child O' Mine",
+        "Artist": "Guns N' Roses",
+        "Key": "2B",
+        "Energy": 9.568,
+        "Popularity": 8.92,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Mad",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "7snQQk1zcKl8gZ92AnueZW",
+            "explicit": true,
+            "album": "Appetite For Destruction",
+            "release_date": "1987-07-21",
+            "genres": [
+                "glam metal",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 356067,
+            "acousticness": 0.0901,
+            "danceability": 5.014,
+            "instrumentalness": 0.0857,
+            "liveness": 0.112,
+            "loudness": -5.321,
+            "speechiness": 0.0523,
+            "time_signature": 4,
+            "happiness": 6.616
+        }
+    },
+    {
+        "#": 60,
+        "Track Title": "Knockin' On Heaven's Door",
+        "Artist": "Guns N' Roses",
+        "Key": "2B",
+        "Energy": 7.651,
+        "Popularity": 8.379999999999999,
+        "BPM": 132,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "90s",
+            "Rock",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "4JiEyzf0Md7KEFFGWDDdCr",
+            "explicit": false,
+            "album": "Use Your Illusion II",
+            "release_date": "1991-09-18",
+            "genres": [
+                "glam metal",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 336000,
+            "acousticness": 0.0211,
+            "danceability": 5.464,
+            "instrumentalness": 0.00444,
+            "liveness": 0.106,
+            "loudness": -7.193,
+            "speechiness": 0.0415,
+            "time_signature": 4,
+            "happiness": 4.402
+        }
+    },
+    {
+        "#": 61,
+        "Track Title": "Free Bird",
+        "Artist": "Lynyrd Skynyrd",
+        "Key": "8B",
+        "Energy": 8.218,
+        "Popularity": 1.0,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "90s",
+            "Rock",
+            "Mad",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0wMMEOhwQcbhYNL4KykK9R",
+            "explicit": false,
+            "album": "Lynyrd Skynyrd",
+            "release_date": "1991-01-01",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "rock",
+                "southern rock"
+            ],
+            "duration": 551853,
+            "acousticness": 0.00965,
+            "danceability": 3.4930000000000003,
+            "instrumentalness": 0.0017,
+            "liveness": 0.0623,
+            "loudness": -11.202,
+            "speechiness": 0.0521,
+            "time_signature": 4,
+            "happiness": 4.915
+        }
+    },
+    {
+        "#": 62,
+        "Track Title": "Under the Bridge",
+        "Artist": "Red Hot Chili Peppers",
+        "Key": "12B",
+        "Energy": 4.1049999999999995,
+        "Popularity": 8.649999999999999,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "90s",
+            "Rock",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "3d9DChrdc6BOeFsbrZ3Is0",
+            "explicit": false,
+            "album": "Blood Sugar Sex Magik (Deluxe Edition)",
+            "release_date": "1991-09-24",
+            "genres": [
+                "alternative rock",
+                "funk metal",
+                "funk rock",
+                "permanent wave",
+                "rock"
+            ],
+            "duration": 264307,
+            "acousticness": 0.0576,
+            "danceability": 6.031000000000001,
+            "instrumentalness": 0.000105,
+            "liveness": 0.141,
+            "loudness": -13.496,
+            "speechiness": 0.0459,
+            "time_signature": 4,
+            "happiness": 5.122
+        }
+    },
+    {
+        "#": 63,
+        "Track Title": "Rockstar",
+        "Artist": "Nickelback",
+        "Key": "8B",
+        "Energy": 9.19,
+        "Popularity": 7.4799999999999995,
+        "BPM": 144,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Rock",
+            "Mad",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6n9yCXvLhnYMgJIiIcMu7D",
+            "explicit": false,
+            "album": "All the Right Reasons (Special Edition)",
+            "release_date": "2005-09-26",
+            "genres": [
+                "alternative metal",
+                "canadian rock",
+                "post-grunge"
+            ],
+            "duration": 252040,
+            "acousticness": 0.0459,
+            "danceability": 6.544,
+            "instrumentalness": 0,
+            "liveness": 0.343,
+            "loudness": -3.004,
+            "speechiness": 0.0386,
+            "time_signature": 4,
+            "happiness": 7.236999999999999
+        }
+    },
+    {
+        "#": 64,
+        "Track Title": "All Summer Long",
+        "Artist": "Kid Rock",
+        "Key": "9B",
+        "Energy": 8.776,
+        "Popularity": 7.93,
+        "BPM": 103,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5rX6C5QVvvZB7XckETNych",
+            "explicit": false,
+            "album": "Rock n Roll Jesus",
+            "release_date": "2007-10-09",
+            "genres": [
+                "nu metal"
+            ],
+            "duration": 297587,
+            "acousticness": 0.0212,
+            "danceability": 7.3,
+            "instrumentalness": 0,
+            "liveness": 0.0956,
+            "loudness": -3.629,
+            "speechiness": 0.0283,
+            "time_signature": 4,
+            "happiness": 8.983
+        }
+    },
+    {
+        "#": 65,
+        "Track Title": "We Ride",
+        "Artist": "Bryan Martin",
+        "Key": "5B",
+        "Energy": 7.471,
+        "Popularity": 6.3999999999999995,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "4ua94LvtGZlGsZVlvMJCUS",
+            "explicit": false,
+            "album": "We Ride",
+            "release_date": "2022-10-28",
+            "genres": [
+                "modern country pop"
+            ],
+            "duration": 188483,
+            "acousticness": 0.0736,
+            "danceability": 6.58,
+            "instrumentalness": 8.84e-06,
+            "liveness": 0.185,
+            "loudness": -4.177,
+            "speechiness": 0.0257,
+            "time_signature": 4,
+            "happiness": 6.031000000000001
+        }
+    },
+    {
+        "#": 66,
+        "Track Title": "Dream On",
+        "Artist": "Aerosmith",
+        "Key": "3B",
+        "Energy": 5.284,
+        "Popularity": 8.74,
+        "BPM": 78,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Mad",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "1xsYj84j7hUDDnTTerGWlH",
+            "explicit": false,
+            "album": "Aerosmith",
+            "release_date": "1973-01-05",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 267597,
+            "acousticness": 0.397,
+            "danceability": 4.5280000000000005,
+            "instrumentalness": 0.000163,
+            "liveness": 0.309,
+            "loudness": -7.583,
+            "speechiness": 0.0249,
+            "time_signature": 4,
+            "happiness": 3.1060000000000003
+        }
+    },
+    {
+        "#": 67,
+        "Track Title": "Neon Grave",
+        "Artist": "Tyler Braden",
+        "Key": "8B",
+        "Energy": 8.568999999999999,
+        "Popularity": 6.49,
+        "BPM": 148,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Pop",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0wZ4f6W49pxu5yRkiIyCAD",
+            "explicit": false,
+            "album": "Neon Grave",
+            "release_date": "2023-01-27",
+            "genres": [
+                "country pop",
+                "modern country pop"
+            ],
+            "duration": 233840,
+            "acousticness": 0.0868,
+            "danceability": 4.807,
+            "instrumentalness": 1.38e-05,
+            "liveness": 0.0727,
+            "loudness": -4.886,
+            "speechiness": 0.0513,
+            "time_signature": 4,
+            "happiness": 3.268
+        }
+    },
+    {
+        "#": 68,
+        "Track Title": "God's Country - Rock Cover",
+        "Artist": "Hwy .357",
+        "Key": "7B",
+        "Energy": 9.532,
+        "Popularity": 3.5200000000000005,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "38eO3xsZQsTtcjOoTiPpl1",
+            "explicit": false,
+            "album": "God's Country (Rock Cover)",
+            "release_date": "2020-10-09",
+            "genres": [],
+            "duration": 239104,
+            "acousticness": 0.00147,
+            "danceability": 5.6530000000000005,
+            "instrumentalness": 6.31e-05,
+            "liveness": 0.119,
+            "loudness": -6.77,
+            "speechiness": 0.089,
+            "time_signature": 4,
+            "happiness": 3.142
+        }
+    },
+    {
+        "#": 69,
+        "Track Title": "How You Remind Me",
+        "Artist": "Nickelback",
+        "Key": "6B",
+        "Energy": 7.876,
+        "Popularity": 8.469999999999999,
+        "BPM": 86,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Rock",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "0gmbgwZ8iqyMPmXefof8Yf",
+            "explicit": false,
+            "album": "Silver Side Up",
+            "release_date": "2001-09-11",
+            "genres": [
+                "alternative metal",
+                "canadian rock",
+                "post-grunge"
+            ],
+            "duration": 223840,
+            "acousticness": 0.00135,
+            "danceability": 5.014,
+            "instrumentalness": 0,
+            "liveness": 0.099,
+            "loudness": -5.042,
+            "speechiness": 0.033,
+            "time_signature": 4,
+            "happiness": 5.8870000000000005
+        }
+    },
+    {
+        "#": 70,
+        "Track Title": "Wagon Wheel",
+        "Artist": "Darius Rucker",
+        "Key": "11B",
+        "Energy": 6.94,
+        "Popularity": 8.379999999999999,
+        "BPM": 148,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "3xdjjKMcMOFgo1eQrfbogM",
+            "explicit": false,
+            "album": "True Believers",
+            "release_date": "2013-01-01",
+            "genres": [
+                "black americana",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 298373,
+            "acousticness": 0.455,
+            "danceability": 5.833,
+            "instrumentalness": 0,
+            "liveness": 0.135,
+            "loudness": -7.174,
+            "speechiness": 0.0296,
+            "time_signature": 4,
+            "happiness": 6.1659999999999995
+        }
+    },
+    {
+        "#": 71,
+        "Track Title": "Chicken Fried",
+        "Artist": "Zac Brown Band",
+        "Key": "2B",
+        "Energy": 7.417,
+        "Popularity": 8.379999999999999,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0LQtEJt7x0s6knb6RKdRYc",
+            "explicit": false,
+            "album": "The Foundation",
+            "release_date": "2008-11-17",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 238147,
+            "acousticness": 0.645,
+            "danceability": 6.093999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.114,
+            "loudness": -4.25,
+            "speechiness": 0.0418,
+            "time_signature": 4,
+            "happiness": 8.245000000000001
+        }
+    },
+    {
+        "#": 72,
+        "Track Title": "Photograph",
+        "Artist": "Nickelback",
+        "Key": "4B",
+        "Energy": 8.884,
+        "Popularity": 7.4799999999999995,
+        "BPM": 146,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Rock",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "3hb2ScEVkGchcAQqrPLP0R",
+            "explicit": false,
+            "album": "All the Right Reasons",
+            "release_date": "2005-09-26",
+            "genres": [
+                "alternative metal",
+                "canadian rock",
+                "post-grunge"
+            ],
+            "duration": 258920,
+            "acousticness": 0.000932,
+            "danceability": 5.635,
+            "instrumentalness": 0.000166,
+            "liveness": 0.136,
+            "loudness": -3.756,
+            "speechiness": 0.0292,
+            "time_signature": 4,
+            "happiness": 4.465
+        }
+    },
+    {
+        "#": 73,
+        "Track Title": "Far Away",
+        "Artist": "Nickelback",
+        "Key": "2B",
+        "Energy": 8.173,
+        "Popularity": 7.84,
+        "BPM": 133,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Rock",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "0ADZ5dmXhlfzjMw6lefoPl",
+            "explicit": false,
+            "album": "All the Right Reasons",
+            "release_date": "2005-09-26",
+            "genres": [
+                "alternative metal",
+                "canadian rock",
+                "post-grunge"
+            ],
+            "duration": 238173,
+            "acousticness": 0.000681,
+            "danceability": 5.662,
+            "instrumentalness": 0,
+            "liveness": 0.107,
+            "loudness": -5.153,
+            "speechiness": 0.0309,
+            "time_signature": 4,
+            "happiness": 3.637
+        }
+    },
+    {
+        "#": 74,
+        "Track Title": "Closing Time",
+        "Artist": "Semisonic",
+        "Key": "9B",
+        "Energy": 8.686,
+        "Popularity": 7.84,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1A5V1sxyCLpKJezp75tUXn",
+            "explicit": false,
+            "album": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
+            "release_date": "2003-01-01",
+            "genres": [
+                "pop rock",
+                "post-grunge"
+            ],
+            "duration": 274160,
+            "acousticness": 0.0204,
+            "danceability": 5.302,
+            "instrumentalness": 1.21e-06,
+            "liveness": 0.115,
+            "loudness": -5.454,
+            "speechiness": 0.0289,
+            "time_signature": 4,
+            "happiness": 3.466
+        }
+    },
+    {
+        "#": 75,
+        "Track Title": "Iron Man - 2012 - Remaster",
+        "Artist": "Black Sabbath",
+        "Key": "11B",
+        "Energy": 8.128,
+        "Popularity": 7.209999999999999,
+        "BPM": 78,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Nostalgic",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "3IOQZRcEkplCXg6LofKqE9",
+            "explicit": false,
+            "album": "Paranoid (Remaster)",
+            "release_date": "1970-09-18",
+            "genres": [
+                "album rock",
+                "alternative metal",
+                "birmingham metal",
+                "classic rock",
+                "hard rock",
+                "metal",
+                "rock",
+                "stoner rock",
+                "uk doom metal"
+            ],
+            "duration": 355304,
+            "acousticness": 0.00351,
+            "danceability": 4.024,
+            "instrumentalness": 0.00175,
+            "liveness": 0.0437,
+            "loudness": -10.875,
+            "speechiness": 0.084,
+            "time_signature": 4,
+            "happiness": 4.843
+        }
+    },
+    {
+        "#": 76,
+        "Track Title": "Loud and Heavy",
+        "Artist": "Cody Jinks",
+        "Key": "8A",
+        "Energy": 6.868,
+        "Popularity": 7.57,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "1ppTqTBXqnlVGPxlluGHRE",
+            "explicit": false,
+            "album": "Adobe Sessions",
+            "release_date": "2015-01-12",
+            "genres": [
+                "classic texas country",
+                "modern southern rock",
+                "outlaw country"
+            ],
+            "duration": 230012,
+            "acousticness": 0.000561,
+            "danceability": 5.0680000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.0948,
+            "loudness": -6.713,
+            "speechiness": 0.0282,
+            "time_signature": 4,
+            "happiness": 6.76
+        }
+    },
+    {
+        "#": 77,
+        "Track Title": "Dirt On My Boots",
+        "Artist": "Jon Pardi",
+        "Key": "1B",
+        "Energy": 8.164000000000001,
+        "Popularity": 8.02,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "7f08qp3HROTkfrtNpiYGGo",
+            "explicit": false,
+            "album": "California Sunrise",
+            "release_date": "2016-05-13",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 201893,
+            "acousticness": 0.111,
+            "danceability": 7.147,
+            "instrumentalness": 0,
+            "liveness": 0.197,
+            "loudness": -4.179,
+            "speechiness": 0.0285,
+            "time_signature": 4,
+            "happiness": 5.779
+        }
+    },
+    {
+        "#": 78,
+        "Track Title": "Rock You Like A Hurricane",
+        "Artist": "Scorpions",
+        "Key": "12A",
+        "Energy": 6.553,
+        "Popularity": 7.84,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Mad",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "58XWGx7KNNkKneHdprcprX",
+            "explicit": false,
+            "album": "Love At First Sting",
+            "release_date": "1984-03-27",
+            "genres": [
+                "album rock",
+                "german hard rock",
+                "german metal",
+                "german rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 252493,
+            "acousticness": 0.00543,
+            "danceability": 5.338,
+            "instrumentalness": 0.000146,
+            "liveness": 0.284,
+            "loudness": -12.931,
+            "speechiness": 0.0458,
+            "time_signature": 4,
+            "happiness": 7.462
+        }
+    },
+    {
+        "#": 79,
+        "Track Title": "Hells Bells",
+        "Artist": "AC/DC",
+        "Key": "12A",
+        "Energy": 8.857,
+        "Popularity": 7.93,
+        "BPM": 107,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "69QHm3pustz01CJRwdo20z",
+            "explicit": false,
+            "album": "Back In Black",
+            "release_date": "1980-07-25",
+            "genres": [
+                "australian rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 312293,
+            "acousticness": 0.00532,
+            "danceability": 4.501,
+            "instrumentalness": 0.0055,
+            "liveness": 0.273,
+            "loudness": -4.768,
+            "speechiness": 0.0475,
+            "time_signature": 4,
+            "happiness": 3.727
+        }
+    },
+    {
+        "#": 80,
+        "Track Title": "Rag Doll",
+        "Artist": "Aerosmith",
+        "Key": "12B",
+        "Energy": 9.586,
+        "Popularity": 7.03,
+        "BPM": 93,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Mad",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "2KCJYwlBWxdlwyIYckIf6V",
+            "explicit": false,
+            "album": "Permanent Vacation",
+            "release_date": "1987-01-01",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 265693,
+            "acousticness": 0.583,
+            "danceability": 6.210999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.139,
+            "loudness": -3.947,
+            "speechiness": 0.0558,
+            "time_signature": 4,
+            "happiness": 6.247
+        }
+    },
+    {
+        "#": 81,
+        "Track Title": "Cherry Pie",
+        "Artist": "Warrant",
+        "Key": "10B",
+        "Energy": 9.594999999999999,
+        "Popularity": 6.94,
+        "BPM": 89,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "90s",
+            "Rock",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "18ESXa5mEm1V4Pkt5GSXWx",
+            "explicit": false,
+            "album": "Cherry Pie (Expanded Edition)",
+            "release_date": "1990-05-01",
+            "genres": [
+                "album rock",
+                "glam metal",
+                "hard rock"
+            ],
+            "duration": 201107,
+            "acousticness": 0.0251,
+            "danceability": 4.663,
+            "instrumentalness": 0,
+            "liveness": 0.347,
+            "loudness": -4.164,
+            "speechiness": 0.164,
+            "time_signature": 4,
+            "happiness": 5.572
+        }
+    },
+    {
+        "#": 82,
+        "Track Title": "You Give Love A Bad Name",
+        "Artist": "Bon Jovi",
+        "Key": "8A",
+        "Energy": 9.64,
+        "Popularity": 8.649999999999999,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0rmGAIH9LNJewFw7nKzZnc",
+            "explicit": false,
+            "album": "Slippery When Wet",
+            "release_date": "1986-08-16",
+            "genres": [
+                "glam metal",
+                "rock"
+            ],
+            "duration": 222707,
+            "acousticness": 0.0663,
+            "danceability": 5.869000000000001,
+            "instrumentalness": 2.25e-06,
+            "liveness": 0.344,
+            "loudness": -2.947,
+            "speechiness": 0.0505,
+            "time_signature": 4,
+            "happiness": 8.308
+        }
+    },
+    {
+        "#": 83,
+        "Track Title": "Free Fallin'",
+        "Artist": "Tom Petty",
+        "Key": "7B",
+        "Energy": 5.041,
+        "Popularity": 8.290000000000001,
+        "BPM": 84,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Mad",
+            "Nostalgic",
+            "Rock",
+            "Inspiring",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "5tVA6TkbaAH9QMITTQRrNv",
+            "explicit": false,
+            "album": "Full Moon Fever",
+            "release_date": "1989-01-01",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "heartland rock",
+                "mellow gold",
+                "rock",
+                "singer-songwriter",
+                "soft rock"
+            ],
+            "duration": 256000,
+            "acousticness": 0.212,
+            "danceability": 6.607,
+            "instrumentalness": 0,
+            "liveness": 0.0613,
+            "loudness": -13.333,
+            "speechiness": 0.0253,
+            "time_signature": 4,
+            "happiness": 6.148
+        }
+    },
+    {
+        "#": 84,
+        "Track Title": "Tom Sawyer",
+        "Artist": "Rush",
+        "Key": "11B",
+        "Energy": 9.109,
+        "Popularity": 7.66,
+        "BPM": 88,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Mad",
+            "Inspiring",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "3QZ7uX97s82HFYSmQUAN1D",
+            "explicit": false,
+            "album": "Moving Pictures (2011 Remaster)",
+            "release_date": "1981-02-12",
+            "genres": [
+                "album rock",
+                "canadian metal",
+                "classic canadian rock",
+                "classic rock",
+                "hard rock",
+                "progressive rock",
+                "rock"
+            ],
+            "duration": 276880,
+            "acousticness": 0.00145,
+            "danceability": 5.824,
+            "instrumentalness": 0.0186,
+            "liveness": 0.06,
+            "loudness": -7.211,
+            "speechiness": 0.0374,
+            "time_signature": 4,
+            "happiness": 6.994000000000001
+        }
+    },
+    {
+        "#": 85,
+        "Track Title": "Paradise City",
+        "Artist": "Guns N' Roses",
+        "Key": "1B",
+        "Energy": 9.82,
+        "Popularity": 8.559999999999999,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Mad",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6eN1f9KNmiWEhpE2RhQqB5",
+            "explicit": true,
+            "album": "Appetite For Destruction",
+            "release_date": "1987-07-21",
+            "genres": [
+                "glam metal",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 405600,
+            "acousticness": 0.0192,
+            "danceability": 3.412,
+            "instrumentalness": 0.00709,
+            "liveness": 0.182,
+            "loudness": -5.958,
+            "speechiness": 0.103,
+            "time_signature": 4,
+            "happiness": 4.555
+        }
+    },
+    {
+        "#": 86,
+        "Track Title": "Cryin'",
+        "Artist": "Aerosmith",
+        "Key": "11B",
+        "Energy": 8.704,
+        "Popularity": 5.2299999999999995,
+        "BPM": 106,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "90s",
+            "Rock",
+            "Mad",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0NJC0FDCODpPUntRTTQq97",
+            "explicit": false,
+            "album": "Get A Grip",
+            "release_date": "1993-01-01",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 308333,
+            "acousticness": 0.000202,
+            "danceability": 5.005,
+            "instrumentalness": 0.0101,
+            "liveness": 0.367,
+            "loudness": -3.674,
+            "speechiness": 0.0327,
+            "time_signature": 3,
+            "happiness": 5.374
+        }
+    },
+    {
+        "#": 87,
+        "Track Title": "Picture (feat. Sheryl Crow)",
+        "Artist": "Kid Rock, Sheryl Crow",
+        "Key": "9B",
+        "Energy": 5.464,
+        "Popularity": 7.4799999999999995,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Girl Power",
+            "Pop",
+            "Nostalgic",
+            "Rock",
+            "Inspiring",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "69j0KoPJuwpnbGWrfn7Yll",
+            "explicit": false,
+            "album": "Cocky",
+            "release_date": "2001-11-19",
+            "genres": [
+                "nu metal",
+                "lilith",
+                "new wave pop",
+                "permanent wave",
+                "pop rock",
+                "singer-songwriter"
+            ],
+            "duration": 298960,
+            "acousticness": 0.172,
+            "danceability": 7.228,
+            "instrumentalness": 6.42e-06,
+            "liveness": 0.107,
+            "loudness": -7.332,
+            "speechiness": 0.0241,
+            "time_signature": 4,
+            "happiness": 4.384
+        }
+    },
+    {
+        "#": 88,
+        "Track Title": "Bad Mother F*cker",
+        "Artist": "Machine Gun Kelly, Kid Rock",
+        "Key": "6A",
+        "Energy": 8.74,
+        "Popularity": 7.03,
+        "BPM": 91,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Hip Hop",
+            "Rock",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "2kjPvFgVIGki2BRlOHvQQr",
+            "explicit": true,
+            "album": "General Admission (Deluxe)",
+            "release_date": "2015-10-16",
+            "genres": [
+                "ohio hip hop",
+                "pop rap",
+                "nu metal"
+            ],
+            "duration": 213960,
+            "acousticness": 0.0171,
+            "danceability": 6.679,
+            "instrumentalness": 5.83e-06,
+            "liveness": 0.333,
+            "loudness": -4.994,
+            "speechiness": 0.121,
+            "time_signature": 4,
+            "happiness": 4.438000000000001
+        }
+    },
+    {
+        "#": 89,
+        "Track Title": "Bawitdaba",
+        "Artist": "Kid Rock",
+        "Key": "1B",
+        "Energy": 9.450999999999999,
+        "Popularity": 7.209999999999999,
+        "BPM": 91,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "90s",
+            "Rock",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0f37VQs969vZUL4gVfHRV9",
+            "explicit": true,
+            "album": "Devil Without a Cause",
+            "release_date": "1998-08-05",
+            "genres": [
+                "nu metal"
+            ],
+            "duration": 265840,
+            "acousticness": 0.00172,
+            "danceability": 5.9590000000000005,
+            "instrumentalness": 0.000239,
+            "liveness": 0.109,
+            "loudness": -5.371,
+            "speechiness": 0.171,
+            "time_signature": 4,
+            "happiness": 4.303
+        }
+    },
+    {
+        "#": 90,
+        "Track Title": "Cocky",
+        "Artist": "Kid Rock",
+        "Key": "11B",
+        "Energy": 9.289,
+        "Popularity": 6.49,
+        "BPM": 92,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Rock",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6h2t5HKOpHjpou4cHA5OER",
+            "explicit": true,
+            "album": "Cocky",
+            "release_date": "2001-11-19",
+            "genres": [
+                "nu metal"
+            ],
+            "duration": 237507,
+            "acousticness": 0.161,
+            "danceability": 6.553,
+            "instrumentalness": 0,
+            "liveness": 0.0887,
+            "loudness": -3.2,
+            "speechiness": 0.179,
+            "time_signature": 4,
+            "happiness": 7.191999999999999
+        }
+    },
+    {
+        "#": 91,
+        "Track Title": "Ride the Lightning",
+        "Artist": "Warren Zeiders",
+        "Key": "3B",
+        "Energy": 7.948,
+        "Popularity": 6.13,
+        "BPM": 75,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2f5Ae2EsE7IqVoOzmDOowD",
+            "explicit": false,
+            "album": "Ride the Lightning",
+            "release_date": "2021-11-12",
+            "genres": [
+                "modern country pop"
+            ],
+            "duration": 214133,
+            "acousticness": 0.00576,
+            "danceability": 5.797000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.0928,
+            "loudness": -5.753,
+            "speechiness": 0.0376,
+            "time_signature": 4,
+            "happiness": 5.203
+        }
+    },
+    {
+        "#": 92,
+        "Track Title": "Old Glory",
+        "Artist": "Seth Anthony",
+        "Key": "5A",
+        "Energy": 6.1209999999999996,
+        "Popularity": 6.8500000000000005,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "7nfhQp7DGNdXz7IJxL1KMP",
+            "explicit": true,
+            "album": "Old Glory",
+            "release_date": "2021-08-30",
+            "genres": [
+                "redneck"
+            ],
+            "duration": 196585,
+            "acousticness": 0.619,
+            "danceability": 7.687,
+            "instrumentalness": 0,
+            "liveness": 0.0687,
+            "loudness": -6.489,
+            "speechiness": 0.0354,
+            "time_signature": 4,
+            "happiness": 4.537
+        }
+    }
+]

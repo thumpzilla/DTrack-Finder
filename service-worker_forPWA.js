@@ -8,7 +8,7 @@ var APP_PREFIX = 'dtrack_';
 // you need to change this version (version_01, version_02…). 
 // If you don't change the version, the service worker will give your
 // users the old files!
-var VERSION = 'version_02';
+var VERSION = 'version_03';
  
 // The files to make available for offline use.
 var URLS = [
@@ -40,7 +40,6 @@ var URLS = [
   `${GHPATH}/images/sort.svg`,
   `${GHPATH}/images/energy.svg`,
   `${GHPATH}/images/popularity.svg`,
-  `${GHPATH}/images/tags.svg`,
 
   `${GHPATH}/images/colored/tags.svg`,
   `${GHPATH}/images/colored/Spotify-colored.svg`,

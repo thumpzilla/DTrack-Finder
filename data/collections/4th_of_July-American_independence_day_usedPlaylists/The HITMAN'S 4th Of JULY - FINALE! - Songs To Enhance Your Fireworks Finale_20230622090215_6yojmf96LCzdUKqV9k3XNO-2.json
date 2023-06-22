@@ -1,0 +1,435 @@
+[
+    {
+        "#": 1,
+        "Track Title": "We Will Rock You - Remastered 2011",
+        "Artist": "Queen",
+        "Key": "10B",
+        "Energy": 5.473,
+        "Popularity": 7.57,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "54flyrjcdnQdco7300avMJ",
+            "explicit": false,
+            "album": "News Of The World (Deluxe Remastered Version)",
+            "release_date": "1977-10-28",
+            "genres": [
+                "classic rock",
+                "glam rock",
+                "rock"
+            ],
+            "duration": 122067,
+            "acousticness": 0.679,
+            "danceability": 7.236999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.258,
+            "loudness": -7.316,
+            "speechiness": 0.119,
+            "time_signature": 4,
+            "happiness": 5.257
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "The Final Countdown",
+        "Artist": "Europe",
+        "Key": "2A",
+        "Energy": 8.587,
+        "Popularity": 8.2,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Mad",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "3MrRksHupTVEQ7YbA0FsZK",
+            "explicit": false,
+            "album": "The Final Countdown (Expanded Edition)",
+            "release_date": "1986",
+            "genres": [
+                "album rock",
+                "glam metal",
+                "hard rock",
+                "rock",
+                "swedish hard rock",
+                "swedish melodic rock"
+            ],
+            "duration": 310333,
+            "acousticness": 0.0628,
+            "danceability": 5.761,
+            "instrumentalness": 0.000827,
+            "liveness": 0.0608,
+            "loudness": -6.908,
+            "speechiness": 0.0616,
+            "time_signature": 4,
+            "happiness": 2.692
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "Smoke on the Water",
+        "Artist": "Deep Purple",
+        "Key": "8B",
+        "Energy": 6.274,
+        "Popularity": 7.03,
+        "BPM": 114,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Mad",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5SAUIWdZ04OxYfJFDchC7S",
+            "explicit": false,
+            "album": "Machine Head",
+            "release_date": "1972-03-25",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "metal",
+                "rock"
+            ],
+            "duration": 342173,
+            "acousticness": 0.0983,
+            "danceability": 6.688,
+            "instrumentalness": 0.581,
+            "liveness": 0.0535,
+            "loudness": -11.333,
+            "speechiness": 0.0284,
+            "time_signature": 4,
+            "happiness": 9.01
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Born in the U.S.A.",
+        "Artist": "Bruce Springsteen",
+        "Key": "12B",
+        "Energy": 9.568,
+        "Popularity": 7.93,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Calm",
+            "Inspiring",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0dOg1ySSI7NkpAe89Zo0b9",
+            "explicit": false,
+            "album": "Born In The U.S.A.",
+            "release_date": "1984-06-04",
+            "genres": [
+                "heartland rock",
+                "mellow gold",
+                "permanent wave",
+                "rock",
+                "singer-songwriter"
+            ],
+            "duration": 278680,
+            "acousticness": 0.000373,
+            "danceability": 4.582000000000001,
+            "instrumentalness": 7.75e-05,
+            "liveness": 0.1,
+            "loudness": -6.042,
+            "speechiness": 0.061,
+            "time_signature": 4,
+            "happiness": 6.255999999999999
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "(You Can Still) Rock In America",
+        "Artist": "Night Ranger",
+        "Key": "1A",
+        "Energy": 9.415000000000001,
+        "Popularity": 3.0700000000000003,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Calm",
+            "Rock",
+            "Mad",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "2Vx6ffvKo3MusZks45niax",
+            "explicit": false,
+            "album": "20th Century Masters: The Millennium Collection: Best Of Night Ranger",
+            "release_date": "2000-01-01",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "glam metal",
+                "hard rock",
+                "heartland rock",
+                "soft rock"
+            ],
+            "duration": 255760,
+            "acousticness": 0.000171,
+            "danceability": 4.366,
+            "instrumentalness": 0.00016,
+            "liveness": 0.126,
+            "loudness": -5.111,
+            "speechiness": 0.108,
+            "time_signature": 4,
+            "happiness": 5.446
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Great Balls of Fire",
+        "Artist": "Jerry Lee Lewis",
+        "Key": "9A",
+        "Energy": 7.669,
+        "Popularity": 1.0,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1qSOwyNVDz8ISCrMdFQmUK",
+            "explicit": false,
+            "album": "Deluxe Classics, Vol. 16 (Rare Recordings)",
+            "release_date": "2011-04-23",
+            "genres": [
+                "piano rock",
+                "rock-and-roll",
+                "rockabilly"
+            ],
+            "duration": 110124,
+            "acousticness": 0.495,
+            "danceability": 6.372999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.341,
+            "loudness": -7.657,
+            "speechiness": 0.0954,
+            "time_signature": 4,
+            "happiness": 8.965
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "It's The End Of The World As We Know It (And I Feel Fine)",
+        "Artist": "R.E.M.",
+        "Key": "9B",
+        "Energy": 9.046,
+        "Popularity": 7.4799999999999995,
+        "BPM": 103,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2oSpQ7QtIKTNFfA08Cy0ku",
+            "explicit": false,
+            "album": "Document (R.E.M. No. 5)",
+            "release_date": "1987-09-01",
+            "genres": [
+                "alternative rock",
+                "athens indie",
+                "permanent wave",
+                "rock"
+            ],
+            "duration": 246933,
+            "acousticness": 0.0258,
+            "danceability": 4.429,
+            "instrumentalness": 0,
+            "liveness": 0.0251,
+            "loudness": -8.638,
+            "speechiness": 0.037,
+            "time_signature": 4,
+            "happiness": 8.173
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "For Those About to Rock (We Salute You)",
+        "Artist": "AC/DC",
+        "Key": "12B",
+        "Energy": 9.271,
+        "Popularity": 7.3,
+        "BPM": 134,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "17lu4tymfnhmcIDlzBbtAb",
+            "explicit": false,
+            "album": "For Those About to Rock (We Salute You)",
+            "release_date": "1981-11-23",
+            "genres": [
+                "australian rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 344240,
+            "acousticness": 0.000376,
+            "danceability": 4.33,
+            "instrumentalness": 0.419,
+            "liveness": 0.49,
+            "loudness": -5.721,
+            "speechiness": 0.102,
+            "time_signature": 4,
+            "happiness": 5.239
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Purple Haze",
+        "Artist": "Jimi Hendrix",
+        "Key": "10B",
+        "Energy": 9.145,
+        "Popularity": 7.66,
+        "BPM": 109,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "60s",
+            "Rock",
+            "Mad",
+            "Inspiring",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0wJoRiX5K5BxlqZTolB2LD",
+            "explicit": false,
+            "album": "Are You Experienced",
+            "release_date": "1967-05-12",
+            "genres": [
+                "acid rock",
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "proto-metal",
+                "psychedelic rock",
+                "rock"
+            ],
+            "duration": 170813,
+            "acousticness": 0.00876,
+            "danceability": 5.797000000000001,
+            "instrumentalness": 0.578,
+            "liveness": 0.0698,
+            "loudness": -5.27,
+            "speechiness": 0.0754,
+            "time_signature": 4,
+            "happiness": 5.374
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Long Stick Goes Boom - Remastered",
+        "Artist": "Krokus",
+        "Key": "10B",
+        "Energy": 8.902000000000001,
+        "Popularity": 2.98,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Rock",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "4dPqEXFSX67Ur7TUaLwvws",
+            "explicit": false,
+            "album": "The Definitive Collection",
+            "release_date": "2000-02-21",
+            "genres": [
+                "album rock",
+                "glam metal",
+                "hard rock",
+                "swiss rock"
+            ],
+            "duration": 313093,
+            "acousticness": 7.7e-05,
+            "danceability": 4.609,
+            "instrumentalness": 0.827,
+            "liveness": 0.103,
+            "loudness": -6.645,
+            "speechiness": 0.0549,
+            "time_signature": 4,
+            "happiness": 3.097
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "T.N.T.",
+        "Artist": "AC/DC",
+        "Key": "11B",
+        "Energy": 7.831,
+        "Popularity": 8.290000000000001,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "7LRMbd3LEoV5wZJvXT1Lwb",
+            "explicit": false,
+            "album": "High Voltage",
+            "release_date": "1976-05-14",
+            "genres": [
+                "australian rock",
+                "hard rock",
+                "rock"
+            ],
+            "duration": 214667,
+            "acousticness": 0.153,
+            "danceability": 7.786,
+            "instrumentalness": 0.000108,
+            "liveness": 0.101,
+            "loudness": -5.218,
+            "speechiness": 0.302,
+            "time_signature": 4,
+            "happiness": 4.915
+        }
+    }
+]

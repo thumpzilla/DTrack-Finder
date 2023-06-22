@@ -1,0 +1,3859 @@
+[
+    {
+        "#": 1,
+        "Track Title": "11 Beers (feat. Jake Owen)",
+        "Artist": "The Reklaws, Jake Owen",
+        "Key": "9B",
+        "Energy": 9.469,
+        "Popularity": 5.59,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6R7nxAdrHuQXHGRrDc9Rit",
+            "explicit": false,
+            "album": "11 Beers (feat. Jake Owen)",
+            "release_date": "2022-03-11",
+            "genres": [
+                "canadian contemporary country",
+                "canadian country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 204333,
+            "acousticness": 0.18,
+            "danceability": 6.337,
+            "instrumentalness": 0,
+            "liveness": 0.329,
+            "loudness": -3.286,
+            "speechiness": 0.0406,
+            "time_signature": 4,
+            "happiness": 8.379999999999999
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Beers Got Drank",
+        "Artist": "Jon Langston",
+        "Key": "9B",
+        "Energy": 8.947,
+        "Popularity": 4.96,
+        "BPM": 78,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "6A51ShFUIKS0XTUlDvwCul",
+            "explicit": false,
+            "album": "Beers Got Drank",
+            "release_date": "2022-06-10",
+            "genres": [
+                "contemporary country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 174200,
+            "acousticness": 0.0239,
+            "danceability": 5.95,
+            "instrumentalness": 0,
+            "liveness": 0.285,
+            "loudness": -5.341,
+            "speechiness": 0.0615,
+            "time_signature": 4,
+            "happiness": 6.138999999999999
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "Party Mode",
+        "Artist": "Dustin Lynch",
+        "Key": "6A",
+        "Energy": 9.244,
+        "Popularity": 1.18,
+        "BPM": 114,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7ivOkXLuP1182ZtzA54Vbw",
+            "explicit": false,
+            "album": "Blue In The Sky",
+            "release_date": "2022-02-11",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 211987,
+            "acousticness": 0.0483,
+            "danceability": 6.571,
+            "instrumentalness": 4.88e-06,
+            "liveness": 0.246,
+            "loudness": -2.752,
+            "speechiness": 0.0468,
+            "time_signature": 4,
+            "happiness": 8.065000000000001
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Tequila On A Boat (feat. Chris Lane)",
+        "Artist": "Dustin Lynch, Chris Lane",
+        "Key": "6B",
+        "Energy": 8.893,
+        "Popularity": 1.0,
+        "BPM": 79,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3MWfVTC8ooCmpOveFJbvbT",
+            "explicit": false,
+            "album": "Tequila On A Boat (feat. Chris Lane)",
+            "release_date": "2021-05-14",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock",
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 186973,
+            "acousticness": 0.13,
+            "danceability": 6.319,
+            "instrumentalness": 0,
+            "liveness": 0.387,
+            "loudness": -3.364,
+            "speechiness": 0.0887,
+            "time_signature": 4,
+            "happiness": 8.686
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Drink All Day",
+        "Artist": "Jake Owen",
+        "Key": "5B",
+        "Energy": 9.1,
+        "Popularity": 1.0,
+        "BPM": 83,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "63WN7V4TxHV9vrlqX7sjpR",
+            "explicit": false,
+            "album": "Drink All Day",
+            "release_date": "2019-03-15",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 179187,
+            "acousticness": 0.139,
+            "danceability": 6.138999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.111,
+            "loudness": -4.965,
+            "speechiness": 0.0528,
+            "time_signature": 4,
+            "happiness": 9.549999999999999
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Hotel Key",
+        "Artist": "Old Dominion",
+        "Key": "1B",
+        "Energy": 8.803,
+        "Popularity": 7.39,
+        "BPM": 102,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "33471tzU1VghDg9zNgGRpz",
+            "explicit": false,
+            "album": "Happy Endings",
+            "release_date": "2017-08-25",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 166573,
+            "acousticness": 0.152,
+            "danceability": 7.822,
+            "instrumentalness": 0,
+            "liveness": 0.308,
+            "loudness": -5.087,
+            "speechiness": 0.0475,
+            "time_signature": 4,
+            "happiness": 9.676
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Beer Money",
+        "Artist": "Kip Moore",
+        "Key": "10B",
+        "Energy": 8.245000000000001,
+        "Popularity": 6.3999999999999995,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "61voPX1C71rhwynuLQyajo",
+            "explicit": false,
+            "album": "Up All Night",
+            "release_date": "2012-01-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 218147,
+            "acousticness": 0.0223,
+            "danceability": 7.705,
+            "instrumentalness": 1.06e-06,
+            "liveness": 0.13,
+            "loudness": -5.549,
+            "speechiness": 0.0307,
+            "time_signature": 4,
+            "happiness": 7.885
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Raised On It",
+        "Artist": "Sam Hunt",
+        "Key": "11B",
+        "Energy": 9.459999999999999,
+        "Popularity": 5.86,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Pop",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3BuPop8SzLG2Q88TJcFAjp",
+            "explicit": false,
+            "album": "Montevallo",
+            "release_date": "2014-10-27",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country pop"
+            ],
+            "duration": 235507,
+            "acousticness": 0.0477,
+            "danceability": 6.31,
+            "instrumentalness": 0,
+            "liveness": 0.379,
+            "loudness": -4.124,
+            "speechiness": 0.0409,
+            "time_signature": 4,
+            "happiness": 7.588
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Same Ol",
+        "Artist": "Upchurch",
+        "Key": "3B",
+        "Energy": 8.227,
+        "Popularity": 1.0,
+        "BPM": 148,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "640kE1SRG0BLQVAevs1ean",
+            "explicit": true,
+            "album": "Same Ol Same Ol",
+            "release_date": "2021-06-26",
+            "genres": [
+                "country rap",
+                "redneck"
+            ],
+            "duration": 212031,
+            "acousticness": 0.447,
+            "danceability": 6.3999999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.0804,
+            "loudness": -4.562,
+            "speechiness": 0.0314,
+            "time_signature": 4,
+            "happiness": 5.995
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Illinois Sky",
+        "Artist": "Michigan Rattlers",
+        "Key": "9B",
+        "Energy": 8.542,
+        "Popularity": 4.779999999999999,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "3Ryy7GfuYscnxNWbGMcsKt",
+            "explicit": false,
+            "album": "Illinois Sky",
+            "release_date": "2016-07-11",
+            "genres": [
+                "deep new americana",
+                "southern americana"
+            ],
+            "duration": 176480,
+            "acousticness": 0.0183,
+            "danceability": 4.618,
+            "instrumentalness": 0,
+            "liveness": 0.156,
+            "loudness": -6.242,
+            "speechiness": 0.0632,
+            "time_signature": 4,
+            "happiness": 5.968
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "One Margarita",
+        "Artist": "Luke Bryan",
+        "Key": "11B",
+        "Energy": 8.578,
+        "Popularity": 7.12,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6NhS5LwYbJ6xD7BGvlWRJO",
+            "explicit": false,
+            "album": "One Margarita",
+            "release_date": "2020-03-13",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 193427,
+            "acousticness": 0.0969,
+            "danceability": 6.769,
+            "instrumentalness": 0,
+            "liveness": 0.169,
+            "loudness": -4.872,
+            "speechiness": 0.0464,
+            "time_signature": 4,
+            "happiness": 7.6419999999999995
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "Body Like A Back Road",
+        "Artist": "Sam Hunt",
+        "Key": "7B",
+        "Energy": 5.122,
+        "Popularity": 7.93,
+        "BPM": 99,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Pop",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "7FpBQ067pHB67deawpbbcY",
+            "explicit": false,
+            "album": "SOUTHSIDE",
+            "release_date": "2020-04-03",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country pop"
+            ],
+            "duration": 162547,
+            "acousticness": 0.441,
+            "danceability": 7.624,
+            "instrumentalness": 0,
+            "liveness": 0.148,
+            "loudness": -7.437,
+            "speechiness": 0.0316,
+            "time_signature": 4,
+            "happiness": 6.8500000000000005
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "Country Anywhere",
+        "Artist": "mike., Skeez",
+        "Key": "12B",
+        "Energy": 4.573,
+        "Popularity": 5.41,
+        "BPM": 93,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Hip Hop",
+            "Pop",
+            "Inspiring",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "4TVlDWrY5vLvOT0uJgKDZ4",
+            "explicit": true,
+            "album": "Country Anywhere",
+            "release_date": "2022-07-01",
+            "genres": [
+                "indie pop rap",
+                "rhode island rap"
+            ],
+            "duration": 170577,
+            "acousticness": 0.38,
+            "danceability": 6.31,
+            "instrumentalness": 0,
+            "liveness": 0.118,
+            "loudness": -9.623,
+            "speechiness": 0.0442,
+            "time_signature": 4,
+            "happiness": 2.3499999999999996
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "right now",
+        "Artist": "mike.",
+        "Key": "3B",
+        "Energy": 5.914000000000001,
+        "Popularity": 5.32,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Hip Hop",
+            "Pop",
+            "Inspiring",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3JCnNq0SyOB1seL9FcXdXI",
+            "explicit": true,
+            "album": "the highs.",
+            "release_date": "2021-07-23",
+            "genres": [
+                "indie pop rap",
+                "rhode island rap"
+            ],
+            "duration": 199579,
+            "acousticness": 0.35,
+            "danceability": 7.768,
+            "instrumentalness": 2.92e-05,
+            "liveness": 0.116,
+            "loudness": -6.174,
+            "speechiness": 0.0889,
+            "time_signature": 4,
+            "happiness": 4.987
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Wrapped Around Your Finger",
+        "Artist": "Post Malone",
+        "Key": "10B",
+        "Energy": 6.652,
+        "Popularity": 7.75,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Hip Hop",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6Kfoo60npYPdvNxMPMiDpX",
+            "explicit": false,
+            "album": "Twelve Carat Toothache",
+            "release_date": "2022-06-03",
+            "genres": [
+                "dfw rap",
+                "melodic rap",
+                "pop",
+                "rap"
+            ],
+            "duration": 193565,
+            "acousticness": 0.0493,
+            "danceability": 7.696,
+            "instrumentalness": 0,
+            "liveness": 0.317,
+            "loudness": -5.435,
+            "speechiness": 0.0287,
+            "time_signature": 4,
+            "happiness": 5.851
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "Numb",
+        "Artist": "Marshmello, Khalid",
+        "Key": "8A",
+        "Energy": 7.966,
+        "Popularity": 8.559999999999999,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Romantic & Slow Dance",
+            "EDM",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "10xV5l9nhLvFpR8mqzs0bL",
+            "explicit": false,
+            "album": "Numb",
+            "release_date": "2022-06-10",
+            "genres": [
+                "brostep",
+                "edm",
+                "pop",
+                "progressive electro house",
+                "pop",
+                "pop r&b"
+            ],
+            "duration": 155589,
+            "acousticness": 0.121,
+            "danceability": 9.208,
+            "instrumentalness": 0.0127,
+            "liveness": 0.101,
+            "loudness": -4.673,
+            "speechiness": 0.0455,
+            "time_signature": 4,
+            "happiness": 6.688
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "Sometimes - Oliver Nelson Remix",
+        "Artist": "NEIKED, KES KROSS, Jackson Penn, Oliver Nelson",
+        "Key": "2B",
+        "Energy": 9.541,
+        "Popularity": 3.97,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3x94HatBF3Uadt69tTXedR",
+            "explicit": true,
+            "album": "Sometimes (Oliver Nelson Remix)",
+            "release_date": "2019-11-22",
+            "genres": [
+                "scandipop",
+                "nyc pop",
+                "scandipop"
+            ],
+            "duration": 192000,
+            "acousticness": 0.12,
+            "danceability": 7.0120000000000005,
+            "instrumentalness": 0.0331,
+            "liveness": 0.102,
+            "loudness": -3.823,
+            "speechiness": 0.0432,
+            "time_signature": 4,
+            "happiness": 8.893
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "Sunroof",
+        "Artist": "Nicky Youre, dazy",
+        "Key": "6B",
+        "Energy": 7.444,
+        "Popularity": 1.3599999999999999,
+        "BPM": 131,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3RfTeIrWS8LNrfHYwechtt",
+            "explicit": false,
+            "album": "Sunroof",
+            "release_date": "2021-11-26",
+            "genres": [],
+            "duration": 163026,
+            "acousticness": 0.35,
+            "danceability": 7.912,
+            "instrumentalness": 0,
+            "liveness": 0.15,
+            "loudness": -5.11,
+            "speechiness": 0.0404,
+            "time_signature": 4,
+            "happiness": 8.568999999999999
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Sweet & Sour",
+        "Artist": "Nic D",
+        "Key": "4B",
+        "Energy": 6.3999999999999995,
+        "Popularity": 6.13,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1Q9YKywfOnXUxVJGRbaZL6",
+            "explicit": false,
+            "album": "Sweet & Sour",
+            "release_date": "2021-10-15",
+            "genres": [],
+            "duration": 141080,
+            "acousticness": 0.0415,
+            "danceability": 7.102,
+            "instrumentalness": 0,
+            "liveness": 0.302,
+            "loudness": -7.162,
+            "speechiness": 0.04,
+            "time_signature": 4,
+            "happiness": 3.745
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "Pink Ferrari",
+        "Artist": "Zach Hood",
+        "Key": "5B",
+        "Energy": 9.181000000000001,
+        "Popularity": 5.7700000000000005,
+        "BPM": 79,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Rock",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "3UgRSsqHWfMkvt5UAxM6KC",
+            "explicit": false,
+            "album": "Pink Ferrari",
+            "release_date": "2021-07-30",
+            "genres": [
+                "alt z",
+                "gen z singer-songwriter"
+            ],
+            "duration": 149815,
+            "acousticness": 0.062,
+            "danceability": 5.455,
+            "instrumentalness": 0,
+            "liveness": 0.367,
+            "loudness": -4.223,
+            "speechiness": 0.0683,
+            "time_signature": 4,
+            "happiness": 5.977
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "drunk face",
+        "Artist": "Machine Gun Kelly",
+        "Key": "9A",
+        "Energy": 7.93,
+        "Popularity": 7.39,
+        "BPM": 90,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Hip Hop",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3k0YJnqMKRZb8swo86vCkq",
+            "explicit": true,
+            "album": "Tickets To My Downfall",
+            "release_date": "2020-09-25",
+            "genres": [
+                "ohio hip hop",
+                "pop rap"
+            ],
+            "duration": 143901,
+            "acousticness": 0.0282,
+            "danceability": 7.218999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.497,
+            "loudness": -4.578,
+            "speechiness": 0.0367,
+            "time_signature": 4,
+            "happiness": 4.096
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "5150",
+        "Artist": "Machine Gun Kelly",
+        "Key": "1B",
+        "Energy": 9.459999999999999,
+        "Popularity": 6.49,
+        "BPM": 79,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Hip Hop",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "14UzhtAQyCRGsuSjInmiJi",
+            "explicit": false,
+            "album": "mainstream sellout",
+            "release_date": "2022-03-25",
+            "genres": [
+                "ohio hip hop",
+                "pop rap"
+            ],
+            "duration": 174849,
+            "acousticness": 0.000181,
+            "danceability": 5.815,
+            "instrumentalness": 0.00134,
+            "liveness": 0.0631,
+            "loudness": -4.811,
+            "speechiness": 0.0973,
+            "time_signature": 4,
+            "happiness": 5.824
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "Kickstart My Heart",
+        "Artist": "M\u00f6tley Cr\u00fce",
+        "Key": "9A",
+        "Energy": 9.829,
+        "Popularity": 1.45,
+        "BPM": 89,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "7GonnnalI2s19OCQO1J7Tf",
+            "explicit": false,
+            "album": "Dr. Feelgood",
+            "release_date": "1989",
+            "genres": [
+                "album rock",
+                "alternative metal",
+                "glam metal",
+                "hard rock",
+                "metal",
+                "rock",
+                "sleaze rock"
+            ],
+            "duration": 282653,
+            "acousticness": 0.00125,
+            "danceability": 4.231,
+            "instrumentalness": 0.00236,
+            "liveness": 0.284,
+            "loudness": -3.622,
+            "speechiness": 0.303,
+            "time_signature": 4,
+            "happiness": 3.439
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "Heavy Eyes",
+        "Artist": "Zach Bryan",
+        "Key": "7B",
+        "Energy": 9.208,
+        "Popularity": 7.84,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2gJj6WtAxXjApMs3PXsCeX",
+            "explicit": false,
+            "album": "American Heartbreak",
+            "release_date": "2022-05-20",
+            "genres": [
+                "classic oklahoma country",
+                "modern country pop"
+            ],
+            "duration": 190780,
+            "acousticness": 0.032,
+            "danceability": 5.239,
+            "instrumentalness": 0,
+            "liveness": 0.343,
+            "loudness": -3.032,
+            "speechiness": 0.0724,
+            "time_signature": 4,
+            "happiness": 6.5169999999999995
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "American Girl",
+        "Artist": "Tom Petty and the Heartbreakers",
+        "Key": "10B",
+        "Energy": 8.416,
+        "Popularity": 7.75,
+        "BPM": 115,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Mad",
+            "Nostalgic",
+            "Rock",
+            "Inspiring",
+            "Calm",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7MRyJPksH3G2cXHN8UKYzP",
+            "explicit": false,
+            "album": "Tom Petty & The Heartbreakers",
+            "release_date": "1976-11-09",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "heartland rock",
+                "mellow gold",
+                "rock",
+                "singer-songwriter",
+                "soft rock"
+            ],
+            "duration": 214733,
+            "acousticness": 0.448,
+            "danceability": 5.95,
+            "instrumentalness": 0.000127,
+            "liveness": 0.366,
+            "loudness": -5.988,
+            "speechiness": 0.0334,
+            "time_signature": 4,
+            "happiness": 7.993
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "Sweet Home Alabama",
+        "Artist": "Lynyrd Skynyrd",
+        "Key": "9B",
+        "Energy": 6.445,
+        "Popularity": 8.649999999999999,
+        "BPM": 98,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "70s",
+            "Rock",
+            "Mad",
+            "Nostalgic",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "7e89621JPkKaeDSTQ3avtg",
+            "explicit": true,
+            "album": "Second Helping (Expanded Edition)",
+            "release_date": "1974-04-15",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "rock",
+                "southern rock"
+            ],
+            "duration": 283800,
+            "acousticness": 0.181,
+            "danceability": 6.364,
+            "instrumentalness": 0.000331,
+            "liveness": 0.0863,
+            "loudness": -12.145,
+            "speechiness": 0.0255,
+            "time_signature": 4,
+            "happiness": 8.974
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "Made in America",
+        "Artist": "Toby Keith",
+        "Key": "11B",
+        "Energy": 7.308999999999999,
+        "Popularity": 6.76,
+        "BPM": 86,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "7Lmwj2fe8MpGXypOuLGO2C",
+            "explicit": false,
+            "album": "Clancy's Tavern",
+            "release_date": "2011-10-21",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 193133,
+            "acousticness": 0.0507,
+            "danceability": 5.473,
+            "instrumentalness": 0,
+            "liveness": 0.103,
+            "loudness": -5.996,
+            "speechiness": 0.0306,
+            "time_signature": 4,
+            "happiness": 4.384
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "Red White Blue Jean American Dream",
+        "Artist": "Kip Moore",
+        "Key": "8B",
+        "Energy": 7.786,
+        "Popularity": 5.5,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "08Es1HNCgqYvW2QezStQ7l",
+            "explicit": false,
+            "album": "Wild World",
+            "release_date": "2020-05-29",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 180347,
+            "acousticness": 0.00375,
+            "danceability": 6.076,
+            "instrumentalness": 7.35e-05,
+            "liveness": 0.248,
+            "loudness": -5.974,
+            "speechiness": 0.0329,
+            "time_signature": 4,
+            "happiness": 6.31
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "In Love By Now",
+        "Artist": "Riley Green",
+        "Key": "10B",
+        "Energy": 8.992,
+        "Popularity": 5.59,
+        "BPM": 134,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3ZbKXr94aIWo5Zzflzvi2S",
+            "explicit": false,
+            "album": "Different 'Round Here",
+            "release_date": "2019-09-20",
+            "genres": [
+                "contemporary country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 206640,
+            "acousticness": 0.00244,
+            "danceability": 6.228999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.207,
+            "loudness": -4.74,
+            "speechiness": 0.0361,
+            "time_signature": 4,
+            "happiness": 7.5969999999999995
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "I Was Jack (You Were Diane)",
+        "Artist": "Jake Owen",
+        "Key": "2B",
+        "Energy": 8.812000000000001,
+        "Popularity": 6.49,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "3dlCF1mzW1UKMOb4b1XN17",
+            "explicit": false,
+            "album": "Greetings From...Jake",
+            "release_date": "2019-03-29",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 187027,
+            "acousticness": 0.086,
+            "danceability": 6.436,
+            "instrumentalness": 0,
+            "liveness": 0.0502,
+            "loudness": -3.539,
+            "speechiness": 0.0445,
+            "time_signature": 4,
+            "happiness": 5.977
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "I Was On a Boat That Day",
+        "Artist": "Old Dominion",
+        "Key": "1B",
+        "Energy": 9.235,
+        "Popularity": 6.67,
+        "BPM": 140,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1nnsiuuYlvPF9gxXIiyAr8",
+            "explicit": false,
+            "album": "I Was On a Boat That Day",
+            "release_date": "2021-05-21",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 178613,
+            "acousticness": 0.00699,
+            "danceability": 5.815,
+            "instrumentalness": 0,
+            "liveness": 0.224,
+            "loudness": -3.819,
+            "speechiness": 0.0991,
+            "time_signature": 4,
+            "happiness": 7.579
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "Day Drinking",
+        "Artist": "Little Big Town",
+        "Key": "11B",
+        "Energy": 9.631,
+        "Popularity": 6.76,
+        "BPM": 82,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1pxXqJZBrCREdC0s4Xs6Xz",
+            "explicit": false,
+            "album": "Pain Killer",
+            "release_date": "2014-10-21",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country dawn",
+                "country road"
+            ],
+            "duration": 178840,
+            "acousticness": 0.103,
+            "danceability": 6.319,
+            "instrumentalness": 0,
+            "liveness": 0.779,
+            "loudness": -2.515,
+            "speechiness": 0.057,
+            "time_signature": 4,
+            "happiness": 8.74
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "American Kids",
+        "Artist": "Kenny Chesney",
+        "Key": "8B",
+        "Energy": 6.301,
+        "Popularity": 8.02,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1dgWTMoHwTUnQhOQ8SR5fV",
+            "explicit": false,
+            "album": "The Big Revival",
+            "release_date": "2014-09-22",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 182960,
+            "acousticness": 0.0476,
+            "danceability": 8.038,
+            "instrumentalness": 5.84e-06,
+            "liveness": 0.0366,
+            "loudness": -7.37,
+            "speechiness": 0.0803,
+            "time_signature": 4,
+            "happiness": 8.641
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "Barefoot Blue Jean Night",
+        "Artist": "Jake Owen",
+        "Key": "12B",
+        "Energy": 8.263000000000002,
+        "Popularity": 7.93,
+        "BPM": 86,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3ts6xK5GzfMAAriT9AIBmP",
+            "explicit": false,
+            "album": "Barefoot Blue Jean Night",
+            "release_date": "2011-08-26",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 167427,
+            "acousticness": 0.202,
+            "danceability": 6.391,
+            "instrumentalness": 0,
+            "liveness": 0.196,
+            "loudness": -4.679,
+            "speechiness": 0.0402,
+            "time_signature": 4,
+            "happiness": 8.308
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "Summer Jam (feat. Florida Georgia Line) (feat. Florida Georgia Line)",
+        "Artist": "Jake Owen, Florida Georgia Line",
+        "Key": "5B",
+        "Energy": 9.667,
+        "Popularity": 5.5,
+        "BPM": 80,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Pop",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1uaORxvjlpGSLouYxVd1RF",
+            "explicit": false,
+            "album": "Days of Gold (Deluxe Edition)",
+            "release_date": "2014-11-17",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "contemporary country",
+                "country",
+                "country pop",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 219920,
+            "acousticness": 0.0255,
+            "danceability": 5.581,
+            "instrumentalness": 0,
+            "liveness": 0.127,
+            "loudness": -4.358,
+            "speechiness": 0.0398,
+            "time_signature": 4,
+            "happiness": 9.388
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "Anywhere With You",
+        "Artist": "Jake Owen",
+        "Key": "7B",
+        "Energy": 9.424000000000001,
+        "Popularity": 6.67,
+        "BPM": 76,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "2yWtLaPCOUDyi7f1lOXCn5",
+            "explicit": false,
+            "album": "Barefoot Blue Jean Night",
+            "release_date": "2011-08-26",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 209587,
+            "acousticness": 0.0418,
+            "danceability": 5.2749999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.0873,
+            "loudness": -2.545,
+            "speechiness": 0.0413,
+            "time_signature": 4,
+            "happiness": 6.382
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "Just Another Girl",
+        "Artist": "Kip Moore",
+        "Key": "12B",
+        "Energy": 8.937999999999999,
+        "Popularity": 5.05,
+        "BPM": 102,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2ogvGwYzRy9JmkcgBdxv8H",
+            "explicit": false,
+            "album": "SLOWHEART",
+            "release_date": "2017-09-08",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 227707,
+            "acousticness": 0.0276,
+            "danceability": 7.273,
+            "instrumentalness": 1.76e-05,
+            "liveness": 0.083,
+            "loudness": -4.311,
+            "speechiness": 0.0397,
+            "time_signature": 4,
+            "happiness": 8.308
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "Sunburn",
+        "Artist": "Kip Moore",
+        "Key": "10B",
+        "Energy": 8.649999999999999,
+        "Popularity": 4.6,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "5AIKBrNBxyD7pBEtV6tPdy",
+            "explicit": false,
+            "album": "SLOWHEART",
+            "release_date": "2017-09-08",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 220907,
+            "acousticness": 0.00272,
+            "danceability": 6.787,
+            "instrumentalness": 0.00768,
+            "liveness": 0.154,
+            "loudness": -4.838,
+            "speechiness": 0.029,
+            "time_signature": 4,
+            "happiness": 3.988
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "Summertime",
+        "Artist": "Kenny Chesney",
+        "Key": "12B",
+        "Energy": 9.352,
+        "Popularity": 7.209999999999999,
+        "BPM": 84,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3cE5ltZFHmBpiS77itKaOM",
+            "explicit": false,
+            "album": "The Road And The Radio",
+            "release_date": "2005-11-07",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 206587,
+            "acousticness": 0.169,
+            "danceability": 5.32,
+            "instrumentalness": 0,
+            "liveness": 0.0479,
+            "loudness": -5.501,
+            "speechiness": 0.0899,
+            "time_signature": 4,
+            "happiness": 7.417
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "1, 2 Many",
+        "Artist": "Luke Combs, Brooks & Dunn",
+        "Key": "2B",
+        "Energy": 8.497,
+        "Popularity": 1.0,
+        "BPM": 149,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4OlBux2r07KoOtfomcade6",
+            "explicit": false,
+            "album": "1, 2 Many",
+            "release_date": "2019-09-12",
+            "genres": [
+                "contemporary country",
+                "country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 180907,
+            "acousticness": 0.0349,
+            "danceability": 5.806,
+            "instrumentalness": 0,
+            "liveness": 0.523,
+            "loudness": -3.616,
+            "speechiness": 0.0918,
+            "time_signature": 4,
+            "happiness": 7.075
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "Courtesy Of The Red, White And Blue (The Angry American)",
+        "Artist": "Toby Keith",
+        "Key": "10B",
+        "Energy": 6.949,
+        "Popularity": 7.4799999999999995,
+        "BPM": 112,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0M7mWKqwTIaVjYyxfZmtTa",
+            "explicit": false,
+            "album": "Unleashed",
+            "release_date": "2002-01-01",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 195533,
+            "acousticness": 0.521,
+            "danceability": 4.816,
+            "instrumentalness": 1.62e-06,
+            "liveness": 0.0719,
+            "loudness": -5.547,
+            "speechiness": 0.0425,
+            "time_signature": 4,
+            "happiness": 4.4559999999999995
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "Booty Man",
+        "Artist": "Tim Wilson",
+        "Key": "8B",
+        "Energy": 6.742,
+        "Popularity": 4.6,
+        "BPM": 116,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "36DyCBroDt1FjKM7zRaEOw",
+            "explicit": false,
+            "album": "Super Bad Sounds Of The '70s",
+            "release_date": "2003-01-01",
+            "genres": [],
+            "duration": 191760,
+            "acousticness": 0.532,
+            "danceability": 8.281,
+            "instrumentalness": 0.00294,
+            "liveness": 0.0688,
+            "loudness": -6.282,
+            "speechiness": 0.0505,
+            "time_signature": 4,
+            "happiness": 8.658999999999999
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "Younger Years",
+        "Artist": "Zach Bryan",
+        "Key": "12B",
+        "Energy": 7.669,
+        "Popularity": 6.67,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "3FTtVJjqOSaDlM4FByo0RK",
+            "explicit": false,
+            "album": "American Heartbreak",
+            "release_date": "2022-05-20",
+            "genres": [
+                "classic oklahoma country",
+                "modern country pop"
+            ],
+            "duration": 205224,
+            "acousticness": 0.291,
+            "danceability": 4.213,
+            "instrumentalness": 0.00011,
+            "liveness": 0.149,
+            "loudness": -4.522,
+            "speechiness": 0.135,
+            "time_signature": 4,
+            "happiness": 6.634
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "Knee Deep (feat. Jimmy Buffett)",
+        "Artist": "Zac Brown Band, Jimmy Buffett",
+        "Key": "4B",
+        "Energy": 6.255999999999999,
+        "Popularity": 1.18,
+        "BPM": 91,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0b2IVjeD268pYd7VUhmtKI",
+            "explicit": false,
+            "album": "You Get What You Give (Deluxe)",
+            "release_date": "2010-09-20",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock",
+                "trop rock"
+            ],
+            "duration": 203173,
+            "acousticness": 0.432,
+            "danceability": 7.435,
+            "instrumentalness": 1.41e-06,
+            "liveness": 0.095,
+            "loudness": -8.231,
+            "speechiness": 0.0296,
+            "time_signature": 4,
+            "happiness": 6.481
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "All Summer Long",
+        "Artist": "Kid Rock",
+        "Key": "9B",
+        "Energy": 8.776,
+        "Popularity": 7.93,
+        "BPM": 103,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5rX6C5QVvvZB7XckETNych",
+            "explicit": false,
+            "album": "Rock n Roll Jesus",
+            "release_date": "2007-10-09",
+            "genres": [
+                "nu metal"
+            ],
+            "duration": 297587,
+            "acousticness": 0.0212,
+            "danceability": 7.3,
+            "instrumentalness": 0,
+            "liveness": 0.0956,
+            "loudness": -3.629,
+            "speechiness": 0.0283,
+            "time_signature": 4,
+            "happiness": 8.983
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "Dust on the Bottle (with David Lee Murphy) - Live",
+        "Artist": "Kenny Chesney, David Lee Murphy",
+        "Key": "1B",
+        "Energy": 9.847,
+        "Popularity": 4.51,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "3oKY5smJilXhPZ3ewVanYI",
+            "explicit": false,
+            "album": "Live in No Shoes Nation",
+            "release_date": "2017-10-27",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 221280,
+            "acousticness": 0.00764,
+            "danceability": 4.807,
+            "instrumentalness": 3.44e-06,
+            "liveness": 0.921,
+            "loudness": -5.796,
+            "speechiness": 0.299,
+            "time_signature": 4,
+            "happiness": 4.555
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "One Of Them Girls",
+        "Artist": "Lee Brice",
+        "Key": "12B",
+        "Energy": 8.11,
+        "Popularity": 8.02,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6uyiyatWPCqC59Mm4rO8xL",
+            "explicit": false,
+            "album": "Hey World",
+            "release_date": "2020-11-20",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 188893,
+            "acousticness": 0.29,
+            "danceability": 6.787,
+            "instrumentalness": 0,
+            "liveness": 0.107,
+            "loudness": -6.079,
+            "speechiness": 0.0461,
+            "time_signature": 4,
+            "happiness": 8.272
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "If I Know Me",
+        "Artist": "Morgan Wallen",
+        "Key": "4B",
+        "Energy": 6.436,
+        "Popularity": 7.93,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "03d8S7FBY2kIzhP0E7l4rn",
+            "explicit": false,
+            "album": "If I Know Me",
+            "release_date": "2018-04-27",
+            "genres": [
+                "contemporary country"
+            ],
+            "duration": 157693,
+            "acousticness": 0.765,
+            "danceability": 7.993,
+            "instrumentalness": 6.79e-05,
+            "liveness": 0.11,
+            "loudness": -5.813,
+            "speechiness": 0.12,
+            "time_signature": 4,
+            "happiness": 7.048
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "Up Down (feat. Florida Georgia Line)",
+        "Artist": "Morgan Wallen, Florida Georgia Line",
+        "Key": "2B",
+        "Energy": 8.937999999999999,
+        "Popularity": 7.39,
+        "BPM": 130,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Pop",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3EWMoDIm6lzuR0zQKtuCJX",
+            "explicit": false,
+            "album": "If I Know Me",
+            "release_date": "2018-04-27",
+            "genres": [
+                "contemporary country",
+                "contemporary country",
+                "country",
+                "country pop",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 197253,
+            "acousticness": 0.0813,
+            "danceability": 6.301,
+            "instrumentalness": 0,
+            "liveness": 0.146,
+            "loudness": -3.039,
+            "speechiness": 0.035,
+            "time_signature": 4,
+            "happiness": 8.137
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "Drunk (And I Don't Wanna Go Home)",
+        "Artist": "Elle King, Miranda Lambert",
+        "Key": "7B",
+        "Energy": 8.956,
+        "Popularity": 7.66,
+        "BPM": 120,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0QULNNd9z5s35entfiiXoa",
+            "explicit": false,
+            "album": "Drunk (And I Don't Wanna Go Home)",
+            "release_date": "2021-02-26",
+            "genres": [
+                "modern blues rock",
+                "contemporary country",
+                "country",
+                "country dawn",
+                "country road"
+            ],
+            "duration": 245626,
+            "acousticness": 0.00516,
+            "danceability": 6.508,
+            "instrumentalness": 0,
+            "liveness": 0.0997,
+            "loudness": -4.4,
+            "speechiness": 0.0459,
+            "time_signature": 4,
+            "happiness": 6.634
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "Cold Beer Calling My Name",
+        "Artist": "Jameson Rodgers, Luke Combs",
+        "Key": "9B",
+        "Energy": 8.767,
+        "Popularity": 7.12,
+        "BPM": 148,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Pop",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "67wUHsoXdZ8UOLt6rodpQ9",
+            "explicit": false,
+            "album": "Bet You're from a Small Town",
+            "release_date": "2021-09-17",
+            "genres": [
+                "contemporary country",
+                "country pop",
+                "modern country pop",
+                "modern country rock",
+                "contemporary country",
+                "country"
+            ],
+            "duration": 210560,
+            "acousticness": 0.0446,
+            "danceability": 6.265,
+            "instrumentalness": 0,
+            "liveness": 0.0937,
+            "loudness": -4.061,
+            "speechiness": 0.0401,
+            "time_signature": 4,
+            "happiness": 8.092
+        }
+    },
+    {
+        "#": 52,
+        "Track Title": "Cruise",
+        "Artist": "Florida Georgia Line",
+        "Key": "6B",
+        "Energy": 9.532,
+        "Popularity": 7.84,
+        "BPM": 148,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Pop",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0i5el041vd6nxrGEU8QRxy",
+            "explicit": false,
+            "album": "Here's To The Good Times",
+            "release_date": "2012-01-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country pop",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 208960,
+            "acousticness": 0.0191,
+            "danceability": 5.113,
+            "instrumentalness": 0,
+            "liveness": 0.0536,
+            "loudness": -3.364,
+            "speechiness": 0.0354,
+            "time_signature": 4,
+            "happiness": 8.902000000000001
+        }
+    },
+    {
+        "#": 53,
+        "Track Title": "She Had Me At Heads Carolina",
+        "Artist": "Cole Swindell",
+        "Key": "4B",
+        "Energy": 9.208,
+        "Popularity": 8.290000000000001,
+        "BPM": 135,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "200x8ONbPfFzByUr3fVz46",
+            "explicit": false,
+            "album": "Stereotype",
+            "release_date": "2022-04-08",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 206107,
+            "acousticness": 0.124,
+            "danceability": 6.463,
+            "instrumentalness": 0,
+            "liveness": 0.332,
+            "loudness": -3.449,
+            "speechiness": 0.0611,
+            "time_signature": 4,
+            "happiness": 7.497999999999999
+        }
+    },
+    {
+        "#": 54,
+        "Track Title": "Beer With My Friends (feat. Cole Swindell and David Lee Murphy)",
+        "Artist": "Shy Carter, Cole Swindell, David Lee Murphy",
+        "Key": "11B",
+        "Energy": 9.343,
+        "Popularity": 5.86,
+        "BPM": 110,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5YsPrfAtcCzMIc4BHTsxP5",
+            "explicit": false,
+            "album": "Beer With My Friends (feat. Cole Swindell and David Lee Murphy)",
+            "release_date": "2021-06-18",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 176533,
+            "acousticness": 0.0446,
+            "danceability": 6.427,
+            "instrumentalness": 0,
+            "liveness": 0.0565,
+            "loudness": -2.598,
+            "speechiness": 0.0562,
+            "time_signature": 4,
+            "happiness": 8.334999999999999
+        }
+    },
+    {
+        "#": 55,
+        "Track Title": "Drunk On A Boat",
+        "Artist": "Jake Owen",
+        "Key": "5B",
+        "Energy": 8.299,
+        "Popularity": 5.32,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7iT7JnPMgxM84mShJNFW8q",
+            "explicit": false,
+            "album": "Drunk On A Boat",
+            "release_date": "2021-10-08",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 192354,
+            "acousticness": 0.0598,
+            "danceability": 6.2379999999999995,
+            "instrumentalness": 0.000255,
+            "liveness": 0.155,
+            "loudness": -4.206,
+            "speechiness": 0.0284,
+            "time_signature": 4,
+            "happiness": 7.9030000000000005
+        }
+    },
+    {
+        "#": 56,
+        "Track Title": "There Was This Girl",
+        "Artist": "Riley Green",
+        "Key": "3B",
+        "Energy": 8.893,
+        "Popularity": 7.4799999999999995,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7grWGhX8SHNmyGOkMNVMCt",
+            "explicit": false,
+            "album": "Different 'Round Here",
+            "release_date": "2019-09-20",
+            "genres": [
+                "contemporary country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 194427,
+            "acousticness": 0.00258,
+            "danceability": 6.544,
+            "instrumentalness": 2.56e-06,
+            "liveness": 0.114,
+            "loudness": -4.223,
+            "speechiness": 0.0347,
+            "time_signature": 4,
+            "happiness": 9.459999999999999
+        }
+    },
+    {
+        "#": 57,
+        "Track Title": "Like I Love Country Music",
+        "Artist": "Kane Brown",
+        "Key": "4B",
+        "Energy": 8.379999999999999,
+        "Popularity": 7.209999999999999,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3j1xkzTW8owIphkWV51V9s",
+            "explicit": false,
+            "album": "Like I Love Country Music",
+            "release_date": "2022-05-06",
+            "genres": [
+                "black americana",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 234341,
+            "acousticness": 0.000682,
+            "danceability": 5.878,
+            "instrumentalness": 0.000136,
+            "liveness": 0.0561,
+            "loudness": -6.073,
+            "speechiness": 0.0432,
+            "time_signature": 4,
+            "happiness": 7.318
+        }
+    },
+    {
+        "#": 58,
+        "Track Title": "Drink In My Hand",
+        "Artist": "Eric Church",
+        "Key": "8B",
+        "Energy": 9.217,
+        "Popularity": 7.93,
+        "BPM": 113,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1cktZnxiONH0hR6Q3DKy8h",
+            "explicit": false,
+            "album": "Chief",
+            "release_date": "2011-01-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 191307,
+            "acousticness": 0.00635,
+            "danceability": 6.634,
+            "instrumentalness": 0,
+            "liveness": 0.293,
+            "loudness": -4.452,
+            "speechiness": 0.0318,
+            "time_signature": 4,
+            "happiness": 9.514
+        }
+    },
+    {
+        "#": 59,
+        "Track Title": "Beer Never Broke My Heart",
+        "Artist": "Luke Combs",
+        "Key": "3B",
+        "Energy": 8.767,
+        "Popularity": 8.379999999999999,
+        "BPM": 77,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "7aEtlGHoiPAfRB084NiDmx",
+            "explicit": false,
+            "album": "What You See Is What You Get",
+            "release_date": "2019-11-08",
+            "genres": [
+                "contemporary country",
+                "country"
+            ],
+            "duration": 186733,
+            "acousticness": 0.0139,
+            "danceability": 5.8420000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.0874,
+            "loudness": -4.483,
+            "speechiness": 0.0481,
+            "time_signature": 4,
+            "happiness": 6.7330000000000005
+        }
+    },
+    {
+        "#": 60,
+        "Track Title": "Born in the U.S.A.",
+        "Artist": "Bruce Springsteen",
+        "Key": "12B",
+        "Energy": 9.568,
+        "Popularity": 7.93,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Rock",
+            "Calm",
+            "Inspiring",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0dOg1ySSI7NkpAe89Zo0b9",
+            "explicit": false,
+            "album": "Born In The U.S.A.",
+            "release_date": "1984-06-04",
+            "genres": [
+                "heartland rock",
+                "mellow gold",
+                "permanent wave",
+                "rock",
+                "singer-songwriter"
+            ],
+            "duration": 278680,
+            "acousticness": 0.000373,
+            "danceability": 4.582000000000001,
+            "instrumentalness": 7.75e-05,
+            "liveness": 0.1,
+            "loudness": -6.042,
+            "speechiness": 0.061,
+            "time_signature": 4,
+            "happiness": 6.255999999999999
+        }
+    },
+    {
+        "#": 61,
+        "Track Title": "Summer Of '69",
+        "Artist": "Bryan Adams",
+        "Key": "10B",
+        "Energy": 8.506,
+        "Popularity": 8.74,
+        "BPM": 139,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "80s",
+            "Calm",
+            "Rock",
+            "Pop",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0GONea6G2XdnHWjNZd6zt3",
+            "explicit": false,
+            "album": "Reckless (30th Anniversary / Deluxe Edition)",
+            "release_date": "1984-11-05",
+            "genres": [
+                "canadian pop",
+                "canadian singer-songwriter",
+                "classic canadian rock",
+                "heartland rock",
+                "mellow gold",
+                "soft rock"
+            ],
+            "duration": 216053,
+            "acousticness": 0.0183,
+            "danceability": 5.572,
+            "instrumentalness": 0,
+            "liveness": 0.0732,
+            "loudness": -6.205,
+            "speechiness": 0.0386,
+            "time_signature": 4,
+            "happiness": 7.966
+        }
+    },
+    {
+        "#": 62,
+        "Track Title": "All The Small Things",
+        "Artist": "blink-182",
+        "Key": "8B",
+        "Energy": 9.073,
+        "Popularity": 8.649999999999999,
+        "BPM": 149,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "90s",
+            "California [Loc]",
+            "Rock",
+            "Pop",
+            "Mad",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2m1hi0nfMR9vdGC8UcrnwU",
+            "explicit": false,
+            "album": "Enema Of The State",
+            "release_date": "1999-06-01",
+            "genres": [
+                "alternative metal",
+                "modern rock",
+                "pop punk",
+                "punk",
+                "rock",
+                "socal pop punk"
+            ],
+            "duration": 167067,
+            "acousticness": 0.0103,
+            "danceability": 4.906000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.612,
+            "loudness": -4.918,
+            "speechiness": 0.0488,
+            "time_signature": 4,
+            "happiness": 7.156000000000001
+        }
+    },
+    {
+        "#": 63,
+        "Track Title": "concert for aliens",
+        "Artist": "Machine Gun Kelly",
+        "Key": "1B",
+        "Energy": 9.559,
+        "Popularity": 5.5,
+        "BPM": 95,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Hip Hop",
+            "Pop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "2N2q2P0N86ZNS6mKYXoojf",
+            "explicit": true,
+            "album": "Tickets To My Downfall (SOLD OUT Deluxe)",
+            "release_date": "2020-09-29",
+            "genres": [
+                "ohio hip hop",
+                "pop rap"
+            ],
+            "duration": 160222,
+            "acousticness": 0.00032,
+            "danceability": 5.563,
+            "instrumentalness": 0,
+            "liveness": 0.33,
+            "loudness": -2.999,
+            "speechiness": 0.0586,
+            "time_signature": 4,
+            "happiness": 7.228
+        }
+    },
+    {
+        "#": 64,
+        "Track Title": "Soul (R3HAB Remix)",
+        "Artist": "Lee Brice, Blanco Brown, R3HAB",
+        "Key": "1B",
+        "Energy": 8.551,
+        "Popularity": 6.13,
+        "BPM": 125,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Dance Remixes",
+            "Pop",
+            "Nostalgic",
+            "Club-Hotel",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "32d8sQk2Q6zttnj80nBFMM",
+            "explicit": false,
+            "album": "Soul (R3HAB Remix)",
+            "release_date": "2022-06-03",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock",
+                "black americana",
+                "country rap",
+                "dutch house",
+                "edm",
+                "electro house",
+                "pop dance",
+                "progressive electro house",
+                "slap house"
+            ],
+            "duration": 148440,
+            "acousticness": 0.102,
+            "danceability": 6.769,
+            "instrumentalness": 3.2e-06,
+            "liveness": 0.16,
+            "loudness": -4.507,
+            "speechiness": 0.051,
+            "time_signature": 4,
+            "happiness": 5.247999999999999
+        }
+    },
+    {
+        "#": 65,
+        "Track Title": "Drunk Me - R3HAB Remix",
+        "Artist": "Mitchell Tenpenny, R3HAB",
+        "Key": "10B",
+        "Energy": 9.145,
+        "Popularity": 5.95,
+        "BPM": 100,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Dance Remixes",
+            "Pop",
+            "Nostalgic",
+            "Club-Hotel",
+            "Rock",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "3kwL8x4afaomYsX3d4cmPL",
+            "explicit": false,
+            "album": "Drunk Me (R3HAB Remix)",
+            "release_date": "2019-05-03",
+            "genres": [
+                "contemporary country",
+                "country road",
+                "heartland rock",
+                "modern country rock",
+                "dutch house",
+                "edm",
+                "electro house",
+                "pop dance",
+                "progressive electro house",
+                "slap house"
+            ],
+            "duration": 153975,
+            "acousticness": 0.0957,
+            "danceability": 6.931,
+            "instrumentalness": 0,
+            "liveness": 0.229,
+            "loudness": -3.113,
+            "speechiness": 0.144,
+            "time_signature": 4,
+            "happiness": 4.438000000000001
+        }
+    },
+    {
+        "#": 66,
+        "Track Title": "STAY (with Justin Bieber)",
+        "Artist": "The Kid LAROI, Justin Bieber",
+        "Key": "3B",
+        "Energy": 7.876,
+        "Popularity": 8.92,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Hip Hop",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "5HCyWlXZPP0y6Gqq8TgA20",
+            "explicit": true,
+            "album": "STAY (with Justin Bieber)",
+            "release_date": "2021-07-09",
+            "genres": [
+                "australian hip hop",
+                "canadian pop",
+                "pop"
+            ],
+            "duration": 141806,
+            "acousticness": 0.0383,
+            "danceability": 6.319,
+            "instrumentalness": 0,
+            "liveness": 0.103,
+            "loudness": -5.484,
+            "speechiness": 0.0483,
+            "time_signature": 4,
+            "happiness": 5.302
+        }
+    },
+    {
+        "#": 67,
+        "Track Title": "Peaches X Whats Luv",
+        "Artist": "ELJEE",
+        "Key": "8B",
+        "Energy": 8.578,
+        "Popularity": 6.31,
+        "BPM": 94,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3KhgMJyvVfyNeDd4ysyx86",
+            "explicit": false,
+            "album": "Peaches X Whats Luv",
+            "release_date": "2021-09-02",
+            "genres": [],
+            "duration": 136152,
+            "acousticness": 0.0081,
+            "danceability": 7.939,
+            "instrumentalness": 0.0906,
+            "liveness": 0.24,
+            "loudness": -8.555,
+            "speechiness": 0.0555,
+            "time_signature": 4,
+            "happiness": 7.4079999999999995
+        }
+    },
+    {
+        "#": 68,
+        "Track Title": "Emily",
+        "Artist": "Two Friends, James Delaney",
+        "Key": "9B",
+        "Energy": 8.416,
+        "Popularity": 5.68,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "3lhmj5XfT5poIR5ozhiDmH",
+            "explicit": false,
+            "album": "Emily",
+            "release_date": "2017-04-21",
+            "genres": [],
+            "duration": 206490,
+            "acousticness": 0.0261,
+            "danceability": 6.9670000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.136,
+            "loudness": -4.053,
+            "speechiness": 0.0585,
+            "time_signature": 4,
+            "happiness": 6.292
+        }
+    },
+    {
+        "#": 69,
+        "Track Title": "Easy Outside (feat. Melo Makes Music)",
+        "Artist": "Taylor Bennett, Melo Makes Music",
+        "Key": "10B",
+        "Energy": 7.984,
+        "Popularity": 2.71,
+        "BPM": 85,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Happy",
+            "Hip Hop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "7vs4n0ir5Uav1jhfPrQ7xN",
+            "explicit": true,
+            "album": "Coming of Age",
+            "release_date": "2022-04-22",
+            "genres": [
+                "chicago rap",
+                "drill",
+                "lgbtq+ hip hop"
+            ],
+            "duration": 183529,
+            "acousticness": 0.0388,
+            "danceability": 6.228999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.273,
+            "loudness": -7.22,
+            "speechiness": 0.082,
+            "time_signature": 4,
+            "happiness": 7.579
+        }
+    },
+    {
+        "#": 70,
+        "Track Title": "First Time",
+        "Artist": "ILLENIUM, iann dior",
+        "Key": "11B",
+        "Energy": 7.003,
+        "Popularity": 6.040000000000001,
+        "BPM": 78,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Hip Hop",
+            "Dance Remixes",
+            "EDM",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "2eFjKl5cyPPYElDByCh6Tb",
+            "explicit": false,
+            "album": "First Time",
+            "release_date": "2021-03-12",
+            "genres": [
+                "edm",
+                "melodic dubstep",
+                "pop dance",
+                "melodic rap"
+            ],
+            "duration": 165779,
+            "acousticness": 0.0505,
+            "danceability": 5.734,
+            "instrumentalness": 0,
+            "liveness": 0.321,
+            "loudness": -5.451,
+            "speechiness": 0.0437,
+            "time_signature": 4,
+            "happiness": 4.87
+        }
+    },
+    {
+        "#": 71,
+        "Track Title": "kiss kiss",
+        "Artist": "Machine Gun Kelly",
+        "Key": "3B",
+        "Energy": 8.649999999999999,
+        "Popularity": 6.8500000000000005,
+        "BPM": 81,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Hip Hop",
+            "Pop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "69LvvkHnFFnX3d5eNObtMo",
+            "explicit": true,
+            "album": "Tickets To My Downfall",
+            "release_date": "2020-09-25",
+            "genres": [
+                "ohio hip hop",
+                "pop rap"
+            ],
+            "duration": 138097,
+            "acousticness": 0.000279,
+            "danceability": 6.1209999999999996,
+            "instrumentalness": 0,
+            "liveness": 0.337,
+            "loudness": -5.134,
+            "speechiness": 0.055,
+            "time_signature": 4,
+            "happiness": 7.921
+        }
+    },
+    {
+        "#": 72,
+        "Track Title": "First Date",
+        "Artist": "blink-182",
+        "Key": "8B",
+        "Energy": 9.388,
+        "Popularity": 4.779999999999999,
+        "BPM": 96,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2000s",
+            "California [Loc]",
+            "Rock",
+            "Pop",
+            "Mad",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4lLxK3yBvwNoqTFjKC8RNg",
+            "explicit": false,
+            "album": "Take Off Your Pants And Jacket",
+            "release_date": "2001-01-01",
+            "genres": [
+                "alternative metal",
+                "modern rock",
+                "pop punk",
+                "punk",
+                "rock",
+                "socal pop punk"
+            ],
+            "duration": 169747,
+            "acousticness": 0.000769,
+            "danceability": 6.175,
+            "instrumentalness": 0,
+            "liveness": 0.358,
+            "loudness": -4.376,
+            "speechiness": 0.0457,
+            "time_signature": 4,
+            "happiness": 8.524000000000001
+        }
+    },
+    {
+        "#": 73,
+        "Track Title": "Come & Go (with Marshmello)",
+        "Artist": "Juice WRLD, Marshmello",
+        "Key": "8B",
+        "Energy": 8.326,
+        "Popularity": 8.2,
+        "BPM": 145,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Hip Hop",
+            "EDM",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "2Y0wPrPQBrGhoLn14xRYCG",
+            "explicit": true,
+            "album": "Legends Never Die",
+            "release_date": "2020-07-10",
+            "genres": [
+                "chicago rap",
+                "melodic rap",
+                "rap",
+                "brostep",
+                "edm",
+                "pop",
+                "progressive electro house"
+            ],
+            "duration": 205485,
+            "acousticness": 0.0172,
+            "danceability": 6.625,
+            "instrumentalness": 0,
+            "liveness": 0.158,
+            "loudness": -5.181,
+            "speechiness": 0.0657,
+            "time_signature": 4,
+            "happiness": 5.815
+        }
+    },
+    {
+        "#": 74,
+        "Track Title": "By Your Side (feat. Tom Grennan)",
+        "Artist": "Calvin Harris, Tom Grennan",
+        "Key": "9B",
+        "Energy": 9.64,
+        "Popularity": 7.75,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Club-Hotel",
+            "Dance Remixes",
+            "EDM",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0vR2rIVORmgeKiGIgNT0fV",
+            "explicit": false,
+            "album": "By Your Side (feat. Tom Grennan)",
+            "release_date": "2021-06-04",
+            "genres": [
+                "dance pop",
+                "edm",
+                "electro house",
+                "house",
+                "pop",
+                "progressive house",
+                "uk dance",
+                "uk pop"
+            ],
+            "duration": 189672,
+            "acousticness": 0.0514,
+            "danceability": 7.5969999999999995,
+            "instrumentalness": 0.00199,
+            "liveness": 0.287,
+            "loudness": -3.597,
+            "speechiness": 0.0295,
+            "time_signature": 4,
+            "happiness": 8.299
+        }
+    },
+    {
+        "#": 75,
+        "Track Title": "Caught Up In The Country (Sam Feldt Remix)",
+        "Artist": "Rodney Atkins, Sam Feldt",
+        "Key": "9B",
+        "Energy": 9.073,
+        "Popularity": 5.32,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Dance Remixes",
+            "EDM",
+            "Pop",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "6MYshGKhcheOSGquz6NKbC",
+            "explicit": false,
+            "album": "Caught Up In The Country (Sam Feldt Remix)",
+            "release_date": "2019-02-08",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "edm",
+                "pop dance",
+                "tropical house"
+            ],
+            "duration": 210005,
+            "acousticness": 0.0621,
+            "danceability": 6.526,
+            "instrumentalness": 0,
+            "liveness": 0.178,
+            "loudness": -3.918,
+            "speechiness": 0.0762,
+            "time_signature": 4,
+            "happiness": 5.077
+        }
+    },
+    {
+        "#": 76,
+        "Track Title": "Wake Me Up",
+        "Artist": "Avicii",
+        "Key": "10B",
+        "Energy": 8.047,
+        "Popularity": 9.01,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Dance Remixes",
+            "EDM",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0nrRP2bk19rLc0orkWPQk2",
+            "explicit": false,
+            "album": "True",
+            "release_date": "2013-01-01",
+            "genres": [
+                "edm",
+                "pop",
+                "pop dance"
+            ],
+            "duration": 247427,
+            "acousticness": 0.0038,
+            "danceability": 5.788,
+            "instrumentalness": 0.0012,
+            "liveness": 0.161,
+            "loudness": -5.697,
+            "speechiness": 0.0523,
+            "time_signature": 4,
+            "happiness": 6.787
+        }
+    },
+    {
+        "#": 77,
+        "Track Title": "Feel Like I Do",
+        "Artist": "Vin Diesel",
+        "Key": "7B",
+        "Energy": 7.273,
+        "Popularity": 5.140000000000001,
+        "BPM": 106,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "5eQmYs2nwNrmKW0aJXMfBF",
+            "explicit": false,
+            "album": "Feel Like I Do",
+            "release_date": "2020-09-25",
+            "genres": [],
+            "duration": 185787,
+            "acousticness": 0.026,
+            "danceability": 7.678,
+            "instrumentalness": 5.38e-06,
+            "liveness": 0.105,
+            "loudness": -5.931,
+            "speechiness": 0.0422,
+            "time_signature": 4,
+            "happiness": 5.2749999999999995
+        }
+    },
+    {
+        "#": 78,
+        "Track Title": "Freedom",
+        "Artist": "Kygo, Zak Abel",
+        "Key": "9B",
+        "Energy": 6.715,
+        "Popularity": 6.76,
+        "BPM": 113,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Romantic & Slow Dance",
+            "Dance Remixes",
+            "EDM",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5Gj1wG8b12VQdEd3hUuSwo",
+            "explicit": false,
+            "album": "Freedom",
+            "release_date": "2020-04-17",
+            "genres": [
+                "edm",
+                "pop",
+                "pop dance",
+                "tropical house",
+                "uk contemporary r&b"
+            ],
+            "duration": 198635,
+            "acousticness": 0.127,
+            "danceability": 7.435,
+            "instrumentalness": 0,
+            "liveness": 0.0862,
+            "loudness": -6.591,
+            "speechiness": 0.0791,
+            "time_signature": 4,
+            "happiness": 4.51
+        }
+    },
+    {
+        "#": 79,
+        "Track Title": "Nobody Does It Better",
+        "Artist": "Michael Calfan",
+        "Key": "8B",
+        "Energy": 8.551,
+        "Popularity": 5.140000000000001,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Club-Hotel",
+            "Dance Remixes",
+            "EDM",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "71qJKN5aGOnAHHuui6344H",
+            "explicit": false,
+            "album": "Nobody Does It Better",
+            "release_date": "2016-02-12",
+            "genres": [
+                "dutch house",
+                "edm",
+                "electro house",
+                "house",
+                "pop dance",
+                "progressive electro house",
+                "progressive house"
+            ],
+            "duration": 148293,
+            "acousticness": 0.000772,
+            "danceability": 7.111000000000001,
+            "instrumentalness": 0.00173,
+            "liveness": 0.0772,
+            "loudness": -5.579,
+            "speechiness": 0.0303,
+            "time_signature": 4,
+            "happiness": 6.093999999999999
+        }
+    },
+    {
+        "#": 80,
+        "Track Title": "Holy Water",
+        "Artist": "Galantis",
+        "Key": "11B",
+        "Energy": 7.606,
+        "Popularity": 5.140000000000001,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Dance Remixes",
+            "EDM",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "7Ga9ZSdPAcQXQvd1ObVFpm",
+            "explicit": false,
+            "album": "Holy Water",
+            "release_date": "2019-09-27",
+            "genres": [
+                "dance pop",
+                "edm",
+                "pop",
+                "pop dance"
+            ],
+            "duration": 176657,
+            "acousticness": 0.0653,
+            "danceability": 6.2829999999999995,
+            "instrumentalness": 0.000571,
+            "liveness": 0.398,
+            "loudness": -4.558,
+            "speechiness": 0.0407,
+            "time_signature": 4,
+            "happiness": 4.609
+        }
+    },
+    {
+        "#": 81,
+        "Track Title": "I Got U",
+        "Artist": "Duke Dumont, Jax Jones",
+        "Key": "11A",
+        "Energy": 7.849,
+        "Popularity": 6.67,
+        "BPM": 121,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Club-Hotel",
+            "Dance Remixes",
+            "EDM",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "69gQgkobVW8bWjoCjBYQUd",
+            "explicit": false,
+            "album": "EP1",
+            "release_date": "2014-01-01",
+            "genres": [
+                "edm",
+                "house",
+                "pop dance",
+                "progressive house",
+                "uk dance",
+                "dance pop",
+                "edm",
+                "house",
+                "pop dance",
+                "uk dance",
+                "uk pop"
+            ],
+            "duration": 285596,
+            "acousticness": 0.00377,
+            "danceability": 6.724,
+            "instrumentalness": 0.00784,
+            "liveness": 0.0851,
+            "loudness": -7.752,
+            "speechiness": 0.035,
+            "time_signature": 4,
+            "happiness": 5.167
+        }
+    },
+    {
+        "#": 82,
+        "Track Title": "Baby Girl",
+        "Artist": "Disco Lines",
+        "Key": "10B",
+        "Energy": 9.163,
+        "Popularity": 8.2,
+        "BPM": 121,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2cSdAkzAf2T4j4aLvx4LLz",
+            "explicit": false,
+            "album": "Baby Girl",
+            "release_date": "2022-06-15",
+            "genres": [
+                "stutter house"
+            ],
+            "duration": 111074,
+            "acousticness": 0.0921,
+            "danceability": 7.57,
+            "instrumentalness": 0.114,
+            "liveness": 0.23,
+            "loudness": -3.72,
+            "speechiness": 0.0606,
+            "time_signature": 4,
+            "happiness": 3.241
+        }
+    },
+    {
+        "#": 83,
+        "Track Title": "Happy",
+        "Artist": "Costa",
+        "Key": "10B",
+        "Energy": 8.956,
+        "Popularity": 4.6,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "4yABgjYvA9NoqZk3pqyfcC",
+            "explicit": false,
+            "album": "Happy",
+            "release_date": "2020-06-05",
+            "genres": [
+                "boston electronic"
+            ],
+            "duration": 192976,
+            "acousticness": 0.0152,
+            "danceability": 7.156000000000001,
+            "instrumentalness": 0.231,
+            "liveness": 0.594,
+            "loudness": -6.651,
+            "speechiness": 0.0619,
+            "time_signature": 4,
+            "happiness": 3.934
+        }
+    },
+    {
+        "#": 84,
+        "Track Title": "Electricity (with Dua Lipa)",
+        "Artist": "Silk City, Dua Lipa, Diplo, Mark Ronson",
+        "Key": "8B",
+        "Energy": 7.03,
+        "Popularity": 7.66,
+        "BPM": 118,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Dance Remixes",
+            "Romantic & Slow Dance",
+            "Pop",
+            "EDM",
+            "Latin"
+        ],
+        "Additional Info": {
+            "id": "5N4erncE7kuUccm7zEmwzk",
+            "explicit": false,
+            "album": "Electricity (with Dua Lipa)",
+            "release_date": "2018-09-06",
+            "genres": [
+                "edm",
+                "dance pop",
+                "pop",
+                "uk pop",
+                "edm",
+                "electro house",
+                "moombahton",
+                "pop dance",
+                "pop soul"
+            ],
+            "duration": 238173,
+            "acousticness": 0.0104,
+            "danceability": 6.292,
+            "instrumentalness": 3.33e-06,
+            "liveness": 0.338,
+            "loudness": -6.439,
+            "speechiness": 0.0473,
+            "time_signature": 4,
+            "happiness": 5.545
+        }
+    },
+    {
+        "#": 85,
+        "Track Title": "Body",
+        "Artist": "Loud Luxury, Brando",
+        "Key": "3B",
+        "Energy": 7.876,
+        "Popularity": 8.11,
+        "BPM": 122,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Dance Remixes",
+            "EDM",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "21RzyxY3EFaxVy6K4RqaU9",
+            "explicit": false,
+            "album": "Body",
+            "release_date": "2017-10-27",
+            "genres": [
+                "edm",
+                "pop dance",
+                "dance pop",
+                "pop dance"
+            ],
+            "duration": 163216,
+            "acousticness": 0.0476,
+            "danceability": 7.768,
+            "instrumentalness": 9.44e-05,
+            "liveness": 0.0543,
+            "loudness": -4.399,
+            "speechiness": 0.038,
+            "time_signature": 4,
+            "happiness": 6.2379999999999995
+        }
+    },
+    {
+        "#": 86,
+        "Track Title": "Oh Baby",
+        "Artist": "Seizo",
+        "Key": "4B",
+        "Energy": 8.2,
+        "Popularity": 5.95,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "0RNdlFw9TaimQ6syL8rgCh",
+            "explicit": false,
+            "album": "Oh Baby",
+            "release_date": "2016-02-25",
+            "genres": [
+                "deep tropical house"
+            ],
+            "duration": 159896,
+            "acousticness": 0.0278,
+            "danceability": 7.255,
+            "instrumentalness": 0.00118,
+            "liveness": 0.118,
+            "loudness": -5.011,
+            "speechiness": 0.0345,
+            "time_signature": 4,
+            "happiness": 4.51
+        }
+    },
+    {
+        "#": 87,
+        "Track Title": "Fireball (feat. John Ryan)",
+        "Artist": "Pitbull, John Ryan",
+        "Key": "6B",
+        "Energy": 9.397,
+        "Popularity": 8.02,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Hip Hop",
+            "Dance Remixes",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4Y7XAxTANhu3lmnLAzhWJW",
+            "explicit": false,
+            "album": "Globalization",
+            "release_date": "2014-11-21",
+            "genres": [
+                "dance pop",
+                "miami hip hop",
+                "pop"
+            ],
+            "duration": 236200,
+            "acousticness": 0.0908,
+            "danceability": 7.849,
+            "instrumentalness": 8.53e-05,
+            "liveness": 0.0607,
+            "loudness": -5.38,
+            "speechiness": 0.056,
+            "time_signature": 4,
+            "happiness": 8.524000000000001
+        }
+    },
+    {
+        "#": 88,
+        "Track Title": "Can't Stop Us Now",
+        "Artist": "Pitbull, Zac Brown",
+        "Key": "2A",
+        "Energy": 8.893,
+        "Popularity": 6.76,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Hip Hop",
+            "Dance Remixes",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6SOuxyJH5glKeDSFUJJ5tX",
+            "explicit": false,
+            "album": "Can't Stop Us Now",
+            "release_date": "2022-04-29",
+            "genres": [
+                "dance pop",
+                "miami hip hop",
+                "pop"
+            ],
+            "duration": 202019,
+            "acousticness": 0.00837,
+            "danceability": 6.886,
+            "instrumentalness": 1.1e-06,
+            "liveness": 0.371,
+            "loudness": -4.818,
+            "speechiness": 0.0996,
+            "time_signature": 4,
+            "happiness": 9.181000000000001
+        }
+    },
+    {
+        "#": 89,
+        "Track Title": "SOS - Laidback Luke Tribute Remix / Radio Edit",
+        "Artist": "Avicii, Aloe Blacc, Laidback Luke",
+        "Key": "7A",
+        "Energy": 9.235,
+        "Popularity": 6.040000000000001,
+        "BPM": 124,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Dance Remixes",
+            "Romantic & Slow Dance",
+            "Pop",
+            "Club-Hotel",
+            "EDM",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3eLdNmnRWr9gIyBcqTSSti",
+            "explicit": false,
+            "album": "SOS (Laidback Luke Tribute Remix)",
+            "release_date": "2019-05-17",
+            "genres": [
+                "edm",
+                "pop",
+                "pop dance",
+                "pop soul",
+                "r&b",
+                "big room",
+                "dutch edm",
+                "dutch house",
+                "edm",
+                "electro house",
+                "house",
+                "pop dance",
+                "progressive electro house",
+                "progressive house"
+            ],
+            "duration": 164516,
+            "acousticness": 0.0111,
+            "danceability": 6.148,
+            "instrumentalness": 0,
+            "liveness": 0.339,
+            "loudness": -4.451,
+            "speechiness": 0.0625,
+            "time_signature": 4,
+            "happiness": 7.102
+        }
+    },
+    {
+        "#": 90,
+        "Track Title": "Wrong Side of Love (with Darius Rucker)",
+        "Artist": "Young Bombs, Darius Rucker",
+        "Key": "10B",
+        "Energy": 8.866,
+        "Popularity": 5.59,
+        "BPM": 102,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "EDM",
+            "Pop",
+            "Nostalgic",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "1vxjmNMsJRLEhoYGpOXOXB",
+            "explicit": true,
+            "album": "The Young Bombs Show",
+            "release_date": "2020-10-23",
+            "genres": [
+                "pop edm",
+                "black americana",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 229198,
+            "acousticness": 0.114,
+            "danceability": 6.066999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.109,
+            "loudness": -4.122,
+            "speechiness": 0.0377,
+            "time_signature": 4,
+            "happiness": 3.088
+        }
+    },
+    {
+        "#": 91,
+        "Track Title": "First Time - Gryffin Remix",
+        "Artist": "Kygo, Ellie Goulding, Gryffin",
+        "Key": "5B",
+        "Energy": 8.290000000000001,
+        "Popularity": 5.95,
+        "BPM": 105,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Dance Remixes",
+            "Pop",
+            "Club-Hotel",
+            "Inspiring",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "6LIe9o2p1xfj72rx4NDY8k",
+            "explicit": false,
+            "album": "First Time (Remixes)",
+            "release_date": "2017-06-30",
+            "genres": [
+                "edm",
+                "pop",
+                "pop dance",
+                "tropical house",
+                "indietronica",
+                "metropopolis",
+                "pop",
+                "uk pop",
+                "edm",
+                "pop dance"
+            ],
+            "duration": 173440,
+            "acousticness": 0.0564,
+            "danceability": 5.446,
+            "instrumentalness": 0,
+            "liveness": 0.104,
+            "loudness": -4.37,
+            "speechiness": 0.0533,
+            "time_signature": 4,
+            "happiness": 4.834
+        }
+    },
+    {
+        "#": 92,
+        "Track Title": "Undeniable (feat. X Ambassadors)",
+        "Artist": "Kygo, X Ambassadors",
+        "Key": "2B",
+        "Energy": 5.554,
+        "Popularity": 6.67,
+        "BPM": 108,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "Rock",
+            "Dance Remixes",
+            "EDM",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "71qB68guEJjbvtjlkZ8DF5",
+            "explicit": false,
+            "album": "Undeniable (feat. X Ambassadors)",
+            "release_date": "2021-10-15",
+            "genres": [
+                "edm",
+                "pop",
+                "pop dance",
+                "tropical house",
+                "modern alternative rock",
+                "modern rock",
+                "stomp pop"
+            ],
+            "duration": 180596,
+            "acousticness": 0.159,
+            "danceability": 7.156000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.26,
+            "loudness": -6.743,
+            "speechiness": 0.0338,
+            "time_signature": 4,
+            "happiness": 4.167999999999999
+        }
+    },
+    {
+        "#": 93,
+        "Track Title": "I Love It When You Cry (Moxoki) - Radio Edit",
+        "Artist": "Steve Aoki, Moxie Raia",
+        "Key": "11B",
+        "Energy": 8.155000000000001,
+        "Popularity": 5.7700000000000005,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Dance Remixes",
+            "EDM",
+            "Pop",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "6vscP7Fweq7fwosyliwjRq",
+            "explicit": false,
+            "album": "Neon Future II",
+            "release_date": "2015-05-11",
+            "genres": [
+                "edm",
+                "electro house",
+                "pop dance",
+                "indie poptimism"
+            ],
+            "duration": 191653,
+            "acousticness": 0.0246,
+            "danceability": 6.751,
+            "instrumentalness": 0.000324,
+            "liveness": 0.509,
+            "loudness": -3.535,
+            "speechiness": 0.0416,
+            "time_signature": 4,
+            "happiness": 5.086
+        }
+    },
+    {
+        "#": 94,
+        "Track Title": "Kuaga (Lost Time) (Radio Edit)",
+        "Artist": "Pierce Fulton",
+        "Key": "3B",
+        "Energy": 9.73,
+        "Popularity": 1.0,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "EDM",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "2ce5n5MpJQgvnAHtmfxS1C",
+            "explicit": false,
+            "album": "Kuaga (Lost Time) (Radio Edit)",
+            "release_date": "2015-05-16",
+            "genres": [
+                "complextro",
+                "pop edm",
+                "progressive electro house"
+            ],
+            "duration": 177415,
+            "acousticness": 0.105,
+            "danceability": 6.418,
+            "instrumentalness": 0.0053,
+            "liveness": 0.201,
+            "loudness": -3.994,
+            "speechiness": 0.125,
+            "time_signature": 4,
+            "happiness": 4.276
+        }
+    },
+    {
+        "#": 95,
+        "Track Title": "The Bull - Brandon Day Remix",
+        "Artist": "Kip Moore, Brandon Day",
+        "Key": "9B",
+        "Energy": 6.9670000000000005,
+        "Popularity": 4.779999999999999,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "7IEIDFFbYd2csTAbCx5DHC",
+            "explicit": false,
+            "album": "The Bull (Brandon Day Remix)",
+            "release_date": "2019-05-10",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 194093,
+            "acousticness": 0.00716,
+            "danceability": 8.146,
+            "instrumentalness": 0.000391,
+            "liveness": 0.333,
+            "loudness": -8.317,
+            "speechiness": 0.0463,
+            "time_signature": 4,
+            "happiness": 5.995
+        }
+    },
+    {
+        "#": 96,
+        "Track Title": "Butterflies - Mazare Remix",
+        "Artist": "William Black, Fairlane, Dia Frampton, Mazare",
+        "Key": "5B",
+        "Energy": 8.128,
+        "Popularity": 1.0,
+        "BPM": 88,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s",
+            "EDM",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "13b126zDe3Qj6IU2LGDCI6",
+            "explicit": false,
+            "album": "Butterflies (Remixes)",
+            "release_date": "2020-08-07",
+            "genres": [
+                "melodic dubstep",
+                "pop edm",
+                "melodic dubstep",
+                "pop edm",
+                "dancefloor dnb",
+                "melodic dubstep"
+            ],
+            "duration": 188182,
+            "acousticness": 0.00757,
+            "danceability": 4.321,
+            "instrumentalness": 0,
+            "liveness": 0.0746,
+            "loudness": -4.164,
+            "speechiness": 0.0399,
+            "time_signature": 4,
+            "happiness": 3.988
+        }
+    },
+    {
+        "#": 97,
+        "Track Title": "Body Back (feat. Maia Wright)",
+        "Artist": "Gryffin, Maia Wright",
+        "Key": "4B",
+        "Energy": 8.488,
+        "Popularity": 6.58,
+        "BPM": 123,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Dance Remixes",
+            "EDM",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "57DJaoHdeeRrg7MWthNnee",
+            "explicit": false,
+            "album": "Gravity",
+            "release_date": "2019-10-24",
+            "genres": [
+                "edm",
+                "pop dance",
+                "vocal trance"
+            ],
+            "duration": 214547,
+            "acousticness": 0.0931,
+            "danceability": 7.183000000000001,
+            "instrumentalness": 1.32e-06,
+            "liveness": 0.183,
+            "loudness": -4.434,
+            "speechiness": 0.0366,
+            "time_signature": 4,
+            "happiness": 5.032
+        }
+    },
+    {
+        "#": 98,
+        "Track Title": "California",
+        "Artist": "Molly Parton, Fairground Saints",
+        "Key": "12B",
+        "Energy": 9.334,
+        "Popularity": 5.41,
+        "BPM": 117,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "37jX7uXSy9gaMiH67fP78N",
+            "explicit": false,
+            "album": "California",
+            "release_date": "2020-02-14",
+            "genres": [
+                "indiecoustica"
+            ],
+            "duration": 144647,
+            "acousticness": 0.00873,
+            "danceability": 6.0040000000000004,
+            "instrumentalness": 2.53e-05,
+            "liveness": 0.367,
+            "loudness": -3.806,
+            "speechiness": 0.26,
+            "time_signature": 4,
+            "happiness": 4.879
+        }
+    },
+    {
+        "#": 99,
+        "Track Title": "Sorry - Rave Republic Remix",
+        "Artist": "Joel Corry, Rave Republic",
+        "Key": "1B",
+        "Energy": 8.722,
+        "Popularity": 2.98,
+        "BPM": 128,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Club-Hotel",
+            "Dance Remixes",
+            "EDM",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "7KFykrmUx5bVwQYJoLC4ez",
+            "explicit": false,
+            "album": "Sorry (The Remixes) [Pt.2]",
+            "release_date": "2019-12-13",
+            "genres": [
+                "dance pop",
+                "pop dance",
+                "uk dance",
+                "big room",
+                "singaporean electronic",
+                "singaporean pop"
+            ],
+            "duration": 235048,
+            "acousticness": 0.0123,
+            "danceability": 7.12,
+            "instrumentalness": 2.91e-06,
+            "liveness": 0.38,
+            "loudness": -7.204,
+            "speechiness": 0.0557,
+            "time_signature": 4,
+            "happiness": 3.9970000000000003
+        }
+    },
+    {
+        "#": 100,
+        "Track Title": "Runaway (U & I)",
+        "Artist": "Galantis",
+        "Key": "3B",
+        "Energy": 8.245000000000001,
+        "Popularity": 8.02,
+        "BPM": 126,
+        "DJ Play Count": 0,
+        "Rating": "*******",
+        "My Tag": [
+            "Sp- 4July",
+            "2010s",
+            "Dance Remixes",
+            "EDM",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "46lFttIf5hnUZMGvjK0Wxo",
+            "explicit": false,
+            "album": "Pharmacy",
+            "release_date": "2015-06-05",
+            "genres": [
+                "dance pop",
+                "edm",
+                "pop",
+                "pop dance"
+            ],
+            "duration": 227074,
+            "acousticness": 0.00711,
+            "danceability": 5.554,
+            "instrumentalness": 0.00193,
+            "liveness": 0.0856,
+            "loudness": -4.119,
+            "speechiness": 0.0469,
+            "time_signature": 4,
+            "happiness": 4.447
+        }
+    }
+]

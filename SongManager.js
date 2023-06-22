@@ -243,7 +243,7 @@ export default class SongManager {
 
 
     // Update the song list based on the current BPM range
-    updateSongList(energy = 5, popularity = 9) {
+    updateSongList(energy = 9, popularity = 9) {
         /* NOTE THAT THE DEFAULT canvas drawing of Energy=4 and Popularity=8 Are in GraphManager2D.initializeDefaultSelection*/
         // Clear the existing song list
         while (this.listOfSongs_UI.firstChild) {
