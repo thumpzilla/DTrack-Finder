@@ -1,0 +1,1131 @@
+[
+    {
+        "#": 1,
+        "Track Title": "Fourth of July",
+        "Artist": "Sufjan Stevens",
+        "Key": "2A",
+        "Energy": 1.936,
+        "Popularity": 8.379999999999999,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop",
+            "Rock",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "5Qnrgqy1pAm9GyNQOgyVFz",
+            "explicit": false,
+            "album": "Carrie & Lowell",
+            "release_date": "2015-03-31",
+            "genres": [
+                "art pop",
+                "baroque pop",
+                "chamber pop",
+                "indie pop",
+                "indie rock",
+                "singer-songwriter"
+            ],
+            "duration": 279316,
+            "acousticness": 0.973,
+            "danceability": 4.915,
+            "instrumentalness": 0.33,
+            "liveness": 0.119,
+            "loudness": -22.39,
+            "speechiness": 0.0445,
+            "time_signature": 4,
+            "happiness": 2.458
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Strange",
+        "Artist": "Celeste",
+        "Key": "10B",
+        "Energy": 1.7623,
+        "Popularity": 7.75,
+        "BPM": 71,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Romantic & Slow Dance",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "7sq2z9oX2S0CvgTqCZ0ko4",
+            "explicit": false,
+            "album": "Not Your Muse (Deluxe)",
+            "release_date": "2021-01-29",
+            "genres": [
+                "british soul"
+            ],
+            "duration": 255987,
+            "acousticness": 0.934,
+            "danceability": 3.574,
+            "instrumentalness": 6.94e-06,
+            "liveness": 0.121,
+            "loudness": -9.883,
+            "speechiness": 0.0397,
+            "time_signature": 4,
+            "happiness": 2.008
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "Freaks",
+        "Artist": "Surf Curse",
+        "Key": "11B",
+        "Energy": 9.469,
+        "Popularity": 8.83,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "7EkWXAI1wn8Ii883ecd9xr",
+            "explicit": false,
+            "album": "Freaks",
+            "release_date": "2021-05-15",
+            "genres": [
+                "dreamo",
+                "indie surf",
+                "pov: indie",
+                "surf punk",
+                "vegas indie"
+            ],
+            "duration": 147062,
+            "acousticness": 3.84e-05,
+            "danceability": 4.1049999999999995,
+            "instrumentalness": 0.633,
+            "liveness": 0.0511,
+            "loudness": -9.918,
+            "speechiness": 0.0466,
+            "time_signature": 4,
+            "happiness": 4.663
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "I Love You So",
+        "Artist": "The Walters",
+        "Key": "6B",
+        "Energy": 6.832,
+        "Popularity": 9.01,
+        "BPM": 76,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "4SqWKzw0CbA05TGszDgMlc",
+            "explicit": false,
+            "album": "I Love You So",
+            "release_date": "2014-11-28",
+            "genres": [
+                "chicago indie",
+                "pov: indie"
+            ],
+            "duration": 160240,
+            "acousticness": 0.583,
+            "danceability": 6.175,
+            "instrumentalness": 0,
+            "liveness": 0.115,
+            "loudness": -4.891,
+            "speechiness": 0.0358,
+            "time_signature": 4,
+            "happiness": 5.194
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Cry",
+        "Artist": "Cigarettes After Sex",
+        "Key": "9B",
+        "Energy": 4.591,
+        "Popularity": 8.2,
+        "BPM": 143,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "3p4hRhMcb6ch8OLtATMaLw",
+            "explicit": false,
+            "album": "Cry",
+            "release_date": "2019-10-25",
+            "genres": [
+                "ambient pop",
+                "dream pop",
+                "el paso indie",
+                "shoegaze"
+            ],
+            "duration": 256800,
+            "acousticness": 0.756,
+            "danceability": 4.654,
+            "instrumentalness": 0.678,
+            "liveness": 0.112,
+            "loudness": -10.449,
+            "speechiness": 0.0278,
+            "time_signature": 4,
+            "happiness": 2.467
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "What Would I Do?",
+        "Artist": "Strawberry Guy",
+        "Key": "1B",
+        "Energy": 5.149,
+        "Popularity": 7.66,
+        "BPM": 129,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "5EJA7Rwkeuvm98CZg0XXNO",
+            "explicit": false,
+            "album": "What Would I Do?",
+            "release_date": "2019-07-22",
+            "genres": [
+                "bedroom pop"
+            ],
+            "duration": 234000,
+            "acousticness": 0.457,
+            "danceability": 5.851,
+            "instrumentalness": 0.903,
+            "liveness": 0.072,
+            "loudness": -7.674,
+            "speechiness": 0.0279,
+            "time_signature": 4,
+            "happiness": 4.9239999999999995
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "No Surprises",
+        "Artist": "Radiohead",
+        "Key": "7B",
+        "Energy": 4.537,
+        "Popularity": 8.649999999999999,
+        "BPM": 76,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Rock",
+            "Inspiring",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "10nyNJ6zNy2YVYLrcwLccB",
+            "explicit": false,
+            "album": "OK Computer",
+            "release_date": "1997-05-28",
+            "genres": [
+                "alternative rock",
+                "art rock",
+                "melancholia",
+                "oxford indie",
+                "permanent wave",
+                "rock"
+            ],
+            "duration": 229120,
+            "acousticness": 0.0577,
+            "danceability": 3.295,
+            "instrumentalness": 0.00361,
+            "liveness": 0.113,
+            "loudness": -10.654,
+            "speechiness": 0.0278,
+            "time_signature": 4,
+            "happiness": 2.062
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "My Kind of Woman",
+        "Artist": "Mac DeMarco",
+        "Key": "2A",
+        "Energy": 7.885,
+        "Popularity": 8.469999999999999,
+        "BPM": 92,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "6jgkEbmQ2F2onEqsEhiliL",
+            "explicit": false,
+            "album": "2",
+            "release_date": "2012-10-16",
+            "genres": [
+                "edmonton indie",
+                "lo-fi indie",
+                "pov: indie"
+            ],
+            "duration": 190846,
+            "acousticness": 0.00294,
+            "danceability": 5.509,
+            "instrumentalness": 0.49,
+            "liveness": 0.184,
+            "loudness": -7.063,
+            "speechiness": 0.0281,
+            "time_signature": 4,
+            "happiness": 5.140000000000001
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "First Love/Late Spring",
+        "Artist": "Mitski",
+        "Key": "8B",
+        "Energy": 5.8870000000000005,
+        "Popularity": 8.11,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "3sslYZcFKtUvIEWN9lADgr",
+            "explicit": false,
+            "album": "Bury Me At Makeout Creek",
+            "release_date": "2014-11-11",
+            "genres": [
+                "brooklyn indie",
+                "pov: indie"
+            ],
+            "duration": 278640,
+            "acousticness": 0.000825,
+            "danceability": 5.005,
+            "instrumentalness": 0.0137,
+            "liveness": 0.202,
+            "loudness": -8.196,
+            "speechiness": 0.0272,
+            "time_signature": 4,
+            "happiness": 1.918
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "YKWIM?",
+        "Artist": "Yot Club",
+        "Key": "11B",
+        "Energy": 5.833,
+        "Popularity": 8.559999999999999,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2vWBUC9djv6BtiGlmKiQaH",
+            "explicit": false,
+            "album": "Bipolar",
+            "release_date": "2019-05-31",
+            "genres": [
+                "bedroom pop"
+            ],
+            "duration": 212750,
+            "acousticness": 0.937,
+            "danceability": 4.348,
+            "instrumentalness": 0.873,
+            "liveness": 0.287,
+            "loudness": -7.623,
+            "speechiness": 0.0305,
+            "time_signature": 3,
+            "happiness": 3.052
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Telephones",
+        "Artist": "Vacations",
+        "Key": "10B",
+        "Energy": 5.023,
+        "Popularity": 8.469999999999999,
+        "BPM": 75,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "0JIMT9gzLIIz0esKLyjbKf",
+            "explicit": false,
+            "album": "Changes",
+            "release_date": "2018",
+            "genres": [
+                "newcastle nsw indie"
+            ],
+            "duration": 212432,
+            "acousticness": 0.00283,
+            "danceability": 5.734,
+            "instrumentalness": 0.0301,
+            "liveness": 0.109,
+            "loudness": -9.268,
+            "speechiness": 0.0274,
+            "time_signature": 4,
+            "happiness": 2.6470000000000002
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "I Bet on Losing Dogs",
+        "Artist": "Mitski",
+        "Key": "11B",
+        "Energy": 5.437,
+        "Popularity": 8.02,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "2Co0IjcLTSHMtodwD4gzfg",
+            "explicit": false,
+            "album": "Puberty 2",
+            "release_date": "2016-06-17",
+            "genres": [
+                "brooklyn indie",
+                "pov: indie"
+            ],
+            "duration": 170240,
+            "acousticness": 0.00347,
+            "danceability": 4.582000000000001,
+            "instrumentalness": 0.000157,
+            "liveness": 0.106,
+            "loudness": -9.561,
+            "speechiness": 0.0303,
+            "time_signature": 4,
+            "happiness": 4.708
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "Watching Him Fade Away",
+        "Artist": "Mac DeMarco",
+        "Key": "5B",
+        "Energy": 1.648,
+        "Popularity": 7.84,
+        "BPM": 139,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "2QzKAF0y1BQhxwg8N05Uog",
+            "explicit": false,
+            "album": "This Old Dog",
+            "release_date": "2017-05-05",
+            "genres": [
+                "edmonton indie",
+                "lo-fi indie",
+                "pov: indie"
+            ],
+            "duration": 143080,
+            "acousticness": 0.981,
+            "danceability": 7.66,
+            "instrumentalness": 0.00698,
+            "liveness": 0.111,
+            "loudness": -17.984,
+            "speechiness": 0.0713,
+            "time_signature": 4,
+            "happiness": 3.673
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "Romantic Homicide",
+        "Artist": "d4vd",
+        "Key": "2B",
+        "Energy": 5.896000000000001,
+        "Popularity": 9.280000000000001,
+        "BPM": 132,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1xK59OXxi2TAAAbmZK0kBL",
+            "explicit": false,
+            "album": "Romantic Homicide",
+            "release_date": "2022-07-20",
+            "genres": [
+                "bedroom pop",
+                "bedroom r&b"
+            ],
+            "duration": 132631,
+            "acousticness": 0.453,
+            "danceability": 6.138999999999999,
+            "instrumentalness": 0.00805,
+            "liveness": 0.322,
+            "loudness": -10.613,
+            "speechiness": 0.0299,
+            "time_signature": 4,
+            "happiness": 2.944
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Lights Are On",
+        "Artist": "Tom Rosenthal",
+        "Key": "5B",
+        "Energy": 1.3599999999999999,
+        "Popularity": 8.290000000000001,
+        "BPM": 136,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "4IhTXiZLKATmwhMZIb1GQN",
+            "explicit": false,
+            "album": "Z-Sides",
+            "release_date": "2018-10-26",
+            "genres": [
+                "british singer-songwriter"
+            ],
+            "duration": 193749,
+            "acousticness": 0.981,
+            "danceability": 4.96,
+            "instrumentalness": 0.465,
+            "liveness": 0.111,
+            "loudness": -16.887,
+            "speechiness": 0.0322,
+            "time_signature": 4,
+            "happiness": 3.241
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "Mrs Magic",
+        "Artist": "Strawberry Guy",
+        "Key": "4B",
+        "Energy": 6.706,
+        "Popularity": 8.290000000000001,
+        "BPM": 133,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "0TZejo18HlJ86OrWNsXKnw",
+            "explicit": false,
+            "album": "Mrs Magic",
+            "release_date": "2019-07-24",
+            "genres": [
+                "bedroom pop"
+            ],
+            "duration": 208500,
+            "acousticness": 0.159,
+            "danceability": 5.239,
+            "instrumentalness": 0.365,
+            "liveness": 0.374,
+            "loudness": -7.406,
+            "speechiness": 0.031,
+            "time_signature": 4,
+            "happiness": 4.2940000000000005
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "I Can't Handle Change",
+        "Artist": "Roar",
+        "Key": "7B",
+        "Energy": 4.942,
+        "Popularity": 8.379999999999999,
+        "BPM": 93,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "0I1eFRytp4XRhLCjT6tZm7",
+            "explicit": false,
+            "album": "I Can't Handle Change",
+            "release_date": "2010-03-14",
+            "genres": [
+                "pov: indie",
+                "weirdcore"
+            ],
+            "duration": 198213,
+            "acousticness": 0.0447,
+            "danceability": 3.223,
+            "instrumentalness": 0.000867,
+            "liveness": 0.111,
+            "loudness": -8.478,
+            "speechiness": 0.0358,
+            "time_signature": 3,
+            "happiness": 4.51
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "Bubble Gum",
+        "Artist": "Clairo",
+        "Key": "11B",
+        "Energy": 1.1503,
+        "Popularity": 8.2,
+        "BPM": 104,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3zksbXteOCeSusJ5Xltr3t",
+            "explicit": false,
+            "album": "Bubble Gum",
+            "release_date": "2019-02-22",
+            "genres": [
+                "bedroom pop",
+                "indie pop",
+                "pop",
+                "pov: indie"
+            ],
+            "duration": 175961,
+            "acousticness": 0.979,
+            "danceability": 5.581,
+            "instrumentalness": 2.72e-05,
+            "liveness": 0.387,
+            "loudness": -24.639,
+            "speechiness": 0.115,
+            "time_signature": 3,
+            "happiness": 3.061
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Heart To Heart",
+        "Artist": "Mac DeMarco",
+        "Key": "4A",
+        "Energy": 2.224,
+        "Popularity": 8.92,
+        "BPM": 75,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "7EAMXbLcL0qXmciM5SwMh2",
+            "explicit": false,
+            "album": "Here Comes The Cowboy",
+            "release_date": "2019-05-10",
+            "genres": [
+                "edmonton indie",
+                "lo-fi indie",
+                "pov: indie"
+            ],
+            "duration": 211140,
+            "acousticness": 0.667,
+            "danceability": 9.109,
+            "instrumentalness": 0.354,
+            "liveness": 0.109,
+            "loudness": -16.127,
+            "speechiness": 0.102,
+            "time_signature": 4,
+            "happiness": 6.787
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "Call It Fate, Call It Karma",
+        "Artist": "The Strokes",
+        "Key": "12A",
+        "Energy": 3.169,
+        "Popularity": 7.57,
+        "BPM": 109,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Rock",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "3Y4rUyw7XBCK6hGHCOt6rp",
+            "explicit": false,
+            "album": "Comedown Machine",
+            "release_date": "2013-03-25",
+            "genres": [
+                "alternative rock",
+                "garage rock",
+                "modern rock",
+                "permanent wave",
+                "rock"
+            ],
+            "duration": 204773,
+            "acousticness": 0.983,
+            "danceability": 5.896000000000001,
+            "instrumentalness": 0.774,
+            "liveness": 0.101,
+            "loudness": -14.779,
+            "speechiness": 0.03,
+            "time_signature": 4,
+            "happiness": 4.231
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Good Looking",
+        "Artist": "Suki Waterhouse",
+        "Key": "12B",
+        "Energy": 5.986000000000001,
+        "Popularity": 8.379999999999999,
+        "BPM": 75,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0j3mqDTK4Z6lvrLzFCUUz6",
+            "explicit": false,
+            "album": "Good Looking",
+            "release_date": "2022-08-18",
+            "genres": [
+                "indie pop"
+            ],
+            "duration": 214800,
+            "acousticness": 0.077,
+            "danceability": 4.276,
+            "instrumentalness": 0.000297,
+            "liveness": 0.125,
+            "loudness": -9.076,
+            "speechiness": 0.0301,
+            "time_signature": 3,
+            "happiness": 3.313
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "Young",
+        "Artist": "Vacations",
+        "Key": "9B",
+        "Energy": 8.290000000000001,
+        "Popularity": 8.469999999999999,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "1KIJclzEbNhSVw8tiHPWwE",
+            "explicit": false,
+            "album": "Vibes",
+            "release_date": "2016",
+            "genres": [
+                "newcastle nsw indie"
+            ],
+            "duration": 189160,
+            "acousticness": 0.00392,
+            "danceability": 5.482,
+            "instrumentalness": 0.00717,
+            "liveness": 0.0635,
+            "loudness": -4.065,
+            "speechiness": 0.0263,
+            "time_signature": 4,
+            "happiness": 6.346
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "Mind Over Matter (Reprise)",
+        "Artist": "Young the Giant",
+        "Key": "8B",
+        "Energy": 5.383,
+        "Popularity": 8.2,
+        "BPM": 76,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Rock",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "77KnJc8o5G1eKVwX5ywMeZ",
+            "explicit": false,
+            "album": "Mirrorball / Mind Over Matter (Reprise)",
+            "release_date": "2015-04-18",
+            "genres": [
+                "indietronica",
+                "modern alternative rock",
+                "modern rock",
+                "pov: indie",
+                "stomp and holler"
+            ],
+            "duration": 230867,
+            "acousticness": 0.229,
+            "danceability": 4.537,
+            "instrumentalness": 0,
+            "liveness": 0.128,
+            "loudness": -6.348,
+            "speechiness": 0.0337,
+            "time_signature": 4,
+            "happiness": 3.6999999999999997
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "As the World Caves In",
+        "Artist": "Matt Maltese",
+        "Key": "6B",
+        "Energy": 5.041,
+        "Popularity": 7.4799999999999995,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3NM41PVVUr0ceootKAtkAj",
+            "explicit": false,
+            "album": "Bad Contestant",
+            "release_date": "2018-06-08",
+            "genres": [
+                "indie anthem-folk",
+                "indie pop",
+                "pov: indie"
+            ],
+            "duration": 218755,
+            "acousticness": 0.369,
+            "danceability": 3.943,
+            "instrumentalness": 0.00444,
+            "liveness": 0.22,
+            "loudness": -5.362,
+            "speechiness": 0.034,
+            "time_signature": 4,
+            "happiness": 2.6109999999999998
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "TV",
+        "Artist": "Billie Eilish",
+        "Key": "12A",
+        "Energy": 3.1239999999999997,
+        "Popularity": 8.83,
+        "BPM": 140,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Inspiring",
+            "Pop",
+            "EDM",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "3GYlZ7tbxLOxe6ewMNVTkw",
+            "explicit": false,
+            "album": "Guitar Songs",
+            "release_date": "2022-07-21",
+            "genres": [
+                "art pop",
+                "electropop",
+                "pop"
+            ],
+            "duration": 281381,
+            "acousticness": 0.83,
+            "danceability": 4.708,
+            "instrumentalness": 0.00653,
+            "liveness": 0.147,
+            "loudness": -15.159,
+            "speechiness": 0.0379,
+            "time_signature": 4,
+            "happiness": 2.0709999999999997
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "The Other Woman",
+        "Artist": "Lana Del Rey",
+        "Key": "9A",
+        "Energy": 5.212000000000001,
+        "Popularity": 8.02,
+        "BPM": 112,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1KuVEZR4xuQVNr1KkanAV4",
+            "explicit": false,
+            "album": "Ultraviolence (Deluxe)",
+            "release_date": "2014-01-01",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 181960,
+            "acousticness": 0.822,
+            "danceability": 3.295,
+            "instrumentalness": 0.248,
+            "liveness": 0.339,
+            "loudness": -6.43,
+            "speechiness": 0.0317,
+            "time_signature": 4,
+            "happiness": 2.575
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "I Want You",
+        "Artist": "Mitski",
+        "Key": "5B",
+        "Energy": 3.6279999999999997,
+        "Popularity": 7.75,
+        "BPM": 132,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "7FHj19QQigvMH1onMYRNLn",
+            "explicit": false,
+            "album": "Retired from Sad, New Career in Business",
+            "release_date": "2013-08-01",
+            "genres": [
+                "brooklyn indie",
+                "pov: indie"
+            ],
+            "duration": 183792,
+            "acousticness": 0.514,
+            "danceability": 4.051,
+            "instrumentalness": 0,
+            "liveness": 0.0713,
+            "loudness": -11.294,
+            "speechiness": 0.0348,
+            "time_signature": 3,
+            "happiness": 1.5895000000000001
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "Christmas Kids",
+        "Artist": "Roar",
+        "Key": "10B",
+        "Energy": 7.786,
+        "Popularity": 8.83,
+        "BPM": 76,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "40gk32E7YaTFoQwDIWv2SY",
+            "explicit": true,
+            "album": "I Can't Handle Change",
+            "release_date": "2010-03-14",
+            "genres": [
+                "pov: indie",
+                "weirdcore"
+            ],
+            "duration": 135693,
+            "acousticness": 0.0104,
+            "danceability": 4.824999999999999,
+            "instrumentalness": 0.112,
+            "liveness": 0.438,
+            "loudness": -6.028,
+            "speechiness": 0.0367,
+            "time_signature": 4,
+            "happiness": 6.022
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "For the First Time",
+        "Artist": "Mac DeMarco",
+        "Key": "7A",
+        "Energy": 5.761,
+        "Popularity": 8.559999999999999,
+        "BPM": 76,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "2R4AlwtrrkMaRKojcTIzmL",
+            "explicit": false,
+            "album": "This Old Dog",
+            "release_date": "2017-05-05",
+            "genres": [
+                "edmonton indie",
+                "lo-fi indie",
+                "pov: indie"
+            ],
+            "duration": 182307,
+            "acousticness": 0.296,
+            "danceability": 5.9590000000000005,
+            "instrumentalness": 0.0093,
+            "liveness": 0.178,
+            "loudness": -10.469,
+            "speechiness": 0.0517,
+            "time_signature": 4,
+            "happiness": 5.689
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Blue Hair",
+        "Artist": "TV Girl",
+        "Key": "12B",
+        "Energy": 7.4799999999999995,
+        "Popularity": 8.92,
+        "BPM": 136,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "39sDitIeCMrVX2QyXHY46t",
+            "explicit": false,
+            "album": "Death of a Party Girl",
+            "release_date": "2018-05-08",
+            "genres": [
+                "pov: indie"
+            ],
+            "duration": 217000,
+            "acousticness": 0.554,
+            "danceability": 7.759,
+            "instrumentalness": 0.0497,
+            "liveness": 0.258,
+            "loudness": -6.376,
+            "speechiness": 0.0303,
+            "time_signature": 4,
+            "happiness": 8.956
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "Silver Soul",
+        "Artist": "Beach House",
+        "Key": "10B",
+        "Energy": 7.075,
+        "Popularity": 7.03,
+        "BPM": 135,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop",
+            "EDM",
+            "Rock",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "56eSclzdXaWU5jOJ7DX7Vp",
+            "explicit": false,
+            "album": "Teen Dream",
+            "release_date": "2010-01-25",
+            "genres": [
+                "art pop",
+                "baltimore indie",
+                "dream pop",
+                "dreamo",
+                "indie pop",
+                "indie rock",
+                "indietronica",
+                "modern dream pop",
+                "pov: indie"
+            ],
+            "duration": 298680,
+            "acousticness": 0.439,
+            "danceability": 4.186,
+            "instrumentalness": 8.55e-05,
+            "liveness": 0.28,
+            "loudness": -5.835,
+            "speechiness": 0.0324,
+            "time_signature": 4,
+            "happiness": 1.972
+        }
+    }
+]

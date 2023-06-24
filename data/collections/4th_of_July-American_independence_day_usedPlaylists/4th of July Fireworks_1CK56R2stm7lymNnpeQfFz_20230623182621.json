@@ -1,0 +1,717 @@
+[
+    {
+        "#": 1,
+        "Track Title": "The Natural",
+        "Artist": "Randy Newman",
+        "Key": "7B",
+        "Energy": 3.367,
+        "Popularity": 3.34,
+        "BPM": 77,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "80s",
+            "Inspiring",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "4qOvULmbt4cql7YBWDPvkn",
+            "explicit": false,
+            "album": "The Natural",
+            "release_date": "1984",
+            "genres": [
+                "movie tunes",
+                "singer-songwriter"
+            ],
+            "duration": 217907,
+            "acousticness": 0.192,
+            "danceability": 2.809,
+            "instrumentalness": 5.99e-05,
+            "liveness": 0.0999,
+            "loudness": -17.928,
+            "speechiness": 0.0331,
+            "time_signature": 4,
+            "happiness": 2.4850000000000003
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Born in the U.S.A.",
+        "Artist": "Bruce Springsteen",
+        "Key": "12B",
+        "Energy": 9.568,
+        "Popularity": 7.93,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "80s",
+            "Rock",
+            "Calm",
+            "Inspiring",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0dOg1ySSI7NkpAe89Zo0b9",
+            "explicit": false,
+            "album": "Born In The U.S.A.",
+            "release_date": "1984-06-04",
+            "genres": [
+                "heartland rock",
+                "mellow gold",
+                "permanent wave",
+                "rock",
+                "singer-songwriter"
+            ],
+            "duration": 278680,
+            "acousticness": 0.000373,
+            "danceability": 4.582000000000001,
+            "instrumentalness": 7.75e-05,
+            "liveness": 0.1,
+            "loudness": -6.042,
+            "speechiness": 0.061,
+            "time_signature": 4,
+            "happiness": 6.255999999999999
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "This Land Is Your Land",
+        "Artist": "Sam Hunt",
+        "Key": "12B",
+        "Energy": 3.718,
+        "Popularity": 5.32,
+        "BPM": 102,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Nostalgic",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "7HT2vhADZOJrwczl10DDaO",
+            "explicit": false,
+            "album": "This Land Is Your Land (From Bright: The Album)",
+            "release_date": "2017-12-15",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country pop"
+            ],
+            "duration": 154893,
+            "acousticness": 0.532,
+            "danceability": 3.745,
+            "instrumentalness": 0,
+            "liveness": 0.184,
+            "loudness": -9.414,
+            "speechiness": 0.031,
+            "time_signature": 3,
+            "happiness": 1.9809999999999999
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "R.O.C.K. In The U.S.A. (A Salute To 60's Rock)",
+        "Artist": "John Mellencamp",
+        "Key": "11B",
+        "Energy": 9.622,
+        "Popularity": 6.67,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "80s",
+            "Calm",
+            "Inspiring",
+            "Rock",
+            "Mad",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0lqfBvf1Gqmmt3l5Qeirlm",
+            "explicit": false,
+            "album": "Scarecrow",
+            "release_date": "1985",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "hard rock",
+                "heartland rock",
+                "mellow gold",
+                "rock",
+                "singer-songwriter",
+                "soft rock"
+            ],
+            "duration": 174360,
+            "acousticness": 0.00943,
+            "danceability": 4.888,
+            "instrumentalness": 2.79e-06,
+            "liveness": 0.227,
+            "loudness": -4.009,
+            "speechiness": 0.0819,
+            "time_signature": 4,
+            "happiness": 8.866
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "We Are The Champions - Remastered 2011",
+        "Artist": "Queen",
+        "Key": "9A",
+        "Energy": 5.131,
+        "Popularity": 6.94,
+        "BPM": 64,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "70s",
+            "Rock",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "7ccI9cStQbQdystvc6TvxD",
+            "explicit": false,
+            "album": "News Of The World (Deluxe Remastered Version)",
+            "release_date": "1977-10-28",
+            "genres": [
+                "classic rock",
+                "glam rock",
+                "rock"
+            ],
+            "duration": 179200,
+            "acousticness": 0.378,
+            "danceability": 3.412,
+            "instrumentalness": 0,
+            "liveness": 0.119,
+            "loudness": -6.948,
+            "speechiness": 0.0346,
+            "time_signature": 4,
+            "happiness": 2.548
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "The Star Spangled Banner (feat. The Florida Orchestra) - Live from Super Bowl XXV",
+        "Artist": "Whitney Houston, Florida Orchestra",
+        "Key": "4B",
+        "Energy": 6.832,
+        "Popularity": 3.61,
+        "BPM": 88,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Dance Remixes",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3F7ZB57jdi0ElIc8K8UiIt",
+            "explicit": false,
+            "album": "The Star Spangled Banner/America The Beautiful",
+            "release_date": "1991-02-12",
+            "genres": [
+                "dance pop",
+                "american orchestra"
+            ],
+            "duration": 134533,
+            "acousticness": 0.671,
+            "danceability": 3.1959999999999997,
+            "instrumentalness": 0.0196,
+            "liveness": 0.955,
+            "loudness": -6.574,
+            "speechiness": 0.0394,
+            "time_signature": 4,
+            "happiness": 5.455
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "God Bless The U.S.A.",
+        "Artist": "Lee Greenwood",
+        "Key": "7B",
+        "Energy": 4.798,
+        "Popularity": 6.22,
+        "BPM": 68,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s"
+        ],
+        "Additional Info": {
+            "id": "623lYBOJ7bLwh1bu3yeN5V",
+            "explicit": false,
+            "album": "American Patriot",
+            "release_date": "1992-01-01",
+            "genres": [
+                "classic country pop"
+            ],
+            "duration": 191600,
+            "acousticness": 0.0873,
+            "danceability": 3.691,
+            "instrumentalness": 0,
+            "liveness": 0.182,
+            "loudness": -9.977,
+            "speechiness": 0.0285,
+            "time_signature": 4,
+            "happiness": 2.512
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "American Soldier",
+        "Artist": "Toby Keith",
+        "Key": "11B",
+        "Energy": 6.031000000000001,
+        "Popularity": 1.0,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "4WygRabom8WGpPb44r40sK",
+            "explicit": false,
+            "album": "Shock 'N Y'all",
+            "release_date": "2003-01-01",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 263333,
+            "acousticness": 0.157,
+            "danceability": 5.9590000000000005,
+            "instrumentalness": 1.29e-05,
+            "liveness": 0.0589,
+            "loudness": -8.238,
+            "speechiness": 0.0381,
+            "time_signature": 4,
+            "happiness": 3.6999999999999997
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Courtesy Of The Red, White And Blue (The Angry American)",
+        "Artist": "Toby Keith",
+        "Key": "10B",
+        "Energy": 6.949,
+        "Popularity": 7.4799999999999995,
+        "BPM": 112,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0M7mWKqwTIaVjYyxfZmtTa",
+            "explicit": false,
+            "album": "Unleashed",
+            "release_date": "2002-01-01",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 195533,
+            "acousticness": 0.521,
+            "danceability": 4.816,
+            "instrumentalness": 1.62e-06,
+            "liveness": 0.0719,
+            "loudness": -5.547,
+            "speechiness": 0.0425,
+            "time_signature": 4,
+            "happiness": 4.4559999999999995
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Ride of the Valkyries (The Watchmen)",
+        "Artist": "London Symphony Orchestra",
+        "Key": "9B",
+        "Energy": 4.474,
+        "Popularity": 1.0,
+        "BPM": 88,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "7JczDg05i29N5C3VMZKIVA",
+            "explicit": false,
+            "album": "The Very Best of Sci-fi & Fantasy (From Sucker Punch to V for Vendetta) [Original Motion Picture Soundtrack]",
+            "release_date": "2011-08-21",
+            "genres": [
+                "british orchestra",
+                "classical",
+                "orchestra"
+            ],
+            "duration": 212187,
+            "acousticness": 0.919,
+            "danceability": 3.6279999999999997,
+            "instrumentalness": 0.904,
+            "liveness": 0.1,
+            "loudness": -12.965,
+            "speechiness": 0.0372,
+            "time_signature": 3,
+            "happiness": 1.5922
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Semper Fidelis",
+        "Artist": "John Philip Sousa, United States Marine Band",
+        "Key": "8B",
+        "Energy": 6.949,
+        "Popularity": 3.16,
+        "BPM": 109,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6qQXljVoD36HqI1KFu1RI0",
+            "explicit": false,
+            "album": "John Philip Sousa: Great American Military Marches",
+            "release_date": "2014-06-03",
+            "genres": [
+                "american romanticism",
+                "concert band",
+                "concert band",
+                "military band",
+                "wind symphony"
+            ],
+            "duration": 176911,
+            "acousticness": 0.917,
+            "danceability": 7.353999999999999,
+            "instrumentalness": 0.918,
+            "liveness": 0.408,
+            "loudness": -14.343,
+            "speechiness": 0.0512,
+            "time_signature": 4,
+            "happiness": 7.579
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "The Stars and Stripes Forever",
+        "Artist": "John Philip Sousa, United States Marine Band",
+        "Key": "4B",
+        "Energy": 4.734999999999999,
+        "Popularity": 4.24,
+        "BPM": 119,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0gkdVgqO1FpRChEMlNieo8",
+            "explicit": false,
+            "album": "John Philip Sousa: Great American Military Marches",
+            "release_date": "2014-06-03",
+            "genres": [
+                "american romanticism",
+                "concert band",
+                "concert band",
+                "military band",
+                "wind symphony"
+            ],
+            "duration": 217546,
+            "acousticness": 0.917,
+            "danceability": 5.473,
+            "instrumentalness": 0.908,
+            "liveness": 0.211,
+            "loudness": -14.459,
+            "speechiness": 0.0384,
+            "time_signature": 4,
+            "happiness": 8.911
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "It's A Great Day To Be Alive",
+        "Artist": "Travis Tritt",
+        "Key": "9B",
+        "Energy": 6.877000000000001,
+        "Popularity": 7.84,
+        "BPM": 129,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "3oW6SWwGqiZSPTiAp7ZQoH",
+            "explicit": false,
+            "album": "Down The Road I Go",
+            "release_date": "2000-10-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "outlaw country"
+            ],
+            "duration": 241533,
+            "acousticness": 0.246,
+            "danceability": 6.3549999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.264,
+            "loudness": -4.935,
+            "speechiness": 0.0265,
+            "time_signature": 4,
+            "happiness": 5.878
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "American Ride",
+        "Artist": "Toby Keith",
+        "Key": "11B",
+        "Energy": 9.163,
+        "Popularity": 6.58,
+        "BPM": 87,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0gjqyr5z7poniYymKRwsCN",
+            "explicit": false,
+            "album": "American Ride",
+            "release_date": "2009-10-06",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 165693,
+            "acousticness": 0.0829,
+            "danceability": 5.671,
+            "instrumentalness": 1.57e-06,
+            "liveness": 0.325,
+            "loudness": -2.681,
+            "speechiness": 0.0665,
+            "time_signature": 4,
+            "happiness": 8.146
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Where The Stars And Stripes And The Eagle Fly",
+        "Artist": "Aaron Tippin",
+        "Key": "10B",
+        "Energy": 7.957,
+        "Popularity": 5.5,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "1tTZM7LUDkxcykOVVIGW4W",
+            "explicit": false,
+            "album": "Stars And Stripes",
+            "release_date": "2002",
+            "genres": [
+                "country",
+                "country road"
+            ],
+            "duration": 228200,
+            "acousticness": 0.0351,
+            "danceability": 6.372999999999999,
+            "instrumentalness": 3.85e-05,
+            "liveness": 0.248,
+            "loudness": -4.053,
+            "speechiness": 0.0288,
+            "time_signature": 4,
+            "happiness": 4.186
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "Thank God I'm a Country Boy - Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974",
+        "Artist": "John Denver",
+        "Key": "11B",
+        "Energy": 8.893,
+        "Popularity": 5.05,
+        "BPM": 101,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "70s",
+            "Inspiring",
+            "Calm",
+            "Rock",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7sVfJHBjH9cr4XsTYAwNYI",
+            "explicit": false,
+            "album": "An Evening With John Denver",
+            "release_date": "1975-02",
+            "genres": [
+                "classic country pop",
+                "folk",
+                "folk rock",
+                "mellow gold",
+                "singer-songwriter",
+                "soft rock"
+            ],
+            "duration": 220627,
+            "acousticness": 0.612,
+            "danceability": 6.598,
+            "instrumentalness": 0,
+            "liveness": 0.965,
+            "loudness": -9.191,
+            "speechiness": 0.192,
+            "time_signature": 4,
+            "happiness": 8.038
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "It’s America",
+        "Artist": "Rodney Atkins",
+        "Key": "12B",
+        "Energy": 7.435,
+        "Popularity": 5.59,
+        "BPM": 134,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6QbcLktLNe7eYqh8TjZeCd",
+            "explicit": false,
+            "album": "It's America",
+            "release_date": "2010-06-29",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 213787,
+            "acousticness": 0.0374,
+            "danceability": 6.3549999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.374,
+            "loudness": -13.863,
+            "speechiness": 0.0384,
+            "time_signature": 4,
+            "happiness": 7.497999999999999
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "Feels Good to Be Free",
+        "Artist": "Pretty Decent",
+        "Key": "10B",
+        "Energy": 7.075,
+        "Popularity": 1.9,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "0YWmhiuxRR4IIql7qC41cy",
+            "explicit": false,
+            "album": "Feels Good to Be Free",
+            "release_date": "2020-07-03",
+            "genres": [],
+            "duration": 197333,
+            "acousticness": 0.000521,
+            "danceability": 6.1209999999999996,
+            "instrumentalness": 0,
+            "liveness": 0.0738,
+            "loudness": -6.839,
+            "speechiness": 0.0536,
+            "time_signature": 4,
+            "happiness": 6.346
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Pon de Replay",
+        "Artist": "Rihanna",
+        "Key": "9B",
+        "Energy": 6.76,
+        "Popularity": 8.379999999999999,
+        "BPM": 99,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Pop",
+            "Happy",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "4TsmezEQVSZNNPv5RJ65Ov",
+            "explicit": false,
+            "album": "Music Of The Sun",
+            "release_date": "2005-08-29",
+            "genres": [
+                "barbadian pop",
+                "pop",
+                "urban contemporary"
+            ],
+            "duration": 246960,
+            "acousticness": 0.000155,
+            "danceability": 8.011,
+            "instrumentalness": 0.00077,
+            "liveness": 0.101,
+            "loudness": -8.415,
+            "speechiness": 0.159,
+            "time_signature": 4,
+            "happiness": 5.482
+        }
+    }
+]

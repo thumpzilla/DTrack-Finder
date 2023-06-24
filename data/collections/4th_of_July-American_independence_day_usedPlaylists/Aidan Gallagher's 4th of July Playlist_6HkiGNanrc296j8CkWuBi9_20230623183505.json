@@ -1,0 +1,358 @@
+[
+    {
+        "#": 1,
+        "Track Title": "4th of July",
+        "Artist": "Aidan Gallagher",
+        "Key": "1B",
+        "Energy": 5.869000000000001,
+        "Popularity": 5.2299999999999995,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "3rUCg2lyW5ktSzJuD4BuDc",
+            "explicit": false,
+            "album": "4th of July",
+            "release_date": "2020-07-03",
+            "genres": [],
+            "duration": 320400,
+            "acousticness": 0.271,
+            "danceability": 4.348,
+            "instrumentalness": 1.16e-06,
+            "liveness": 0.212,
+            "loudness": -11.152,
+            "speechiness": 0.093,
+            "time_signature": 4,
+            "happiness": 3.718
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Annabelle's Homework",
+        "Artist": "Alec Benjamin",
+        "Key": "4B",
+        "Energy": 6.706,
+        "Popularity": 6.31,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Rock",
+            "Mad",
+            "Pop",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "0DYRjWiFJHvLjxRrywtltC",
+            "explicit": false,
+            "album": "Narrated For You",
+            "release_date": "2018-11-16",
+            "genres": [
+                "alt z",
+                "pop",
+                "pov: indie"
+            ],
+            "duration": 192501,
+            "acousticness": 0.701,
+            "danceability": 7.0840000000000005,
+            "instrumentalness": 1.63e-06,
+            "liveness": 0.223,
+            "loudness": -5.377,
+            "speechiness": 0.0385,
+            "time_signature": 4,
+            "happiness": 3.97
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "Heather",
+        "Artist": "Conan Gray",
+        "Key": "7B",
+        "Energy": 4.824999999999999,
+        "Popularity": 9.01,
+        "BPM": 102,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "4xqrdfXkTW4T0RauPLv3WA",
+            "explicit": false,
+            "album": "Kid Krow",
+            "release_date": "2020-03-20",
+            "genres": [
+                "bedroom pop",
+                "pop",
+                "pov: indie"
+            ],
+            "duration": 198040,
+            "acousticness": 0.584,
+            "danceability": 4.213,
+            "instrumentalness": 0,
+            "liveness": 0.322,
+            "loudness": -7.301,
+            "speechiness": 0.0333,
+            "time_signature": 3,
+            "happiness": 3.43
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Castle on the Hill",
+        "Artist": "Ed Sheeran",
+        "Key": "10B",
+        "Energy": 8.506,
+        "Popularity": 8.379999999999999,
+        "BPM": 135,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6PCUP3dWmTjcTtXY02oFdT",
+            "explicit": false,
+            "album": "÷ (Deluxe)",
+            "release_date": "2017-03-03",
+            "genres": [
+                "pop",
+                "uk pop"
+            ],
+            "duration": 261154,
+            "acousticness": 0.0232,
+            "danceability": 5.149,
+            "instrumentalness": 1.14e-05,
+            "liveness": 0.14,
+            "loudness": -4.868,
+            "speechiness": 0.0989,
+            "time_signature": 4,
+            "happiness": 5.239
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Places We Won't Walk",
+        "Artist": "Bruno Major",
+        "Key": "9A",
+        "Energy": 1.7731,
+        "Popularity": 1.09,
+        "BPM": 88,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "30QNjcM3Q1GnLFIIJjWQL1",
+            "explicit": false,
+            "album": "A Song For Every Moon",
+            "release_date": "2017-08-31",
+            "genres": [],
+            "duration": 169410,
+            "acousticness": 0.969,
+            "danceability": 4.492,
+            "instrumentalness": 7.35e-05,
+            "liveness": 0.108,
+            "loudness": -16.061,
+            "speechiness": 0.0472,
+            "time_signature": 3,
+            "happiness": 2.71
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Tenerife Sea",
+        "Artist": "Ed Sheeran",
+        "Key": "4B",
+        "Energy": 4.114,
+        "Popularity": 7.39,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1HbcclMpw0q2WDWpdGCKdS",
+            "explicit": false,
+            "album": "x (Deluxe Edition)",
+            "release_date": "2014-06-21",
+            "genres": [
+                "pop",
+                "uk pop"
+            ],
+            "duration": 241347,
+            "acousticness": 0.697,
+            "danceability": 5.7700000000000005,
+            "instrumentalness": 1.07e-05,
+            "liveness": 0.105,
+            "loudness": -10.497,
+            "speechiness": 0.0376,
+            "time_signature": 4,
+            "happiness": 4.231
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Lose You To Love Me",
+        "Artist": "Selena Gomez",
+        "Key": "12B",
+        "Energy": 4.087,
+        "Popularity": 8.559999999999999,
+        "BPM": 103,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4l0Mvzj72xxOpRrp6h8nHi",
+            "explicit": false,
+            "album": "Rare",
+            "release_date": "2020-01-10",
+            "genres": [
+                "pop",
+                "post-teen pop"
+            ],
+            "duration": 206459,
+            "acousticness": 0.556,
+            "danceability": 5.3919999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.21,
+            "loudness": -8.985,
+            "speechiness": 0.0436,
+            "time_signature": 4,
+            "happiness": 1.8801999999999999
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Photograph",
+        "Artist": "Ed Sheeran",
+        "Key": "12B",
+        "Energy": 4.411,
+        "Popularity": 8.92,
+        "BPM": 108,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1HNkqx9Ahdgi1Ixy2xkKkL",
+            "explicit": false,
+            "album": "x (Deluxe Edition)",
+            "release_date": "2014-06-21",
+            "genres": [
+                "pop",
+                "uk pop"
+            ],
+            "duration": 258987,
+            "acousticness": 0.607,
+            "danceability": 6.526,
+            "instrumentalness": 0.000464,
+            "liveness": 0.0986,
+            "loudness": -10.48,
+            "speechiness": 0.0476,
+            "time_signature": 4,
+            "happiness": 2.809
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "This Year's Love",
+        "Artist": "David Gray",
+        "Key": "4B",
+        "Energy": 2.503,
+        "Popularity": 1.3599999999999999,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Calm",
+            "Nostalgic",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "1dQOMZz9SkT7ig0w65lQWC",
+            "explicit": false,
+            "album": "White Ladder",
+            "release_date": "1998-11-02",
+            "genres": [
+                "neo mellow",
+                "permanent wave"
+            ],
+            "duration": 245533,
+            "acousticness": 0.731,
+            "danceability": 3.97,
+            "instrumentalness": 3.08e-05,
+            "liveness": 0.101,
+            "loudness": -11.635,
+            "speechiness": 0.0311,
+            "time_signature": 3,
+            "happiness": 2.818
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Perfect Way To Die",
+        "Artist": "Alicia Keys",
+        "Key": "7B",
+        "Energy": 4.582000000000001,
+        "Popularity": 1.0,
+        "BPM": 84,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Romantic & Slow Dance"
+        ],
+        "Additional Info": {
+            "id": "6sAxbhifwLAlrVCIGlLCgf",
+            "explicit": false,
+            "album": "Perfect Way To Die",
+            "release_date": "2020-06-19",
+            "genres": [
+                "neo soul",
+                "pop",
+                "r&b"
+            ],
+            "duration": 211621,
+            "acousticness": 0.934,
+            "danceability": 4.285,
+            "instrumentalness": 0.000244,
+            "liveness": 0.209,
+            "loudness": -5.695,
+            "speechiness": 0.053,
+            "time_signature": 4,
+            "happiness": 3.331
+        }
+    }
+]

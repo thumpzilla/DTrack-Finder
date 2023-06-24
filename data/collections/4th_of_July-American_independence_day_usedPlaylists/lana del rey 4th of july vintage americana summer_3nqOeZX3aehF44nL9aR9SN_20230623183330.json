@@ -1,0 +1,1547 @@
+[
+    {
+        "#": 1,
+        "Track Title": "Born To Die",
+        "Artist": "Lana Del Rey",
+        "Key": "12A",
+        "Energy": 6.724,
+        "Popularity": 6.13,
+        "BPM": 76,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3eRZZ4d2RJSqFKzP7tSdFE",
+            "explicit": false,
+            "album": "Born To Die",
+            "release_date": "2012-01-30",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 286253,
+            "acousticness": 0.209,
+            "danceability": 2.62,
+            "instrumentalness": 0.000133,
+            "liveness": 0.217,
+            "loudness": -6.591,
+            "speechiness": 0.0438,
+            "time_signature": 3,
+            "happiness": 4.51
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Off To The Races",
+        "Artist": "Lana Del Rey",
+        "Key": "12A",
+        "Energy": 7.497999999999999,
+        "Popularity": 5.86,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "7grzMnF1FHponm2aJBWj8E",
+            "explicit": false,
+            "album": "Born To Die",
+            "release_date": "2012-01-30",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 299920,
+            "acousticness": 0.061,
+            "danceability": 4.6,
+            "instrumentalness": 0.00171,
+            "liveness": 0.4,
+            "loudness": -5.566,
+            "speechiness": 0.062,
+            "time_signature": 4,
+            "happiness": 2.224
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "Blue Jeans",
+        "Artist": "Lana Del Rey",
+        "Key": "5B",
+        "Energy": 8.515,
+        "Popularity": 5.86,
+        "BPM": 118,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "4jZWeEaLCnwYtLnVEN6BYV",
+            "explicit": false,
+            "album": "Born To Die",
+            "release_date": "2012-01-30",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 209453,
+            "acousticness": 0.421,
+            "danceability": 6.031000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.0811,
+            "loudness": -4.475,
+            "speechiness": 0.0633,
+            "time_signature": 4,
+            "happiness": 5.536
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Video Games",
+        "Artist": "Lana Del Rey",
+        "Key": "2A",
+        "Energy": 3.295,
+        "Popularity": 6.040000000000001,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "5by7gtiDrxe4n2qQQunL8S",
+            "explicit": false,
+            "album": "Born To Die",
+            "release_date": "2012-01-30",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 281947,
+            "acousticness": 0.806,
+            "danceability": 4.51,
+            "instrumentalness": 1.14e-06,
+            "liveness": 0.0887,
+            "loudness": -9.676,
+            "speechiness": 0.0299,
+            "time_signature": 4,
+            "happiness": 2.6109999999999998
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Diet Mountain Dew",
+        "Artist": "Lana Del Rey",
+        "Key": "6A",
+        "Energy": 7.147,
+        "Popularity": 6.22,
+        "BPM": 88,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "20Dr6PsU4KweNgqDw7Vo0I",
+            "explicit": false,
+            "album": "Born To Die",
+            "release_date": "2012-01-30",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 222920,
+            "acousticness": 0.282,
+            "danceability": 5.140000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.425,
+            "loudness": -5.97,
+            "speechiness": 0.0891,
+            "time_signature": 4,
+            "happiness": 6.327999999999999
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "National Anthem",
+        "Artist": "Lana Del Rey",
+        "Key": "8A",
+        "Energy": 9.118,
+        "Popularity": 5.86,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "00K2YLugNIEG4zCPoQVegm",
+            "explicit": false,
+            "album": "Born To Die",
+            "release_date": "2012-01-30",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 230533,
+            "acousticness": 0.548,
+            "danceability": 5.815,
+            "instrumentalness": 0.000163,
+            "liveness": 0.109,
+            "loudness": -6.001,
+            "speechiness": 0.234,
+            "time_signature": 4,
+            "happiness": 4.734999999999999
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Dark Paradise",
+        "Artist": "Lana Del Rey",
+        "Key": "3A",
+        "Energy": 6.769,
+        "Popularity": 5.68,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0rbuGVyW18IpX0bhA3P4Oh",
+            "explicit": false,
+            "album": "Born To Die",
+            "release_date": "2012-01-30",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 243173,
+            "acousticness": 0.12,
+            "danceability": 6.274,
+            "instrumentalness": 0,
+            "liveness": 0.168,
+            "loudness": -8.342,
+            "speechiness": 0.0634,
+            "time_signature": 4,
+            "happiness": 4.618
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Radio",
+        "Artist": "Lana Del Rey",
+        "Key": "10B",
+        "Energy": 8.568999999999999,
+        "Popularity": 6.040000000000001,
+        "BPM": 75,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop",
+            "Fight & Fog",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "45dAw6GXEsogcDF3NUgj3O",
+            "explicit": true,
+            "album": "Born To Die",
+            "release_date": "2012-01-30",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 214587,
+            "acousticness": 0.217,
+            "danceability": 3.808,
+            "instrumentalness": 2.38e-05,
+            "liveness": 0.0876,
+            "loudness": -5.244,
+            "speechiness": 0.0846,
+            "time_signature": 4,
+            "happiness": 2.665
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Carmen",
+        "Artist": "Lana Del Rey",
+        "Key": "3A",
+        "Energy": 4.834,
+        "Popularity": 5.5,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0LKYAQdeUDxqqL4O6qUzsD",
+            "explicit": false,
+            "album": "Born To Die",
+            "release_date": "2012-01-30",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 248720,
+            "acousticness": 0.0879,
+            "danceability": 5.383,
+            "instrumentalness": 0.000392,
+            "liveness": 0.128,
+            "loudness": -9.56,
+            "speechiness": 0.0317,
+            "time_signature": 4,
+            "happiness": 1.3384
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Million Dollar Man",
+        "Artist": "Lana Del Rey",
+        "Key": "5A",
+        "Energy": 6.228999999999999,
+        "Popularity": 5.95,
+        "BPM": 99,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "4Pge690iRvDMtMqXqThmPs",
+            "explicit": false,
+            "album": "Born To Die",
+            "release_date": "2012-01-30",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 230120,
+            "acousticness": 0.481,
+            "danceability": 2.8,
+            "instrumentalness": 0,
+            "liveness": 0.0662,
+            "loudness": -6.004,
+            "speechiness": 0.0462,
+            "time_signature": 3,
+            "happiness": 5.7700000000000005
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Summertime Sadness",
+        "Artist": "Lana Del Rey",
+        "Key": "3A",
+        "Energy": 6.823,
+        "Popularity": 5.86,
+        "BPM": 112,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "4cKtn8Shw999egpwBmWQmp",
+            "explicit": false,
+            "album": "Born To Die",
+            "release_date": "2012-01-30",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 264773,
+            "acousticness": 0.0456,
+            "danceability": 6.084999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.121,
+            "loudness": -6.789,
+            "speechiness": 0.0334,
+            "time_signature": 4,
+            "happiness": 2.944
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "This Is What Makes Us Girls",
+        "Artist": "Lana Del Rey",
+        "Key": "10A",
+        "Energy": 8.460999999999999,
+        "Popularity": 5.41,
+        "BPM": 138,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3ZYt97JWngJExm368cOrYc",
+            "explicit": false,
+            "album": "Born To Die",
+            "release_date": "2012-01-30",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 238373,
+            "acousticness": 0.107,
+            "danceability": 5.779,
+            "instrumentalness": 0.0175,
+            "liveness": 0.197,
+            "loudness": -6.889,
+            "speechiness": 0.108,
+            "time_signature": 4,
+            "happiness": 4.753
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "Without You",
+        "Artist": "Lana Del Rey",
+        "Key": "2B",
+        "Energy": 6.337,
+        "Popularity": 5.95,
+        "BPM": 112,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7cpHPzPgqKor6gv6nTkJ4R",
+            "explicit": false,
+            "album": "Born To Die - The Paradise Edition",
+            "release_date": "2012-11-12",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 229294,
+            "acousticness": 0.636,
+            "danceability": 6.274,
+            "instrumentalness": 0.000131,
+            "liveness": 0.115,
+            "loudness": -8.394,
+            "speechiness": 0.0329,
+            "time_signature": 4,
+            "happiness": 7.0120000000000005
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "Lolita",
+        "Artist": "Lana Del Rey",
+        "Key": "8A",
+        "Energy": 9.514,
+        "Popularity": 6.22,
+        "BPM": 136,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "696cNqpF2NwRLzC7KqCurz",
+            "explicit": false,
+            "album": "Born To Die - The Paradise Edition",
+            "release_date": "2012-11-12",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 220040,
+            "acousticness": 0.0744,
+            "danceability": 5.437,
+            "instrumentalness": 4.89e-05,
+            "liveness": 0.351,
+            "loudness": -4.304,
+            "speechiness": 0.124,
+            "time_signature": 4,
+            "happiness": 2.206
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Ride",
+        "Artist": "Lana Del Rey",
+        "Key": "8B",
+        "Energy": 7.174,
+        "Popularity": 6.67,
+        "BPM": 94,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop",
+            "Fight & Fog",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3l2S2RkGG4lbh7WqmCV3NB",
+            "explicit": true,
+            "album": "Born To Die - The Paradise Edition",
+            "release_date": "2012-11-12",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 289080,
+            "acousticness": 0.128,
+            "danceability": 4.357,
+            "instrumentalness": 1.96e-06,
+            "liveness": 0.383,
+            "loudness": -5.52,
+            "speechiness": 0.034,
+            "time_signature": 4,
+            "happiness": 2.701
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "American",
+        "Artist": "Lana Del Rey",
+        "Key": "9B",
+        "Energy": 6.265,
+        "Popularity": 5.7700000000000005,
+        "BPM": 144,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "7wfCiX59FY09gsKKFhYfxp",
+            "explicit": false,
+            "album": "Born To Die - The Paradise Edition",
+            "release_date": "2012-11-12",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 248907,
+            "acousticness": 0.535,
+            "danceability": 4.573,
+            "instrumentalness": 0.000438,
+            "liveness": 0.0976,
+            "loudness": -6.518,
+            "speechiness": 0.0359,
+            "time_signature": 4,
+            "happiness": 2.62
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "Cola",
+        "Artist": "Lana Del Rey",
+        "Key": "3A",
+        "Energy": 7.0120000000000005,
+        "Popularity": 6.31,
+        "BPM": 110,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop",
+            "Fight & Fog",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6LrNqp69g8ngQ0Oem7DGWK",
+            "explicit": true,
+            "album": "Born To Die - The Paradise Edition",
+            "release_date": "2012-11-12",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 260894,
+            "acousticness": 0.0699,
+            "danceability": 3.682,
+            "instrumentalness": 2.44e-05,
+            "liveness": 0.59,
+            "loudness": -5.536,
+            "speechiness": 0.0478,
+            "time_signature": 4,
+            "happiness": 2.089
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "Blue Velvet",
+        "Artist": "Lana Del Rey",
+        "Key": "6B",
+        "Energy": 3.853,
+        "Popularity": 5.5,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5QWex1FyG3NhqIfJsJUqxj",
+            "explicit": false,
+            "album": "Born To Die - The Paradise Edition",
+            "release_date": "2012-11-12",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 158654,
+            "acousticness": 0.812,
+            "danceability": 2.701,
+            "instrumentalness": 0.0719,
+            "liveness": 0.214,
+            "loudness": -8.631,
+            "speechiness": 0.028,
+            "time_signature": 4,
+            "happiness": 3.259
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Bel Air",
+        "Artist": "Lana Del Rey",
+        "Key": "10A",
+        "Energy": 4.779999999999999,
+        "Popularity": 5.41,
+        "BPM": 84,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6JbioaahWqp3efRZWN001d",
+            "explicit": false,
+            "album": "Born To Die - The Paradise Edition",
+            "release_date": "2012-11-12",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 237640,
+            "acousticness": 0.864,
+            "danceability": 4.114,
+            "instrumentalness": 0.0875,
+            "liveness": 0.901,
+            "loudness": -11.506,
+            "speechiness": 0.0298,
+            "time_signature": 4,
+            "happiness": 3.727
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "West Coast",
+        "Artist": "Lana Del Rey",
+        "Key": "2A",
+        "Energy": 6.319,
+        "Popularity": 8.74,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5Y6nVaayzitvsD5F7nr3DV",
+            "explicit": false,
+            "album": "Ultraviolence (Deluxe)",
+            "release_date": "2014-01-01",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 256760,
+            "acousticness": 0.194,
+            "danceability": 5.743,
+            "instrumentalness": 0.0194,
+            "liveness": 0.0907,
+            "loudness": -7.664,
+            "speechiness": 0.0396,
+            "time_signature": 4,
+            "happiness": 5.149
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Honeymoon",
+        "Artist": "Lana Del Rey",
+        "Key": "7A",
+        "Energy": 3.4210000000000003,
+        "Popularity": 6.94,
+        "BPM": 75,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "4X5zaUdlRhvBWYnyQIKmH8",
+            "explicit": false,
+            "album": "Honeymoon",
+            "release_date": "2015-09-18",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 350059,
+            "acousticness": 0.953,
+            "danceability": 2.521,
+            "instrumentalness": 0.00828,
+            "liveness": 0.111,
+            "loudness": -13.265,
+            "speechiness": 0.036,
+            "time_signature": 3,
+            "happiness": 2.557
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "High By The Beach",
+        "Artist": "Lana Del Rey",
+        "Key": "1A",
+        "Energy": 5.374,
+        "Popularity": 7.66,
+        "BPM": 132,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "7g3htkaLz4ETFn0cifwM3y",
+            "explicit": true,
+            "album": "Honeymoon",
+            "release_date": "2015-09-18",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 257573,
+            "acousticness": 0.244,
+            "danceability": 5.824,
+            "instrumentalness": 0.00788,
+            "liveness": 0.12,
+            "loudness": -11.067,
+            "speechiness": 0.0346,
+            "time_signature": 4,
+            "happiness": 1.8712
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "Freak",
+        "Artist": "Lana Del Rey",
+        "Key": "7A",
+        "Energy": 4.87,
+        "Popularity": 7.39,
+        "BPM": 94,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3sYDVtqO35oRSOIMx7dOqR",
+            "explicit": false,
+            "album": "Honeymoon",
+            "release_date": "2015-09-18",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 295093,
+            "acousticness": 0.269,
+            "danceability": 3.5829999999999997,
+            "instrumentalness": 0.000579,
+            "liveness": 0.32,
+            "loudness": -10.014,
+            "speechiness": 0.033,
+            "time_signature": 4,
+            "happiness": 1.9809999999999999
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "Art Deco",
+        "Artist": "Lana Del Rey",
+        "Key": "1A",
+        "Energy": 5.176,
+        "Popularity": 8.02,
+        "BPM": 148,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5jqNQZBwbZWQXPWfo0ygZF",
+            "explicit": false,
+            "album": "Honeymoon",
+            "release_date": "2015-09-18",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 295067,
+            "acousticness": 0.544,
+            "danceability": 3.538,
+            "instrumentalness": 0.215,
+            "liveness": 0.111,
+            "loudness": -11.112,
+            "speechiness": 0.0533,
+            "time_signature": 5,
+            "happiness": 1.5364
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "Salvatore",
+        "Artist": "Lana Del Rey",
+        "Key": "1A",
+        "Energy": 3.799,
+        "Popularity": 7.75,
+        "BPM": 118,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "21qg0IBZf8R12qHd9A3AA4",
+            "explicit": false,
+            "album": "Honeymoon",
+            "release_date": "2015-09-18",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 281093,
+            "acousticness": 0.675,
+            "danceability": 3.7359999999999998,
+            "instrumentalness": 0.00195,
+            "liveness": 0.12,
+            "loudness": -9.647,
+            "speechiness": 0.0344,
+            "time_signature": 4,
+            "happiness": 2.035
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "Lust For Life (with The Weeknd)",
+        "Artist": "Lana Del Rey, The Weeknd",
+        "Key": "8A",
+        "Energy": 6.8950000000000005,
+        "Popularity": 7.84,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop",
+            "Romantic & Slow Dance"
+        ],
+        "Additional Info": {
+            "id": "0mt02gJ425Xjm7c3jYkOBn",
+            "explicit": false,
+            "album": "Lust For Life",
+            "release_date": "2017-07-21",
+            "genres": [
+                "art pop",
+                "pop",
+                "canadian contemporary r&b",
+                "canadian pop",
+                "pop"
+            ],
+            "duration": 264066,
+            "acousticness": 0.604,
+            "danceability": 5.536,
+            "instrumentalness": 0.00193,
+            "liveness": 0.364,
+            "loudness": -8.644,
+            "speechiness": 0.0542,
+            "time_signature": 4,
+            "happiness": 3.358
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "Summer Bummer (feat. A$AP Rocky & Playboi Carti)",
+        "Artist": "Lana Del Rey, A$AP Rocky, Playboi Carti",
+        "Key": "3B",
+        "Energy": 6.1659999999999995,
+        "Popularity": 7.209999999999999,
+        "BPM": 135,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop",
+            "Hip Hop",
+            "EDM",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "5QqyRUZeBE04yJxsD1OC0I",
+            "explicit": true,
+            "album": "Lust For Life",
+            "release_date": "2017-07-21",
+            "genres": [
+                "art pop",
+                "pop",
+                "east coast hip hop",
+                "hip hop",
+                "rap",
+                "trap",
+                "atl hip hop",
+                "plugg",
+                "pluggnb",
+                "rage rap",
+                "rap"
+            ],
+            "duration": 260672,
+            "acousticness": 0.0155,
+            "danceability": 7.84,
+            "instrumentalness": 2.02e-05,
+            "liveness": 0.199,
+            "loudness": -8.57,
+            "speechiness": 0.126,
+            "time_signature": 4,
+            "happiness": 2.233
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "Groupie Love (feat. A$AP Rocky)",
+        "Artist": "Lana Del Rey, A$AP Rocky",
+        "Key": "11B",
+        "Energy": 6.3999999999999995,
+        "Popularity": 7.03,
+        "BPM": 88,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop",
+            "Hip Hop",
+            "EDM",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "03hqMhmCZiNKMSPmVabPLP",
+            "explicit": true,
+            "album": "Lust For Life",
+            "release_date": "2017-07-21",
+            "genres": [
+                "art pop",
+                "pop",
+                "east coast hip hop",
+                "hip hop",
+                "rap",
+                "trap"
+            ],
+            "duration": 264038,
+            "acousticness": 0.113,
+            "danceability": 4.231,
+            "instrumentalness": 1.32e-06,
+            "liveness": 0.0952,
+            "loudness": -7.317,
+            "speechiness": 0.0398,
+            "time_signature": 4,
+            "happiness": 2.755
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "God Bless America - And All The Beautiful Women In It",
+        "Artist": "Lana Del Rey",
+        "Key": "11B",
+        "Energy": 7.273,
+        "Popularity": 6.31,
+        "BPM": 88,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "7nns9KjsadA1Cx7as2eGNG",
+            "explicit": false,
+            "album": "Lust For Life",
+            "release_date": "2017-07-21",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 276437,
+            "acousticness": 0.411,
+            "danceability": 4.366,
+            "instrumentalness": 0.211,
+            "liveness": 0.122,
+            "loudness": -6.544,
+            "speechiness": 0.0637,
+            "time_signature": 4,
+            "happiness": 3.1959999999999997
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Venice Bitch",
+        "Artist": "Lana Del Rey",
+        "Key": "11A",
+        "Energy": 3.574,
+        "Popularity": 7.57,
+        "BPM": 78,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3hwQhakFwm9soLEBnSDH17",
+            "explicit": true,
+            "album": "Norman Fucking Rockwell!",
+            "release_date": "2019-08-30",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 577199,
+            "acousticness": 0.913,
+            "danceability": 4.311999999999999,
+            "instrumentalness": 0.177,
+            "liveness": 0.099,
+            "loudness": -13.031,
+            "speechiness": 0.0294,
+            "time_signature": 4,
+            "happiness": 3.808
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "Doin' Time",
+        "Artist": "Lana Del Rey",
+        "Key": "9A",
+        "Energy": 6.031000000000001,
+        "Popularity": 8.74,
+        "BPM": 145,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0Oqc0kKFsQ6MhFOLBNZIGX",
+            "explicit": true,
+            "album": "Norman Fucking Rockwell!",
+            "release_date": "2019-08-30",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 202193,
+            "acousticness": 0.404,
+            "danceability": 6.769,
+            "instrumentalness": 0.00402,
+            "liveness": 0.0937,
+            "loudness": -11.132,
+            "speechiness": 0.0355,
+            "time_signature": 4,
+            "happiness": 5.707
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "California",
+        "Artist": "Lana Del Rey",
+        "Key": "11A",
+        "Energy": 4.6899999999999995,
+        "Popularity": 7.39,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "7oTE1KmtU2ml9zBhv9Reao",
+            "explicit": false,
+            "album": "Norman Fucking Rockwell!",
+            "release_date": "2019-08-30",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 305900,
+            "acousticness": 0.761,
+            "danceability": 5.041,
+            "instrumentalness": 0,
+            "liveness": 0.0631,
+            "loudness": -8.067,
+            "speechiness": 0.0317,
+            "time_signature": 4,
+            "happiness": 2.755
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "Tulsa Jesus Freak",
+        "Artist": "Lana Del Rey",
+        "Key": "10A",
+        "Energy": 4.051,
+        "Popularity": 6.8500000000000005,
+        "BPM": 137,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0hyImI8JaWONOrzKH7kJsC",
+            "explicit": false,
+            "album": "Chemtrails Over The Country Club",
+            "release_date": "2021-03-19",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 215674,
+            "acousticness": 0.918,
+            "danceability": 4.4830000000000005,
+            "instrumentalness": 0.00272,
+            "liveness": 0.13,
+            "loudness": -12.962,
+            "speechiness": 0.0489,
+            "time_signature": 4,
+            "happiness": 3.4570000000000003
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "Dance Till We Die",
+        "Artist": "Lana Del Rey",
+        "Key": "11A",
+        "Energy": 3.1239999999999997,
+        "Popularity": 6.22,
+        "BPM": 126,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Inspiring",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6TZitk9QD7531Jl1TT7TeH",
+            "explicit": true,
+            "album": "Chemtrails Over The Country Club",
+            "release_date": "2021-03-19",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 243036,
+            "acousticness": 0.904,
+            "danceability": 4.231,
+            "instrumentalness": 7.43e-06,
+            "liveness": 0.116,
+            "loudness": -13.46,
+            "speechiness": 0.0432,
+            "time_signature": 4,
+            "happiness": 3.1959999999999997
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "Stargirl Interlude",
+        "Artist": "The Weeknd, Lana Del Rey",
+        "Key": "7A",
+        "Energy": 5.266,
+        "Popularity": 8.469999999999999,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop",
+            "Romantic & Slow Dance"
+        ],
+        "Additional Info": {
+            "id": "4EDijkJdHBZZ0GwJ12iTAj",
+            "explicit": false,
+            "album": "Starboy",
+            "release_date": "2016-11-25",
+            "genres": [
+                "canadian contemporary r&b",
+                "canadian pop",
+                "pop",
+                "art pop",
+                "pop"
+            ],
+            "duration": 111640,
+            "acousticness": 0.351,
+            "danceability": 6.742,
+            "instrumentalness": 0.191,
+            "liveness": 0.105,
+            "loudness": -12.7,
+            "speechiness": 0.124,
+            "time_signature": 4,
+            "happiness": 4.968999999999999
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "Because Of You",
+        "Artist": "Miss Rey",
+        "Key": "8A",
+        "Energy": 3.682,
+        "Popularity": 1.0,
+        "BPM": 144,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "4fsuGF1AMUvvYAAGJF4yOe",
+            "explicit": false,
+            "album": "Because Of You",
+            "release_date": "2023-01-06",
+            "genres": [],
+            "duration": 265117,
+            "acousticness": 0.798,
+            "danceability": 6.985,
+            "instrumentalness": 1.29e-06,
+            "liveness": 0.0828,
+            "loudness": -9.876,
+            "speechiness": 0.0425,
+            "time_signature": 3,
+            "happiness": 4.942
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "you can be the boss",
+        "Artist": "pamral, eluxed, kedi",
+        "Key": "11A",
+        "Energy": 8.839,
+        "Popularity": 1.0,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6oi94nuQhSyEpVEVudDtPs",
+            "explicit": true,
+            "album": "you can be the boss",
+            "release_date": "2022-06-16",
+            "genres": [],
+            "duration": 184819,
+            "acousticness": 0.00497,
+            "danceability": 6.346,
+            "instrumentalness": 2.34e-05,
+            "liveness": 0.204,
+            "loudness": -5.186,
+            "speechiness": 0.2,
+            "time_signature": 4,
+            "happiness": 5.32
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "summer wine",
+        "Artist": "Schaale",
+        "Key": "9B",
+        "Energy": 6.877000000000001,
+        "Popularity": 1.18,
+        "BPM": 136,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "64Z1mJlNDD6SxZ3qyhz0dj",
+            "explicit": false,
+            "album": "summer wine",
+            "release_date": "2023-01-26",
+            "genres": [],
+            "duration": 295114,
+            "acousticness": 0.521,
+            "danceability": 5.7250000000000005,
+            "instrumentalness": 0.000117,
+            "liveness": 0.74,
+            "loudness": -10.8,
+            "speechiness": 0.083,
+            "time_signature": 4,
+            "happiness": 5.446
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "Yes to Heaven",
+        "Artist": "eluxed, nezexous",
+        "Key": "9B",
+        "Energy": 4.114,
+        "Popularity": 1.0,
+        "BPM": 108,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "80s"
+        ],
+        "Additional Info": {
+            "id": "2RwGixfMs2jrVgMLicM1el",
+            "explicit": false,
+            "album": "Yes to Heaven",
+            "release_date": "1989",
+            "genres": [
+                "new school turkce rap"
+            ],
+            "duration": 197579,
+            "acousticness": 0.839,
+            "danceability": 5.3919999999999995,
+            "instrumentalness": 0.0246,
+            "liveness": 0.269,
+            "loudness": -13.915,
+            "speechiness": 0.0698,
+            "time_signature": 4,
+            "happiness": 2.755
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "A&W",
+        "Artist": "Lana Del Rey",
+        "Key": "6B",
+        "Energy": 3.223,
+        "Popularity": 8.290000000000001,
+        "BPM": 81,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Inspiring",
+            "Pop",
+            "Mad",
+            "Calm",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "5nW4z3pfZgJAJ2QTCz9AIE",
+            "explicit": true,
+            "album": "Did you know that there's a tunnel under Ocean Blvd",
+            "release_date": "2023-03-24",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 433916,
+            "acousticness": 0.665,
+            "danceability": 4.789,
+            "instrumentalness": 0.375,
+            "liveness": 0.115,
+            "loudness": -14.655,
+            "speechiness": 0.143,
+            "time_signature": 4,
+            "happiness": 2.2510000000000003
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "Say Yes To Heaven",
+        "Artist": "Lana Del Rey",
+        "Key": "2A",
+        "Energy": 4.167999999999999,
+        "Popularity": 9.280000000000001,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6GGtHZgBycCgGBUhZo81xe",
+            "explicit": false,
+            "album": "Say Yes To Heaven",
+            "release_date": "2023-05-19",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "duration": 209156,
+            "acousticness": 0.709,
+            "danceability": 5.41,
+            "instrumentalness": 0.0856,
+            "liveness": 0.114,
+            "loudness": -11.577,
+            "speechiness": 0.0254,
+            "time_signature": 4,
+            "happiness": 2.4939999999999998
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "Wait For Life",
+        "Artist": "Emile Haynie, Lana Del Rey",
+        "Key": "7B",
+        "Energy": 5.221,
+        "Popularity": 3.5200000000000005,
+        "BPM": 118,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "2SCUYQiMHeWjoEca0XKxZW",
+            "explicit": false,
+            "album": "We Fall",
+            "release_date": "2015-02-24",
+            "genres": [
+                "buffalo ny indie",
+                "art pop",
+                "pop"
+            ],
+            "duration": 292280,
+            "acousticness": 0.954,
+            "danceability": 3.358,
+            "instrumentalness": 0.0079,
+            "liveness": 0.123,
+            "loudness": -5.891,
+            "speechiness": 0.0377,
+            "time_signature": 4,
+            "happiness": 1.6804000000000001
+        }
+    }
+]

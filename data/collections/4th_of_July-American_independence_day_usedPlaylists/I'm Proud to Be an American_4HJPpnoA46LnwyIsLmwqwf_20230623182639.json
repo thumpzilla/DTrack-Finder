@@ -1,0 +1,1586 @@
+[
+    {
+        "#": 1,
+        "Track Title": "God Bless The USA",
+        "Artist": "Lee Greenwoood",
+        "Key": "7B",
+        "Energy": 4.672,
+        "Popularity": 1.0,
+        "BPM": 134,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "54V4Y8lQvhtAPv1MCTOKrs",
+            "explicit": false,
+            "album": "God Bless The USA",
+            "release_date": "2005",
+            "genres": [],
+            "duration": 196320,
+            "acousticness": 0.149,
+            "danceability": 4.492,
+            "instrumentalness": 0,
+            "liveness": 0.115,
+            "loudness": -8.671,
+            "speechiness": 0.0289,
+            "time_signature": 4,
+            "happiness": 2.503
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "R.O.C.K. In The U.S.A. (A Salute To 60's Rock)",
+        "Artist": "John Mellencamp",
+        "Key": "11B",
+        "Energy": 9.622,
+        "Popularity": 6.67,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "80s",
+            "Calm",
+            "Inspiring",
+            "Rock",
+            "Mad",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0lqfBvf1Gqmmt3l5Qeirlm",
+            "explicit": false,
+            "album": "Scarecrow",
+            "release_date": "1985",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "hard rock",
+                "heartland rock",
+                "mellow gold",
+                "rock",
+                "singer-songwriter",
+                "soft rock"
+            ],
+            "duration": 174360,
+            "acousticness": 0.00943,
+            "danceability": 4.888,
+            "instrumentalness": 2.79e-06,
+            "liveness": 0.227,
+            "loudness": -4.009,
+            "speechiness": 0.0819,
+            "time_signature": 4,
+            "happiness": 8.866
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "Courtesy Of The Red, White And Blue (The Angry American)",
+        "Artist": "Toby Keith",
+        "Key": "10B",
+        "Energy": 6.949,
+        "Popularity": 7.4799999999999995,
+        "BPM": 112,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0M7mWKqwTIaVjYyxfZmtTa",
+            "explicit": false,
+            "album": "Unleashed",
+            "release_date": "2002-01-01",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 195533,
+            "acousticness": 0.521,
+            "danceability": 4.816,
+            "instrumentalness": 1.62e-06,
+            "liveness": 0.0719,
+            "loudness": -5.547,
+            "speechiness": 0.0425,
+            "time_signature": 4,
+            "happiness": 4.4559999999999995
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Made in America",
+        "Artist": "Toby Keith",
+        "Key": "11B",
+        "Energy": 7.308999999999999,
+        "Popularity": 6.76,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "7Lmwj2fe8MpGXypOuLGO2C",
+            "explicit": false,
+            "album": "Clancy's Tavern",
+            "release_date": "2011-10-21",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 193133,
+            "acousticness": 0.0507,
+            "danceability": 5.473,
+            "instrumentalness": 0,
+            "liveness": 0.103,
+            "loudness": -5.996,
+            "speechiness": 0.0306,
+            "time_signature": 4,
+            "happiness": 4.384
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Letters from Home",
+        "Artist": "John Michael Montgomery",
+        "Key": "8B",
+        "Energy": 6.634,
+        "Popularity": 6.22,
+        "BPM": 128,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "15cGdiAHmezm0P04jVAjMo",
+            "explicit": false,
+            "album": "Letters From Home",
+            "release_date": "2004-04-20",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 267533,
+            "acousticness": 0.367,
+            "danceability": 6.796,
+            "instrumentalness": 5.78e-06,
+            "liveness": 0.155,
+            "loudness": -7.243,
+            "speechiness": 0.0258,
+            "time_signature": 4,
+            "happiness": 4.492
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "American Soldier",
+        "Artist": "Toby Keith",
+        "Key": "11B",
+        "Energy": 5.869000000000001,
+        "Popularity": 6.3999999999999995,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0oVWPlnK5eAqnJCVB0FvpP",
+            "explicit": false,
+            "album": "Shock 'N Y'all",
+            "release_date": "2003-11-04",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 263333,
+            "acousticness": 0.193,
+            "danceability": 6.084999999999999,
+            "instrumentalness": 3.45e-06,
+            "liveness": 0.0582,
+            "loudness": -8.426,
+            "speechiness": 0.0376,
+            "time_signature": 4,
+            "happiness": 3.0340000000000003
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "I've Been Everywhere",
+        "Artist": "Johnny Cash",
+        "Key": "1A",
+        "Energy": 8.011,
+        "Popularity": 6.67,
+        "BPM": 112,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "59J3FhCGYl18G3ouDReUge",
+            "explicit": false,
+            "album": "American II: Unchained",
+            "release_date": "1996-01-01",
+            "genres": [
+                "arkansas country",
+                "outlaw country",
+                "rock"
+            ],
+            "duration": 196733,
+            "acousticness": 0.6,
+            "danceability": 7.579,
+            "instrumentalness": 1.74e-06,
+            "liveness": 0.312,
+            "loudness": -5.884,
+            "speechiness": 0.0658,
+            "time_signature": 4,
+            "happiness": 8.353
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Born in the U.S.A.",
+        "Artist": "Bruce Springsteen",
+        "Key": "12B",
+        "Energy": 9.568,
+        "Popularity": 7.93,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "80s",
+            "Rock",
+            "Calm",
+            "Inspiring",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0dOg1ySSI7NkpAe89Zo0b9",
+            "explicit": false,
+            "album": "Born In The U.S.A.",
+            "release_date": "1984-06-04",
+            "genres": [
+                "heartland rock",
+                "mellow gold",
+                "permanent wave",
+                "rock",
+                "singer-songwriter"
+            ],
+            "duration": 278680,
+            "acousticness": 0.000373,
+            "danceability": 4.582000000000001,
+            "instrumentalness": 7.75e-05,
+            "liveness": 0.1,
+            "loudness": -6.042,
+            "speechiness": 0.061,
+            "time_signature": 4,
+            "happiness": 6.255999999999999
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Party In The U.S.A.",
+        "Artist": "Miley Cyrus",
+        "Key": "6A",
+        "Energy": 7.282,
+        "Popularity": 8.2,
+        "BPM": 96,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5Q0Nhxo0l2bP3pNjpGJwV1",
+            "explicit": false,
+            "album": "The Time Of Our Lives",
+            "release_date": "2009-01-01",
+            "genres": [
+                "pop"
+            ],
+            "duration": 202067,
+            "acousticness": 0.00112,
+            "danceability": 6.868,
+            "instrumentalness": 0.000115,
+            "liveness": 0.0886,
+            "loudness": -4.667,
+            "speechiness": 0.042,
+            "time_signature": 4,
+            "happiness": 5.2299999999999995
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "American Saturday Night",
+        "Artist": "Brad Paisley",
+        "Key": "12B",
+        "Energy": 9.442,
+        "Popularity": 5.59,
+        "BPM": 79,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7xJqaCgeteqWPogqjjxkBl",
+            "explicit": false,
+            "album": "American Saturday Night",
+            "release_date": "2009-06-30",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 274200,
+            "acousticness": 0.0721,
+            "danceability": 5.383,
+            "instrumentalness": 2.63e-05,
+            "liveness": 0.522,
+            "loudness": -5.466,
+            "speechiness": 0.0533,
+            "time_signature": 4,
+            "happiness": 7.5969999999999995
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "If You're Reading This",
+        "Artist": "Tim McGraw",
+        "Key": "1B",
+        "Energy": 3.7359999999999998,
+        "Popularity": 5.95,
+        "BPM": 145,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "3opmoDn4nG2eZWPjI8B7Bg",
+            "explicit": false,
+            "album": "Let It Go",
+            "release_date": "2007-03-27",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 252720,
+            "acousticness": 0.823,
+            "danceability": 3.745,
+            "instrumentalness": 0,
+            "liveness": 0.67,
+            "loudness": -8.383,
+            "speechiness": 0.0285,
+            "time_signature": 4,
+            "happiness": 4.069000000000001
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "Chicken Fried",
+        "Artist": "Zac Brown Band",
+        "Key": "2B",
+        "Energy": 7.417,
+        "Popularity": 1.09,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4dGJf1SER1T6ooX46vwzRB",
+            "explicit": false,
+            "album": "The Foundation",
+            "release_date": "2008-11-17",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 238147,
+            "acousticness": 0.645,
+            "danceability": 6.093999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.114,
+            "loudness": -4.25,
+            "speechiness": 0.0417,
+            "time_signature": 4,
+            "happiness": 8.263000000000002
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "All-American Girl",
+        "Artist": "Carrie Underwood",
+        "Key": "11B",
+        "Energy": 8.245000000000001,
+        "Popularity": 7.12,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Dance Remixes",
+            "Pop",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2dRPQFwPqAmc42mDRnsDQu",
+            "explicit": false,
+            "album": "Carnival Ride",
+            "release_date": "2007-10-23",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country dawn",
+                "dance pop"
+            ],
+            "duration": 212173,
+            "acousticness": 0.0466,
+            "danceability": 6.616,
+            "instrumentalness": 0,
+            "liveness": 0.328,
+            "loudness": -2.632,
+            "speechiness": 0.029,
+            "time_signature": 4,
+            "happiness": 7.93
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "Small Town USA",
+        "Artist": "Justin Moore",
+        "Key": "2B",
+        "Energy": 6.409,
+        "Popularity": 6.58,
+        "BPM": 132,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "5pyB5WEAEwqwl18UaBLeBl",
+            "explicit": false,
+            "album": "Justin Moore",
+            "release_date": "2009-01-01",
+            "genres": [
+                "arkansas country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 218853,
+            "acousticness": 0.122,
+            "danceability": 6.346,
+            "instrumentalness": 5.69e-06,
+            "liveness": 0.181,
+            "loudness": -5.996,
+            "speechiness": 0.029,
+            "time_signature": 4,
+            "happiness": 5.779
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "American Ride",
+        "Artist": "Toby Keith",
+        "Key": "11B",
+        "Energy": 9.163,
+        "Popularity": 6.58,
+        "BPM": 87,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0gjqyr5z7poniYymKRwsCN",
+            "explicit": false,
+            "album": "American Ride",
+            "release_date": "2009-10-06",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 165693,
+            "acousticness": 0.0829,
+            "danceability": 5.671,
+            "instrumentalness": 1.57e-06,
+            "liveness": 0.325,
+            "loudness": -2.681,
+            "speechiness": 0.0665,
+            "time_signature": 4,
+            "happiness": 8.146
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "American Girl",
+        "Artist": "Tom Petty and the Heartbreakers",
+        "Key": "10B",
+        "Energy": 8.416,
+        "Popularity": 7.75,
+        "BPM": 115,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "70s",
+            "Calm",
+            "Inspiring",
+            "Rock",
+            "Mad",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7MRyJPksH3G2cXHN8UKYzP",
+            "explicit": false,
+            "album": "Tom Petty & The Heartbreakers",
+            "release_date": "1976-11-09",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "heartland rock",
+                "mellow gold",
+                "rock",
+                "singer-songwriter",
+                "soft rock"
+            ],
+            "duration": 214733,
+            "acousticness": 0.448,
+            "danceability": 5.95,
+            "instrumentalness": 0.000127,
+            "liveness": 0.366,
+            "loudness": -5.988,
+            "speechiness": 0.0334,
+            "time_signature": 4,
+            "happiness": 7.993
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "Sweet Home Alabama",
+        "Artist": "Lynyrd Skynyrd",
+        "Key": "9B",
+        "Energy": 6.445,
+        "Popularity": 8.649999999999999,
+        "BPM": 98,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "70s",
+            "Rock",
+            "Mad",
+            "Nostalgic",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "7e89621JPkKaeDSTQ3avtg",
+            "explicit": true,
+            "album": "Second Helping (Expanded Edition)",
+            "release_date": "1974-04-15",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "rock",
+                "southern rock"
+            ],
+            "duration": 283800,
+            "acousticness": 0.181,
+            "danceability": 6.364,
+            "instrumentalness": 0.000331,
+            "liveness": 0.0863,
+            "loudness": -12.145,
+            "speechiness": 0.0255,
+            "time_signature": 4,
+            "happiness": 8.974
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "Only In America",
+        "Artist": "Brooks & Dunn",
+        "Key": "12B",
+        "Energy": 8.974,
+        "Popularity": 5.5,
+        "BPM": 138,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3e41nkMyqcAwaQCXJVj87G",
+            "explicit": false,
+            "album": "#1s ... and then some",
+            "release_date": "2009-09-08",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 268613,
+            "acousticness": 0.0661,
+            "danceability": 5.6080000000000005,
+            "instrumentalness": 0.00165,
+            "liveness": 0.863,
+            "loudness": -5.906,
+            "speechiness": 0.0402,
+            "time_signature": 4,
+            "happiness": 7.236999999999999
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "It’s America",
+        "Artist": "Rodney Atkins",
+        "Key": "12B",
+        "Energy": 7.435,
+        "Popularity": 5.59,
+        "BPM": 134,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6QbcLktLNe7eYqh8TjZeCd",
+            "explicit": false,
+            "album": "It's America",
+            "release_date": "2010-06-29",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 213787,
+            "acousticness": 0.0374,
+            "danceability": 6.3549999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.374,
+            "loudness": -13.863,
+            "speechiness": 0.0384,
+            "time_signature": 4,
+            "happiness": 7.497999999999999
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "Barefoot Blue Jean Night",
+        "Artist": "Jake Owen",
+        "Key": "12B",
+        "Energy": 8.263000000000002,
+        "Popularity": 7.93,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3ts6xK5GzfMAAriT9AIBmP",
+            "explicit": false,
+            "album": "Barefoot Blue Jean Night",
+            "release_date": "2011-08-26",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 167427,
+            "acousticness": 0.202,
+            "danceability": 6.391,
+            "instrumentalness": 0,
+            "liveness": 0.196,
+            "loudness": -4.679,
+            "speechiness": 0.0402,
+            "time_signature": 4,
+            "happiness": 8.308
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Boys 'Round Here (feat. Pistol Annies & Friends)",
+        "Artist": "Blake Shelton, Pistol Annies",
+        "Key": "10B",
+        "Energy": 7.191999999999999,
+        "Popularity": 7.209999999999999,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "39FwE8edwuyiaa4PrGBkP7",
+            "explicit": false,
+            "album": "Based on a True Story... (Deluxe Edition)",
+            "release_date": "2013-03-26",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road",
+                "contemporary country",
+                "country",
+                "country dawn",
+                "country road"
+            ],
+            "duration": 288760,
+            "acousticness": 0.251,
+            "danceability": 6.499,
+            "instrumentalness": 2.35e-06,
+            "liveness": 0.248,
+            "loudness": -6.369,
+            "speechiness": 0.0529,
+            "time_signature": 4,
+            "happiness": 6.841
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "American Pie",
+        "Artist": "Don McLean",
+        "Key": "12A",
+        "Energy": 5.329,
+        "Popularity": 8.290000000000001,
+        "BPM": 138,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "70s",
+            "Rock",
+            "Calm",
+            "Inspiring",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "1fDsrQ23eTAVFElUMaf38X",
+            "explicit": false,
+            "album": "American Pie",
+            "release_date": "1971",
+            "genres": [
+                "classic rock",
+                "folk",
+                "folk rock",
+                "heartland rock",
+                "mellow gold",
+                "singer-songwriter",
+                "soft rock"
+            ],
+            "duration": 516893,
+            "acousticness": 0.699,
+            "danceability": 5.779,
+            "instrumentalness": 0,
+            "liveness": 0.0842,
+            "loudness": -11.709,
+            "speechiness": 0.06,
+            "time_signature": 4,
+            "happiness": 5.419
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "Where I Come From",
+        "Artist": "Montgomery Gentry",
+        "Key": "3B",
+        "Energy": 8.668,
+        "Popularity": 6.3999999999999995,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "10ps1I1sIMRNZW11eceN7W",
+            "explicit": false,
+            "album": "Rebels on the Run",
+            "release_date": "2011-10-18",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 201840,
+            "acousticness": 0.0108,
+            "danceability": 6.58,
+            "instrumentalness": 4.94e-06,
+            "liveness": 0.279,
+            "loudness": -4.203,
+            "speechiness": 0.0308,
+            "time_signature": 4,
+            "happiness": 5.311
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "Semper Fi",
+        "Artist": "Trace Adkins",
+        "Key": "1B",
+        "Energy": 4.627000000000001,
+        "Popularity": 5.05,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "21FyeXi7sykXk9HRlf3Aul",
+            "explicit": false,
+            "album": "Proud To Be Here (Deluxe Edition)",
+            "release_date": "2011-01-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 228427,
+            "acousticness": 0.0234,
+            "danceability": 6.013000000000001,
+            "instrumentalness": 0.0124,
+            "liveness": 0.0914,
+            "loudness": -8.947,
+            "speechiness": 0.0309,
+            "time_signature": 4,
+            "happiness": 2.818
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "It's A Great Day To Be Alive",
+        "Artist": "Travis Tritt",
+        "Key": "9B",
+        "Energy": 6.877000000000001,
+        "Popularity": 7.84,
+        "BPM": 129,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "3oW6SWwGqiZSPTiAp7ZQoH",
+            "explicit": false,
+            "album": "Down The Road I Go",
+            "release_date": "2000-10-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "outlaw country"
+            ],
+            "duration": 241533,
+            "acousticness": 0.246,
+            "danceability": 6.3549999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.264,
+            "loudness": -4.935,
+            "speechiness": 0.0265,
+            "time_signature": 4,
+            "happiness": 5.878
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "Where I Come From",
+        "Artist": "Montgomery Gentry",
+        "Key": "3B",
+        "Energy": 8.533,
+        "Popularity": 1.0,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "5PxpphUBj6Dfqrii0irlMf",
+            "explicit": false,
+            "album": "Where I Come From - Single",
+            "release_date": "2011-07-26",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 201840,
+            "acousticness": 0.012,
+            "danceability": 6.58,
+            "instrumentalness": 9.38e-06,
+            "liveness": 0.247,
+            "loudness": -4.239,
+            "speechiness": 0.0303,
+            "time_signature": 4,
+            "happiness": 5.788
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "Take Me Home, Country Roads - Rerecorded",
+        "Artist": "John Denver",
+        "Key": "11B",
+        "Energy": 4.87,
+        "Popularity": 1.0,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Inspiring",
+            "Calm",
+            "Rock",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "2xYlyywNgefLCRDG8hlxZq",
+            "explicit": false,
+            "album": "The John Denver Collection, Vol. 1: Take Me Home Country Roads",
+            "release_date": "1997-06-17",
+            "genres": [
+                "classic country pop",
+                "folk",
+                "folk rock",
+                "mellow gold",
+                "singer-songwriter",
+                "soft rock"
+            ],
+            "duration": 197813,
+            "acousticness": 0.546,
+            "danceability": 3.295,
+            "instrumentalness": 1.87e-05,
+            "liveness": 0.188,
+            "loudness": -12.564,
+            "speechiness": 0.0322,
+            "time_signature": 4,
+            "happiness": 5.914000000000001
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "Wagon Wheel",
+        "Artist": "Darius Rucker",
+        "Key": "11B",
+        "Energy": 6.94,
+        "Popularity": 8.379999999999999,
+        "BPM": 148,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "3xdjjKMcMOFgo1eQrfbogM",
+            "explicit": false,
+            "album": "True Believers",
+            "release_date": "2013-01-01",
+            "genres": [
+                "black americana",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 298373,
+            "acousticness": 0.455,
+            "danceability": 5.833,
+            "instrumentalness": 0,
+            "liveness": 0.135,
+            "loudness": -7.174,
+            "speechiness": 0.0296,
+            "time_signature": 4,
+            "happiness": 6.1659999999999995
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "Fortunate Son",
+        "Artist": "Creedence Clearwater Revival",
+        "Key": "8B",
+        "Energy": 6.9670000000000005,
+        "Popularity": 8.83,
+        "BPM": 133,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "60s",
+            "Rock",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "4BP3uh0hFLFRb5cjsgLqDh",
+            "explicit": false,
+            "album": "Willy And The Poor Boys (Expanded Edition)",
+            "release_date": "1969-11-02",
+            "genres": [
+                "classic rock",
+                "country rock",
+                "rock",
+                "southern rock",
+                "swamp rock"
+            ],
+            "duration": 140773,
+            "acousticness": 0.201,
+            "danceability": 6.76,
+            "instrumentalness": 0.00806,
+            "liveness": 0.152,
+            "loudness": -7.516,
+            "speechiness": 0.0374,
+            "time_signature": 4,
+            "happiness": 6.9670000000000005
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Dixieland Delight - Single Edit",
+        "Artist": "Alabama",
+        "Key": "9B",
+        "Energy": 4.6450000000000005,
+        "Popularity": 1.09,
+        "BPM": 96,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "1hh3iFX5vVsiD9LMwUlQeh",
+            "explicit": false,
+            "album": "The Essential Alabama",
+            "release_date": "2005-05-17",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "country rock"
+            ],
+            "duration": 236427,
+            "acousticness": 0.208,
+            "danceability": 5.176,
+            "instrumentalness": 1.1e-05,
+            "liveness": 0.0611,
+            "loudness": -12.538,
+            "speechiness": 0.033,
+            "time_signature": 4,
+            "happiness": 5.626
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "You Make My Dreams (Come True)",
+        "Artist": "Daryl Hall & John Oates",
+        "Key": "7B",
+        "Energy": 6.1209999999999996,
+        "Popularity": 6.67,
+        "BPM": 84,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Rock",
+            "Calm",
+            "Inspiring",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2dlEdDEmuQsrcXaAL3Znzi",
+            "explicit": false,
+            "album": "The Essential Daryl Hall & John Oates",
+            "release_date": "2005-04-25",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "heartland rock",
+                "mellow gold",
+                "rock",
+                "singer-songwriter",
+                "soft rock",
+                "yacht rock"
+            ],
+            "duration": 190707,
+            "acousticness": 0.261,
+            "danceability": 7.633,
+            "instrumentalness": 0.308,
+            "liveness": 0.046,
+            "loudness": -6.702,
+            "speechiness": 0.0552,
+            "time_signature": 4,
+            "happiness": 9.208
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "All Summer Long",
+        "Artist": "Kid Rock",
+        "Key": "9B",
+        "Energy": 8.776,
+        "Popularity": 7.93,
+        "BPM": 103,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5rX6C5QVvvZB7XckETNych",
+            "explicit": false,
+            "album": "Rock n Roll Jesus",
+            "release_date": "2007-10-09",
+            "genres": [
+                "nu metal"
+            ],
+            "duration": 297587,
+            "acousticness": 0.0212,
+            "danceability": 7.3,
+            "instrumentalness": 0,
+            "liveness": 0.0956,
+            "loudness": -3.629,
+            "speechiness": 0.0283,
+            "time_signature": 4,
+            "happiness": 8.983
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "Beer For My Horses",
+        "Artist": "Toby Keith, Willie Nelson",
+        "Key": "6B",
+        "Energy": 8.649999999999999,
+        "Popularity": 7.4799999999999995,
+        "BPM": 119,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Inspiring",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7E2DqvnVtbIrFrL5X6YH9Q",
+            "explicit": false,
+            "album": "Unleashed",
+            "release_date": "2002-01-01",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road",
+                "classic country pop",
+                "classic texas country",
+                "country",
+                "country rock",
+                "nashville sound",
+                "outlaw country",
+                "singer-songwriter"
+            ],
+            "duration": 204000,
+            "acousticness": 0.368,
+            "danceability": 7.452999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.0495,
+            "loudness": -5.329,
+            "speechiness": 0.0473,
+            "time_signature": 4,
+            "happiness": 8.245000000000001
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "Song of the South",
+        "Artist": "Alabama",
+        "Key": "11B",
+        "Energy": 6.697,
+        "Popularity": 7.4799999999999995,
+        "BPM": 81,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "80s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2uX5f3x2cObov0iDAPln4o",
+            "explicit": false,
+            "album": "Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection",
+            "release_date": "1980",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "country rock"
+            ],
+            "duration": 190800,
+            "acousticness": 0.176,
+            "danceability": 5.374,
+            "instrumentalness": 0,
+            "liveness": 0.312,
+            "loudness": -8.414,
+            "speechiness": 0.0365,
+            "time_signature": 4,
+            "happiness": 7.021000000000001
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "Small Town",
+        "Artist": "John Mellencamp",
+        "Key": "1B",
+        "Energy": 9.271,
+        "Popularity": 7.209999999999999,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "80s",
+            "Calm",
+            "Inspiring",
+            "Rock",
+            "Mad",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "2HsjJJL4DhPCzMlnaGv7ap",
+            "explicit": false,
+            "album": "Scarecrow",
+            "release_date": "1985",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "hard rock",
+                "heartland rock",
+                "mellow gold",
+                "rock",
+                "singer-songwriter",
+                "soft rock"
+            ],
+            "duration": 221627,
+            "acousticness": 0.155,
+            "danceability": 6.931,
+            "instrumentalness": 0.0054,
+            "liveness": 0.312,
+            "loudness": -2.658,
+            "speechiness": 0.0333,
+            "time_signature": 4,
+            "happiness": 6.679
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "I Love My Country",
+        "Artist": "Florida Georgia Line",
+        "Key": "12B",
+        "Energy": 9.469,
+        "Popularity": 1.0,
+        "BPM": 140,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "16kqEZBfhhK8XlQpauKej1",
+            "explicit": false,
+            "album": "I Love My Country",
+            "release_date": "2020-03-27",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country pop",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 184554,
+            "acousticness": 0.0227,
+            "danceability": 5.8420000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.302,
+            "loudness": -3.582,
+            "speechiness": 0.0639,
+            "time_signature": 4,
+            "happiness": 6.265
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "Something to Be Proud Of",
+        "Artist": "Montgomery Gentry",
+        "Key": "8B",
+        "Energy": 7.236999999999999,
+        "Popularity": 6.8500000000000005,
+        "BPM": 98,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "4D8uIY6Wzj7dJDaw0dW0UF",
+            "explicit": false,
+            "album": "You Do Your Thing",
+            "release_date": "2004-05-18",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 256600,
+            "acousticness": 0.0811,
+            "danceability": 6.805,
+            "instrumentalness": 1.22e-05,
+            "liveness": 0.175,
+            "loudness": -6.481,
+            "speechiness": 0.0344,
+            "time_signature": 4,
+            "happiness": 5.977
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "Red Solo Cup",
+        "Artist": "Toby Keith",
+        "Key": "12B",
+        "Energy": 6.040000000000001,
+        "Popularity": 7.209999999999999,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4YKAOXyqkKZ5gOZR0AmVMN",
+            "explicit": false,
+            "album": "Clancy's Tavern",
+            "release_date": "2011-10-21",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 223387,
+            "acousticness": 0.287,
+            "danceability": 5.815,
+            "instrumentalness": 0,
+            "liveness": 0.209,
+            "loudness": -6.586,
+            "speechiness": 0.0901,
+            "time_signature": 4,
+            "happiness": 8.065000000000001
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "It's Five O'Clock Somewhere (with Jimmy Buffett)",
+        "Artist": "Alan Jackson, Jimmy Buffett",
+        "Key": "10B",
+        "Energy": 7.912,
+        "Popularity": 7.3,
+        "BPM": 125,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "07KYRDFf8Q6sqj4PWCP9vh",
+            "explicit": false,
+            "album": "Playlist: The Very Best Of Alan Jackson",
+            "release_date": "1991",
+            "genres": [
+                "country",
+                "trop rock"
+            ],
+            "duration": 230267,
+            "acousticness": 0.22,
+            "danceability": 7.417,
+            "instrumentalness": 0,
+            "liveness": 0.177,
+            "loudness": -6.702,
+            "speechiness": 0.0363,
+            "time_signature": 4,
+            "happiness": 8.902000000000001
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "How Do You Like Me Now?!",
+        "Artist": "Toby Keith",
+        "Key": "8B",
+        "Energy": 7.003,
+        "Popularity": 7.3,
+        "BPM": 110,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7rDcULv8vV16vetBjPJhuE",
+            "explicit": false,
+            "album": "How Do You Like Me Now?!",
+            "release_date": "1999-01-01",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 209067,
+            "acousticness": 0.0534,
+            "danceability": 6.832,
+            "instrumentalness": 6.94e-06,
+            "liveness": 0.0908,
+            "loudness": -8.986,
+            "speechiness": 0.0311,
+            "time_signature": 4,
+            "happiness": 7.021000000000001
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "Should've Been A Cowboy",
+        "Artist": "Toby Keith",
+        "Key": "9B",
+        "Energy": 8.137,
+        "Popularity": 6.94,
+        "BPM": 134,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "18BajNiyvH6GpYshB0unrm",
+            "explicit": false,
+            "album": "Toby Keith 35 Biggest Hits",
+            "release_date": "2008-01-01",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 208413,
+            "acousticness": 0.351,
+            "danceability": 6.265,
+            "instrumentalness": 0,
+            "liveness": 0.3,
+            "loudness": -3.713,
+            "speechiness": 0.0322,
+            "time_signature": 4,
+            "happiness": 7.588
+        }
+    }
+]

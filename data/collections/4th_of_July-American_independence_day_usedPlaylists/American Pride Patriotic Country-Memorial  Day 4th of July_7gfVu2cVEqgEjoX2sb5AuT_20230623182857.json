@@ -1,0 +1,2777 @@
+[
+    {
+        "#": 1,
+        "Track Title": "In America",
+        "Artist": "The Charlie Daniels Band",
+        "Key": "8B",
+        "Energy": 8.695,
+        "Popularity": 4.6899999999999995,
+        "BPM": 118,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "70s",
+            "Rock",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6IcoSnfvwFlYtYxu5TKbgg",
+            "explicit": false,
+            "album": "A Decade Of Hits",
+            "release_date": "1973",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "country",
+                "country rock",
+                "heartland rock",
+                "southern rock"
+            ],
+            "duration": 198373,
+            "acousticness": 0.0888,
+            "danceability": 6.76,
+            "instrumentalness": 0.000131,
+            "liveness": 0.0824,
+            "loudness": -9.97,
+            "speechiness": 0.0613,
+            "time_signature": 4,
+            "happiness": 8.767
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Courtesy Of The Red, White And Blue (The Angry American)",
+        "Artist": "Toby Keith",
+        "Key": "10B",
+        "Energy": 6.949,
+        "Popularity": 7.4799999999999995,
+        "BPM": 112,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0M7mWKqwTIaVjYyxfZmtTa",
+            "explicit": false,
+            "album": "Unleashed",
+            "release_date": "2002-01-01",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 195533,
+            "acousticness": 0.521,
+            "danceability": 4.816,
+            "instrumentalness": 1.62e-06,
+            "liveness": 0.0719,
+            "loudness": -5.547,
+            "speechiness": 0.0425,
+            "time_signature": 4,
+            "happiness": 4.4559999999999995
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "I Will Always Stand",
+        "Artist": "Sam Morrison Band",
+        "Key": "9B",
+        "Energy": 8.911,
+        "Popularity": 2.2600000000000002,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2TczE3uYyyyTLnEwmGiLJk",
+            "explicit": false,
+            "album": "I Will Always Stand",
+            "release_date": "2016-11-14",
+            "genres": [
+                "modern southern rock"
+            ],
+            "duration": 230250,
+            "acousticness": 0.282,
+            "danceability": 6.9670000000000005,
+            "instrumentalness": 5.25e-06,
+            "liveness": 0.12,
+            "loudness": -3.118,
+            "speechiness": 0.0347,
+            "time_signature": 4,
+            "happiness": 6.805
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Angel Flight",
+        "Artist": "Radney Foster and The Confessions",
+        "Key": "12B",
+        "Energy": 4.006,
+        "Popularity": 4.51,
+        "BPM": 129,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "4hrf9fE9EsqTCqwAv5dCx1",
+            "explicit": false,
+            "album": "Revival",
+            "release_date": "2009",
+            "genres": [],
+            "duration": 234360,
+            "acousticness": 0.568,
+            "danceability": 6.679,
+            "instrumentalness": 9.12e-05,
+            "liveness": 0.11,
+            "loudness": -10.156,
+            "speechiness": 0.029,
+            "time_signature": 4,
+            "happiness": 2.3049999999999997
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Red White & Blue",
+        "Artist": "Lynyrd Skynyrd",
+        "Key": "3B",
+        "Energy": 7.624,
+        "Popularity": 1.0,
+        "BPM": 135,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Rock",
+            "Mad",
+            "Nostalgic",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "5MzfFdSU3BjvCeO9DXF7N4",
+            "explicit": false,
+            "album": "Vicious Cycle",
+            "release_date": "2003",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "rock",
+                "southern rock"
+            ],
+            "duration": 331560,
+            "acousticness": 0.153,
+            "danceability": 5.356,
+            "instrumentalness": 7.48e-05,
+            "liveness": 0.14,
+            "loudness": -5.584,
+            "speechiness": 0.0341,
+            "time_signature": 4,
+            "happiness": 2.755
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Live Again",
+        "Artist": "Sam Morrison Band",
+        "Key": "11B",
+        "Energy": 5.014,
+        "Popularity": 1.45,
+        "BPM": 116,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "0uaMhaSgkRD9pvzv6Cn0QE",
+            "explicit": false,
+            "album": "Unfinished Business",
+            "release_date": "2022-06-17",
+            "genres": [
+                "modern southern rock"
+            ],
+            "duration": 297667,
+            "acousticness": 0.45,
+            "danceability": 6.688,
+            "instrumentalness": 0,
+            "liveness": 0.124,
+            "loudness": -5.499,
+            "speechiness": 0.027,
+            "time_signature": 4,
+            "happiness": 2.9619999999999997
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Where The Stars And Stripes And The Eagle Fly",
+        "Artist": "Aaron Tippin",
+        "Key": "10B",
+        "Energy": 7.1290000000000004,
+        "Popularity": 1.0,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "1Nr4Nwgc0hPgEhBTyrgCCR",
+            "explicit": false,
+            "album": "Patriotic Country",
+            "release_date": "2004-06-15",
+            "genres": [
+                "country",
+                "country road"
+            ],
+            "duration": 228213,
+            "acousticness": 0.0153,
+            "danceability": 6.445,
+            "instrumentalness": 6.07e-05,
+            "liveness": 0.203,
+            "loudness": -7.048,
+            "speechiness": 0.0291,
+            "time_signature": 4,
+            "happiness": 3.871
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Love Lives On",
+        "Artist": "Lonestar, Vince Gill",
+        "Key": "3A",
+        "Energy": 8.821,
+        "Popularity": 2.2600000000000002,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "4GLQF7QI3RKLBLxjiQ7ZiX",
+            "explicit": false,
+            "album": "Love Lives On",
+            "release_date": "2020-03-20",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "classic oklahoma country",
+                "country",
+                "country road"
+            ],
+            "duration": 236067,
+            "acousticness": 0.103,
+            "danceability": 4.843,
+            "instrumentalness": 1.18e-06,
+            "liveness": 0.139,
+            "loudness": -4.541,
+            "speechiness": 0.0777,
+            "time_signature": 4,
+            "happiness": 5.401
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Keep America Great",
+        "Artist": "Jean Nolan",
+        "Key": "7B",
+        "Energy": 7.6419999999999995,
+        "Popularity": 1.54,
+        "BPM": 146,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "594N2yPAG4oTTKE5CRWHsN",
+            "explicit": false,
+            "album": "Keep America Great",
+            "release_date": "2020-09-11",
+            "genres": [],
+            "duration": 181997,
+            "acousticness": 0.0284,
+            "danceability": 5.8870000000000005,
+            "instrumentalness": 4.45e-06,
+            "liveness": 0.314,
+            "loudness": -6.094,
+            "speechiness": 0.0299,
+            "time_signature": 4,
+            "happiness": 5.329
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Where Were You (When the World Stopped Turning)",
+        "Artist": "Alan Jackson",
+        "Key": "8B",
+        "Energy": 4.4830000000000005,
+        "Popularity": 5.41,
+        "BPM": 115,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "3eSwvMfSA0Fyku6Ak5JEw0",
+            "explicit": false,
+            "album": "34 Number Ones",
+            "release_date": "2010-11-19",
+            "genres": [
+                "country"
+            ],
+            "duration": 305093,
+            "acousticness": 0.549,
+            "danceability": 6.607,
+            "instrumentalness": 0,
+            "liveness": 0.0764,
+            "loudness": -9.537,
+            "speechiness": 0.0316,
+            "time_signature": 4,
+            "happiness": 2.701
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Have You Forgotten?",
+        "Artist": "Darryl Worley",
+        "Key": "9B",
+        "Energy": 6.625,
+        "Popularity": 5.59,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "5JWuz7zukN8z9JLNm29U5K",
+            "explicit": false,
+            "album": "Have You Forgotten?",
+            "release_date": "2003-01-01",
+            "genres": [
+                "country",
+                "country road"
+            ],
+            "duration": 242293,
+            "acousticness": 0.0515,
+            "danceability": 5.302,
+            "instrumentalness": 0,
+            "liveness": 0.116,
+            "loudness": -5.975,
+            "speechiness": 0.0341,
+            "time_signature": 4,
+            "happiness": 4.087
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "K9 Brother",
+        "Artist": "Andy Griggs",
+        "Key": "9B",
+        "Energy": 5.464,
+        "Popularity": 3.61,
+        "BPM": 129,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "70UI0YHr0Q4zzOeuZFeT8X",
+            "explicit": false,
+            "album": "K9 Brother",
+            "release_date": "2020-04-30",
+            "genres": [
+                "country",
+                "country road"
+            ],
+            "duration": 277667,
+            "acousticness": 0.382,
+            "danceability": 6.255999999999999,
+            "instrumentalness": 1.1e-06,
+            "liveness": 0.0873,
+            "loudness": -5.577,
+            "speechiness": 0.0273,
+            "time_signature": 4,
+            "happiness": 3.655
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "The Fightin' Side of Me",
+        "Artist": "Merle Haggard",
+        "Key": "12B",
+        "Energy": 5.482,
+        "Popularity": 1.0,
+        "BPM": 96,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "80s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4UVX4XPKlDPuZTkhTgAZgT",
+            "explicit": false,
+            "album": "Merle Haggard - 16 Biggest Hits",
+            "release_date": "1981",
+            "genres": [
+                "bakersfield sound",
+                "country",
+                "country rock",
+                "nashville sound",
+                "outlaw country"
+            ],
+            "duration": 172627,
+            "acousticness": 0.493,
+            "danceability": 7.768,
+            "instrumentalness": 0,
+            "liveness": 0.212,
+            "loudness": -11.282,
+            "speechiness": 0.0465,
+            "time_signature": 4,
+            "happiness": 7.318
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "If I Die Before You Wake",
+        "Artist": "Jimmy Weber",
+        "Key": "5B",
+        "Energy": 3.97,
+        "Popularity": 3.5200000000000005,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "66ELEP4bptOCiMNRk3TP01",
+            "explicit": false,
+            "album": "Jimmy Weber",
+            "release_date": "2010-05-01",
+            "genres": [],
+            "duration": 218560,
+            "acousticness": 0.74,
+            "danceability": 6.913,
+            "instrumentalness": 0,
+            "liveness": 0.0965,
+            "loudness": -7.85,
+            "speechiness": 0.0293,
+            "time_signature": 4,
+            "happiness": 3.538
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "God Bless the USA",
+        "Artist": "Lee Greenwood",
+        "Key": "7B",
+        "Energy": 4.699,
+        "Popularity": 1.0,
+        "BPM": 139,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2fTomdJ415Tcxxha9XYTr2",
+            "explicit": false,
+            "album": "Wanted: Lee Greenwood",
+            "release_date": "2014-03-18",
+            "genres": [
+                "classic country pop"
+            ],
+            "duration": 194507,
+            "acousticness": 0.106,
+            "danceability": 4.348,
+            "instrumentalness": 0,
+            "liveness": 0.132,
+            "loudness": -8.81,
+            "speechiness": 0.0279,
+            "time_signature": 4,
+            "happiness": 2.2510000000000003
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "Ragged Old Flag",
+        "Artist": "Johnny Cash",
+        "Key": "10B",
+        "Energy": 3.4930000000000003,
+        "Popularity": 5.68,
+        "BPM": 78,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "70s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "3lUizfXlBYvhDTYXk2X96w",
+            "explicit": false,
+            "album": "Ragged Old Flag",
+            "release_date": "1974-04-05",
+            "genres": [
+                "arkansas country",
+                "outlaw country",
+                "rock"
+            ],
+            "duration": 186933,
+            "acousticness": 0.862,
+            "danceability": 5.176,
+            "instrumentalness": 4.24e-06,
+            "liveness": 0.916,
+            "loudness": -11.308,
+            "speechiness": 0.347,
+            "time_signature": 3,
+            "happiness": 4.582000000000001
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "The Bumper Of My S.U.V.",
+        "Artist": "Chely Wright",
+        "Key": "6B",
+        "Energy": 3.367,
+        "Popularity": 1.0,
+        "BPM": 84,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "2aRhu9YNoWad2v4MCwX6QN",
+            "explicit": false,
+            "album": "Patriotic Country 2",
+            "release_date": "2005-06-14",
+            "genres": [
+                "country dawn",
+                "queer country"
+            ],
+            "duration": 280907,
+            "acousticness": 0.829,
+            "danceability": 5.329,
+            "instrumentalness": 0,
+            "liveness": 0.121,
+            "loudness": -9.759,
+            "speechiness": 0.0358,
+            "time_signature": 4,
+            "happiness": 3.241
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "Letters from Home",
+        "Artist": "John Michael Montgomery",
+        "Key": "8B",
+        "Energy": 6.634,
+        "Popularity": 6.22,
+        "BPM": 128,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "15cGdiAHmezm0P04jVAjMo",
+            "explicit": false,
+            "album": "Letters From Home",
+            "release_date": "2004-04-20",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 267533,
+            "acousticness": 0.367,
+            "danceability": 6.796,
+            "instrumentalness": 5.78e-06,
+            "liveness": 0.155,
+            "loudness": -7.243,
+            "speechiness": 0.0258,
+            "time_signature": 4,
+            "happiness": 4.492
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "American Soldier",
+        "Artist": "Toby Keith",
+        "Key": "11B",
+        "Energy": 6.210999999999999,
+        "Popularity": 5.32,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "4cG1Bu2EdPA9KqrOCviKP0",
+            "explicit": false,
+            "album": "Toby Keith 35 Biggest Hits",
+            "release_date": "2008-01-01",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 262400,
+            "acousticness": 0.143,
+            "danceability": 5.284,
+            "instrumentalness": 3.43e-06,
+            "liveness": 0.0611,
+            "loudness": -7.226,
+            "speechiness": 0.042,
+            "time_signature": 4,
+            "happiness": 2.773
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "American Summer",
+        "Artist": "Megan Ashley",
+        "Key": "1B",
+        "Energy": 7.534,
+        "Popularity": 2.5300000000000002,
+        "BPM": 96,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3cu12NvUpdFAbU44MFbV3N",
+            "explicit": false,
+            "album": "American Summer",
+            "release_date": "2021-05-04",
+            "genres": [],
+            "duration": 204544,
+            "acousticness": 0.198,
+            "danceability": 6.688,
+            "instrumentalness": 0,
+            "liveness": 0.263,
+            "loudness": -4.835,
+            "speechiness": 0.0283,
+            "time_signature": 4,
+            "happiness": 8.83
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Til The Last Shot's Fired",
+        "Artist": "Trace Adkins",
+        "Key": "2A",
+        "Energy": 5.1850000000000005,
+        "Popularity": 4.42,
+        "BPM": 74,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "1fcJFI3LvRK9is51pDwI6N",
+            "explicit": false,
+            "album": "Definitive Greatest Hits",
+            "release_date": "2010-01-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 300107,
+            "acousticness": 0.506,
+            "danceability": 4.744,
+            "instrumentalness": 1.79e-05,
+            "liveness": 0.104,
+            "loudness": -7.117,
+            "speechiness": 0.035,
+            "time_signature": 1,
+            "happiness": 3.007
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "Riding With Private Malone",
+        "Artist": "David Ball",
+        "Key": "12B",
+        "Energy": 5.815,
+        "Popularity": 6.31,
+        "BPM": 94,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "4yym5ZJXwvg03d4kyhLVZO",
+            "explicit": false,
+            "album": "Amigo",
+            "release_date": "2001-09-10",
+            "genres": [
+                "classic country pop",
+                "country",
+                "country road"
+            ],
+            "duration": 275067,
+            "acousticness": 0.402,
+            "danceability": 7.156000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.0993,
+            "loudness": -8.864,
+            "speechiness": 0.0451,
+            "time_signature": 4,
+            "happiness": 5.68
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "What Gives You My Rights",
+        "Artist": "Gunner Scott",
+        "Key": "2B",
+        "Energy": 7.939,
+        "Popularity": 2.71,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "3WOQgjBiDERoFfbx2aU9eI",
+            "explicit": false,
+            "album": "What Gives You My Rights",
+            "release_date": "2018-12-30",
+            "genres": [],
+            "duration": 213624,
+            "acousticness": 0.204,
+            "danceability": 5.536,
+            "instrumentalness": 0,
+            "liveness": 0.213,
+            "loudness": -4.681,
+            "speechiness": 0.0293,
+            "time_signature": 4,
+            "happiness": 2.7279999999999998
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "Peacekeepers *",
+        "Artist": "Sam Morrison Band",
+        "Key": "10A",
+        "Energy": 9.118,
+        "Popularity": 1.54,
+        "BPM": 96,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "0z7WkJ74DdaHo3EqDA509Q",
+            "explicit": false,
+            "album": "Dig It Or Don't",
+            "release_date": "2011-05-01",
+            "genres": [
+                "modern southern rock"
+            ],
+            "duration": 335638,
+            "acousticness": 0.00264,
+            "danceability": 3.268,
+            "instrumentalness": 0.000422,
+            "liveness": 0.054,
+            "loudness": -2.247,
+            "speechiness": 0.0407,
+            "time_signature": 4,
+            "happiness": 3.1959999999999997
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "I Just Came Back (From A War)",
+        "Artist": "Darryl Worley",
+        "Key": "9B",
+        "Energy": 7.651,
+        "Popularity": 4.42,
+        "BPM": 98,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0IloOLqyP3llm5F4c4LmX7",
+            "explicit": false,
+            "album": "Here And Now",
+            "release_date": "2006",
+            "genres": [
+                "country",
+                "country road"
+            ],
+            "duration": 327093,
+            "acousticness": 0.0525,
+            "danceability": 5.716,
+            "instrumentalness": 0.000101,
+            "liveness": 0.0629,
+            "loudness": -6.203,
+            "speechiness": 0.0303,
+            "time_signature": 4,
+            "happiness": 3.43
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "8th of November",
+        "Artist": "Big & Rich",
+        "Key": "10B",
+        "Energy": 7.561,
+        "Popularity": 5.32,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "2X0aeFJXJZpeK2nSWvypiI",
+            "explicit": false,
+            "album": "Comin' to Your City",
+            "release_date": "2005-11-15",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 298240,
+            "acousticness": 0.117,
+            "danceability": 3.331,
+            "instrumentalness": 0,
+            "liveness": 0.438,
+            "loudness": -2.665,
+            "speechiness": 0.0418,
+            "time_signature": 3,
+            "happiness": 3.5559999999999996
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "This Ain't No Rag, It's A Flag",
+        "Artist": "The Charlie Daniels Band",
+        "Key": "11B",
+        "Energy": 9.145,
+        "Popularity": 1.0,
+        "BPM": 92,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Rock",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3bRf6sfDQ33xDLgVMwa6hz",
+            "explicit": false,
+            "album": "Patriotic Country",
+            "release_date": "2004-06-15",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "country",
+                "country rock",
+                "heartland rock",
+                "southern rock"
+            ],
+            "duration": 214013,
+            "acousticness": 0.0895,
+            "danceability": 4.366,
+            "instrumentalness": 2.3e-06,
+            "liveness": 0.0759,
+            "loudness": -5.748,
+            "speechiness": 0.17,
+            "time_signature": 4,
+            "happiness": 8.002
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "Call A Marine",
+        "Artist": "Toby Keith",
+        "Key": "1A",
+        "Energy": 8.488,
+        "Popularity": 1.0,
+        "BPM": 103,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4aVx6lEn42OfZkNz8hrBYM",
+            "explicit": false,
+            "album": "Drinks After Work (Deluxe Edition)",
+            "release_date": "2013-01-01",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 196160,
+            "acousticness": 0.0378,
+            "danceability": 7.687,
+            "instrumentalness": 0,
+            "liveness": 0.0226,
+            "loudness": -4.535,
+            "speechiness": 0.0573,
+            "time_signature": 4,
+            "happiness": 7.678
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "Arlington",
+        "Artist": "Trace Adkins",
+        "Key": "6B",
+        "Energy": 5.032,
+        "Popularity": 5.2299999999999995,
+        "BPM": 77,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "1IdQeHmLig1Flat8nHkGo4",
+            "explicit": false,
+            "album": "Songs About Me",
+            "release_date": "2005-01-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 247333,
+            "acousticness": 0.627,
+            "danceability": 4.87,
+            "instrumentalness": 9.07e-06,
+            "liveness": 0.136,
+            "loudness": -7.345,
+            "speechiness": 0.0349,
+            "time_signature": 3,
+            "happiness": 4.087
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "You've Got to Stand for Something",
+        "Artist": "Aaron Tippin",
+        "Key": "12B",
+        "Energy": 7.633,
+        "Popularity": 1.0,
+        "BPM": 84,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "18GnIg9OL64kVWjR4W8lma",
+            "explicit": false,
+            "album": "Ultimate Aaron Tippin",
+            "release_date": "2004-02-10",
+            "genres": [
+                "country",
+                "country road"
+            ],
+            "duration": 181600,
+            "acousticness": 0.142,
+            "danceability": 6.607,
+            "instrumentalness": 0,
+            "liveness": 0.143,
+            "loudness": -7.583,
+            "speechiness": 0.0363,
+            "time_signature": 4,
+            "happiness": 5.247999999999999
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "American Trilogy - Live",
+        "Artist": "Elvis Presley",
+        "Key": "8B",
+        "Energy": 4.537,
+        "Popularity": 5.05,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "70s"
+        ],
+        "Additional Info": {
+            "id": "6CT7j3vaqT3KlnZEetnQqW",
+            "explicit": false,
+            "album": "Elvis: As Recorded at Madison Square Garden (Live)",
+            "release_date": "1972-06-01",
+            "genres": [
+                "rock-and-roll",
+                "rockabilly"
+            ],
+            "duration": 271813,
+            "acousticness": 0.265,
+            "danceability": 3.709,
+            "instrumentalness": 0.834,
+            "liveness": 0.964,
+            "loudness": -16.525,
+            "speechiness": 0.0441,
+            "time_signature": 4,
+            "happiness": 2.836
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "America Will Survive",
+        "Artist": "Hank Williams, Jr.",
+        "Key": "9B",
+        "Energy": 5.896000000000001,
+        "Popularity": 1.0,
+        "BPM": 142,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "6wvvGvsUx9CadMaNieJPB8",
+            "explicit": false,
+            "album": "Patriotic Country",
+            "release_date": "2004-06-15",
+            "genres": [
+                "country",
+                "country rock",
+                "outlaw country"
+            ],
+            "duration": 293213,
+            "acousticness": 0.021,
+            "danceability": 5.383,
+            "instrumentalness": 0,
+            "liveness": 0.318,
+            "loudness": -9.212,
+            "speechiness": 0.0426,
+            "time_signature": 4,
+            "happiness": 5.005
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "Some Gave All",
+        "Artist": "Billy Ray Cyrus",
+        "Key": "9B",
+        "Energy": 5.05,
+        "Popularity": 1.0,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "7nnoUtIeXnJIggRl8SVX2X",
+            "explicit": false,
+            "album": "Patriotic Country 2",
+            "release_date": "2005-06-14",
+            "genres": [
+                "country rock"
+            ],
+            "duration": 246133,
+            "acousticness": 0.0333,
+            "danceability": 6.724,
+            "instrumentalness": 6.3e-06,
+            "liveness": 0.0646,
+            "loudness": -7.687,
+            "speechiness": 0.0291,
+            "time_signature": 4,
+            "happiness": 3.475
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "In Color",
+        "Artist": "Jamey Johnson",
+        "Key": "5B",
+        "Energy": 4.636,
+        "Popularity": 7.4799999999999995,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "7CNd7rjfVt74TFlcOcnZgN",
+            "explicit": false,
+            "album": "That Lonesome Song",
+            "release_date": "2008-01-01",
+            "genres": [
+                "country",
+                "country road",
+                "outlaw country"
+            ],
+            "duration": 290680,
+            "acousticness": 0.391,
+            "danceability": 5.896000000000001,
+            "instrumentalness": 3.98e-06,
+            "liveness": 0.157,
+            "loudness": -8.751,
+            "speechiness": 0.0354,
+            "time_signature": 4,
+            "happiness": 3.259
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "Made In America",
+        "Artist": "Toby Keith",
+        "Key": "11B",
+        "Energy": 7.534,
+        "Popularity": 1.0,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "68iwafs32FXpAIDWqU8wdU",
+            "explicit": false,
+            "album": "Clancy's Tavern (Deluxe Edition)",
+            "release_date": "2011-01-01",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 193133,
+            "acousticness": 0.0413,
+            "danceability": 5.473,
+            "instrumentalness": 0,
+            "liveness": 0.109,
+            "loudness": -6.08,
+            "speechiness": 0.0303,
+            "time_signature": 4,
+            "happiness": 4.204
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "God Bless the U.S.A.",
+        "Artist": "Trey Hodge",
+        "Key": "7B",
+        "Energy": 6.76,
+        "Popularity": 1.3599999999999999,
+        "BPM": 144,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "0vUKImi6xaftwKpnN6dCv1",
+            "explicit": false,
+            "album": "God Bless the U.S.A.",
+            "release_date": "2018-07-07",
+            "genres": [
+                "lo-fi vgm"
+            ],
+            "duration": 192198,
+            "acousticness": 0.000864,
+            "danceability": 4.87,
+            "instrumentalness": 0.942,
+            "liveness": 0.235,
+            "loudness": -10.605,
+            "speechiness": 0.0414,
+            "time_signature": 4,
+            "happiness": 2.836
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "If You're Reading This",
+        "Artist": "Tim McGraw",
+        "Key": "1B",
+        "Energy": 3.7359999999999998,
+        "Popularity": 5.95,
+        "BPM": 145,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "3opmoDn4nG2eZWPjI8B7Bg",
+            "explicit": false,
+            "album": "Let It Go",
+            "release_date": "2007-03-27",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 252720,
+            "acousticness": 0.823,
+            "danceability": 3.745,
+            "instrumentalness": 0,
+            "liveness": 0.67,
+            "loudness": -8.383,
+            "speechiness": 0.0285,
+            "time_signature": 4,
+            "happiness": 4.069000000000001
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "Only in America",
+        "Artist": "Brooks & Dunn",
+        "Key": "12B",
+        "Energy": 9.127,
+        "Popularity": 1.0,
+        "BPM": 138,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "60OYLqg97AaTov6Kd4VZFr",
+            "explicit": false,
+            "album": "The Collection",
+            "release_date": "1991",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 269467,
+            "acousticness": 0.048,
+            "danceability": 5.743,
+            "instrumentalness": 0.0104,
+            "liveness": 0.654,
+            "loudness": -5.548,
+            "speechiness": 0.0399,
+            "time_signature": 4,
+            "happiness": 7.552
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "Something to Be Proud Of",
+        "Artist": "Montgomery Gentry",
+        "Key": "8B",
+        "Energy": 7.236999999999999,
+        "Popularity": 6.8500000000000005,
+        "BPM": 98,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "4D8uIY6Wzj7dJDaw0dW0UF",
+            "explicit": false,
+            "album": "You Do Your Thing",
+            "release_date": "2004-05-18",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 256600,
+            "acousticness": 0.0811,
+            "danceability": 6.805,
+            "instrumentalness": 1.22e-05,
+            "liveness": 0.175,
+            "loudness": -6.481,
+            "speechiness": 0.0344,
+            "time_signature": 4,
+            "happiness": 5.977
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "I Drive Your Truck",
+        "Artist": "Lee Brice",
+        "Key": "1B",
+        "Energy": 6.841,
+        "Popularity": 6.58,
+        "BPM": 142,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "6aPc6SSWgTsiXrrUpJCPlj",
+            "explicit": false,
+            "album": "Hard 2 Love",
+            "release_date": "2012-04-24",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 234840,
+            "acousticness": 0.0978,
+            "danceability": 5.59,
+            "instrumentalness": 0.00206,
+            "liveness": 0.119,
+            "loudness": -6.215,
+            "speechiness": 0.0348,
+            "time_signature": 4,
+            "happiness": 2.062
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "It’s America",
+        "Artist": "Rodney Atkins",
+        "Key": "12B",
+        "Energy": 7.435,
+        "Popularity": 5.59,
+        "BPM": 134,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6QbcLktLNe7eYqh8TjZeCd",
+            "explicit": false,
+            "album": "It's America",
+            "release_date": "2010-06-29",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 213787,
+            "acousticness": 0.0374,
+            "danceability": 6.3549999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.374,
+            "loudness": -13.863,
+            "speechiness": 0.0384,
+            "time_signature": 4,
+            "happiness": 7.497999999999999
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "If I Don't Make It Back",
+        "Artist": "Tracy Lawrence",
+        "Key": "7B",
+        "Energy": 5.284,
+        "Popularity": 5.32,
+        "BPM": 146,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "7JUYsasuTQbOdFf0Hq4SY5",
+            "explicit": false,
+            "album": "Then And Now: The Hits Collection",
+            "release_date": "2005-01-01",
+            "genres": [
+                "arkansas country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 244680,
+            "acousticness": 0.714,
+            "danceability": 5.518,
+            "instrumentalness": 5.23e-06,
+            "liveness": 0.159,
+            "loudness": -7.521,
+            "speechiness": 0.0357,
+            "time_signature": 4,
+            "happiness": 3.898
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "Travelin' Soldier",
+        "Artist": "Home Free",
+        "Key": "9B",
+        "Energy": 5.374,
+        "Popularity": 3.88,
+        "BPM": 146,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1o0mrQ6hZnz0G9xcXiHcNe",
+            "explicit": false,
+            "album": "Travelin' Soldier",
+            "release_date": "2021-05-28",
+            "genres": [
+                "a cappella"
+            ],
+            "duration": 246933,
+            "acousticness": 0.514,
+            "danceability": 6.931,
+            "instrumentalness": 0,
+            "liveness": 0.0859,
+            "loudness": -7.247,
+            "speechiness": 0.0327,
+            "time_signature": 4,
+            "happiness": 4.024
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "Brothers",
+        "Artist": "Dean Brody",
+        "Key": "5B",
+        "Energy": 6.103,
+        "Popularity": 4.6899999999999995,
+        "BPM": 78,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "4wcz06MtcyL8OFBsxsT5rO",
+            "explicit": false,
+            "album": "Dean Brody",
+            "release_date": "2009-04-28",
+            "genres": [
+                "canadian contemporary country",
+                "canadian country",
+                "country road"
+            ],
+            "duration": 299347,
+            "acousticness": 0.0564,
+            "danceability": 5.95,
+            "instrumentalness": 5.05e-05,
+            "liveness": 0.105,
+            "loudness": -7.242,
+            "speechiness": 0.0322,
+            "time_signature": 4,
+            "happiness": 2.143
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "Fallen Soldier",
+        "Artist": "Nathan Fair",
+        "Key": "9B",
+        "Energy": 4.996,
+        "Popularity": 4.42,
+        "BPM": 148,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "5cMkEA6IO0fYhTFqBnGnJy",
+            "explicit": false,
+            "album": "Fallen Soldier",
+            "release_date": "2012-01-31",
+            "genres": [],
+            "duration": 227422,
+            "acousticness": 0.407,
+            "danceability": 4.492,
+            "instrumentalness": 0.000351,
+            "liveness": 0.265,
+            "loudness": -8.841,
+            "speechiness": 0.0273,
+            "time_signature": 4,
+            "happiness": 3.4930000000000003
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "I'm Already There",
+        "Artist": "Lonestar",
+        "Key": "5B",
+        "Energy": 4.555,
+        "Popularity": 6.49,
+        "BPM": 133,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "34Vn9nKfztyLco9lJazy4j",
+            "explicit": false,
+            "album": "I'm Already There",
+            "release_date": "2001-03-27",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 253373,
+            "acousticness": 0.61,
+            "danceability": 4.393,
+            "instrumentalness": 0,
+            "liveness": 0.295,
+            "loudness": -8.622,
+            "speechiness": 0.0332,
+            "time_signature": 4,
+            "happiness": 2.989
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "Semper Fi",
+        "Artist": "Trace Adkins",
+        "Key": "1B",
+        "Energy": 4.627000000000001,
+        "Popularity": 5.05,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "21FyeXi7sykXk9HRlf3Aul",
+            "explicit": false,
+            "album": "Proud To Be Here (Deluxe Edition)",
+            "release_date": "2011-01-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 228427,
+            "acousticness": 0.0234,
+            "danceability": 6.013000000000001,
+            "instrumentalness": 0.0124,
+            "liveness": 0.0914,
+            "loudness": -8.947,
+            "speechiness": 0.0309,
+            "time_signature": 4,
+            "happiness": 2.818
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "Soldier's Wife",
+        "Artist": "Eli Mosley",
+        "Key": "5B",
+        "Energy": 4.888,
+        "Popularity": 2.2600000000000002,
+        "BPM": 78,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "6RjcjfweN1eHDAYUdyYV9M",
+            "explicit": false,
+            "album": "Soldier's Wife",
+            "release_date": "2019-05-20",
+            "genres": [],
+            "duration": 212947,
+            "acousticness": 0.276,
+            "danceability": 5.6080000000000005,
+            "instrumentalness": 0.000978,
+            "liveness": 0.107,
+            "loudness": -6.235,
+            "speechiness": 0.0258,
+            "time_signature": 4,
+            "happiness": 3.178
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "POW 369",
+        "Artist": "Darryl Worley",
+        "Key": "12B",
+        "Energy": 4.366,
+        "Popularity": 3.6999999999999997,
+        "BPM": 89,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "5bj7RITKZNUsgqcGCL8VNs",
+            "explicit": false,
+            "album": "I Miss My Friend",
+            "release_date": "2002-01-01",
+            "genres": [
+                "country",
+                "country road"
+            ],
+            "duration": 221600,
+            "acousticness": 0.585,
+            "danceability": 6.832,
+            "instrumentalness": 8.45e-06,
+            "liveness": 0.102,
+            "loudness": -9.949,
+            "speechiness": 0.025,
+            "time_signature": 4,
+            "happiness": 3.286
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "American Ride",
+        "Artist": "Toby Keith",
+        "Key": "11B",
+        "Energy": 9.154,
+        "Popularity": 1.0,
+        "BPM": 87,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1vD4DN56ued7pQklJBDesw",
+            "explicit": false,
+            "album": "American Ride",
+            "release_date": "2009-01-01",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 165693,
+            "acousticness": 0.0889,
+            "danceability": 5.662,
+            "instrumentalness": 0,
+            "liveness": 0.309,
+            "loudness": -2.845,
+            "speechiness": 0.0573,
+            "time_signature": 4,
+            "happiness": 7.759
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "Home",
+        "Artist": "Dierks Bentley",
+        "Key": "1B",
+        "Energy": 7.209999999999999,
+        "Popularity": 5.41,
+        "BPM": 118,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "6q5nAr2JniAHj1gKheejE0",
+            "explicit": false,
+            "album": "Home",
+            "release_date": "2012-01-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 238413,
+            "acousticness": 0.463,
+            "danceability": 6.49,
+            "instrumentalness": 0.0409,
+            "liveness": 0.0842,
+            "loudness": -7.157,
+            "speechiness": 0.0378,
+            "time_signature": 4,
+            "happiness": 5.158
+        }
+    },
+    {
+        "#": 52,
+        "Track Title": "A Soldier's Memoir (P T S D Song)",
+        "Artist": "Joe Bachman",
+        "Key": "3B",
+        "Energy": 5.743,
+        "Popularity": 4.33,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "4CgSAdM6nF7PSyVOL08QeQ",
+            "explicit": false,
+            "album": "A Soldier's Memoir (P T S D Song)",
+            "release_date": "2013-07-16",
+            "genres": [],
+            "duration": 249747,
+            "acousticness": 0.66,
+            "danceability": 6.13,
+            "instrumentalness": 2.81e-06,
+            "liveness": 0.0837,
+            "loudness": -6.594,
+            "speechiness": 0.0318,
+            "time_signature": 4,
+            "happiness": 2.152
+        }
+    },
+    {
+        "#": 53,
+        "Track Title": "Where I Come From",
+        "Artist": "Montgomery Gentry",
+        "Key": "3B",
+        "Energy": 8.668,
+        "Popularity": 6.3999999999999995,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "10ps1I1sIMRNZW11eceN7W",
+            "explicit": false,
+            "album": "Rebels on the Run",
+            "release_date": "2011-10-18",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 201840,
+            "acousticness": 0.0108,
+            "danceability": 6.58,
+            "instrumentalness": 4.94e-06,
+            "liveness": 0.279,
+            "loudness": -4.203,
+            "speechiness": 0.0308,
+            "time_signature": 4,
+            "happiness": 5.311
+        }
+    },
+    {
+        "#": 54,
+        "Track Title": "Song of the South",
+        "Artist": "Alabama",
+        "Key": "11B",
+        "Energy": 6.697,
+        "Popularity": 7.4799999999999995,
+        "BPM": 81,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "80s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2uX5f3x2cObov0iDAPln4o",
+            "explicit": false,
+            "album": "Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection",
+            "release_date": "1980",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "country rock"
+            ],
+            "duration": 190800,
+            "acousticness": 0.176,
+            "danceability": 5.374,
+            "instrumentalness": 0,
+            "liveness": 0.312,
+            "loudness": -8.414,
+            "speechiness": 0.0365,
+            "time_signature": 4,
+            "happiness": 7.021000000000001
+        }
+    },
+    {
+        "#": 55,
+        "Track Title": "Two Soldiers Coming Home",
+        "Artist": "Lori McKenna",
+        "Key": "10B",
+        "Energy": 5.086,
+        "Popularity": 4.15,
+        "BPM": 146,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Calm",
+            "Girl Power",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "1izEIegmClpoKR5fYvjWJL",
+            "explicit": false,
+            "album": "Act Of Valor",
+            "release_date": "2012-01-01",
+            "genres": [
+                "boston folk",
+                "ectofolk",
+                "folk",
+                "lilith",
+                "modern folk rock",
+                "new americana",
+                "new england americana"
+            ],
+            "duration": 206133,
+            "acousticness": 0.618,
+            "danceability": 6.193,
+            "instrumentalness": 0,
+            "liveness": 0.121,
+            "loudness": -4.156,
+            "speechiness": 0.0252,
+            "time_signature": 4,
+            "happiness": 4.42
+        }
+    },
+    {
+        "#": 56,
+        "Track Title": "American Child",
+        "Artist": "Phil Vassar",
+        "Key": "10B",
+        "Energy": 6.2379999999999995,
+        "Popularity": 3.5200000000000005,
+        "BPM": 84,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "4e5YuvuzIgS8ZrAWpFrvOx",
+            "explicit": false,
+            "album": "American Child",
+            "release_date": "2002-07-25",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 193067,
+            "acousticness": 0.297,
+            "danceability": 4.618,
+            "instrumentalness": 0,
+            "liveness": 0.15,
+            "loudness": -9.139,
+            "speechiness": 0.0273,
+            "time_signature": 3,
+            "happiness": 5.41
+        }
+    },
+    {
+        "#": 57,
+        "Track Title": "One Hell Of An Amen",
+        "Artist": "Brantley Gilbert",
+        "Key": "3B",
+        "Energy": 6.976,
+        "Popularity": 5.95,
+        "BPM": 138,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0n96wSHG9FXAuLVoaG9Jjd",
+            "explicit": false,
+            "album": "Just As I Am",
+            "release_date": "2014-01-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 221467,
+            "acousticness": 0.0139,
+            "danceability": 5.923,
+            "instrumentalness": 2.94e-06,
+            "liveness": 0.0767,
+            "loudness": -5.622,
+            "speechiness": 0.028,
+            "time_signature": 4,
+            "happiness": 5.9590000000000005
+        }
+    },
+    {
+        "#": 58,
+        "Track Title": "Still a Soldier",
+        "Artist": "Trace Adkins",
+        "Key": "2A",
+        "Energy": 7.380999999999999,
+        "Popularity": 5.2299999999999995,
+        "BPM": 97,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0twloQAnQbMRwCy9uDW8Q8",
+            "explicit": false,
+            "album": "Something's Going On",
+            "release_date": "2017-03-31",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 197107,
+            "acousticness": 0.00801,
+            "danceability": 5.878,
+            "instrumentalness": 0,
+            "liveness": 0.154,
+            "loudness": -5.798,
+            "speechiness": 0.0392,
+            "time_signature": 4,
+            "happiness": 4.9239999999999995
+        }
+    },
+    {
+        "#": 59,
+        "Track Title": "A Country Boy Can Survive",
+        "Artist": "Hank Williams, Jr.",
+        "Key": "9B",
+        "Energy": 5.131,
+        "Popularity": 7.209999999999999,
+        "BPM": 75,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "80s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "77dcKrzRUI02XjHd2okARp",
+            "explicit": false,
+            "album": "The Pressure Is On",
+            "release_date": "1981",
+            "genres": [
+                "country",
+                "country rock",
+                "outlaw country"
+            ],
+            "duration": 255000,
+            "acousticness": 0.144,
+            "danceability": 7.191999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.0816,
+            "loudness": -9.353,
+            "speechiness": 0.0365,
+            "time_signature": 4,
+            "happiness": 5.437
+        }
+    },
+    {
+        "#": 60,
+        "Track Title": "Letters from War",
+        "Artist": "Mark Schultz",
+        "Key": "3B",
+        "Energy": 6.1209999999999996,
+        "Popularity": 4.51,
+        "BPM": 112,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "6KDUIPBPc1kWCU7aiQ6uGS",
+            "explicit": false,
+            "album": "Mark Schultz: Stories & Songs",
+            "release_date": "2003-10-14",
+            "genres": [
+                "ccm",
+                "christian alternative rock",
+                "christian music"
+            ],
+            "duration": 255027,
+            "acousticness": 0.35,
+            "danceability": 4.474,
+            "instrumentalness": 0,
+            "liveness": 0.12,
+            "loudness": -4.839,
+            "speechiness": 0.0314,
+            "time_signature": 4,
+            "happiness": 4.122999999999999
+        }
+    },
+    {
+        "#": 61,
+        "Track Title": "The Taliban Song",
+        "Artist": "Toby Keith",
+        "Key": "2B",
+        "Energy": 7.3,
+        "Popularity": 1.0,
+        "BPM": 117,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "2EoxqSbukgfxm6JdmXTfZN",
+            "explicit": false,
+            "album": "Shock 'N Y'all",
+            "release_date": "2003-01-01",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 238933,
+            "acousticness": 0.676,
+            "danceability": 5.644,
+            "instrumentalness": 3.24e-06,
+            "liveness": 0.974,
+            "loudness": -7.816,
+            "speechiness": 0.0772,
+            "time_signature": 4,
+            "happiness": 6.742
+        }
+    },
+    {
+        "#": 62,
+        "Track Title": "America",
+        "Artist": "Waylon Jennings",
+        "Key": "10B",
+        "Energy": 6.859,
+        "Popularity": 3.43,
+        "BPM": 127,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4LvOLeFbjjSD7nJgGIunAd",
+            "explicit": false,
+            "album": "Nashville Rebel",
+            "release_date": "2006-09-26",
+            "genres": [
+                "classic texas country",
+                "country",
+                "outlaw country"
+            ],
+            "duration": 224533,
+            "acousticness": 0.267,
+            "danceability": 8.857,
+            "instrumentalness": 0.00234,
+            "liveness": 0.0863,
+            "loudness": -14.055,
+            "speechiness": 0.0344,
+            "time_signature": 4,
+            "happiness": 9.604
+        }
+    },
+    {
+        "#": 63,
+        "Track Title": "Soldiers & Jesus",
+        "Artist": "James Otto",
+        "Key": "10B",
+        "Energy": 5.1850000000000005,
+        "Popularity": 4.15,
+        "BPM": 121,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0lmc8uNrdZrhX3Nb6Et1Hj",
+            "explicit": false,
+            "album": "Shake What God Gave Ya",
+            "release_date": "2008",
+            "genres": [
+                "country road"
+            ],
+            "duration": 285067,
+            "acousticness": 0.379,
+            "danceability": 5.806,
+            "instrumentalness": 5.99e-05,
+            "liveness": 0.0913,
+            "loudness": -5.692,
+            "speechiness": 0.0273,
+            "time_signature": 3,
+            "happiness": 3.079
+        }
+    },
+    {
+        "#": 64,
+        "Track Title": "Every Soldier",
+        "Artist": "Southern Halo",
+        "Key": "6B",
+        "Energy": 4.824999999999999,
+        "Popularity": 1.45,
+        "BPM": 76,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "382nWLW6Ck5xPElzSjK2YL",
+            "explicit": false,
+            "album": "Every Soldier",
+            "release_date": "2019-06-07",
+            "genres": [
+                "country pop"
+            ],
+            "duration": 210327,
+            "acousticness": 0.749,
+            "danceability": 6.553,
+            "instrumentalness": 0,
+            "liveness": 0.13,
+            "loudness": -10.433,
+            "speechiness": 0.0344,
+            "time_signature": 4,
+            "happiness": 4.465
+        }
+    },
+    {
+        "#": 65,
+        "Track Title": "Fall Of The Peacemakers",
+        "Artist": "Molly Hatchet",
+        "Key": "9B",
+        "Energy": 7.5249999999999995,
+        "Popularity": 4.24,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "80s",
+            "Rock",
+            "Mad",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "1Aq8Qe3RrDbRSsnpTAgouc",
+            "explicit": false,
+            "album": "No Guts, No Glory",
+            "release_date": "1983-05-19",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "country rock",
+                "glam metal",
+                "hard rock",
+                "heartland rock",
+                "southern rock"
+            ],
+            "duration": 483627,
+            "acousticness": 0.0692,
+            "danceability": 3.1959999999999997,
+            "instrumentalness": 0.099,
+            "liveness": 0.336,
+            "loudness": -11.619,
+            "speechiness": 0.0404,
+            "time_signature": 4,
+            "happiness": 6.031000000000001
+        }
+    },
+    {
+        "#": 66,
+        "Track Title": "Still A Little Country Left",
+        "Artist": "Curtis Grimes",
+        "Key": "3B",
+        "Energy": 8.929,
+        "Popularity": 4.0600000000000005,
+        "BPM": 92,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "3RM3FCCyCiUAyhXObPCS55",
+            "explicit": false,
+            "album": "Still A Little Country Left",
+            "release_date": "2020-09-18",
+            "genres": [
+                "classic texas country",
+                "red dirt",
+                "texas country"
+            ],
+            "duration": 201752,
+            "acousticness": 0.0926,
+            "danceability": 6.210999999999999,
+            "instrumentalness": 1.65e-06,
+            "liveness": 0.329,
+            "loudness": -3.672,
+            "speechiness": 0.0291,
+            "time_signature": 4,
+            "happiness": 6.103
+        }
+    },
+    {
+        "#": 67,
+        "Track Title": "God Bless the USA",
+        "Artist": "Jodi Essex",
+        "Key": "9B",
+        "Energy": 8.524000000000001,
+        "Popularity": 1.27,
+        "BPM": 138,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "780R7bqx2hXqJItHplFhW5",
+            "explicit": false,
+            "album": "God Bless the USA",
+            "release_date": "2020-08-28",
+            "genres": [],
+            "duration": 223400,
+            "acousticness": 0.000323,
+            "danceability": 5.6080000000000005,
+            "instrumentalness": 0.0174,
+            "liveness": 0.0598,
+            "loudness": -4.428,
+            "speechiness": 0.0507,
+            "time_signature": 4,
+            "happiness": 4.582000000000001
+        }
+    },
+    {
+        "#": 68,
+        "Track Title": "Purple Heart",
+        "Artist": "James H. White, Katy Mantyk",
+        "Key": "10B",
+        "Energy": 5.7700000000000005,
+        "Popularity": 2.8899999999999997,
+        "BPM": 140,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1ejLrhFjeVLIu2Yiq16PNp",
+            "explicit": false,
+            "album": "Purple Heart",
+            "release_date": "2020-11-06",
+            "genres": [],
+            "duration": 289497,
+            "acousticness": 0.0789,
+            "danceability": 5.3469999999999995,
+            "instrumentalness": 0.00291,
+            "liveness": 0.338,
+            "loudness": -10.001,
+            "speechiness": 0.0486,
+            "time_signature": 3,
+            "happiness": 2.746
+        }
+    },
+    {
+        "#": 69,
+        "Track Title": "I'll Remember April",
+        "Artist": "746 Feaf",
+        "Key": "2B",
+        "Energy": 5.518,
+        "Popularity": 2.08,
+        "BPM": 126,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "6sVmIfaxPIDpoLMNN9uVDY",
+            "explicit": false,
+            "album": "Sentimental Journey",
+            "release_date": "2020-11-11",
+            "genres": [],
+            "duration": 162018,
+            "acousticness": 0.885,
+            "danceability": 4.204,
+            "instrumentalness": 0.409,
+            "liveness": 0.104,
+            "loudness": -10.039,
+            "speechiness": 0.0564,
+            "time_signature": 4,
+            "happiness": 4.2669999999999995
+        }
+    },
+    {
+        "#": 70,
+        "Track Title": "Get a Man Wrong",
+        "Artist": "Daniel E. Johnson",
+        "Key": "6B",
+        "Energy": 6.382,
+        "Popularity": 1.54,
+        "BPM": 142,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "4k0PVwth3X9aNhseIksPQf",
+            "explicit": false,
+            "album": "Get a Man Wrong",
+            "release_date": "2021-03-19",
+            "genres": [],
+            "duration": 206908,
+            "acousticness": 0.172,
+            "danceability": 5.752000000000001,
+            "instrumentalness": 0.000268,
+            "liveness": 0.139,
+            "loudness": -7.158,
+            "speechiness": 0.0298,
+            "time_signature": 4,
+            "happiness": 4.141
+        }
+    },
+    {
+        "#": 71,
+        "Track Title": "Jericho Battle Cry",
+        "Artist": "Katie Linendoll",
+        "Key": "12B",
+        "Energy": 7.786,
+        "Popularity": 1.0,
+        "BPM": 84,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4djiytFP4gbmoOFwepypSy",
+            "explicit": false,
+            "album": "Jericho Battle Cry",
+            "release_date": "2021-04-16",
+            "genres": [],
+            "duration": 145357,
+            "acousticness": 0.0563,
+            "danceability": 6.093999999999999,
+            "instrumentalness": 7.09e-06,
+            "liveness": 0.227,
+            "loudness": -7.173,
+            "speechiness": 0.0294,
+            "time_signature": 4,
+            "happiness": 7.048
+        }
+    },
+    {
+        "#": 72,
+        "Track Title": "Land of the Free",
+        "Artist": "Home Free",
+        "Key": "10B",
+        "Energy": 7.714,
+        "Popularity": 2.8899999999999997,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2YK0xM4TKIwrrbdWdN2OzK",
+            "explicit": false,
+            "album": "Land of the Free",
+            "release_date": "2021-06-11",
+            "genres": [
+                "a cappella"
+            ],
+            "duration": 211067,
+            "acousticness": 0.0229,
+            "danceability": 6.3549999999999995,
+            "instrumentalness": 1.83e-06,
+            "liveness": 0.108,
+            "loudness": -6.885,
+            "speechiness": 0.0365,
+            "time_signature": 4,
+            "happiness": 6.904
+        }
+    },
+    {
+        "#": 73,
+        "Track Title": "Freed Man's Creed",
+        "Artist": "James H. White",
+        "Key": "6A",
+        "Energy": 8.254000000000001,
+        "Popularity": 2.44,
+        "BPM": 99,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "4PsErhLpJqoVkUsFtKppNh",
+            "explicit": false,
+            "album": "Freed Man's Creed",
+            "release_date": "2021-07-02",
+            "genres": [],
+            "duration": 176400,
+            "acousticness": 0.137,
+            "danceability": 6.022,
+            "instrumentalness": 0.837,
+            "liveness": 0.28,
+            "loudness": -6.424,
+            "speechiness": 0.0368,
+            "time_signature": 4,
+            "happiness": 6.445
+        }
+    },
+    {
+        "#": 74,
+        "Track Title": "Thank You for Your Service",
+        "Artist": "James H. White",
+        "Key": "12A",
+        "Energy": 4.852,
+        "Popularity": 2.3499999999999996,
+        "BPM": 67,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1dFE6BEGhtM6adx3I7tDeJ",
+            "explicit": false,
+            "album": "Thank You for Your Service",
+            "release_date": "2022-05-27",
+            "genres": [],
+            "duration": 200576,
+            "acousticness": 0.0173,
+            "danceability": 4.978,
+            "instrumentalness": 0.187,
+            "liveness": 0.194,
+            "loudness": -10.421,
+            "speechiness": 0.027,
+            "time_signature": 4,
+            "happiness": 1.7092
+        }
+    },
+    {
+        "#": 75,
+        "Track Title": "The Last Fallen Hero",
+        "Artist": "The Charlie Daniels Band",
+        "Key": "12A",
+        "Energy": 4.978,
+        "Popularity": 3.34,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Rock",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "2YNddX4EViIjsJGbO2DXru",
+            "explicit": false,
+            "album": "Redneck Fiddlin' Man",
+            "release_date": "2002",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "country",
+                "country rock",
+                "heartland rock",
+                "southern rock"
+            ],
+            "duration": 297200,
+            "acousticness": 0.528,
+            "danceability": 4.7620000000000005,
+            "instrumentalness": 3.05e-06,
+            "liveness": 0.0825,
+            "loudness": -9.959,
+            "speechiness": 0.0313,
+            "time_signature": 4,
+            "happiness": 2.827
+        }
+    },
+    {
+        "#": 76,
+        "Track Title": "I Stand for the Flag",
+        "Artist": "Wes Cook Band",
+        "Key": "8B",
+        "Energy": 7.417,
+        "Popularity": 3.43,
+        "BPM": 93,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "19mwYdperyRVH81jPGeLOP",
+            "explicit": false,
+            "album": "I Stand for the Flag",
+            "release_date": "2017-12-02",
+            "genres": [],
+            "duration": 218400,
+            "acousticness": 0.251,
+            "danceability": 5.8420000000000005,
+            "instrumentalness": 0.000104,
+            "liveness": 0.177,
+            "loudness": -5.596,
+            "speechiness": 0.0307,
+            "time_signature": 4,
+            "happiness": 5.437
+        }
+    },
+    {
+        "#": 77,
+        "Track Title": "Proud to Be a Soldier",
+        "Artist": "Rockie Lynne",
+        "Key": "4B",
+        "Energy": 8.425,
+        "Popularity": 3.34,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2JcUcNqMSLpPUQDqJ17nht",
+            "explicit": false,
+            "album": "Songs for Soldiers",
+            "release_date": "2010-05-05",
+            "genres": [
+                "country road"
+            ],
+            "duration": 251280,
+            "acousticness": 0.0306,
+            "danceability": 7.075,
+            "instrumentalness": 0,
+            "liveness": 0.298,
+            "loudness": -4.379,
+            "speechiness": 0.0329,
+            "time_signature": 4,
+            "happiness": 7.335999999999999
+        }
+    },
+    {
+        "#": 78,
+        "Track Title": "Airborne Ranger Infantry",
+        "Artist": "Kristy Lee Cook",
+        "Key": "3A",
+        "Energy": 3.718,
+        "Popularity": 4.51,
+        "BPM": 144,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0Mrj7HAEhb2lo4dmvk0JXc",
+            "explicit": false,
+            "album": "Airborne Ranger Infantry",
+            "release_date": "2012-10-16",
+            "genres": [
+                "country dawn"
+            ],
+            "duration": 225680,
+            "acousticness": 0.635,
+            "danceability": 5.518,
+            "instrumentalness": 0,
+            "liveness": 0.111,
+            "loudness": -8.106,
+            "speechiness": 0.0269,
+            "time_signature": 5,
+            "happiness": 3.052
+        }
+    },
+    {
+        "#": 79,
+        "Track Title": "Sit Awhile",
+        "Artist": "The Band Steele",
+        "Key": "8B",
+        "Energy": 6.5169999999999995,
+        "Popularity": 4.779999999999999,
+        "BPM": 77,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "28uRo57tDhcZ9GTQWxXW97",
+            "explicit": false,
+            "album": "Moon in a Mason Jar",
+            "release_date": "2017-10-20",
+            "genres": [
+                "redneck"
+            ],
+            "duration": 221381,
+            "acousticness": 0.111,
+            "danceability": 5.689,
+            "instrumentalness": 0,
+            "liveness": 0.142,
+            "loudness": -5.438,
+            "speechiness": 0.0301,
+            "time_signature": 4,
+            "happiness": 4.546
+        }
+    }
+]

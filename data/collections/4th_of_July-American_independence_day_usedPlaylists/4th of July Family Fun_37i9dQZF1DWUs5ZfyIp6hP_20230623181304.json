@@ -1,0 +1,1894 @@
+[
+    {
+        "#": 1,
+        "Track Title": "Firework",
+        "Artist": "Katy Perry",
+        "Key": "4B",
+        "Energy": 8.434,
+        "Popularity": 7.66,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "4lCv7b86sLynZbXhfScfm2",
+            "explicit": false,
+            "album": "Teenage Dream: The Complete Confection",
+            "release_date": "2012-03-12",
+            "genres": [
+                "pop"
+            ],
+            "duration": 227880,
+            "acousticness": 0.139,
+            "danceability": 6.742,
+            "instrumentalness": 0,
+            "liveness": 0.0803,
+            "loudness": -4.968,
+            "speechiness": 0.0479,
+            "time_signature": 4,
+            "happiness": 6.841
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Fourth of July - 2015 Version",
+        "Artist": "The Kiboomers",
+        "Key": "4A",
+        "Energy": 8.704,
+        "Popularity": 1.6300000000000001,
+        "BPM": 126,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "PEGI 4 [Age]",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4y4thwlaN6YcT3vOvOslDI",
+            "explicit": false,
+            "album": "Favorite American Patriotic Songs for Kids",
+            "release_date": "2015-08-31",
+            "genres": [
+                "children's music",
+                "nursery",
+                "preschool children's music"
+            ],
+            "duration": 75448,
+            "acousticness": 0.496,
+            "danceability": 8.748999999999999,
+            "instrumentalness": 2.76e-05,
+            "liveness": 0.693,
+            "loudness": -7.442,
+            "speechiness": 0.0526,
+            "time_signature": 4,
+            "happiness": 9.703
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "Happy Day",
+        "Artist": "Jenn Cleary",
+        "Key": "12B",
+        "Energy": 5.536,
+        "Popularity": 1.99,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "72PrEmH6YpeK00WcXAcNAW",
+            "explicit": false,
+            "album": "Happy Day",
+            "release_date": "2022-06-17",
+            "genres": [],
+            "duration": 173573,
+            "acousticness": 0.661,
+            "danceability": 5.995,
+            "instrumentalness": 0,
+            "liveness": 0.37,
+            "loudness": -9.988,
+            "speechiness": 0.113,
+            "time_signature": 4,
+            "happiness": 9.271
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Summer Feelings (feat. Charlie Puth) - From 'SCOOB!' The Album",
+        "Artist": "Lennon Stella, Charlie Puth",
+        "Key": "7A",
+        "Energy": 7.174,
+        "Popularity": 7.12,
+        "BPM": 116,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Rock",
+            "Mad",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "49dFIRQCQxPWgoH0m38XQ5",
+            "explicit": false,
+            "album": "Summer Feelings (feat. Charlie Puth)",
+            "release_date": "2020-04-23",
+            "genres": [
+                "alt z",
+                "canadian pop",
+                "uk pop",
+                "pop",
+                "viral pop"
+            ],
+            "duration": 160289,
+            "acousticness": 0.262,
+            "danceability": 7.263999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.174,
+            "loudness": -6.113,
+            "speechiness": 0.0309,
+            "time_signature": 4,
+            "happiness": 7.3
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Fireworks Song",
+        "Artist": "Sunny Day",
+        "Key": "4B",
+        "Energy": 9.1,
+        "Popularity": 2.08,
+        "BPM": 125,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1j0Chd2a3LyrJ2NGBc1Ubn",
+            "explicit": false,
+            "album": "Keep Styling, Keep Singing Vol. 2",
+            "release_date": "2020-06-19",
+            "genres": [],
+            "duration": 62793,
+            "acousticness": 0.246,
+            "danceability": 7.822,
+            "instrumentalness": 0,
+            "liveness": 0.417,
+            "loudness": -5.602,
+            "speechiness": 0.0985,
+            "time_signature": 4,
+            "happiness": 9.568
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Stars And Stripes Forever",
+        "Artist": "Cooltime Kids",
+        "Key": "10B",
+        "Energy": 7.273,
+        "Popularity": 3.16,
+        "BPM": 114,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "PEGI 4 [Age]",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6HQJGMXXiVo7aYhyACZqMT",
+            "explicit": false,
+            "album": "Patriotic Kids' Songs",
+            "release_date": "2017-05-26",
+            "genres": [
+                "children's music",
+                "kids dance party",
+                "nursery"
+            ],
+            "duration": 96147,
+            "acousticness": 0.742,
+            "danceability": 5.014,
+            "instrumentalness": 0,
+            "liveness": 0.287,
+            "loudness": -3.818,
+            "speechiness": 0.0334,
+            "time_signature": 4,
+            "happiness": 9.334
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Butter",
+        "Artist": "BTS",
+        "Key": "4B",
+        "Energy": 5.131,
+        "Popularity": 8.290000000000001,
+        "BPM": 110,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6jjYDGxVJsWS0a5wlVF5vS",
+            "explicit": false,
+            "album": "Proof",
+            "release_date": "2022-06-10",
+            "genres": [
+                "k-pop",
+                "k-pop boy group",
+                "pop"
+            ],
+            "duration": 164952,
+            "acousticness": 0.00323,
+            "danceability": 7.831,
+            "instrumentalness": 0,
+            "liveness": 0.0788,
+            "loudness": -5.187,
+            "speechiness": 0.0948,
+            "time_signature": 4,
+            "happiness": 7.255
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Happy Birthday America (Independence Day)",
+        "Artist": "Kimbo Children's Music",
+        "Key": "6B",
+        "Energy": 4.276,
+        "Popularity": 1.09,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "627AUVu8ehNpbAncIPs9rt",
+            "explicit": false,
+            "album": "Holiday Songs for All Occasions",
+            "release_date": "2019-06-29",
+            "genres": [
+                "ballet class"
+            ],
+            "duration": 106533,
+            "acousticness": 0.973,
+            "danceability": 9.325000000000001,
+            "instrumentalness": 2.55e-05,
+            "liveness": 0.103,
+            "loudness": -8.47,
+            "speechiness": 0.041,
+            "time_signature": 4,
+            "happiness": 8.785
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Party In The U.S.A.",
+        "Artist": "Miley Cyrus",
+        "Key": "6A",
+        "Energy": 7.282,
+        "Popularity": 8.2,
+        "BPM": 96,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5Q0Nhxo0l2bP3pNjpGJwV1",
+            "explicit": false,
+            "album": "The Time Of Our Lives",
+            "release_date": "2009-01-01",
+            "genres": [
+                "pop"
+            ],
+            "duration": 202067,
+            "acousticness": 0.00112,
+            "danceability": 6.868,
+            "instrumentalness": 0.000115,
+            "liveness": 0.0886,
+            "loudness": -4.667,
+            "speechiness": 0.042,
+            "time_signature": 4,
+            "happiness": 5.2299999999999995
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Watermelon Sugar",
+        "Artist": "Harry Styles",
+        "Key": "8B",
+        "Energy": 8.344,
+        "Popularity": 9.19,
+        "BPM": 95,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6UelLqGlWMcVH1E5c4H7lY",
+            "explicit": false,
+            "album": "Fine Line",
+            "release_date": "2019-12-13",
+            "genres": [
+                "pop"
+            ],
+            "duration": 174000,
+            "acousticness": 0.122,
+            "danceability": 5.932,
+            "instrumentalness": 0,
+            "liveness": 0.335,
+            "loudness": -4.209,
+            "speechiness": 0.0465,
+            "time_signature": 4,
+            "happiness": 6.013000000000001
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Party Rock Anthem",
+        "Artist": "Kidz Bop Kids",
+        "Key": "11A",
+        "Energy": 7.3629999999999995,
+        "Popularity": 4.33,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "PEGI 4 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0EeygVaVP5kc5vYOO7unia",
+            "explicit": false,
+            "album": "KIDZ BOP Party Playlist!",
+            "release_date": "2020-04-03",
+            "genres": [
+                "children's music"
+            ],
+            "duration": 206307,
+            "acousticness": 0.000386,
+            "danceability": 7.2909999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.24,
+            "loudness": -6.232,
+            "speechiness": 0.0871,
+            "time_signature": 4,
+            "happiness": 4.798
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "Rain On Me (with Ariana Grande)",
+        "Artist": "Lady Gaga, Ariana Grande",
+        "Key": "11B",
+        "Energy": 8.695,
+        "Popularity": 7.93,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Inspiring",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "7ju97lgwC2rKQ6wwsf9no9",
+            "explicit": false,
+            "album": "Chromatica",
+            "release_date": "2020-05-29",
+            "genres": [
+                "art pop",
+                "dance pop",
+                "pop",
+                "pop"
+            ],
+            "duration": 182200,
+            "acousticness": 0.021,
+            "danceability": 7.048,
+            "instrumentalness": 0,
+            "liveness": 0.323,
+            "loudness": -3.764,
+            "speechiness": 0.0397,
+            "time_signature": 4,
+            "happiness": 6.814
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "The Other Side",
+        "Artist": "SZA, Justin Timberlake",
+        "Key": "9B",
+        "Energy": 6.463,
+        "Popularity": 5.41,
+        "BPM": 106,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Dance Remixes",
+            "Pop",
+            "Romantic & Slow Dance",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6cN7DMetKweuV7GZ5htak4",
+            "explicit": false,
+            "album": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+            "release_date": "2020-03-13",
+            "genres": [
+                "pop",
+                "r&b",
+                "rap",
+                "dance pop",
+                "pop"
+            ],
+            "duration": 188187,
+            "acousticness": 0.00277,
+            "danceability": 7.84,
+            "instrumentalness": 0,
+            "liveness": 0.132,
+            "loudness": -6.274,
+            "speechiness": 0.0964,
+            "time_signature": 4,
+            "happiness": 7.380999999999999
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "50 States",
+        "Artist": "Blake Rules, Netherfriends",
+        "Key": "2B",
+        "Energy": 5.932,
+        "Popularity": 2.2600000000000002,
+        "BPM": 77,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3fvtkCu5uKcEoMdnAtiCv9",
+            "explicit": false,
+            "album": "Kids Trap 6",
+            "release_date": "2019-02-01",
+            "genres": [
+                "kids hip hop",
+                "shimmer pop"
+            ],
+            "duration": 112208,
+            "acousticness": 0.194,
+            "danceability": 8.488,
+            "instrumentalness": 0,
+            "liveness": 0.0698,
+            "loudness": -14.467,
+            "speechiness": 0.351,
+            "time_signature": 1,
+            "happiness": 7.993
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Fireworks!",
+        "Artist": "Gustafer Yellowgold",
+        "Key": "11B",
+        "Energy": 5.797000000000001,
+        "Popularity": 2.3499999999999996,
+        "BPM": 129,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5hYMDmMqBC9iUE1OudUfFB",
+            "explicit": false,
+            "album": "Year In The Day",
+            "release_date": "2012-04-03",
+            "genres": [
+                "kindie rock"
+            ],
+            "duration": 180093,
+            "acousticness": 0.199,
+            "danceability": 7.2909999999999995,
+            "instrumentalness": 1.13e-06,
+            "liveness": 0.141,
+            "loudness": -5.705,
+            "speechiness": 0.0366,
+            "time_signature": 4,
+            "happiness": 9.208
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "American Heart",
+        "Artist": "Faith Hill",
+        "Key": "11B",
+        "Energy": 5.7250000000000005,
+        "Popularity": 3.34,
+        "BPM": 135,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "2yPFfoT04AIb5Ak4r1NdHr",
+            "explicit": false,
+            "album": "American Heart",
+            "release_date": "2012-10-02",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country dawn",
+                "country road"
+            ],
+            "duration": 233707,
+            "acousticness": 0.314,
+            "danceability": 6.058000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.0807,
+            "loudness": -9.415,
+            "speechiness": 0.0292,
+            "time_signature": 4,
+            "happiness": 4.132
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "drivers license",
+        "Artist": "Olivia Rodrigo",
+        "Key": "6B",
+        "Energy": 4.897,
+        "Popularity": 6.8500000000000005,
+        "BPM": 144,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "4ml4WlnHDEpOK8HRVYTCWf",
+            "explicit": false,
+            "album": "SOUR",
+            "release_date": "2021-05-21",
+            "genres": [
+                "pop"
+            ],
+            "duration": 242013,
+            "acousticness": 0.743,
+            "danceability": 6.255999999999999,
+            "instrumentalness": 1.35e-05,
+            "liveness": 0.106,
+            "loudness": -8.822,
+            "speechiness": 0.0533,
+            "time_signature": 4,
+            "happiness": 2.2600000000000002
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "Running Through America",
+        "Artist": "Rolie Polie Guacamole",
+        "Key": "9B",
+        "Energy": 9.235,
+        "Popularity": 1.09,
+        "BPM": 87,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3Gl5wyYQpldg5Sts8k50iL",
+            "explicit": false,
+            "album": "Triathlon",
+            "release_date": "2014-06-13",
+            "genres": [
+                "kindie rock"
+            ],
+            "duration": 183093,
+            "acousticness": 0.603,
+            "danceability": 5.158,
+            "instrumentalness": 6.51e-05,
+            "liveness": 0.166,
+            "loudness": -3.034,
+            "speechiness": 0.165,
+            "time_signature": 4,
+            "happiness": 8.227
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Higher Power",
+        "Artist": "Coldplay",
+        "Key": "6B",
+        "Energy": 8.452,
+        "Popularity": 7.75,
+        "BPM": 89,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0939D7aT18uBDS2MTjWzct",
+            "explicit": false,
+            "album": "Higher Power",
+            "release_date": "2021-05-07",
+            "genres": [
+                "permanent wave",
+                "pop"
+            ],
+            "duration": 211295,
+            "acousticness": 0.00711,
+            "danceability": 5.563,
+            "instrumentalness": 2.44e-05,
+            "liveness": 0.261,
+            "loudness": -6.023,
+            "speechiness": 0.0449,
+            "time_signature": 4,
+            "happiness": 5.401
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "Celebration - Single Version",
+        "Artist": "Kool & The Gang",
+        "Key": "3B",
+        "Energy": 8.533,
+        "Popularity": 7.12,
+        "BPM": 121,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Dance Remixes",
+            "Romantic & Slow Dance",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6HIVJXpdvp1C1ubfnkFnz8",
+            "explicit": false,
+            "album": "Collected",
+            "release_date": "2018-05-25",
+            "genres": [
+                "disco",
+                "funk",
+                "motown",
+                "soul"
+            ],
+            "duration": 218787,
+            "acousticness": 0.0216,
+            "danceability": 8.416,
+            "instrumentalness": 0.00944,
+            "liveness": 0.123,
+            "loudness": -7.124,
+            "speechiness": 0.054,
+            "time_signature": 4,
+            "happiness": 9.523
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Back In The U.S.A.",
+        "Artist": "Chuck Berry",
+        "Key": "4B",
+        "Energy": 8.407,
+        "Popularity": 4.42,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "60s",
+            "Rock",
+            "Romantic & Slow Dance",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "114gCJP9NGrrs5gjPU8RTi",
+            "explicit": false,
+            "album": "Chuck Berry Twist",
+            "release_date": "1962-01-01",
+            "genres": [
+                "blues",
+                "blues rock",
+                "classic rock",
+                "rock",
+                "rock-and-roll",
+                "rockabilly",
+                "soul"
+            ],
+            "duration": 146893,
+            "acousticness": 0.768,
+            "danceability": 6.327999999999999,
+            "instrumentalness": 0.000541,
+            "liveness": 0.0827,
+            "loudness": -6.165,
+            "speechiness": 0.0848,
+            "time_signature": 4,
+            "happiness": 9.658
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "This Land Is Your Land",
+        "Artist": "Elizabeth Mitchell",
+        "Key": "8B",
+        "Energy": 2.269,
+        "Popularity": 4.33,
+        "BPM": 91,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "PEGI 4 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0F6ZsoLrPG1rsknhMHlSlk",
+            "explicit": false,
+            "album": "Little Seed: Songs for Children by Woody Guthrie",
+            "release_date": "2012-07-10",
+            "genres": [
+                "children's folk",
+                "children's music",
+                "kindie rock"
+            ],
+            "duration": 251920,
+            "acousticness": 0.969,
+            "danceability": 6.228999999999999,
+            "instrumentalness": 9.91e-06,
+            "liveness": 0.106,
+            "loudness": -15.701,
+            "speechiness": 0.035,
+            "time_signature": 4,
+            "happiness": 6.697
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "Levitating",
+        "Artist": "Dua Lipa",
+        "Key": "2A",
+        "Energy": 8.956,
+        "Popularity": 8.649999999999999,
+        "BPM": 103,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Dance Remixes",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "39LLxExYz6ewLAcYrzQQyP",
+            "explicit": false,
+            "album": "Future Nostalgia",
+            "release_date": "2020-03-27",
+            "genres": [
+                "dance pop",
+                "pop",
+                "uk pop"
+            ],
+            "duration": 203808,
+            "acousticness": 0.0561,
+            "danceability": 7.255,
+            "instrumentalness": 0,
+            "liveness": 0.213,
+            "loudness": -2.278,
+            "speechiness": 0.0753,
+            "time_signature": 4,
+            "happiness": 9.226
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "This Land Is Your Land",
+        "Artist": "Sharon Jones & The Dap-Kings",
+        "Key": "2B",
+        "Energy": 7.4079999999999995,
+        "Popularity": 5.5,
+        "BPM": 98,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Dance Remixes",
+            "Romantic & Slow Dance",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3PiHGEbBLYuBPFdP9tihF0",
+            "explicit": false,
+            "album": "Naturally",
+            "release_date": "2005-01-25",
+            "genres": [
+                "black americana",
+                "funk",
+                "retro soul",
+                "soul"
+            ],
+            "duration": 270640,
+            "acousticness": 0.366,
+            "danceability": 6.562,
+            "instrumentalness": 1.08e-06,
+            "liveness": 0.0259,
+            "loudness": -5.3,
+            "speechiness": 0.0352,
+            "time_signature": 4,
+            "happiness": 9.226
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "Fifty Nifty United States",
+        "Artist": "Cooltime Kids",
+        "Key": "7B",
+        "Energy": 4.159,
+        "Popularity": 4.779999999999999,
+        "BPM": 73,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "PEGI 4 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3AvbDb3lH6o1x1OR1Jxe7A",
+            "explicit": false,
+            "album": "Patriotic Kids' Songs",
+            "release_date": "2017-05-26",
+            "genres": [
+                "children's music",
+                "kids dance party",
+                "nursery"
+            ],
+            "duration": 198547,
+            "acousticness": 0.54,
+            "danceability": 4.915,
+            "instrumentalness": 0,
+            "liveness": 0.0912,
+            "loudness": -6.153,
+            "speechiness": 0.0422,
+            "time_signature": 1,
+            "happiness": 5.599
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "Kings & Queens",
+        "Artist": "Ava Max",
+        "Key": "3A",
+        "Energy": 7.209999999999999,
+        "Popularity": 8.469999999999999,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "7a53HqqArd4b9NF4XAmlbI",
+            "explicit": false,
+            "album": "Heaven & Hell",
+            "release_date": "2020-09-18",
+            "genres": [
+                "pop"
+            ],
+            "duration": 162399,
+            "acousticness": 0.00786,
+            "danceability": 6.7330000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.124,
+            "loudness": -4.057,
+            "speechiness": 0.0405,
+            "time_signature": 4,
+            "happiness": 5.113
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "Blinding Lights",
+        "Artist": "The Weeknd",
+        "Key": "3B",
+        "Energy": 7.57,
+        "Popularity": 9.370000000000001,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Romantic & Slow Dance"
+        ],
+        "Additional Info": {
+            "id": "0VjIjW4GlUZAMYd2vXMi3b",
+            "explicit": false,
+            "album": "After Hours",
+            "release_date": "2020-03-20",
+            "genres": [
+                "canadian contemporary r&b",
+                "canadian pop",
+                "pop"
+            ],
+            "duration": 200040,
+            "acousticness": 0.00146,
+            "danceability": 5.626,
+            "instrumentalness": 9.54e-05,
+            "liveness": 0.0897,
+            "loudness": -5.934,
+            "speechiness": 0.0598,
+            "time_signature": 4,
+            "happiness": 4.006
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "Happy - From \"Despicable Me 2\"",
+        "Artist": "Pharrell Williams",
+        "Key": "7A",
+        "Energy": 8.398,
+        "Popularity": 8.559999999999999,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Dance Remixes",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "60nZcImufyMA1MKQY3dcCH",
+            "explicit": false,
+            "album": "G I R L",
+            "release_date": "2014-03-03",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 232720,
+            "acousticness": 0.219,
+            "danceability": 6.823,
+            "instrumentalness": 0,
+            "liveness": 0.0908,
+            "loudness": -4.662,
+            "speechiness": 0.183,
+            "time_signature": 4,
+            "happiness": 9.658
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "Be Kind (with Halsey)",
+        "Artist": "Marshmello, Halsey",
+        "Key": "12B",
+        "Energy": 6.697,
+        "Popularity": 7.93,
+        "BPM": 94,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Inspiring",
+            "Pop",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "3Z8FwOEN59mRMxDCtb8N0A",
+            "explicit": false,
+            "album": "Be Kind (with Halsey)",
+            "release_date": "2020-05-01",
+            "genres": [
+                "brostep",
+                "edm",
+                "pop",
+                "progressive electro house",
+                "electropop",
+                "etherpop",
+                "indie poptimism",
+                "pop"
+            ],
+            "duration": 172762,
+            "acousticness": 0.00776,
+            "danceability": 6.67,
+            "instrumentalness": 0,
+            "liveness": 0.0541,
+            "loudness": -7.088,
+            "speechiness": 0.0457,
+            "time_signature": 4,
+            "happiness": 5.0680000000000005
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Yankee Doodle Dandy",
+        "Artist": "Cooltime Kids",
+        "Key": "3B",
+        "Energy": 7.561,
+        "Popularity": 3.25,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "PEGI 4 [Age]",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4s8wqibc2oL5mgWCa8ZMXc",
+            "explicit": false,
+            "album": "Patriotic Kids' Songs",
+            "release_date": "2017-05-26",
+            "genres": [
+                "children's music",
+                "kids dance party",
+                "nursery"
+            ],
+            "duration": 141293,
+            "acousticness": 0.124,
+            "danceability": 8.02,
+            "instrumentalness": 0,
+            "liveness": 0.147,
+            "loudness": -3.778,
+            "speechiness": 0.0277,
+            "time_signature": 4,
+            "happiness": 9.693999999999999
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "Fireworks!",
+        "Artist": "The Kiboomers",
+        "Key": "1B",
+        "Energy": 5.005,
+        "Popularity": 1.6300000000000001,
+        "BPM": 107,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "PEGI 4 [Age]",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2mwoW56fl8WR1x6JmcqW1a",
+            "explicit": false,
+            "album": "Favorite American Patriotic Songs for Kids",
+            "release_date": "2015-08-31",
+            "genres": [
+                "children's music",
+                "nursery",
+                "preschool children's music"
+            ],
+            "duration": 63004,
+            "acousticness": 0.384,
+            "danceability": 8.164000000000001,
+            "instrumentalness": 0.00269,
+            "liveness": 0.751,
+            "loudness": -11.45,
+            "speechiness": 0.0663,
+            "time_signature": 4,
+            "happiness": 7.380999999999999
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "Heat Waves",
+        "Artist": "Glass Animals",
+        "Key": "1B",
+        "Energy": 5.7250000000000005,
+        "Popularity": 9.370000000000001,
+        "BPM": 81,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Inspiring",
+            "Rock",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "3USxtqRwSYz57Ewm6wWRMp",
+            "explicit": false,
+            "album": "Dreamland",
+            "release_date": "2020-08-07",
+            "genres": [
+                "gauze pop",
+                "indietronica",
+                "modern rock",
+                "pov: indie",
+                "shiver pop"
+            ],
+            "duration": 238805,
+            "acousticness": 0.44,
+            "danceability": 7.849,
+            "instrumentalness": 6.7e-06,
+            "liveness": 0.0921,
+            "loudness": -6.9,
+            "speechiness": 0.0944,
+            "time_signature": 4,
+            "happiness": 5.779
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "Yankee Doodle Went to Town",
+        "Artist": "The Kiboomers",
+        "Key": "7B",
+        "Energy": 3.862,
+        "Popularity": 1.45,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "PEGI 4 [Age]",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0uFOC8oPuKKvWY1it6AjEG",
+            "explicit": false,
+            "album": "Favorite American Patriotic Songs for Kids",
+            "release_date": "2015-08-31",
+            "genres": [
+                "children's music",
+                "nursery",
+                "preschool children's music"
+            ],
+            "duration": 86823,
+            "acousticness": 0.557,
+            "danceability": 7.615,
+            "instrumentalness": 0,
+            "liveness": 0.491,
+            "loudness": -5.38,
+            "speechiness": 0.0282,
+            "time_signature": 4,
+            "happiness": 8.11
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "Higher Love",
+        "Artist": "Kygo, Whitney Houston",
+        "Key": "4B",
+        "Energy": 7.102,
+        "Popularity": 8.02,
+        "BPM": 104,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Dance Remixes",
+            "Pop",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "6oJ6le65B3SEqPwMRNXWjY",
+            "explicit": false,
+            "album": "Higher Love",
+            "release_date": "2019-06-28",
+            "genres": [
+                "edm",
+                "pop",
+                "pop dance",
+                "tropical house",
+                "dance pop"
+            ],
+            "duration": 228267,
+            "acousticness": 0.0151,
+            "danceability": 7.236999999999999,
+            "instrumentalness": 5.71e-06,
+            "liveness": 0.101,
+            "loudness": -7.159,
+            "speechiness": 0.0324,
+            "time_signature": 4,
+            "happiness": 4.636
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "Electric - Pokemon 25 Version",
+        "Artist": "Katy Perry",
+        "Key": "8B",
+        "Energy": 7.308999999999999,
+        "Popularity": 6.3999999999999995,
+        "BPM": 98,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "63eV5hreY9feQP2CmYavpj",
+            "explicit": false,
+            "album": "Electric",
+            "release_date": "2021-05-14",
+            "genres": [
+                "pop"
+            ],
+            "duration": 193543,
+            "acousticness": 0.00302,
+            "danceability": 6.535,
+            "instrumentalness": 0,
+            "liveness": 0.0471,
+            "loudness": -4.257,
+            "speechiness": 0.0472,
+            "time_signature": 4,
+            "happiness": 3.259
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "Dynamite",
+        "Artist": "BTS",
+        "Key": "2A",
+        "Energy": 7.885,
+        "Popularity": 8.559999999999999,
+        "BPM": 114,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5QDLhrAOJJdNAmCTJ8xMyW",
+            "explicit": false,
+            "album": "BE",
+            "release_date": "2020-11-20",
+            "genres": [
+                "k-pop",
+                "k-pop boy group",
+                "pop"
+            ],
+            "duration": 199054,
+            "acousticness": 0.0112,
+            "danceability": 7.714,
+            "instrumentalness": 0,
+            "liveness": 0.0936,
+            "loudness": -4.41,
+            "speechiness": 0.0993,
+            "time_signature": 4,
+            "happiness": 7.633
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "Walking On Sunshine",
+        "Artist": "Katrina & The Waves",
+        "Key": "6B",
+        "Energy": 8.821,
+        "Popularity": 8.379999999999999,
+        "BPM": 110,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "80s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "05wIrZSwuaVWhcv5FfqeH0",
+            "explicit": false,
+            "album": "Katrina & The Waves",
+            "release_date": "1985",
+            "genres": [
+                "new wave pop"
+            ],
+            "duration": 238733,
+            "acousticness": 0.0116,
+            "danceability": 6.364,
+            "instrumentalness": 0.173,
+            "liveness": 0.0678,
+            "loudness": -11.97,
+            "speechiness": 0.037,
+            "time_signature": 4,
+            "happiness": 9.495999999999999
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "America",
+        "Artist": "Imagine Dragons",
+        "Key": "8B",
+        "Energy": 5.8870000000000005,
+        "Popularity": 4.87,
+        "BPM": 113,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0Hl7Z3TIEgY0JSbQNDM4ZA",
+            "explicit": false,
+            "album": "Night Visions (Deluxe)",
+            "release_date": "2012-09-04",
+            "genres": [
+                "modern rock",
+                "pop",
+                "rock"
+            ],
+            "duration": 272680,
+            "acousticness": 0.00309,
+            "danceability": 6.103,
+            "instrumentalness": 0.0758,
+            "liveness": 0.163,
+            "loudness": -7.736,
+            "speechiness": 0.0313,
+            "time_signature": 4,
+            "happiness": 1.8091
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "Fireworks",
+        "Artist": "The Laurie Berkner Band",
+        "Key": "11B",
+        "Energy": 6.589,
+        "Popularity": 2.17,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "PEGI 4 [Age]"
+        ],
+        "Additional Info": {
+            "id": "31WeEx1YCcuWP8tnf7Yi8w",
+            "explicit": false,
+            "album": "Superhero",
+            "release_date": "2016-09-23",
+            "genres": [
+                "children's music",
+                "kindie rock"
+            ],
+            "duration": 110427,
+            "acousticness": 0.315,
+            "danceability": 8.407,
+            "instrumentalness": 1.25e-05,
+            "liveness": 0.3,
+            "loudness": -4.608,
+            "speechiness": 0.0495,
+            "time_signature": 4,
+            "happiness": 6.697
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "America the Beautiful - Single Version",
+        "Artist": "Blake Shelton, Miranda Lambert",
+        "Key": "10B",
+        "Energy": 3.5469999999999997,
+        "Popularity": 3.5200000000000005,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "5hYtQrZ1FNsfAWKA52x7Pv",
+            "explicit": false,
+            "album": "America the Beautiful",
+            "release_date": "2012-01-27",
+            "genres": [
+                "classic oklahoma country",
+                "contemporary country",
+                "country",
+                "country road",
+                "contemporary country",
+                "country",
+                "country dawn",
+                "country road"
+            ],
+            "duration": 157600,
+            "acousticness": 0.811,
+            "danceability": 5.905,
+            "instrumentalness": 0,
+            "liveness": 0.0513,
+            "loudness": -7.919,
+            "speechiness": 0.0273,
+            "time_signature": 4,
+            "happiness": 3.907
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "Living in America - From \"Rocky IV\" Soundtrack",
+        "Artist": "James Brown",
+        "Key": "8B",
+        "Energy": 8.686,
+        "Popularity": 6.13,
+        "BPM": 114,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "80s",
+            "Dance Remixes",
+            "Romantic & Slow Dance",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4Y5yjzs9FFw5qIgfZBd43I",
+            "explicit": false,
+            "album": "Rocky IV",
+            "release_date": "1985",
+            "genres": [
+                "funk",
+                "soul"
+            ],
+            "duration": 282840,
+            "acousticness": 0.00148,
+            "danceability": 7.786,
+            "instrumentalness": 0.00692,
+            "liveness": 0.0675,
+            "loudness": -7.114,
+            "speechiness": 0.0363,
+            "time_signature": 4,
+            "happiness": 7.849
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "Steal My Sunshine",
+        "Artist": "LEN",
+        "Key": "12B",
+        "Energy": 8.460999999999999,
+        "Popularity": 6.94,
+        "BPM": 96,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4agp6oHofabdUedr0B1krj",
+            "explicit": false,
+            "album": "You Can't Stop The Bum Rush",
+            "release_date": "1999-05-25",
+            "genres": [
+                "canadian rock"
+            ],
+            "duration": 265533,
+            "acousticness": 0.394,
+            "danceability": 4.708,
+            "instrumentalness": 0,
+            "liveness": 0.108,
+            "loudness": -11.112,
+            "speechiness": 0.529,
+            "time_signature": 4,
+            "happiness": 7.093
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "Old Town Road - Remix",
+        "Artist": "Lil Nas X, Billy Ray Cyrus",
+        "Key": "2B",
+        "Energy": 6.571,
+        "Popularity": 8.2,
+        "BPM": 136,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy",
+            "Hip Hop",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "2YpeDb67231RjR0MgVLzsG",
+            "explicit": false,
+            "album": "7 EP",
+            "release_date": "2019-06-21",
+            "genres": [
+                "lgbtq+ hip hop",
+                "country rock"
+            ],
+            "duration": 157067,
+            "acousticness": 0.0533,
+            "danceability": 8.902000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.113,
+            "loudness": -5.56,
+            "speechiness": 0.102,
+            "time_signature": 4,
+            "happiness": 6.751
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "Vacation",
+        "Artist": "The Go-Go's",
+        "Key": "12B",
+        "Energy": 7.777,
+        "Popularity": 5.2299999999999995,
+        "BPM": 78,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Girl Power",
+            "EDM",
+            "Inspiring",
+            "Pop",
+            "Romantic & Slow Dance",
+            "Rock",
+            "Calm",
+            "Happy",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1vJOi8S2MSq3jZsni1gm4x",
+            "explicit": false,
+            "album": "Return To The Valley Of The Go-Go's",
+            "release_date": "1994-01-01",
+            "genres": [
+                "album rock",
+                "candy pop",
+                "classic rock",
+                "girl group",
+                "heartland rock",
+                "jangle pop",
+                "mellow gold",
+                "new romantic",
+                "new wave",
+                "new wave pop",
+                "permanent wave",
+                "singer-songwriter",
+                "soft rock",
+                "synthpop"
+            ],
+            "duration": 179027,
+            "acousticness": 0.0023,
+            "danceability": 5.923,
+            "instrumentalness": 0.00347,
+            "liveness": 0.162,
+            "loudness": -10.834,
+            "speechiness": 0.0296,
+            "time_signature": 4,
+            "happiness": 8.929
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "America's Heroes",
+        "Artist": "Kidsongs",
+        "Key": "4B",
+        "Energy": 5.473,
+        "Popularity": 1.99,
+        "BPM": 137,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "PEGI 4 [Age]",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2q9BL4WTUbmEMJBZgBWKxa",
+            "explicit": false,
+            "album": "Kidsongs: Yankee Doodle Dandy",
+            "release_date": "2011-08-31",
+            "genres": [
+                "nursery"
+            ],
+            "duration": 132333,
+            "acousticness": 0.342,
+            "danceability": 8.281,
+            "instrumentalness": 0,
+            "liveness": 0.116,
+            "loudness": -14.456,
+            "speechiness": 0.0343,
+            "time_signature": 4,
+            "happiness": 9.738999999999999
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "Don't Start Now",
+        "Artist": "Dua Lipa",
+        "Key": "1A",
+        "Energy": 8.137,
+        "Popularity": 8.2,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Dance Remixes",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6WrI0LAC5M1Rw2MnX2ZvEg",
+            "explicit": false,
+            "album": "Don't Start Now",
+            "release_date": "2019-10-31",
+            "genres": [
+                "dance pop",
+                "pop",
+                "uk pop"
+            ],
+            "duration": 183290,
+            "acousticness": 0.0125,
+            "danceability": 8.146,
+            "instrumentalness": 0,
+            "liveness": 0.0952,
+            "loudness": -4.521,
+            "speechiness": 0.0842,
+            "time_signature": 4,
+            "happiness": 7.093
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "Happy Birthday Dear America / In 1776 (medley)",
+        "Artist": "Ella Jenkins",
+        "Key": "1B",
+        "Energy": 5.6080000000000005,
+        "Popularity": 1.09,
+        "BPM": 126,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s"
+        ],
+        "Additional Info": {
+            "id": "68BrlobcC0Lbc4CoT9zfah",
+            "explicit": false,
+            "album": "We Are America's Children",
+            "release_date": "1992-07-13",
+            "genres": [
+                "children's folk"
+            ],
+            "duration": 54907,
+            "acousticness": 0.64,
+            "danceability": 7.066000000000001,
+            "instrumentalness": 6.71e-06,
+            "liveness": 0.325,
+            "loudness": -24.194,
+            "speechiness": 0.873,
+            "time_signature": 4,
+            "happiness": 1.4779
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "Sunscreen",
+        "Artist": "Noggin",
+        "Key": "4B",
+        "Energy": 8.596,
+        "Popularity": 3.97,
+        "BPM": 134,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Inspiring",
+            "PEGI 4 [Age]",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3NDYpgUKtlEREDJLQ1WDl4",
+            "explicit": false,
+            "album": "Let's Dance",
+            "release_date": "2020-05-29",
+            "genres": [
+                "children's music",
+                "movie tunes"
+            ],
+            "duration": 83718,
+            "acousticness": 0.00851,
+            "danceability": 8.641,
+            "instrumentalness": 0,
+            "liveness": 0.109,
+            "loudness": -5.627,
+            "speechiness": 0.101,
+            "time_signature": 4,
+            "happiness": 9.271
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "Shake It Off",
+        "Artist": "Taylor Swift",
+        "Key": "9B",
+        "Energy": 8.065000000000001,
+        "Popularity": 8.2,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5xTtaWoae3wi06K5WfVUUH",
+            "explicit": false,
+            "album": "1989",
+            "release_date": "2014-10-27",
+            "genres": [
+                "pop"
+            ],
+            "duration": 219200,
+            "acousticness": 0.0561,
+            "danceability": 6.823,
+            "instrumentalness": 0,
+            "liveness": 0.148,
+            "loudness": -5.414,
+            "speechiness": 0.165,
+            "time_signature": 4,
+            "happiness": 9.487
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "Hot Fun in the Summertime",
+        "Artist": "Sly & The Family Stone",
+        "Key": "8B",
+        "Energy": 6.8500000000000005,
+        "Popularity": 6.13,
+        "BPM": 146,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "70s",
+            "Dance Remixes",
+            "Romantic & Slow Dance",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4t6NQkpUmvpvLDCkl3XuwA",
+            "explicit": false,
+            "album": "Greatest Hits",
+            "release_date": "1970-11-21",
+            "genres": [
+                "classic soul",
+                "funk",
+                "funk rock",
+                "p funk",
+                "psychedelic soul",
+                "soul",
+                "southern soul"
+            ],
+            "duration": 157040,
+            "acousticness": 0.634,
+            "danceability": 6.904,
+            "instrumentalness": 0.0147,
+            "liveness": 0.161,
+            "loudness": -11.643,
+            "speechiness": 0.0574,
+            "time_signature": 3,
+            "happiness": 9.379000000000001
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "The United States Where Freedom Rings",
+        "Artist": "Jeography",
+        "Key": "4B",
+        "Energy": 3.655,
+        "Popularity": 1.27,
+        "BPM": 140,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "2dkSS53ACmE7OFBDqa41OQ",
+            "explicit": false,
+            "album": "Geography Songs for This Planet",
+            "release_date": "2018-11-03",
+            "genres": [],
+            "duration": 463073,
+            "acousticness": 0.0563,
+            "danceability": 6.301,
+            "instrumentalness": 0,
+            "liveness": 0.0773,
+            "loudness": -9.888,
+            "speechiness": 0.0468,
+            "time_signature": 4,
+            "happiness": 1.5328
+        }
+    }
+]

@@ -1,0 +1,2136 @@
+[
+    {
+        "#": 1,
+        "Track Title": "My Anthem",
+        "Artist": "Kenny Chesney",
+        "Key": "1B",
+        "Energy": 8.173,
+        "Popularity": 4.33,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0kAxxHswUHOZdzyYKe0GuE",
+            "explicit": false,
+            "album": "Here And Now (Deluxe)",
+            "release_date": "2020-05-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 198187,
+            "acousticness": 0.0908,
+            "danceability": 6.643,
+            "instrumentalness": 0,
+            "liveness": 0.178,
+            "loudness": -4.064,
+            "speechiness": 0.0294,
+            "time_signature": 4,
+            "happiness": 5.635
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Happy Does",
+        "Artist": "Kenny Chesney",
+        "Key": "2B",
+        "Energy": 6.985,
+        "Popularity": 6.31,
+        "BPM": 109,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "2v08cjj3Th8RpfJgluECcj",
+            "explicit": false,
+            "album": "Here And Now",
+            "release_date": "2020-05-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 168733,
+            "acousticness": 0.3,
+            "danceability": 7.435,
+            "instrumentalness": 0,
+            "liveness": 0.123,
+            "loudness": -5.486,
+            "speechiness": 0.0383,
+            "time_signature": 4,
+            "happiness": 6.372999999999999
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "American Kids",
+        "Artist": "Kenny Chesney",
+        "Key": "8B",
+        "Energy": 6.301,
+        "Popularity": 8.02,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1dgWTMoHwTUnQhOQ8SR5fV",
+            "explicit": false,
+            "album": "The Big Revival",
+            "release_date": "2014-09-22",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 182960,
+            "acousticness": 0.0476,
+            "danceability": 8.038,
+            "instrumentalness": 5.84e-06,
+            "liveness": 0.0366,
+            "loudness": -7.37,
+            "speechiness": 0.0803,
+            "time_signature": 4,
+            "happiness": 8.641
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Born in the U.S.A.",
+        "Artist": "Bruce Springsteen",
+        "Key": "12B",
+        "Energy": 9.568,
+        "Popularity": 7.93,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "80s",
+            "Rock",
+            "Calm",
+            "Inspiring",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0dOg1ySSI7NkpAe89Zo0b9",
+            "explicit": false,
+            "album": "Born In The U.S.A.",
+            "release_date": "1984-06-04",
+            "genres": [
+                "heartland rock",
+                "mellow gold",
+                "permanent wave",
+                "rock",
+                "singer-songwriter"
+            ],
+            "duration": 278680,
+            "acousticness": 0.000373,
+            "danceability": 4.582000000000001,
+            "instrumentalness": 7.75e-05,
+            "liveness": 0.1,
+            "loudness": -6.042,
+            "speechiness": 0.061,
+            "time_signature": 4,
+            "happiness": 6.255999999999999
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "We Do",
+        "Artist": "Kenny Chesney",
+        "Key": "3B",
+        "Energy": 9.352,
+        "Popularity": 5.140000000000001,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0vleRfOdZmbhzdzWVph38W",
+            "explicit": false,
+            "album": "Here And Now",
+            "release_date": "2020-05-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 205747,
+            "acousticness": 0.00771,
+            "danceability": 6.2379999999999995,
+            "instrumentalness": 2.14e-05,
+            "liveness": 0.0985,
+            "loudness": -3.771,
+            "speechiness": 0.0665,
+            "time_signature": 4,
+            "happiness": 6.985
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Song for Another Time",
+        "Artist": "Old Dominion",
+        "Key": "1B",
+        "Energy": 8.236,
+        "Popularity": 6.8500000000000005,
+        "BPM": 83,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7px4t7HGiuMUvFkEOpZEwp",
+            "explicit": false,
+            "album": "Meat and Candy",
+            "release_date": "2015-11-06",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 191827,
+            "acousticness": 0.125,
+            "danceability": 5.482,
+            "instrumentalness": 0,
+            "liveness": 0.167,
+            "loudness": -3.995,
+            "speechiness": 0.0332,
+            "time_signature": 4,
+            "happiness": 7.273
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Here And Now",
+        "Artist": "Kenny Chesney",
+        "Key": "11B",
+        "Energy": 8.317,
+        "Popularity": 6.31,
+        "BPM": 148,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7qRVyZDt1Caftkk8CQlKtk",
+            "explicit": false,
+            "album": "Here And Now",
+            "release_date": "2020-05-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 171493,
+            "acousticness": 0.0505,
+            "danceability": 5.554,
+            "instrumentalness": 0,
+            "liveness": 0.12,
+            "loudness": -3.575,
+            "speechiness": 0.0532,
+            "time_signature": 4,
+            "happiness": 7.353999999999999
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Everyone She Knows",
+        "Artist": "Kenny Chesney",
+        "Key": "7B",
+        "Energy": 7.1290000000000004,
+        "Popularity": 6.22,
+        "BPM": 109,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0OURixtwzJF8pON5JpMHKv",
+            "explicit": false,
+            "album": "Here And Now",
+            "release_date": "2020-05-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 204987,
+            "acousticness": 0.00982,
+            "danceability": 6.94,
+            "instrumentalness": 0,
+            "liveness": 0.159,
+            "loudness": -5.045,
+            "speechiness": 0.0293,
+            "time_signature": 4,
+            "happiness": 6.976
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Wasted",
+        "Artist": "Kenny Chesney",
+        "Key": "9B",
+        "Energy": 7.588,
+        "Popularity": 4.87,
+        "BPM": 144,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "1u6hbJHremktur2t4cN5jB",
+            "explicit": false,
+            "album": "Here And Now",
+            "release_date": "2020-05-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 228987,
+            "acousticness": 0.102,
+            "danceability": 6.247,
+            "instrumentalness": 0,
+            "liveness": 0.0811,
+            "loudness": -3.866,
+            "speechiness": 0.0437,
+            "time_signature": 4,
+            "happiness": 6.382
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Beachin'",
+        "Artist": "Jake Owen",
+        "Key": "2B",
+        "Energy": 9.118,
+        "Popularity": 6.94,
+        "BPM": 91,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5dNGORzxFb5z3v7vSAFkTU",
+            "explicit": false,
+            "album": "Days of Gold",
+            "release_date": "2013-12-02",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 191040,
+            "acousticness": 0.344,
+            "danceability": 5.743,
+            "instrumentalness": 4.63e-05,
+            "liveness": 0.0669,
+            "loudness": -5.352,
+            "speechiness": 0.0601,
+            "time_signature": 4,
+            "happiness": 7.380999999999999
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Tip of My Tongue",
+        "Artist": "Kenny Chesney",
+        "Key": "7B",
+        "Energy": 5.878,
+        "Popularity": 5.59,
+        "BPM": 95,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "2swcTZtPZtKZs1CjJzxRwu",
+            "explicit": false,
+            "album": "Here And Now",
+            "release_date": "2020-05-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 199413,
+            "acousticness": 0.0832,
+            "danceability": 7.003,
+            "instrumentalness": 0,
+            "liveness": 0.0702,
+            "loudness": -5.6,
+            "speechiness": 0.0251,
+            "time_signature": 4,
+            "happiness": 5.239
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "Feel Like a Rock Star (Duet with Tim McGraw)",
+        "Artist": "Kenny Chesney, Tim McGraw",
+        "Key": "2B",
+        "Energy": 9.064,
+        "Popularity": 4.779999999999999,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6IwjYtPMOebrz61UEayrrS",
+            "explicit": false,
+            "album": "Welcome To The Fishbowl",
+            "release_date": "2012-06-19",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 208240,
+            "acousticness": 0.00318,
+            "danceability": 5.2749999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.29,
+            "loudness": -4.749,
+            "speechiness": 0.035,
+            "time_signature": 4,
+            "happiness": 8.812000000000001
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "Guys Named Captain",
+        "Artist": "Kenny Chesney",
+        "Key": "12B",
+        "Energy": 2.6470000000000002,
+        "Popularity": 4.51,
+        "BPM": 142,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Nostalgic",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "1GKxg9Qigiiwg6vV5T788U",
+            "explicit": false,
+            "album": "Here And Now",
+            "release_date": "2020-05-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 242507,
+            "acousticness": 0.932,
+            "danceability": 5.266,
+            "instrumentalness": 0.000341,
+            "liveness": 0.0936,
+            "loudness": -10.267,
+            "speechiness": 0.0337,
+            "time_signature": 3,
+            "happiness": 2.683
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "Get Along",
+        "Artist": "Kenny Chesney",
+        "Key": "9B",
+        "Energy": 8.236,
+        "Popularity": 7.4799999999999995,
+        "BPM": 92,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "6n6OQfBpCgzF9oEg8zhBN7",
+            "explicit": false,
+            "album": "Songs for the Saints",
+            "release_date": "2018-07-27",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 199625,
+            "acousticness": 0.101,
+            "danceability": 6.688,
+            "instrumentalness": 0,
+            "liveness": 0.17,
+            "loudness": -6.109,
+            "speechiness": 0.0503,
+            "time_signature": 4,
+            "happiness": 4.15
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "We're All Here",
+        "Artist": "Kenny Chesney",
+        "Key": "2B",
+        "Energy": 6.751,
+        "Popularity": 5.05,
+        "BPM": 116,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "2UgWtnyxUEVbQiLKq29fZ3",
+            "explicit": false,
+            "album": "Songs for the Saints",
+            "release_date": "2018-07-27",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 255545,
+            "acousticness": 0.108,
+            "danceability": 7.633,
+            "instrumentalness": 0,
+            "liveness": 0.128,
+            "loudness": -8.018,
+            "speechiness": 0.0316,
+            "time_signature": 4,
+            "happiness": 6.949
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "R.O.C.K. In The U.S.A. (A Salute To 60's Rock)",
+        "Artist": "John Mellencamp",
+        "Key": "11B",
+        "Energy": 9.622,
+        "Popularity": 6.67,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "80s",
+            "Calm",
+            "Inspiring",
+            "Rock",
+            "Mad",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0lqfBvf1Gqmmt3l5Qeirlm",
+            "explicit": false,
+            "album": "Scarecrow",
+            "release_date": "1985",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "hard rock",
+                "heartland rock",
+                "mellow gold",
+                "rock",
+                "singer-songwriter",
+                "soft rock"
+            ],
+            "duration": 174360,
+            "acousticness": 0.00943,
+            "danceability": 4.888,
+            "instrumentalness": 2.79e-06,
+            "liveness": 0.227,
+            "loudness": -4.009,
+            "speechiness": 0.0819,
+            "time_signature": 4,
+            "happiness": 8.866
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "Trip Around the Sun",
+        "Artist": "Kenny Chesney",
+        "Key": "3B",
+        "Energy": 8.011,
+        "Popularity": 5.68,
+        "BPM": 102,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3RcFrGu08HvRPCh00iB2kJ",
+            "explicit": false,
+            "album": "Cosmic Hallelujah",
+            "release_date": "2017-04-28",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 173920,
+            "acousticness": 0.0813,
+            "danceability": 6.679,
+            "instrumentalness": 0,
+            "liveness": 0.263,
+            "loudness": -5.233,
+            "speechiness": 0.0469,
+            "time_signature": 4,
+            "happiness": 7.156000000000001
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "All the Pretty Girls",
+        "Artist": "Kenny Chesney",
+        "Key": "2B",
+        "Energy": 8.632,
+        "Popularity": 7.209999999999999,
+        "BPM": 121,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "66pxmg3Jhjm09tHoWR1wVR",
+            "explicit": false,
+            "album": "Cosmic Hallelujah",
+            "release_date": "2017-04-28",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 212893,
+            "acousticness": 0.00916,
+            "danceability": 6.508,
+            "instrumentalness": 0,
+            "liveness": 0.366,
+            "loudness": -3.736,
+            "speechiness": 0.0368,
+            "time_signature": 4,
+            "happiness": 7.471
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Born to Run",
+        "Artist": "Bruce Springsteen",
+        "Key": "12B",
+        "Energy": 9.495999999999999,
+        "Popularity": 7.84,
+        "BPM": 146,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "70s",
+            "Rock",
+            "Calm",
+            "Inspiring",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "6hTcuIQa0sxrrByu9wTD7s",
+            "explicit": false,
+            "album": "Born To Run",
+            "release_date": "1975-08-25",
+            "genres": [
+                "heartland rock",
+                "mellow gold",
+                "permanent wave",
+                "rock",
+                "singer-songwriter"
+            ],
+            "duration": 269920,
+            "acousticness": 0.00501,
+            "danceability": 3.43,
+            "instrumentalness": 2.05e-05,
+            "liveness": 0.116,
+            "loudness": -4.199,
+            "speechiness": 0.0975,
+            "time_signature": 4,
+            "happiness": 6.454
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "Setting the World On Fire (with P!NK)",
+        "Artist": "Kenny Chesney, P!nk",
+        "Key": "8B",
+        "Energy": 8.398,
+        "Popularity": 6.76,
+        "BPM": 94,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Dance Remixes",
+            "Pop",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "7AclP0W2jy6yrbvBiC4prQ",
+            "explicit": false,
+            "album": "Cosmic Hallelujah",
+            "release_date": "2017-04-28",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "dance pop",
+                "pop"
+            ],
+            "duration": 217467,
+            "acousticness": 0.0171,
+            "danceability": 6.49,
+            "instrumentalness": 1.88e-06,
+            "liveness": 0.093,
+            "loudness": -4.422,
+            "speechiness": 0.0355,
+            "time_signature": 4,
+            "happiness": 4.933
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Noise",
+        "Artist": "Kenny Chesney",
+        "Key": "8B",
+        "Energy": 8.191,
+        "Popularity": 5.59,
+        "BPM": 110,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0XN2BcoaKE4Z2hnq1ZeDY1",
+            "explicit": false,
+            "album": "Cosmic Hallelujah",
+            "release_date": "2017-04-28",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 203760,
+            "acousticness": 0.0095,
+            "danceability": 6.22,
+            "instrumentalness": 0,
+            "liveness": 0.0925,
+            "loudness": -4.146,
+            "speechiness": 0.028,
+            "time_signature": 4,
+            "happiness": 6.247
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "Snapback",
+        "Artist": "Old Dominion",
+        "Key": "7B",
+        "Energy": 8.137,
+        "Popularity": 7.209999999999999,
+        "BPM": 101,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7I5fYc4qKJddht8Ozhqqdx",
+            "explicit": false,
+            "album": "Meat and Candy",
+            "release_date": "2015-11-06",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 206507,
+            "acousticness": 0.302,
+            "danceability": 7.183000000000001,
+            "instrumentalness": 3.46e-06,
+            "liveness": 0.1,
+            "loudness": -3.577,
+            "speechiness": 0.0333,
+            "time_signature": 4,
+            "happiness": 7.057
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "Some Town Somewhere",
+        "Artist": "Kenny Chesney",
+        "Key": "7B",
+        "Energy": 8.254000000000001,
+        "Popularity": 4.33,
+        "BPM": 144,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7APu28G8rBFxpe6w50D9WP",
+            "explicit": false,
+            "album": "Cosmic Hallelujah",
+            "release_date": "2017-04-28",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 169920,
+            "acousticness": 0.0924,
+            "danceability": 5.7250000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.274,
+            "loudness": -3.438,
+            "speechiness": 0.037,
+            "time_signature": 4,
+            "happiness": 9.307
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "Heart On Fire",
+        "Artist": "Eric Church",
+        "Key": "4B",
+        "Energy": 9.343,
+        "Popularity": 6.58,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0ysCB1Jg4hli0XlEWlipo7",
+            "explicit": false,
+            "album": "Heart",
+            "release_date": "2021-04-16",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 258800,
+            "acousticness": 0.0352,
+            "danceability": 6.877000000000001,
+            "instrumentalness": 4.47e-05,
+            "liveness": 0.0966,
+            "loudness": -4.699,
+            "speechiness": 0.0289,
+            "time_signature": 4,
+            "happiness": 9.046
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "Winnebago",
+        "Artist": "Kenny Chesney",
+        "Key": "8B",
+        "Energy": 8.173,
+        "Popularity": 4.15,
+        "BPM": 78,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3Q22fbtYZECs3gGE35TNHp",
+            "explicit": false,
+            "album": "Cosmic Hallelujah",
+            "release_date": "2017-04-28",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 177880,
+            "acousticness": 0.0749,
+            "danceability": 6.463,
+            "instrumentalness": 0,
+            "liveness": 0.106,
+            "loudness": -4.898,
+            "speechiness": 0.0261,
+            "time_signature": 4,
+            "happiness": 7.768
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "Drink It Up",
+        "Artist": "Kenny Chesney",
+        "Key": "10B",
+        "Energy": 9.541,
+        "Popularity": 4.87,
+        "BPM": 116,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3bYYrC2lo0krPYuESCyfUe",
+            "explicit": false,
+            "album": "The Big Revival",
+            "release_date": "2014-09-22",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 167360,
+            "acousticness": 0.00116,
+            "danceability": 6.13,
+            "instrumentalness": 0,
+            "liveness": 0.274,
+            "loudness": -4.245,
+            "speechiness": 0.0407,
+            "time_signature": 4,
+            "happiness": 8.605
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "Dust On The Bottle",
+        "Artist": "David Lee Murphy",
+        "Key": "1B",
+        "Energy": 6.526,
+        "Popularity": 7.75,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0Xg68XXMRWzKQvD5S6BFvI",
+            "explicit": false,
+            "album": "Out With A Bang",
+            "release_date": "1994-01-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 224667,
+            "acousticness": 0.0237,
+            "danceability": 7.624,
+            "instrumentalness": 5.84e-06,
+            "liveness": 0.292,
+            "loudness": -11.124,
+            "speechiness": 0.0389,
+            "time_signature": 4,
+            "happiness": 8.722
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "Til It's Gone",
+        "Artist": "Kenny Chesney",
+        "Key": "12B",
+        "Energy": 8.398,
+        "Popularity": 5.5,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "1Lh8n5owE0h0hgqWfqtvuD",
+            "explicit": false,
+            "album": "The Big Revival",
+            "release_date": "2014-09-22",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 250533,
+            "acousticness": 0.00544,
+            "danceability": 5.491,
+            "instrumentalness": 0.000197,
+            "liveness": 0.272,
+            "loudness": -7.122,
+            "speechiness": 0.049,
+            "time_signature": 4,
+            "happiness": 5.491
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "Beer Can Chicken",
+        "Artist": "Kenny Chesney",
+        "Key": "9B",
+        "Energy": 8.839,
+        "Popularity": 4.51,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "3X67nUl5Nei420ZEz8cFAu",
+            "explicit": false,
+            "album": "The Big Revival",
+            "release_date": "2014-09-22",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 247267,
+            "acousticness": 0.00284,
+            "danceability": 4.897,
+            "instrumentalness": 0,
+            "liveness": 0.0866,
+            "loudness": -4.61,
+            "speechiness": 0.0424,
+            "time_signature": 4,
+            "happiness": 6.372999999999999
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Save It for a Rainy Day",
+        "Artist": "Kenny Chesney",
+        "Key": "9B",
+        "Energy": 7.9750000000000005,
+        "Popularity": 6.8500000000000005,
+        "BPM": 77,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "6wfTb2he5ANMQSFnlamnyi",
+            "explicit": false,
+            "album": "The Big Revival",
+            "release_date": "2014-09-22",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 182213,
+            "acousticness": 0.0053,
+            "danceability": 5.8420000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.0807,
+            "loudness": -5.48,
+            "speechiness": 0.0291,
+            "time_signature": 4,
+            "happiness": 6.526
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "Flora-Bama",
+        "Artist": "Kenny Chesney",
+        "Key": "9B",
+        "Energy": 7.318,
+        "Popularity": 5.95,
+        "BPM": 84,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0hlou0hEfL2aS9FpJMX2OW",
+            "explicit": false,
+            "album": "The Big Revival",
+            "release_date": "2014-09-22",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 270867,
+            "acousticness": 0.00145,
+            "danceability": 5.806,
+            "instrumentalness": 0.00472,
+            "liveness": 0.12,
+            "loudness": -5.442,
+            "speechiness": 0.0251,
+            "time_signature": 4,
+            "happiness": 3.709
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "All Summer Long",
+        "Artist": "Kid Rock",
+        "Key": "9B",
+        "Energy": 8.776,
+        "Popularity": 7.93,
+        "BPM": 103,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5rX6C5QVvvZB7XckETNych",
+            "explicit": false,
+            "album": "Rock n Roll Jesus",
+            "release_date": "2007-10-09",
+            "genres": [
+                "nu metal"
+            ],
+            "duration": 297587,
+            "acousticness": 0.0212,
+            "danceability": 7.3,
+            "instrumentalness": 0,
+            "liveness": 0.0956,
+            "loudness": -3.629,
+            "speechiness": 0.0283,
+            "time_signature": 4,
+            "happiness": 8.983
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "Pirate Flag",
+        "Artist": "Kenny Chesney",
+        "Key": "9B",
+        "Energy": 8.155000000000001,
+        "Popularity": 6.67,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "1RfPA6mxhOvc5dVK9MHReF",
+            "explicit": false,
+            "album": "Life on a Rock",
+            "release_date": "2013-04-30",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 225427,
+            "acousticness": 0.0787,
+            "danceability": 6.031000000000001,
+            "instrumentalness": 4.83e-06,
+            "liveness": 0.102,
+            "loudness": -6.255,
+            "speechiness": 0.052,
+            "time_signature": 4,
+            "happiness": 5.977
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "Living",
+        "Artist": "Dierks Bentley",
+        "Key": "3B",
+        "Energy": 8.317,
+        "Popularity": 6.8500000000000005,
+        "BPM": 83,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "54K7AZoGpQklpygKrxZlKN",
+            "explicit": false,
+            "album": "The Mountain",
+            "release_date": "2018-06-08",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 222147,
+            "acousticness": 0.0153,
+            "danceability": 5.6530000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.106,
+            "loudness": -6.325,
+            "speechiness": 0.0558,
+            "time_signature": 4,
+            "happiness": 4.996
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "When I See This Bar",
+        "Artist": "Kenny Chesney",
+        "Key": "9B",
+        "Energy": 7.534,
+        "Popularity": 5.05,
+        "BPM": 111,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "61w5i6NlAZXBa5FTTbDL0r",
+            "explicit": false,
+            "album": "Life on a Rock",
+            "release_date": "2013-04-30",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 362813,
+            "acousticness": 0.0284,
+            "danceability": 7.4079999999999995,
+            "instrumentalness": 4.48e-05,
+            "liveness": 0.104,
+            "loudness": -7.346,
+            "speechiness": 0.0248,
+            "time_signature": 4,
+            "happiness": 6.022
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "Time Flies",
+        "Artist": "Kenny Chesney",
+        "Key": "12B",
+        "Energy": 8.353,
+        "Popularity": 4.15,
+        "BPM": 91,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4hdQl3j9UkbuVDOSCyANOt",
+            "explicit": false,
+            "album": "Welcome To The Fishbowl",
+            "release_date": "2012-06-19",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 217653,
+            "acousticness": 0.0159,
+            "danceability": 5.545,
+            "instrumentalness": 0.000284,
+            "liveness": 0.0808,
+            "loudness": -5.885,
+            "speechiness": 0.065,
+            "time_signature": 4,
+            "happiness": 8.847999999999999
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "Live a Little",
+        "Artist": "Kenny Chesney",
+        "Key": "9B",
+        "Energy": 8.974,
+        "Popularity": 5.140000000000001,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "13zhyZhlM0VzUpEW8aShcp",
+            "explicit": false,
+            "album": "Hemingway's Whiskey",
+            "release_date": "2010-09-28",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 219107,
+            "acousticness": 0.0207,
+            "danceability": 6.7780000000000005,
+            "instrumentalness": 0.0275,
+            "liveness": 0.391,
+            "loudness": -6.151,
+            "speechiness": 0.04,
+            "time_signature": 4,
+            "happiness": 3.5829999999999997
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "Barefoot Blue Jean Night",
+        "Artist": "Jake Owen",
+        "Key": "12B",
+        "Energy": 8.263000000000002,
+        "Popularity": 7.93,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3ts6xK5GzfMAAriT9AIBmP",
+            "explicit": false,
+            "album": "Barefoot Blue Jean Night",
+            "release_date": "2011-08-26",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 167427,
+            "acousticness": 0.202,
+            "danceability": 6.391,
+            "instrumentalness": 0,
+            "liveness": 0.196,
+            "loudness": -4.679,
+            "speechiness": 0.0402,
+            "time_signature": 4,
+            "happiness": 8.308
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "Coastal",
+        "Artist": "Kenny Chesney",
+        "Key": "4B",
+        "Energy": 7.4799999999999995,
+        "Popularity": 5.86,
+        "BPM": 112,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "22ejspKqayOvA7eCzUjFlk",
+            "explicit": false,
+            "album": "Hemingway's Whiskey",
+            "release_date": "2010-09-28",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 159587,
+            "acousticness": 0.0958,
+            "danceability": 7.489,
+            "instrumentalness": 2.79e-06,
+            "liveness": 0.0984,
+            "loudness": -6.544,
+            "speechiness": 0.0282,
+            "time_signature": 4,
+            "happiness": 7.534
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "Make It Sweet",
+        "Artist": "Old Dominion",
+        "Key": "9B",
+        "Energy": 8.533,
+        "Popularity": 1.0,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "621Qk22EMppkRlJ73Rb6d2",
+            "explicit": false,
+            "album": "Old Dominion",
+            "release_date": "2019-10-25",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 187000,
+            "acousticness": 0.0373,
+            "danceability": 4.816,
+            "instrumentalness": 0,
+            "liveness": 0.0665,
+            "loudness": -4.453,
+            "speechiness": 0.0472,
+            "time_signature": 4,
+            "happiness": 5.986000000000001
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "Reality",
+        "Artist": "Kenny Chesney",
+        "Key": "8B",
+        "Energy": 9.325000000000001,
+        "Popularity": 5.140000000000001,
+        "BPM": 93,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0X0zDB7RqpWOIwCHGr2Whu",
+            "explicit": false,
+            "album": "Hemingway's Whiskey",
+            "release_date": "2010-09-28",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 210640,
+            "acousticness": 0.00296,
+            "danceability": 3.835,
+            "instrumentalness": 0.0642,
+            "liveness": 0.114,
+            "loudness": -4.507,
+            "speechiness": 0.117,
+            "time_signature": 4,
+            "happiness": 4.734999999999999
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "Shiftwork (with George Strait) - Duet With George Strait",
+        "Artist": "Kenny Chesney, George Strait",
+        "Key": "8B",
+        "Energy": 6.183999999999999,
+        "Popularity": 5.32,
+        "BPM": 129,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1JtYfT7sJF3jojvLo1Vl7c",
+            "explicit": false,
+            "album": "Just Who I Am: Poets & Pirates",
+            "release_date": "2007-09-11",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 269507,
+            "acousticness": 0.0922,
+            "danceability": 8.623,
+            "instrumentalness": 0.00331,
+            "liveness": 0.0373,
+            "loudness": -9.199,
+            "speechiness": 0.0359,
+            "time_signature": 4,
+            "happiness": 8.937999999999999
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "Live Those Songs",
+        "Artist": "Kenny Chesney",
+        "Key": "10B",
+        "Energy": 9.289,
+        "Popularity": 4.42,
+        "BPM": 126,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "2gw68CZ9JeYrjZVjUWYa4k",
+            "explicit": false,
+            "album": "No Shoes, No Shirt, No Problems",
+            "release_date": "2002-04-02",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 228840,
+            "acousticness": 0.0153,
+            "danceability": 6.175,
+            "instrumentalness": 0.000766,
+            "liveness": 0.293,
+            "loudness": -6.206,
+            "speechiness": 0.0661,
+            "time_signature": 4,
+            "happiness": 4.744
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "Young",
+        "Artist": "Kenny Chesney",
+        "Key": "11B",
+        "Energy": 8.559999999999999,
+        "Popularity": 6.31,
+        "BPM": 126,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3tHPjLBakLS48aumhFpJMt",
+            "explicit": false,
+            "album": "No Shoes, No Shirt, No Problems",
+            "release_date": "2002-04-02",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 235733,
+            "acousticness": 0.0278,
+            "danceability": 7.156000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.329,
+            "loudness": -5.753,
+            "speechiness": 0.0433,
+            "time_signature": 4,
+            "happiness": 7.138000000000001
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "Jack & Diane",
+        "Artist": "John Mellencamp",
+        "Key": "11B",
+        "Energy": 4.6899999999999995,
+        "Popularity": 7.93,
+        "BPM": 104,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "80s",
+            "Calm",
+            "Inspiring",
+            "Rock",
+            "Mad",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "43btz2xjMKpcmjkuRsvxyg",
+            "explicit": false,
+            "album": "American Fool",
+            "release_date": "1982",
+            "genres": [
+                "album rock",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "hard rock",
+                "heartland rock",
+                "mellow gold",
+                "rock",
+                "singer-songwriter",
+                "soft rock"
+            ],
+            "duration": 254493,
+            "acousticness": 0.0365,
+            "danceability": 8.299,
+            "instrumentalness": 6.63e-06,
+            "liveness": 0.0799,
+            "loudness": -8.214,
+            "speechiness": 0.0391,
+            "time_signature": 4,
+            "happiness": 6.634
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "Beer In Mexico",
+        "Artist": "Kenny Chesney",
+        "Key": "10B",
+        "Energy": 9.181000000000001,
+        "Popularity": 5.68,
+        "BPM": 138,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "58dRbjabfppvKsQlV0timz",
+            "explicit": false,
+            "album": "Greatest Hits II",
+            "release_date": "2009-05-19",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 270000,
+            "acousticness": 0.00114,
+            "danceability": 6.247,
+            "instrumentalness": 0.000455,
+            "liveness": 0.0959,
+            "loudness": -6.357,
+            "speechiness": 0.0421,
+            "time_signature": 4,
+            "happiness": 5.257
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "I Go Back",
+        "Artist": "Kenny Chesney",
+        "Key": "7B",
+        "Energy": 8.578,
+        "Popularity": 7.209999999999999,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "57I7CUbXo4XlWuTVB8pXW6",
+            "explicit": false,
+            "album": "When The Sun Goes Down",
+            "release_date": "2004-01-22",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 243667,
+            "acousticness": 0.0409,
+            "danceability": 5.788,
+            "instrumentalness": 0,
+            "liveness": 0.217,
+            "loudness": -5.754,
+            "speechiness": 0.0503,
+            "time_signature": 4,
+            "happiness": 7.03
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "T-Shirt",
+        "Artist": "Thomas Rhett",
+        "Key": "10B",
+        "Energy": 8.758,
+        "Popularity": 6.94,
+        "BPM": 96,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1zWZvrk13cL8Sl3VLeG57F",
+            "explicit": false,
+            "album": "Tangled Up",
+            "release_date": "2015-01-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "modern country rock"
+            ],
+            "duration": 227693,
+            "acousticness": 0.0287,
+            "danceability": 6.706,
+            "instrumentalness": 0,
+            "liveness": 0.0217,
+            "loudness": -5.337,
+            "speechiness": 0.0376,
+            "time_signature": 4,
+            "happiness": 7.9030000000000005
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "Back Where I Come From",
+        "Artist": "Kenny Chesney",
+        "Key": "2B",
+        "Energy": 5.113,
+        "Popularity": 6.040000000000001,
+        "BPM": 144,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "4BbwjVS27IuC7bvN7qzAvS",
+            "explicit": false,
+            "album": "Me And You",
+            "release_date": "1996",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 236827,
+            "acousticness": 0.142,
+            "danceability": 6.337,
+            "instrumentalness": 0.00221,
+            "liveness": 0.0553,
+            "loudness": -8.74,
+            "speechiness": 0.0286,
+            "time_signature": 4,
+            "happiness": 4.2940000000000005
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "How Forever Feels",
+        "Artist": "Kenny Chesney",
+        "Key": "9B",
+        "Energy": 7.066000000000001,
+        "Popularity": 6.8500000000000005,
+        "BPM": 125,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "2HmMklpgK8vGCpJmPpz1yG",
+            "explicit": false,
+            "album": "Everywhere We Go",
+            "release_date": "1999-02-26",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 188200,
+            "acousticness": 0.0986,
+            "danceability": 7.507,
+            "instrumentalness": 1.83e-05,
+            "liveness": 0.279,
+            "loudness": -7.427,
+            "speechiness": 0.0297,
+            "time_signature": 4,
+            "happiness": 6.49
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "Big Star",
+        "Artist": "Kenny Chesney",
+        "Key": "8B",
+        "Energy": 8.263000000000002,
+        "Popularity": 5.59,
+        "BPM": 121,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6BJOQ94yeGXYwuR6X9QO1N",
+            "explicit": false,
+            "album": "No Shoes, No Shirt, No Problems",
+            "release_date": "2002-04-02",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 239560,
+            "acousticness": 0.0056,
+            "danceability": 6.8950000000000005,
+            "instrumentalness": 2.42e-05,
+            "liveness": 0.159,
+            "loudness": -7.674,
+            "speechiness": 0.0309,
+            "time_signature": 4,
+            "happiness": 7.57
+        }
+    },
+    {
+        "#": 52,
+        "Track Title": "Drink In My Hand",
+        "Artist": "Eric Church",
+        "Key": "8B",
+        "Energy": 9.217,
+        "Popularity": 7.93,
+        "BPM": 113,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1cktZnxiONH0hR6Q3DKy8h",
+            "explicit": false,
+            "album": "Chief",
+            "release_date": "2011-01-01",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 191307,
+            "acousticness": 0.00635,
+            "danceability": 6.634,
+            "instrumentalness": 0,
+            "liveness": 0.293,
+            "loudness": -4.452,
+            "speechiness": 0.0318,
+            "time_signature": 4,
+            "happiness": 9.514
+        }
+    },
+    {
+        "#": 53,
+        "Track Title": "When the Sun Goes Down",
+        "Artist": "Kenny Chesney, Uncle Kracker",
+        "Key": "11B",
+        "Energy": 7.669,
+        "Popularity": 7.39,
+        "BPM": 105,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Rock",
+            "Pop",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5vLonpxn4VN0A8GtQOBSG0",
+            "explicit": false,
+            "album": "When The Sun Goes Down",
+            "release_date": "2004-01-22",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "country",
+                "pop rock",
+                "post-grunge"
+            ],
+            "duration": 290560,
+            "acousticness": 0.0432,
+            "danceability": 8.182,
+            "instrumentalness": 3e-06,
+            "liveness": 0.252,
+            "loudness": -6.802,
+            "speechiness": 0.0284,
+            "time_signature": 4,
+            "happiness": 7.372
+        }
+    },
+    {
+        "#": 54,
+        "Track Title": "No Shoes, No Shirt, No Problems",
+        "Artist": "Kenny Chesney",
+        "Key": "9B",
+        "Energy": 5.914000000000001,
+        "Popularity": 6.94,
+        "BPM": 118,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "208bYsadJ56km31IENM2qS",
+            "explicit": false,
+            "album": "No Shoes, No Shirt, No Problems",
+            "release_date": "2002-04-02",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 209667,
+            "acousticness": 0.243,
+            "danceability": 7.471,
+            "instrumentalness": 0.00844,
+            "liveness": 0.181,
+            "loudness": -10.239,
+            "speechiness": 0.032,
+            "time_signature": 4,
+            "happiness": 7.021000000000001
+        }
+    },
+    {
+        "#": 55,
+        "Track Title": "Summertime",
+        "Artist": "Kenny Chesney",
+        "Key": "12B",
+        "Energy": 9.352,
+        "Popularity": 7.209999999999999,
+        "BPM": 84,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3cE5ltZFHmBpiS77itKaOM",
+            "explicit": false,
+            "album": "The Road And The Radio",
+            "release_date": "2005-11-07",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 206587,
+            "acousticness": 0.169,
+            "danceability": 5.32,
+            "instrumentalness": 0,
+            "liveness": 0.0479,
+            "loudness": -5.501,
+            "speechiness": 0.0899,
+            "time_signature": 4,
+            "happiness": 7.417
+        }
+    },
+    {
+        "#": 56,
+        "Track Title": "Never Wanted Nothing More",
+        "Artist": "Kenny Chesney",
+        "Key": "9B",
+        "Energy": 7.705,
+        "Popularity": 5.95,
+        "BPM": 89,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "41OvINy2RjLet11iW849vX",
+            "explicit": false,
+            "album": "Just Who I Am: Poets & Pirates",
+            "release_date": "2007-09-11",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 208560,
+            "acousticness": 0.0424,
+            "danceability": 5.752000000000001,
+            "instrumentalness": 1.68e-05,
+            "liveness": 0.257,
+            "loudness": -7.683,
+            "speechiness": 0.0539,
+            "time_signature": 4,
+            "happiness": 8.056000000000001
+        }
+    },
+    {
+        "#": 57,
+        "Track Title": "Everything's Gonna Be Alright",
+        "Artist": "David Lee Murphy, Kenny Chesney",
+        "Key": "7A",
+        "Energy": 6.2829999999999995,
+        "Popularity": 6.76,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "2NEBP8SXEqwZt2PRdPXXuy",
+            "explicit": false,
+            "album": "No Zip Code",
+            "release_date": "2018-04-06",
+            "genres": [
+                "contemporary country",
+                "country",
+                "country road",
+                "contemporary country",
+                "country",
+                "country road"
+            ],
+            "duration": 229573,
+            "acousticness": 0.0721,
+            "danceability": 7.876,
+            "instrumentalness": 6.45e-06,
+            "liveness": 0.094,
+            "loudness": -7.002,
+            "speechiness": 0.0298,
+            "time_signature": 4,
+            "happiness": 5.446
+        }
+    }
+]
