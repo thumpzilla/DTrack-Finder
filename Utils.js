@@ -81,3 +81,17 @@ export function createTagUI(tagName, tagDescription) {
 
     return tag;
 }
+
+
+export function removeSubStringFromString(mainString, subStringsToRemove) {
+    let resultString = mainString;
+
+    // Go through each substring in the array
+    for (let subString of subStringsToRemove) {
+        // Replace all occurrences of the substring with an empty string
+        let regExp = new RegExp(subString, 'g');
+        resultString = resultString.replace(regExp, '');
+    }
+
+    return resultString;
+}

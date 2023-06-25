@@ -26,6 +26,7 @@ export default class BpmSlider {
     }
 
 
+
     setDisable(disable) {
       this.isDisabled = disable;
   
@@ -228,4 +229,10 @@ export default class BpmSlider {
       }, 300); // Reset the scale after the animation
       this.updateUI();
     }
+
+    setValues(newValue) {
+      this.currentValue = parseInt(newValue);
+      this.updateUI();
+    }
+
   }

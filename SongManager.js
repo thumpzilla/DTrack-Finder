@@ -1,7 +1,5 @@
-
 import Song from './Song.js'
 import { showToast } from './Utils.js'; // Make sure to import the showToast function
-
 import SongListItemUI from './SongList_UI.js';
 
 export default class SongManager {
@@ -25,6 +23,7 @@ export default class SongManager {
     }
 
 
+    
     createSummaryObject(containerId, idOfTextField, svgImagePath, imageDivPath, activeIndicatorId) {
         // create the div container
         let container = document.createElement('div');

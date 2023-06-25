@@ -25,10 +25,85 @@ export default class KeySlider {
   
     }
 
+    setValues(value) {
+      let key = value;
+      // Check if the key is in musical key format
+      if (!this.isCamelotKey(key)) {
+        key = this.convertToCamelot(key);
+      }
+  
+      // Parse the Camelot key
+      console.log(key);
+      const camelotKeyMatch = key.match(/^(\d+)([A,B])$/);
+      if (!camelotKeyMatch) {
+        console.error(`Invalid Camelot key: ${key}`);
+        return;
+      }
+  
+      const [, number, letter] = camelotKeyMatch;
+      this.currentValue = Number(number);
+      this.currentKey = letter;
+  
+      // Update the UI to reflect the new values
+      this.updateUI();
+    }
+  
+    isMusicalKey(key) {
+      // Simple pattern matching to determine if a key is in musical key format.
+      // This can be adjusted according to the exact format you're using.
+      return /[A-B](#|b)?m?/.test(key);
+    }
+    isCamelotKey(key) {
+      // Simple pattern matching to determine if a key is in musical key format.
+      // This can be adjusted according to the exact format you're using.
+      return key.match(/^(\d+)([A,B])$/);
+    }
+    
+
+  
+    convertToCamelot(musicalKey) {
+      const conversionMap = {
+        "A": "11B",
+        "Ab": "4B",
+        "Am": "8A",
+        "B": "1B",
+        "Bb": "6B",
+        "Bbm": "3A",
+        "Bm": "10A",
+        "C": "8B",
+        "Dbm": "12A",
+        "C#m": "12A",
+        "Cm": "5A",
+        "D": "10B",
+        "Db": "3B",
+        "Dm": "7A",
+        "E": "12B",
+        "Eb": "5B",
+        "Ebm": "2A",
+        "Em": "9A",
+        "F": "7B",
+        "F#m": "11A",
+        "Fm": "4A",
+        "G": "9B",
+        "Abm": "1A",
+        "G#m": "1A",
+        "F#": "2B",
+        "Gb": "2B",
+        "Gm": "6A",
+        "Gbm": "11A"
+      };
+  
+      const camelotKey = conversionMap[musicalKey];
+      if (!camelotKey) {
+        
+        console.error(`Invalid musical key: ${musicalKey}`);
+        return;
+      }
+      return camelotKey;
+    }
 
     setDisable(disable) {
       this.isDisabled = disable;
-  
       // Graying out the slider when disabled
       if(this.isDisabled) {
         this.sliderContainer.style.opacity = '0.5';
@@ -37,6 +112,7 @@ export default class KeySlider {
         this.sliderContainer.style.opacity = '1';
         this.sliderThumb.style.cursor = 'pointer';
       }
+      
     }
 
     createExpandedState(){
