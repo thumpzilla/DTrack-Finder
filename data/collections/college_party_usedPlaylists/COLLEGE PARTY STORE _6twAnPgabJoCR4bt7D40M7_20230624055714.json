@@ -1,0 +1,971 @@
+[
+    {
+        "#": 1,
+        "Track Title": "Strawberry Wine",
+        "Artist": "Lemondrop",
+        "Key": "4B",
+        "Energy": 6.327999999999999,
+        "Popularity": 1.72,
+        "BPM": 77,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2GrEZamQcICQVRXVFcY5MM",
+            "explicit": false,
+            "album": "Strawberry Wine",
+            "release_date": "2020-01-24",
+            "genres": [
+                "nashville indie"
+            ],
+            "duration": 233563,
+            "acousticness": 0.419,
+            "danceability": 6.481,
+            "instrumentalness": 0.00774,
+            "liveness": 0.0826,
+            "loudness": -8.342,
+            "speechiness": 0.035,
+            "time_signature": 4,
+            "happiness": 5.338
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Liquor Store",
+        "Artist": "Remi Wolf",
+        "Key": "3A",
+        "Energy": 6.994000000000001,
+        "Popularity": 5.86,
+        "BPM": 91,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Inspiring",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "1ovtvpb50WVY9VFZzHp77r",
+            "explicit": true,
+            "album": "Juno",
+            "release_date": "2021-10-15",
+            "genres": [
+                "indie pop",
+                "modern alternative pop"
+            ],
+            "duration": 172057,
+            "acousticness": 0.0329,
+            "danceability": 7.669,
+            "instrumentalness": 1.89e-05,
+            "liveness": 0.044,
+            "loudness": -5.936,
+            "speechiness": 0.0448,
+            "time_signature": 4,
+            "happiness": 5.968
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "hey you got drugs?",
+        "Artist": "Tove Lo",
+        "Key": "11B",
+        "Energy": 7.353999999999999,
+        "Popularity": 5.5,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Club-Hotel",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "73kadnv7SduzhApfRUv5C0",
+            "explicit": true,
+            "album": "BLUE LIPS (lady wood phase II)",
+            "release_date": "2017-11-17",
+            "genres": [
+                "metropopolis",
+                "pop",
+                "swedish electropop",
+                "swedish pop",
+                "swedish synthpop"
+            ],
+            "duration": 258033,
+            "acousticness": 0.301,
+            "danceability": 6.625,
+            "instrumentalness": 0,
+            "liveness": 0.0735,
+            "loudness": -4.604,
+            "speechiness": 0.0326,
+            "time_signature": 4,
+            "happiness": 3.4570000000000003
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Happy Little Pill",
+        "Artist": "Troye Sivan",
+        "Key": "12A",
+        "Energy": 6.337,
+        "Popularity": 5.7700000000000005,
+        "BPM": 92,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "4z8Ll8nU1jMqB8HvKTyLP1",
+            "explicit": false,
+            "album": "TRXYE",
+            "release_date": "2014-08-15",
+            "genres": [
+                "australian pop",
+                "pop",
+                "viral pop"
+            ],
+            "duration": 224874,
+            "acousticness": 0.000848,
+            "danceability": 6.103,
+            "instrumentalness": 2.09e-06,
+            "liveness": 0.114,
+            "loudness": -7.127,
+            "speechiness": 0.0375,
+            "time_signature": 4,
+            "happiness": 1.3582
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Better Drugs",
+        "Artist": "Laura Dreyfuss",
+        "Key": "11B",
+        "Energy": 5.986000000000001,
+        "Popularity": 3.97,
+        "BPM": 78,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4NVrWNWPmBHHRAwU8q4GOS",
+            "explicit": false,
+            "album": "Better Drugs",
+            "release_date": "2019-12-06",
+            "genres": [
+                "broadway",
+                "show tunes"
+            ],
+            "duration": 172339,
+            "acousticness": 0.169,
+            "danceability": 7.57,
+            "instrumentalness": 0,
+            "liveness": 0.082,
+            "loudness": -6.367,
+            "speechiness": 0.269,
+            "time_signature": 4,
+            "happiness": 7.2459999999999996
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "drinking games",
+        "Artist": "Sophie Cates",
+        "Key": "10B",
+        "Energy": 6.724,
+        "Popularity": 5.5,
+        "BPM": 94,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Rock",
+            "Inspiring",
+            "Mad",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1uE4onkFvDXyBjIGsu9PZ5",
+            "explicit": false,
+            "album": "yikes!",
+            "release_date": "2019-10-02",
+            "genres": [
+                "alt z",
+                "bedroom pop",
+                "indie pop"
+            ],
+            "duration": 200702,
+            "acousticness": 0.635,
+            "danceability": 5.581,
+            "instrumentalness": 0.000127,
+            "liveness": 0.613,
+            "loudness": -5.811,
+            "speechiness": 0.0453,
+            "time_signature": 4,
+            "happiness": 3.718
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Drinking Song",
+        "Artist": "House Phone",
+        "Key": "10B",
+        "Energy": 2.6559999999999997,
+        "Popularity": 4.51,
+        "BPM": 114,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "0p1bsHNdmOWnp3YXFslZTk",
+            "explicit": false,
+            "album": "Drinking Song",
+            "release_date": "2021-01-17",
+            "genres": [],
+            "duration": 154737,
+            "acousticness": 0.667,
+            "danceability": 7.867,
+            "instrumentalness": 0,
+            "liveness": 0.0987,
+            "loudness": -13.512,
+            "speechiness": 0.198,
+            "time_signature": 4,
+            "happiness": 6.823
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "When Alcohol Tastes Like Juice",
+        "Artist": "Natalie Claro",
+        "Key": "8B",
+        "Energy": 5.7700000000000005,
+        "Popularity": 1.0,
+        "BPM": 140,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1ER4TVuROOCoqEnnwxA5yv",
+            "explicit": false,
+            "album": "When Alcohol Tastes Like Juice",
+            "release_date": "2021-08-06",
+            "genres": [],
+            "duration": 182560,
+            "acousticness": 0.78,
+            "danceability": 6.868,
+            "instrumentalness": 0,
+            "liveness": 0.167,
+            "loudness": -5.543,
+            "speechiness": 0.0347,
+            "time_signature": 4,
+            "happiness": 4.114
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Sad Sorry After Party",
+        "Artist": "UPSAHL",
+        "Key": "5B",
+        "Energy": 7.984,
+        "Popularity": 3.61,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Rock",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "2MqwqBsvpgIcAtZLPWvZOd",
+            "explicit": false,
+            "album": "Young Life Crisis",
+            "release_date": "2020-12-15",
+            "genres": [
+                "alt z",
+                "modern indie pop"
+            ],
+            "duration": 164307,
+            "acousticness": 0.0309,
+            "danceability": 6.058000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.436,
+            "loudness": -5.224,
+            "speechiness": 0.0744,
+            "time_signature": 4,
+            "happiness": 5.05
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Liquor Store On Mars",
+        "Artist": "Kelsy Karter & The Heroines",
+        "Key": "3A",
+        "Energy": 6.652,
+        "Popularity": 5.32,
+        "BPM": 70,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Rock",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "2Zh1F6UUbMwaVk3X8XsUks",
+            "explicit": false,
+            "album": "Missing Person",
+            "release_date": "2020-10-02",
+            "genres": [
+                "alt z"
+            ],
+            "duration": 211187,
+            "acousticness": 0.00324,
+            "danceability": 2.872,
+            "instrumentalness": 0.000909,
+            "liveness": 0.269,
+            "loudness": -4.456,
+            "speechiness": 0.04,
+            "time_signature": 4,
+            "happiness": 3.5919999999999996
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Dating A Drug Dealer",
+        "Artist": "The Sunshine State",
+        "Key": "10B",
+        "Energy": 6.5169999999999995,
+        "Popularity": 3.25,
+        "BPM": 131,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1iVi8oLLwYbSMlxA5RrXbW",
+            "explicit": false,
+            "album": "Dating A Drug Dealer",
+            "release_date": "2021-03-05",
+            "genres": [],
+            "duration": 179383,
+            "acousticness": 0.15,
+            "danceability": 7.0120000000000005,
+            "instrumentalness": 0.0166,
+            "liveness": 0.145,
+            "loudness": -9.889,
+            "speechiness": 0.0333,
+            "time_signature": 4,
+            "happiness": 4.7620000000000005
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "God Must Be Doing Cocaine",
+        "Artist": "Charlotte Lawrence",
+        "Key": "9B",
+        "Energy": 4.231,
+        "Popularity": 4.6899999999999995,
+        "BPM": 118,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Rock",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "4pBsg7FS4R99zk55McLRIy",
+            "explicit": false,
+            "album": "God Must Be Doing Cocaine",
+            "release_date": "2019-11-15",
+            "genres": [
+                "alt z"
+            ],
+            "duration": 194756,
+            "acousticness": 0.392,
+            "danceability": 3.835,
+            "instrumentalness": 4.76e-06,
+            "liveness": 0.096,
+            "loudness": -9.333,
+            "speechiness": 0.0318,
+            "time_signature": 3,
+            "happiness": 2.062
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "Same Drugs",
+        "Artist": "Chance the Rapper",
+        "Key": "2B",
+        "Energy": 3.637,
+        "Popularity": 6.67,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Hip Hop",
+            "Pop",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "6m9qPYXmhge2QhBLfFKnVF",
+            "explicit": false,
+            "album": "Coloring Book",
+            "release_date": "2016-05-27",
+            "genres": [
+                "chicago rap",
+                "conscious hip hop",
+                "hip hop",
+                "pop rap",
+                "rap"
+            ],
+            "duration": 257775,
+            "acousticness": 0.947,
+            "danceability": 5.149,
+            "instrumentalness": 9.95e-06,
+            "liveness": 0.0936,
+            "loudness": -9.52,
+            "speechiness": 0.0555,
+            "time_signature": 4,
+            "happiness": 5.779
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "Amphetamine",
+        "Artist": "Sizzy Rocket",
+        "Key": "7B",
+        "Energy": 4.042,
+        "Popularity": 2.98,
+        "BPM": 144,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Rock",
+            "Inspiring",
+            "Mad",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3YjK9sHlJFnIkR9e44bQGK",
+            "explicit": false,
+            "album": "Amphetamine",
+            "release_date": "2017-03-22",
+            "genres": [
+                "alt z",
+                "indie poptimism"
+            ],
+            "duration": 239551,
+            "acousticness": 0.449,
+            "danceability": 6.346,
+            "instrumentalness": 5.82e-06,
+            "liveness": 0.0939,
+            "loudness": -10.535,
+            "speechiness": 0.0677,
+            "time_signature": 4,
+            "happiness": 2.296
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Rico Acid",
+        "Artist": "Emily Blue",
+        "Key": "11B",
+        "Energy": 3.952,
+        "Popularity": 2.62,
+        "BPM": 97,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "2kTo7adGCrDgeiSQ2UYrvo",
+            "explicit": false,
+            "album": "Blackberries // Rico Acid",
+            "release_date": "2017-04-07",
+            "genres": [],
+            "duration": 160731,
+            "acousticness": 0.00847,
+            "danceability": 7.093,
+            "instrumentalness": 0,
+            "liveness": 0.11,
+            "loudness": -9.107,
+            "speechiness": 0.076,
+            "time_signature": 3,
+            "happiness": 2.2600000000000002
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "Out of Drugs",
+        "Artist": "Kelsy Karter & The Heroines",
+        "Key": "8A",
+        "Energy": 5.698,
+        "Popularity": 3.79,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Rock",
+            "Mad",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "78cIBH9Y9rbkapeMs6QuPG",
+            "explicit": true,
+            "album": "Out of Drugs",
+            "release_date": "2017-08-28",
+            "genres": [
+                "alt z"
+            ],
+            "duration": 215614,
+            "acousticness": 0.137,
+            "danceability": 4.393,
+            "instrumentalness": 0,
+            "liveness": 0.0849,
+            "loudness": -5.511,
+            "speechiness": 0.0491,
+            "time_signature": 3,
+            "happiness": 4.276
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "Fergalicious",
+        "Artist": "Fergie, will.i.am",
+        "Key": "4A",
+        "Energy": 6.247,
+        "Popularity": 7.57,
+        "BPM": 129,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Dance Remixes",
+            "Pop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "1D066zixBwqFYqBhKgdPzp",
+            "explicit": true,
+            "album": "The Dutchess",
+            "release_date": "2006-09-13",
+            "genres": [
+                "dance pop",
+                "pop",
+                "dance pop",
+                "pop"
+            ],
+            "duration": 292373,
+            "acousticness": 0.0569,
+            "danceability": 9.154,
+            "instrumentalness": 0,
+            "liveness": 0.126,
+            "loudness": -7.721,
+            "speechiness": 0.317,
+            "time_signature": 4,
+            "happiness": 8.460999999999999
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "Sober Up",
+        "Artist": "Annika Bennett",
+        "Key": "9B",
+        "Energy": 6.2379999999999995,
+        "Popularity": 1.0,
+        "BPM": 93,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "6OX9zDATfJUXyWqvNZXITj",
+            "explicit": false,
+            "album": "Sober Up",
+            "release_date": "2020-08-28",
+            "genres": [
+                "nashville singer-songwriter"
+            ],
+            "duration": 194579,
+            "acousticness": 0.031,
+            "danceability": 6.255999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.0732,
+            "loudness": -7.19,
+            "speechiness": 0.0328,
+            "time_signature": 4,
+            "happiness": 5.536
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Sober",
+        "Artist": "Lorde",
+        "Key": "2B",
+        "Energy": 5.203,
+        "Popularity": 6.67,
+        "BPM": 108,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Club-Hotel",
+            "Inspiring",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "7eElVgPcxDqmgGrSwVFI74",
+            "explicit": true,
+            "album": "Melodrama",
+            "release_date": "2017-06-16",
+            "genres": [
+                "art pop",
+                "metropopolis",
+                "nz pop",
+                "pop"
+            ],
+            "duration": 197236,
+            "acousticness": 0.173,
+            "danceability": 8.164000000000001,
+            "instrumentalness": 0.00411,
+            "liveness": 0.126,
+            "loudness": -10.369,
+            "speechiness": 0.181,
+            "time_signature": 4,
+            "happiness": 5.644
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "Party In The U.S.A.",
+        "Artist": "Miley Cyrus",
+        "Key": "6A",
+        "Energy": 7.282,
+        "Popularity": 8.559999999999999,
+        "BPM": 96,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3E7dfMvvCLUddWissuqMwr",
+            "explicit": false,
+            "album": "The Time Of Our Lives (International Version)",
+            "release_date": "2009-01-01",
+            "genres": [
+                "pop"
+            ],
+            "duration": 202067,
+            "acousticness": 0.00112,
+            "danceability": 6.868,
+            "instrumentalness": 0.000115,
+            "liveness": 0.0886,
+            "loudness": -4.667,
+            "speechiness": 0.042,
+            "time_signature": 4,
+            "happiness": 5.2299999999999995
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Wishful Drinking",
+        "Artist": "Tessa Violet",
+        "Key": "9A",
+        "Energy": 4.15,
+        "Popularity": 5.7700000000000005,
+        "BPM": 68,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Rock",
+            "Inspiring",
+            "Mad",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0Pq9K4yZlPwjjRMeIkBCpg",
+            "explicit": false,
+            "album": "Bad Ideas",
+            "release_date": "2019-10-25",
+            "genres": [
+                "alt z",
+                "indie pop",
+                "pov: indie"
+            ],
+            "duration": 195110,
+            "acousticness": 0.549,
+            "danceability": 8.281,
+            "instrumentalness": 4.58e-06,
+            "liveness": 0.117,
+            "loudness": -7.818,
+            "speechiness": 0.305,
+            "time_signature": 4,
+            "happiness": 4.618
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "I Can't Stop Drinking About You",
+        "Artist": "Bebe Rexha",
+        "Key": "5A",
+        "Energy": 8.533,
+        "Popularity": 5.32,
+        "BPM": 144,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Dance Remixes",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "4ZPdnqOaT0kkrsl9ppWc1V",
+            "explicit": false,
+            "album": "I Can't Stop Drinking About You",
+            "release_date": "2014-04-29",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 216512,
+            "acousticness": 0.0444,
+            "danceability": 5.518,
+            "instrumentalness": 0,
+            "liveness": 0.101,
+            "loudness": -4.731,
+            "speechiness": 0.0448,
+            "time_signature": 4,
+            "happiness": 4.258
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "School Nights",
+        "Artist": "Chappell Roan",
+        "Key": "2A",
+        "Energy": 3.4930000000000003,
+        "Popularity": 4.779999999999999,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1EQ3XbVzPZfKxMjvx9UjBH",
+            "explicit": false,
+            "album": "School Nights",
+            "release_date": "2018-03-16",
+            "genres": [
+                "indie pop",
+                "springfield mo indie"
+            ],
+            "duration": 249237,
+            "acousticness": 0.895,
+            "danceability": 6.3549999999999995,
+            "instrumentalness": 0.000269,
+            "liveness": 0.114,
+            "loudness": -10.393,
+            "speechiness": 0.043,
+            "time_signature": 4,
+            "happiness": 3.394
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "This Is Why I'm Hot",
+        "Artist": "Kailee Morgue",
+        "Key": "4B",
+        "Energy": 8.92,
+        "Popularity": 5.7700000000000005,
+        "BPM": 81,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Rock",
+            "Mad",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0Wdti1sgfzx6f5XyBLmI0Z",
+            "explicit": true,
+            "album": "Here In Your Bedroom",
+            "release_date": "2020-04-24",
+            "genres": [
+                "alt z",
+                "dark pop"
+            ],
+            "duration": 127937,
+            "acousticness": 0.00034,
+            "danceability": 5.761,
+            "instrumentalness": 0.000326,
+            "liveness": 0.305,
+            "loudness": -3.274,
+            "speechiness": 0.0921,
+            "time_signature": 4,
+            "happiness": 9.1
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "Get Stoned",
+        "Artist": "Fionn",
+        "Key": "10B",
+        "Energy": 5.752000000000001,
+        "Popularity": 3.79,
+        "BPM": 138,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2QHrWdboLkciTUmpNl3h6P",
+            "explicit": false,
+            "album": "Get Stoned",
+            "release_date": "2019-11-08",
+            "genres": [],
+            "duration": 173939,
+            "acousticness": 0.108,
+            "danceability": 6.3999999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.336,
+            "loudness": -5.781,
+            "speechiness": 0.0435,
+            "time_signature": 4,
+            "happiness": 5.149
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "MODERATION",
+        "Artist": "Chloe Lilac",
+        "Key": "9B",
+        "Energy": 5.7700000000000005,
+        "Popularity": 4.33,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Rock",
+            "Mad"
+        ],
+        "Additional Info": {
+            "id": "5WFFr1fB8wTojNSDT2loVl",
+            "explicit": false,
+            "album": "DOUCHEBAG",
+            "release_date": "2020-08-28",
+            "genres": [
+                "alt z"
+            ],
+            "duration": 159880,
+            "acousticness": 0.00252,
+            "danceability": 5.59,
+            "instrumentalness": 0.000642,
+            "liveness": 0.224,
+            "loudness": -6.593,
+            "speechiness": 0.0464,
+            "time_signature": 4,
+            "happiness": 4.213
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "One More Weekend",
+        "Artist": "Maude Latour",
+        "Key": "5B",
+        "Energy": 6.084999999999999,
+        "Popularity": 6.49,
+        "BPM": 131,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Rock",
+            "Inspiring",
+            "Mad",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "19YOJKCVvOL7v6B2Oe3UBc",
+            "explicit": false,
+            "album": "One More Weekend",
+            "release_date": "2020-07-24",
+            "genres": [
+                "alt z",
+                "indie pop",
+                "nyc pop"
+            ],
+            "duration": 142830,
+            "acousticness": 0.537,
+            "danceability": 6.643,
+            "instrumentalness": 0,
+            "liveness": 0.214,
+            "loudness": -6.922,
+            "speechiness": 0.122,
+            "time_signature": 3,
+            "happiness": 5.626
+        }
+    }
+]

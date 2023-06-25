@@ -55,6 +55,8 @@ var URLS = [
   `${GHPATH}/data/collections/manifest.json`,
   `${GHPATH}/data/collections/SpotifyCollectionMerge 21Jun2023.json`,
   `${GHPATH}/data/collections/DTRacks All 1200 DTracks.json`,
+  `${GHPATH}/data/collections/Sp- 4July.json`,
+  `${GHPATH}/data/collections/Sp- College Party.json`,
 
   
   "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@100;200;300;400;600;700;900&display=swap"
