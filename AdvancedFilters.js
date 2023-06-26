@@ -345,7 +345,6 @@ export default class AdvancedFilters {
 
     userUpdatedKeyRange(keyRangeData){
         this.data_keyRange = keyRangeData;
-        console.log("AdvancedFilters.userUpdatedKeyRange " + keyRangeData);
         this.songManager.setKeyRange(keyRangeData);
         
  

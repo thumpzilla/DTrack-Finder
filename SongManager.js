@@ -1,5 +1,5 @@
 import Song from './Song.js'
-import { showToast } from './Utils.js'; // Make sure to import the showToast function
+import { showToast, KEYS_LOGIC } from './Utils.js'; // Make sure to import the showToast function
 import SongListItemUI from './SongList_UI.js';
 
 export default class SongManager {
@@ -177,7 +177,7 @@ export default class SongManager {
             //and update it obviously
             this.bpmRange = bpmRange;
         }
-        this.updateSongList();
+        this.#updateSongList();
     }
 
 
@@ -192,7 +192,7 @@ export default class SongManager {
             //and update it obviously
             this.keyRange = keyRange;
         }
-        this.updateSongList();
+        this.#updateSongList();
     }
 
     applyTagsFilterToSongs(filterUsSongs){
@@ -232,17 +232,21 @@ export default class SongManager {
         }
 
         this.activeTags = tags;
-        this.updateSongList();
+        this.#updateSongList();
         
         // and if we added, we can just filter more deeply into the current collection
     }
 
 
     // __________________________________ Tags __________________________________ END
-
+    updateTracksSorting(energy = KEYS_LOGIC.DEFAULT_ENERGY, popularity= KEYS_LOGIC.DEFAULT_POPULARITY){
+        this.current_energy = energy;
+        this.current_popularity = popularity;
+        this.#updateSongList(energy, popularity);
+    }
 
     // Update the song list based on the current BPM range
-    updateSongList(energy = 9, popularity = 9) {
+    #updateSongList() {
         /* NOTE THAT THE DEFAULT canvas drawing of Energy=4 and Popularity=8 Are in GraphManager2D.initializeDefaultSelection*/
         // Clear the existing song list
         while (this.listOfSongs_UI.firstChild) {
@@ -261,13 +265,13 @@ export default class SongManager {
         this.songTextInSummaryObject.innerText = `${newSongList.length} results`;
 
         // Update the text
-        this.energySpan.innerText = `${Math.round(energy)}`;
-        this.popularitySpan.innerText = `${Math.round(popularity)}`;
+        this.energySpan.innerText = `${Math.round(this.current_energy)}`;
+        this.popularitySpan.innerText = `${Math.round(this.current_popularity)}`;
 
         // _________________________________ TEXT REPLACE __________________________________ END
         // Sort songs based on their distance to the selected point
 
-        this.currentSortedSongs = this.sortByProximity(energy, popularity, newSongList);
+        this.currentSortedSongs = this.sortByProximity(this.current_energy, this.current_popularity, newSongList);
 
         // Display sorted songs (only first 5)
         this.currentSortedSongs.slice(0,30).forEach((song, index) => {
@@ -369,7 +373,5 @@ export default class SongManager {
         this.sortTextInSummaryObject.appendChild(this.popularityImage);
         this.sortTextInSummaryObject.appendChild(this.popularitySpan);
     }
-
-
 
 } 

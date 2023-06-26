@@ -95,3 +95,8 @@ export function removeSubStringFromString(mainString, subStringsToRemove) {
 
     return resultString;
 }
+
+export const KEYS_LOGIC = {
+    DEFAULT_ENERGY : 9, 
+    DEFAULT_POPULARITY: 9,
+}

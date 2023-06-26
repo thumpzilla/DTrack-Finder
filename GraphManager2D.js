@@ -1,4 +1,5 @@
 import songManager from './SongManager.js' 
+import { KEYS_LOGIC } from './Utils.js';
 export default class GraphManager {
     constructor() {
         this.canvas = document.getElementById('musicGraph');
@@ -113,7 +114,7 @@ export default class GraphManager {
 
         // this.drawDot(x, y); // Draw the new dot
 
-        songManager.updateSongList(energy, popularity);
+        songManager.updateTracksSorting(energy, popularity);
     }
     
     initializeInteraction(songManager) {
@@ -142,7 +143,7 @@ export default class GraphManager {
         }, { passive: false }); // Enable preventDefault in passive event listener
     
         this.canvas.addEventListener('click', (event) => this.handleClick(event, songManager));
-        this.mockClick(9, 9); // As set in SongManager.updateSongList()
+        this.mockClick(KEYS_LOGIC.DEFAULT_ENERGY, KEYS_LOGIC.DEFAULT_POPULARITY); 
 
         // this.initializeDefaultSelection();
     }
