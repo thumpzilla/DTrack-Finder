@@ -1,7 +1,7 @@
 {
-  "name": "DTrack Music Selector",
-  "short_name": "DTrack finder",
-  "description": "Find the best song based on energy, popularity, genres and more - fast!",
+  "name": "DTrack Finder - Find the Right Song for the Right Time",
+  "short_name": "DTrack Finder",
+  "description": "Find the best song based on energy, popularity, genres and more - instantly!",
   "scope": "/DTrack-Finder/",
   "start_url": "/DTrack-Finder/",
   "background_color": "#0A0C3D",
