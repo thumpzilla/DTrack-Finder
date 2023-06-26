@@ -125,15 +125,15 @@ export default class AdvancedFilters {
                                 return
                             }
                             if (key){
-                                key = removeSubStringFromString(key, ["TXXX"])
+                                key = removeSubStringFromString(key, ["TXXX", "RVA2"])
                                 this.keySlider.setValues(key);
                                 this.setKeyFilterUIToActive();
-                                this.songManager.setKeyRange(false);
                             }
                             else{
                                 this.setKeyFilterUIToNOTActive();
                                 this.keySlider.setDisable(true);
                                 key = 'All'
+
                             }
                             if (bpm){
                                 bpm = removeSubStringFromString(bpm, ["GEOB","COMM"])
@@ -344,9 +344,11 @@ export default class AdvancedFilters {
     }
 
     userUpdatedKeyRange(keyRangeData){
+        this.data_keyRange = keyRangeData;
+        console.log("AdvancedFilters.userUpdatedKeyRange " + keyRangeData);
         this.songManager.setKeyRange(keyRangeData);
         
-        this.data_keyRange = keyRangeData;
+ 
 
         // this.keyTextInSummaryObject.style.fontSize = '1rem';  // set the font size
         this.keyTextInSummaryObject.innerText = '[ ' + this.data_keyRange + ' ]' ;

@@ -26,26 +26,26 @@ export default class KeySlider {
     }
 
     setValues(value) {
-      let key = value;
-      // Check if the key is in musical key format
-      if (!this.isCamelotKey(key)) {
-        key = this.convertToCamelot(key);
-      }
-  
-      // Parse the Camelot key
-      console.log(key);
-      const camelotKeyMatch = key.match(/^(\d+)([A,B])$/);
-      if (!camelotKeyMatch) {
-        console.error(`Invalid Camelot key: ${key}`);
-        return;
-      }
-  
-      const [, number, letter] = camelotKeyMatch;
-      this.currentValue = Number(number);
-      this.currentKey = letter;
-  
-      // Update the UI to reflect the new values
-      this.updateUI();
+        let key = value;
+        // Check if the key is in musical key format
+        if (!this.isCamelotKey(key)) {
+            key = this.convertToCamelot(key);
+        }
+    
+        // Parse the Camelot key
+        console.log(key);
+        const camelotKeyMatch = key.match(/^(\d+)([A,B])$/);
+        if (!camelotKeyMatch) {
+            console.error(`Invalid Camelot key: ${key}`);
+            return;
+        }
+    
+        const [, number, letter] = camelotKeyMatch;
+        this.currentValue = Number(number);
+        this.currentKey = letter;
+    
+        // Update the UI to reflect the new values
+        this.updateUI();
     }
   
     isMusicalKey(key) {
@@ -219,6 +219,7 @@ export default class KeySlider {
         // Update logic 
         // Update summaryView
         this.advancedFilters.userUpdatedKeyRange(fitting_keys_values);
+
         this.updateCurrentValue(this.currentValue);
         this.updateThumbPosition(this.currentValue);
         this.updateValuePosition();

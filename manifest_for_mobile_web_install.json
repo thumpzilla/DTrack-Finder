@@ -4,9 +4,9 @@
   "description": "Find the best song based on energy, popularity, genres and more - fast!",
   "scope": "/DTrack-Finder/",
   "start_url": "/DTrack-Finder/",
-  "background_color": "#8639DB",
+  "background_color": "#0A0C3D",
   "display": "standalone",
-  "theme_color": "#6C4BF3",
+  "theme_color": "#0A0C3D",
   "icons": [
     {
       "src": "/DTrack-Finder/images/output_192.png",
