@@ -227,7 +227,7 @@ export default class AdvancedFilters {
     setBpmFilterUIToNOTActive(){
         this.bpmSlider.setDisable(true);
         this.bpmImageElement.src =  'images/drum-bpm.svg';
-        this.bpmTextInSummaryObject.innerText = 'BPM filter'
+        this.bpmTextInSummaryObject.innerText = 'BPM Filter'
         this.bpmTextInSummaryObject.style.fontSize = '0.9rem';  // set the font size
         this.isBpmFilterActive = false;
 

@@ -110,58 +110,96 @@ export default class SongListItemUI {
        
         // Adding Additional Info
         if(this.song.additional_info) {
-            
-            const additionalInfoDiv = document.createElement('div');
-            additionalInfoDiv.className = 'song-additional-info';
-            additionalInfoDiv.style.marginTop = '0.6rem'; // Adding space from top
-
-            if (this.song.additional_info.id) {
-                const spotifyLink = this.createSpotifyLink();
-                additionalInfoDiv.appendChild(spotifyLink);
-                additionalInfoDiv.appendChild(spotifyLink);
-              }
-            const releaseDateDiv = document.createElement('div');
-            releaseDateDiv.textContent = `Release Date: ${this.song.additional_info.release_date}`;
-            releaseDateDiv.style.fontSize = '0.9rem'; // Decreasing text size
-            releaseDateDiv.style.marginBottom = '0.2rem'; // Center items vertically in the container
-            additionalInfoDiv.appendChild(releaseDateDiv);
-    
-            const genresDiv = document.createElement('div');
-            genresDiv.textContent = `Sub-genres: ${this.song.additional_info.genres.join(' | ')}`;
-            genresDiv.style.fontSize = '0.9rem'; // Decreasing text size
-            genresDiv.style.marginBottom = '0.2rem'; // Center items vertically in the container
-
-            additionalInfoDiv.appendChild(genresDiv);
-    
-            const happinessDiv = document.createElement('div');
-            happinessDiv.textContent = `Happiness: ${Math.round(this.song.additional_info.happiness)}`;
-            happinessDiv.style.fontSize = '0.9rem'; // Decreasing text size
-            happinessDiv.style.marginBottom = '0.2rem'; // Center items vertically in the container
-
-            additionalInfoDiv.appendChild(happinessDiv);
-    
-            const danceabilityDiv = document.createElement('div');
-            danceabilityDiv.textContent = `Danceability: ${Math.round(this.song.additional_info.danceability)}`;
-            danceabilityDiv.style.fontSize = '0.9rem'; // Decreasing text size
-            danceabilityDiv.style.marginBottom = '0.2rem'; // Center items vertically in the container
-
-            additionalInfoDiv.appendChild(danceabilityDiv);
-    
-
-            const isExplicitText = this.song.additional_info.explicit ? 'Explicit' : 'Clean';
-            const explicitDiv = document.createElement('div');
-            explicitDiv.textContent = `Language: ${isExplicitText}`;
-            explicitDiv.style.fontSize = '0.9rem'; // Decreasing text size
-            additionalInfoDiv.appendChild(explicitDiv);
-    
-
-              detailsContainer.appendChild(additionalInfoDiv);
+            let additionalInfoDiv;
+            if (this.song.myTags.includes('DSet')) {
+                additionalInfoDiv = this.createDSetExpandedView();
+            } else {
+                additionalInfoDiv = this.createSpotifyExpandedView();
             }
+            detailsContainer.appendChild(additionalInfoDiv);
+        }
+        
             
     
         listItem.appendChild(detailsContainer);
     
         return listItem;
+    }
+
+    createDSetExpandedView() {
+        const additionalInfoDiv = document.createElement('div');
+        additionalInfoDiv.className = 'dset-additional-info';
+        additionalInfoDiv.style.marginTop = '0.6rem'; // Adding space from top
+    
+        if (this.song.additional_info.link) {
+            const dsetLink = document.createElement('a');
+            dsetLink.href = this.song.additional_info.link;
+            dsetLink.textContent = 'Watch DSet';
+            additionalInfoDiv.appendChild(dsetLink);
+        }
+        
+        const viewCountDiv = document.createElement('div');
+        viewCountDiv.textContent = `View Count: ${this.song.additional_info.viewcount}`;
+        viewCountDiv.style.fontSize = '0.9rem'; // Decreasing text size
+        viewCountDiv.style.marginBottom = '0.2rem'; // Center items vertically in the container
+        additionalInfoDiv.appendChild(viewCountDiv);
+    
+        const videoLengthDiv = document.createElement('div');
+        videoLengthDiv.textContent = `Video Length: ${this.song.additional_info.videolength} seconds`;
+        videoLengthDiv.style.fontSize = '0.9rem'; // Decreasing text size
+        videoLengthDiv.style.marginBottom = '0.2rem'; // Center items vertically in the container
+        additionalInfoDiv.appendChild(videoLengthDiv);
+    
+        const dateReleasedDiv = document.createElement('div');
+        dateReleasedDiv.textContent = `Date Released: ${this.song.additional_info.dateReleased}`;
+        dateReleasedDiv.style.fontSize = '0.9rem'; // Decreasing text size
+        dateReleasedDiv.style.marginBottom = '0.2rem'; // Center items vertically in the container
+        additionalInfoDiv.appendChild(dateReleasedDiv);
+    
+        return additionalInfoDiv;
+    }
+    createSpotifyExpandedView() {
+        const additionalInfoDiv = document.createElement('div');
+        additionalInfoDiv.className = 'song-additional-info';
+        additionalInfoDiv.style.marginTop = '0.6rem'; // Adding space from top
+    
+        if (this.song.additional_info.id) {
+            const spotifyLink = this.createSpotifyLink();
+            additionalInfoDiv.appendChild(spotifyLink);
+            additionalInfoDiv.appendChild(spotifyLink);
+        }
+        
+        const releaseDateDiv = document.createElement('div');
+        releaseDateDiv.textContent = `Release Date: ${this.song.additional_info.release_date}`;
+        releaseDateDiv.style.fontSize = '0.9rem'; // Decreasing text size
+        releaseDateDiv.style.marginBottom = '0.2rem'; // Center items vertically in the container
+        additionalInfoDiv.appendChild(releaseDateDiv);
+    
+        const genresDiv = document.createElement('div');
+        genresDiv.textContent = `Sub-genres: ${this.song.additional_info.genres.join(' | ')}`;
+        genresDiv.style.fontSize = '0.9rem'; // Decreasing text size
+        genresDiv.style.marginBottom = '0.2rem'; // Center items vertically in the container
+        additionalInfoDiv.appendChild(genresDiv);
+    
+        const happinessDiv = document.createElement('div');
+        happinessDiv.textContent = `Happiness: ${Math.round(this.song.additional_info.happiness)}`;
+        happinessDiv.style.fontSize = '0.9rem'; // Decreasing text size
+        happinessDiv.style.marginBottom = '0.2rem'; // Center items vertically in the container
+        additionalInfoDiv.appendChild(happinessDiv);
+    
+        const danceabilityDiv = document.createElement('div');
+        danceabilityDiv.textContent = `Danceability: ${Math.round(this.song.additional_info.danceability)}`;
+        danceabilityDiv.style.fontSize = '0.9rem'; // Decreasing text size
+        danceabilityDiv.style.marginBottom = '0.2rem'; // Center items vertically in the container
+        additionalInfoDiv.appendChild(danceabilityDiv);
+    
+        const isExplicitText = this.song.additional_info.explicit ? 'Explicit' : 'Clean';
+        const explicitDiv = document.createElement('div');
+        explicitDiv.textContent = `Language: ${isExplicitText}`;
+        explicitDiv.style.fontSize = '0.9rem'; // Decreasing text size
+        additionalInfoDiv.appendChild(explicitDiv);
+    
+        return additionalInfoDiv;
     }
     
 

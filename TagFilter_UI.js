@@ -23,7 +23,7 @@ export default class TagFilter {
                 
             ],
             'Collections': [
-                "DTracks", "Sp- Sing-Along", "Sp- Kids Party", "Sp- Bach Party", "Sp- Workout",
+                "DTracks", "DSet" ,"Sp- Sing-Along", "Sp- Kids Party", "Sp- Bach Party", "Sp- Workout",
                 "Sp- Bach Israel", "Sp- Wedding", "Sp- PsyTrance", "Sp- Nostalgic", "Sp- Party by Eras", "Sp- 4July", "Sp- College Party",
             ],
 
