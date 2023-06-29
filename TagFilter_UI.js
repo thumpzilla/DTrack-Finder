@@ -4,8 +4,8 @@ export default class TagFilter {
     constructor(songManager) {
         this.tagWCategories = {
             'Hot':  [
-                "Sp- 4July", "70s", "80s", "90s", "2000s", "2010s", "2020s", "Pop", "Rock", "EDM", "Latin",
-                "Psy-Trance", "Nostalgic", "Wedding", "Sp- Bach Party",
+                "70s", "80s", "90s", "2000s", "2010s", "2020s", "Pop", "Rock", "EDM", "Latin",
+                "Psy-Trance", "Nostalgic", "Wedding", "Sp- Bach Party", "Sp- 4July",
                 // "Happy", "Fool Around", "Sing", "Pool", "Sexy", "Club", "EDM", "Hip Hop", "Latin",
                 // "Dance Remixes" , "Pop", "Jump", "PEGI 4 [Age]", "Wedding", "Flying High"
             ], 
@@ -35,7 +35,7 @@ export default class TagFilter {
         };
         this.twoDSelector = document.getElementById('2dSelector'); // style.display - 'block' or 'none'
         this.songManager = songManager;
-        this.activeTags = ["Sp- 4July", "2010s"]; // Default active tags
+        this.activeTags = ["DSet"]; // Default active tags
 
 
         this.filterElement = document.getElementById('tags-filtering-div');

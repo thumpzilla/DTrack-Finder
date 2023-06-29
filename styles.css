@@ -139,11 +139,43 @@ canvas {
     margin-bottom: 0.1rem;
     overflow: hidden;
 }
+.dset-title {
+  background: linear-gradient(#B145AC ,#FD92C0, #B145AC);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.dset-thumbnail{
+  background-color: #3A41A3;
+}
+
 
 .song-artist {
     font-size: 0.784rem;
     font-weight: 300; /* Light/thin weight */
 }
+
+.dset-artist {
+  font-weight: 400 ;
+}
+.dset-tag {
+  margin: 0.1rem 0.3rem 0.2rem 0rem;
+  border-radius: 0.5rem !important;
+  background-color: #03063d36;
+  color: #f5f5f7;
+  padding: 0.3rem 0.4rem !important;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: inline-block;
+  font-size: small;
+  font-weight: 700;
+  z-index: 3;
+  position: relative;
+
+  
+}
+
 
 .song-rating {
     margin-top: 0.5rem;
@@ -630,6 +662,11 @@ li:hover {
 .song-details .copy-button {
     margin-left: 1rem;
 }
+
+
+/* _______________________ Copy BTN ___________________ END*/
+
+
 /* _______________________ Toast ___________________ Start*/
 .toast {
     position: absolute;  /* change from fixed to absolute */

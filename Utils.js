@@ -1,5 +1,14 @@
 import Song from './Song.js'
 
+
+export const KEYS_LOGIC = {
+    DEFAULT_ENERGY : 9, 
+    DEFAULT_POPULARITY: 9,
+}
+
+export const KEYS_UI = {
+    SHADOW_OVER_VIDEO_TUMBNAIL_PERCENT: 40
+}
 export function generateRandomFloats(amountOfNumbers, minValue, maxValue) {
     const floats = [];
 
@@ -96,7 +105,48 @@ export function removeSubStringFromString(mainString, subStringsToRemove) {
     return resultString;
 }
 
-export const KEYS_LOGIC = {
-    DEFAULT_ENERGY : 9, 
-    DEFAULT_POPULARITY: 9,
-}
+export function formatSecondsToMinutes(seconds) {
+    const minutes = Math.floor(seconds / 60);
+    const remainingSeconds = seconds % 60;
+    const formattedMinutes = String(minutes).padStart(2, '0');
+    const formattedSeconds = String(remainingSeconds).padStart(2, '0');
+    return `${formattedMinutes}:${formattedSeconds}`;
+  }
+
+export function formatViewCountNumber(n) {
+    /*
+    console.log(formatNumber(70)); // Output: "70"
+    console.log(formatNumber(950)); // Output: "1,000"
+    console.log(formatNumber(47211)); // Output: "47k"
+    console.log(formatNumber(600444)); // Output: "600k"
+    console.log(formatNumber(1533000)); // Output: "1.5M"
+    console.log(formatNumber(21599999)); // Output: "21.6M"
+ */
+    n = typeof n === "string" ? parseInt(n) : n;
+    if (isNaN(n)) {
+        return "Input is not a number";
+    }
+
+    if (n < 1000) {
+        return n.toString();
+    } else if (n < 1000000) {
+        return (n / 1000).toFixed(0) + "k";
+    } else {
+        return (n / 1000000).toFixed(2) + "M";
+    }
+  }
+
+export function formatMonthYear(date) {
+    /*
+    console.log(formatMonthYear('11/11/2022')); // Output: Nov2022
+    console.log(formatMonthYear('28/5/2001'));  // Output: May2001
+    */
+    console.log("Utils.formatMonthYear" + date);
+    const [year, month, day] = date.split('-');
+    const months = [
+      'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
+      'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'
+    ];
+    
+    return `${months[parseInt(month) - 1]}${year}`;
+  }

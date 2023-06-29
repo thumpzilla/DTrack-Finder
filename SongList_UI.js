@@ -1,5 +1,5 @@
 import  Song from './Song.js'
-import { showToast } from './Utils.js'
+import { showToast, formatSecondsToMinutes, formatViewCountNumber, formatMonthYear, KEYS_UI} from './Utils.js'
 
 
 export default class SongListItemUI {
@@ -18,11 +18,19 @@ export default class SongListItemUI {
         const title = document.createElement('div');
         title.className = 'song-title';
         title.textContent = `${this.song.trackTitle}`;
+        // means this is youtube dset
+        if (this.song.myTags.includes('DSet')){
+            title.classList.add('dset-title');
+        }
         leftContainer.appendChild(title);
     
         const artist = document.createElement('div');
         artist.className = 'song-artist';
         artist.textContent = `${this.song.artist}`;
+        // means this is youtube dset
+        if (this.song.myTags.includes('DSet')){
+            artist.classList.add('dset-artist');
+        }
         leftContainer.appendChild(artist);
         container.appendChild(leftContainer);
 
@@ -33,57 +41,6 @@ export default class SongListItemUI {
         listItem.dataset.song = JSON.stringify(this.song);
         return listItem;
     }
-
-
-    createSpotifyLink() {
-        const spotifyLink = document.createElement('a');
-        spotifyLink.alignItems = 'center';
-        spotifyLink.href = `https://open.spotify.com/track/${this.song.additional_info.id}`;
-        spotifyLink.style.fontSize = '1rem'; // Keeping text size consistent
-        spotifyLink.style.fontWeight = '700';
-        spotifyLink.style.color = '#09AD72'; // Change the color to blue (or any other desired color)
-        spotifyLink.style.textDecoration = 'none'; // Remove underline from text
-        spotifyLink.style.display = 'flex'; // Align items along a row
-        spotifyLink.style.alignItems = 'center'; // Center items vertically in the container
-        spotifyLink.style.marginBottom = '1rem'; // Center items vertically in the container
-
-    
-        const spotifyIcon = document.createElement('img');
-        spotifyIcon.src = 'images/colored/Spotify-colored.svg';
-        spotifyIcon.alt = 'Play on Spotify';
-        spotifyIcon.style.marginLeft = '1rem'; // Add some spacing between the SVG and the text
-
-        spotifyIcon.style.width = '1.5rem'; // Set the width of the SVG image
-    
-        const playNowText = document.createElement('span');
-        playNowText.textContent = 'Play Now';
-        spotifyLink.appendChild(playNowText);
-        spotifyLink.appendChild(spotifyIcon);
-
-    
-        spotifyLink.addEventListener('click', (e) => {
-            // Get user's preference from local storage
-            let openInApp = localStorage.getItem('openInApp');
-            
-            // If user's preference is not saved yet, ask for it
-            if (openInApp === null) {
-                openInApp = confirm('Do you want to open the link in the Spotify app?');
-                // Save user's preference to local storage
-                localStorage.setItem('openInApp', openInApp);
-            }
-    
-            if (openInApp === 'true') {
-                e.preventDefault();
-                spotifyLink.href = `spotify:track:${this.song.additional_info.id}`;
-                window.location.href = spotifyLink.href;
-            } else {
-                spotifyLink.target = '_blank'; // Open link in a new tab
-            }
-        });
-    
-        return spotifyLink;
-    }
-
 
     createExpandedState(listItem) {
         const detailsContainer = document.createElement('div');
@@ -98,19 +55,33 @@ export default class SongListItemUI {
         }
     
         // Tags
-        const tagNames = [
-            { icon: 'images/colored/drum-colored.svg', text: this.song.bpm },
-            { icon: 'images/colored/sound_note-colored.svg', text: this.song.key },
-            { icon: 'images/colored/energy-colored.svg', text: this.song.energy },
+        // means this is youtube dset
+        let tagNames = []; // let instead of const here
+        if (this.song.myTags.includes('DSet')) {
+            tagNames = [ // no const here
+            { icon: 'images/colored/calendar-colored.svg', text: formatMonthYear(this.song.additional_info.dateReleased) },
+            { icon: 'images/colored/clock-colored.svg', text: formatSecondsToMinutes(this.song.additional_info.videolength) },
             { icon: 'images/colored/Popular-trendy-colored.svg', text: this.song.popularity },
-            { icon: 'images/colored/play-colored.svg', text: this.song.djPlayCount }
-        ];
+            { icon: 'images/colored/energy-colored.svg', text: this.song.energy },
+            { icon: 'images/colored/drum-colored.svg', text: this.song.bpm }
+              
+            ];
+        }
+        else{
+            tagNames = [ // no const here
+                { icon: 'images/colored/drum-colored.svg', text: this.song.bpm },
+                { icon: 'images/colored/sound_note-colored.svg', text: this.song.key },
+                { icon: 'images/colored/energy-colored.svg', text: this.song.energy },
+                { icon: 'images/colored/Popular-trendy-colored.svg', text: this.song.popularity },
+                { icon: 'images/colored/play-colored.svg', text: this.song.djPlayCount }
+            ];
+        }
         const tagsContainer = this.createUIListOfTags(tagNames);
         detailsContainer.appendChild(tagsContainer);
-       
         // Adding Additional Info
         if(this.song.additional_info) {
             let additionalInfoDiv;
+            // means this is youtube dset
             if (this.song.myTags.includes('DSet')) {
                 additionalInfoDiv = this.createDSetExpandedView();
             } else {
@@ -118,54 +89,123 @@ export default class SongListItemUI {
             }
             detailsContainer.appendChild(additionalInfoDiv);
         }
-        
-            
-    
         listItem.appendChild(detailsContainer);
     
         return listItem;
     }
 
+
+
+    setBackgroundThumbnailWGradient(additionalInfoDiv) {
+    try {
+        // Get the thumbnail url
+        const thumbnailUrl = this.getThumbnailUrl();
+            
+        // Set the thumbnail as the background
+        additionalInfoDiv.style.backgroundImage = `url(${thumbnailUrl})`;
+        additionalInfoDiv.style.backgroundSize = 'cover'; // Make sure the image covers the full div
+        additionalInfoDiv.style.backgroundPosition = 'center'; // Center the image within the div
+        additionalInfoDiv.style.zIndex = '1'; // Image has lowest z-index
+
+        // Set position relative on the parent element
+        additionalInfoDiv.style.position = 'relative';
+
+        // Create pseudo-element for the overlay
+        additionalInfoDiv.setAttribute('id', 'dset-info-overlay');
+        const style = document.createElement('style');
+        
+        style.innerHTML = `
+            #dset-info-overlay::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 70%; // preserve the 30% width
+            bottom: 0; // ensure it doesn't overflow its container
+            max-width: 33%;
+            min-width: 15rem;
+            height: 100%;
+            background-color: #222F3E;
+            opacity: 0.8;
+            border-radius: 0 4rem 4rem 0;
+            z-index: 2; // Overlay has second highest z-index
+            }
+        `;
+        document.head.appendChild(style);
+    } catch (error) {
+        console.error('An error occurred while setting the background thumbnail:', error);
+    }
+    }
+
+    createTagElement(tagText) {
+        const tagElement = document.createElement('div');
+        tagElement.className = 'dset-tag'; // Apply the CSS class
+        tagElement.textContent = tagText; // Set tag text
+        return tagElement;
+    }
+
     createDSetExpandedView() {
         const additionalInfoDiv = document.createElement('div');
         additionalInfoDiv.className = 'dset-additional-info';
-        additionalInfoDiv.style.marginTop = '0.6rem'; // Adding space from top
-    
-        if (this.song.additional_info.link) {
-            const dsetLink = document.createElement('a');
-            dsetLink.href = this.song.additional_info.link;
-            dsetLink.textContent = 'Watch DSet';
-            additionalInfoDiv.appendChild(dsetLink);
+        additionalInfoDiv.style.marginTop = '3rem'; // Adding space from top
+        const dsetLink = this.createYoutubeLink();
+        additionalInfoDiv.appendChild(dsetLink);
+        this.setBackgroundThumbnailWGradient(additionalInfoDiv);
+        
+        const tagsDict = {
+            "occasion": ['Workout', 'Bach party', 'Victory Celebration', 'Birthday', 'Wedding', 'Vacation - Freedom', 'Kids Party', 'Corporate Event', 'College Party', '4July'],
+            "listenerEngagement": ['Sing Along', 'Dance', 'Jump', 'Cheer Competitors', 'Relaxing', 'Background', 'Workout'],
+            "genres": ['Pop', 'EDM', 'Hip Hop', 'Reggaeton', 'Rock', 'Tribal', 'Club-Hotel', 'Psy-Trance', 'Israeli - Kibutz', 'Mizrahit', 'Nostalgic', 'Calm Cover', 'Remake/Edit', 'Dance Remixes']
         }
+    
+           // Loop over each category in the tags dictionary
+    for (let [category, tagsList] of Object.entries(tagsDict)) {
+        const matchedTags = this.song.myTags.filter(tag => tagsList.includes(tag));
+        if (matchedTags.length > 0) {
+            const categoryDiv = document.createElement('div');
+            categoryDiv.textContent = `${category}:`;
+            categoryDiv.style.fontSize = '0.8rem'; // Decreasing text size
+            categoryDiv.style.fontWeight = '600'; // Decreasing text size
+
+            categoryDiv.style.marginBottom = '0.2rem'; // Center items vertically in the container
+            additionalInfoDiv.appendChild(categoryDiv);
+
+            // Container for tags
+            const tagsContainerDiv = document.createElement('div');
+            tagsContainerDiv.style.maxWidth = '33%'; // Set max width
+            tagsContainerDiv.style.minWidth = '15rem'; // Ensure minimum width
+
+            tagsContainerDiv.style.overflow = 'hidden'; // Hide overflow content
+            
+            // tagsContainerDiv.style.whiteSpace = 'nowrap'; // show only the first line
+
+            // Create UI for each tag
+            for(let tag of matchedTags) {
+                const tagElement = this.createTagElement(tag);
+                tagsContainerDiv.appendChild(tagElement);
+            }
+
+            additionalInfoDiv.appendChild(tagsContainerDiv);
+        }
+    }
         
         const viewCountDiv = document.createElement('div');
-        viewCountDiv.textContent = `View Count: ${this.song.additional_info.viewcount}`;
+        const viewCountEasyRead = formatViewCountNumber(this.song.additional_info.viewcount)
+        viewCountDiv.textContent = `Views: ${viewCountEasyRead}`;
         viewCountDiv.style.fontSize = '0.9rem'; // Decreasing text size
         viewCountDiv.style.marginBottom = '0.2rem'; // Center items vertically in the container
         additionalInfoDiv.appendChild(viewCountDiv);
-    
-        const videoLengthDiv = document.createElement('div');
-        videoLengthDiv.textContent = `Video Length: ${this.song.additional_info.videolength} seconds`;
-        videoLengthDiv.style.fontSize = '0.9rem'; // Decreasing text size
-        videoLengthDiv.style.marginBottom = '0.2rem'; // Center items vertically in the container
-        additionalInfoDiv.appendChild(videoLengthDiv);
-    
-        const dateReleasedDiv = document.createElement('div');
-        dateReleasedDiv.textContent = `Date Released: ${this.song.additional_info.dateReleased}`;
-        dateReleasedDiv.style.fontSize = '0.9rem'; // Decreasing text size
-        dateReleasedDiv.style.marginBottom = '0.2rem'; // Center items vertically in the container
-        additionalInfoDiv.appendChild(dateReleasedDiv);
-    
         return additionalInfoDiv;
     }
+
+
     createSpotifyExpandedView() {
         const additionalInfoDiv = document.createElement('div');
         additionalInfoDiv.className = 'song-additional-info';
         additionalInfoDiv.style.marginTop = '0.6rem'; // Adding space from top
-    
+        // If it has spotify Link
         if (this.song.additional_info.id) {
             const spotifyLink = this.createSpotifyLink();
-            additionalInfoDiv.appendChild(spotifyLink);
             additionalInfoDiv.appendChild(spotifyLink);
         }
         
@@ -201,7 +241,7 @@ export default class SongListItemUI {
     
         return additionalInfoDiv;
     }
-    
+
 
     createCopyButton() {
         const copyButton = document.createElement('button');
@@ -229,6 +269,136 @@ export default class SongListItemUI {
         return copyButton;
     }
 
+    getThumbnailUrl() {
+        const youtubeVideoId = this.song.additional_info.link.split('v=')[1].substring(0, 11);
+        return `https://img.youtube.com/vi/${youtubeVideoId}/0.jpg`;
+    }
+
+
+
+    createYoutubeLink() {
+        const youtubeLink = document.createElement('a');
+        youtubeLink.alignItems = 'center';
+        youtubeLink.target = '_blank'; // This should be set here
+        console.log("SongListUI.createYoutubeLink - the link is" + this.song.additional_info.link);
+        // Extract the YouTube video ID from the link
+        const youtubeVideoId = this.song.additional_info.link.split('v=')[1].substring(0, 11);
+    
+        youtubeLink.href = `https://www.youtube.com/watch?v=${youtubeVideoId}`;
+        youtubeLink.style.fontSize = '1rem'; // Keeping text size consistent
+        youtubeLink.style.fontWeight = '700';
+        youtubeLink.style.color = '#FA1B71'; // Change the color to red (the color of YouTube)
+        youtubeLink.style.textDecoration = 'none'; // Remove underline from text
+        youtubeLink.style.display = 'flex'; // Align items along a row
+        youtubeLink.style.alignItems = 'center'; // Center items vertically in the container
+        // youtubeLink.style.marginBottom = '1.5rem'; // Add some space below the link
+        // youtubeLink.style.marginTop = '2.5rem'; // Add some space below the link
+        youtubeLink.style.position = 'absolute'; // Set position to relative
+        youtubeLink.style.transform = 'translateY(-2.5rem)';
+
+        youtubeLink.style.zIndex = '3';
+        
+        
+        const youtubeIcon = document.createElement('img');
+        youtubeIcon.src = 'images/colored/tv-youtube-colored.svg';
+        youtubeIcon.alt = 'Play on YouTube';
+        youtubeIcon.style.marginLeft = '1rem'; // Add some spacing between the SVG and the text
+    
+        youtubeIcon.style.width = '1.5rem'; // Set the width of the SVG image
+    
+        const playNowText = document.createElement('span');
+        playNowText.textContent = 'Play Now';
+        youtubeLink.appendChild(playNowText);
+        youtubeLink.appendChild(youtubeIcon);
+
+
+        youtubeLink.addEventListener('click', (e) => {
+            // Get user's preference from local storage
+            let openInAppYoutube = localStorage.getItem('openInAppYoutube');
+            
+            // If user's preference is not saved yet, ask for it
+            if (openInAppYoutube === null) {
+                openInAppYoutube = confirm('Do you want to open the link in the YouTube app?');
+                // Save user's preference to local storage
+                localStorage.setItem('openInAppYoutube', openInAppYoutube);
+            }
+        
+            if (openInAppYoutube === 'true') {
+                e.preventDefault();
+        
+                // Differentiate between Android and iOS
+                const isAndroid = /Android/i.test(navigator.userAgent);
+                const isIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
+                
+                if (isAndroid) {
+                    youtubeLink.href = `vnd.youtube:${youtubeVideoId}`;
+                } else if (isIOS) {
+                    youtubeLink.href = `youtube://${youtubeVideoId}`;
+                }
+                // If we're on desktop (not on android or iOS)
+                else{
+                    window.open(youtubeLink.href, '_blank');
+                }
+                
+            } else {
+                // Prevent the default action (navigation) and open the link in a new tab
+                e.preventDefault();
+                window.open(youtubeLink.href, '_blank');
+            }
+        });
+    
+        return youtubeLink;
+    }
+
+
+    createSpotifyLink() {
+        const spotifyLink = document.createElement('a');
+        spotifyLink.alignItems = 'center';
+        spotifyLink.href = `https://open.spotify.com/track/${this.song.additional_info.id}`;
+        spotifyLink.style.fontSize = '1rem'; // Keeping text size consistent
+        spotifyLink.style.fontWeight = '700';
+        spotifyLink.style.color = '#09AD72'; // Change the color to blue (or any other desired color)
+        spotifyLink.style.textDecoration = 'none'; // Remove underline from text
+        spotifyLink.style.display = 'flex'; // Align items along a row
+        spotifyLink.style.alignItems = 'center'; // Center items vertically in the container
+        spotifyLink.style.marginBottom = '1rem'; // Center items vertically in the container
+
+    
+        const spotifyIcon = document.createElement('img');
+        spotifyIcon.src = 'images/colored/Spotify-colored.svg';
+        spotifyIcon.alt = 'Play on Spotify';
+        spotifyIcon.style.marginLeft = '1rem'; // Add some spacing between the SVG and the text
+
+        spotifyIcon.style.width = '1.5rem'; // Set the width of the SVG image
+    
+        const playNowText = document.createElement('span');
+        playNowText.textContent = 'Play Now';
+        spotifyLink.appendChild(playNowText);
+        spotifyLink.appendChild(spotifyIcon);
+
+    
+        spotifyLink.addEventListener('click', (e) => {
+            // Get user's preference from local storage
+            let openInAppSpotify = localStorage.getItem('openInAppSpotify');
+            
+            // If user's preference is not saved yet, ask for it
+            if (openInAppSpotify === null) {
+                openInAppSpotify = confirm('Do you want to open the link in the Spotify app?');
+                // Save user's preference to local storage
+                localStorage.setItem('openInAppSpotify', openInAppSpotify);
+            }
+        
+            if (openInAppSpotify === 'true') {
+                e.preventDefault();
+                spotifyLink.href = `spotify:track:${this.song.additional_info.id}`;
+                window.location.href = spotifyLink.href;
+            } else {
+                spotifyLink.target = '_blank'; // Open link in a new tab
+            }
+        });
+    
+        return spotifyLink;
+    }
     createUIListOfTags(tagsList) {
         const tagsContainer = document.createElement('div');
         tagsContainer.className = 'song-tags';
@@ -261,4 +431,5 @@ export default class SongListItemUI {
     
         return tag;
     }
+
 }
