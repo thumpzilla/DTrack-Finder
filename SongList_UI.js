@@ -1,5 +1,5 @@
 import  Song from './Song.js'
-import { showToast, formatSecondsToMinutes, formatViewCountNumber, formatMonthYear, KEYS_UI} from './Utils.js'
+import { showToast, formatSecondsToMinutes, formatViewCountNumber, formatMonthYear} from './Utils.js'
 
 
 export default class SongListItemUI {
@@ -109,6 +109,7 @@ export default class SongListItemUI {
 
         // Set position relative on the parent element
         additionalInfoDiv.style.position = 'relative';
+        additionalInfoDiv.style.borderRadius = '0.2rem';
 
         // Create pseudo-element for the overlay
         additionalInfoDiv.setAttribute('id', 'dset-info-overlay');

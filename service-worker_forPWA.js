@@ -51,12 +51,16 @@ var URLS = [
   `${GHPATH}/images/sound-note-single.svg`,
   `${GHPATH}/images/colored/drum-colored.svg`,
   `${GHPATH}/images/colored/sound_note-colored.svg`,
+  `${GHPATH}/images/colored/calendar-colored.svg`,
+  `${GHPATH}/images/colored/clock-colored.svg`,
+
 
   `${GHPATH}/data/collections/manifest.json`,
   `${GHPATH}/data/collections/SpotifyCollectionMerge 21Jun2023.json`,
   `${GHPATH}/data/collections/DTRacks All 1200 DTracks.json`,
   `${GHPATH}/data/collections/Sp- 4July.json`,
   `${GHPATH}/data/collections/Sp- College Party.json`,
+  `${GHPATH}/data/collections/DSets-Collection.json`,
 
   
   "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@100;200;300;400;600;700;900&display=swap"
