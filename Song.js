@@ -5,7 +5,11 @@ export default class Song {
         this.bpm = Math.round(bpm);
         this.key = key === null ? 'unknown' : key; // Replace null with empty string
         this.djPlayCount = djPlayCount;
-        this.rating = rating.replace(/\*/g, '⭐️'); // Replace '*' with '⭐️'
+        try{
+            this.rating = rating.replace(/\*/g, '⭐️'); // Replace '*' with '⭐️'
+        } catch (error) {
+        console.error('No star rating:', error);
+        } 
         // Split the tags, and then // Filter out tags that start with 'E' or 'P' followed by a number
         this.myTags = String(myTag).split(',').filter(tag => {
             return !(/^[EP]\d+/.test(tag.trim()));});

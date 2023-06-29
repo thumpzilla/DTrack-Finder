@@ -5,7 +5,7 @@ export default class TagFilter {
         this.tagWCategories = {
             'Hot':  [
                 "70s", "80s", "90s", "2000s", "2010s", "2020s", "Pop", "Rock", "EDM", "Latin",
-                "Psy-Trance", "Nostalgic", "Wedding", "Sp- Bach Party", "Sp- 4July",
+                "Psy-Trance", "Nostalgic", "Wedding", "Sp- Bach Party", "Sp- 4July", "DSet"
                 // "Happy", "Fool Around", "Sing", "Pool", "Sexy", "Club", "EDM", "Hip Hop", "Latin",
                 // "Dance Remixes" , "Pop", "Jump", "PEGI 4 [Age]", "Wedding", "Flying High"
             ], 
@@ -35,7 +35,7 @@ export default class TagFilter {
         };
         this.twoDSelector = document.getElementById('2dSelector'); // style.display - 'block' or 'none'
         this.songManager = songManager;
-        this.activeTags = ["DSet"]; // Default active tags
+        this.activeTags = ["2010s", "Pop"]; // Default active tags
 
 
         this.filterElement = document.getElementById('tags-filtering-div');
