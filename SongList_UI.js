@@ -333,11 +333,8 @@ export default class SongListItemUI {
                 
                 if (isAndroid) {
                     youtubeLink.href = `vnd.youtube:${youtubeVideoId}`;
-                } else if (isIOS) {
-                    youtubeLink.href = `youtube://${youtubeVideoId}`;
-                }
-                // If we're on desktop (not on android or iOS)
-                else{
+                } else if (isIOS || !isAndroid) { // If we're on iOS or desktop
+                    youtubeLink.href = `https://www.youtube.com/watch?v=${youtubeVideoId}`;
                     window.open(youtubeLink.href, '_blank');
                 }
                 
@@ -347,6 +344,7 @@ export default class SongListItemUI {
                 window.open(youtubeLink.href, '_blank');
             }
         });
+        
     
         return youtubeLink;
     }
