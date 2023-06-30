@@ -3,13 +3,13 @@ helps you to find the right song for the right time, easily!
 With thousands of songs available, and dozens of filters, and smart sorting - you can find the best tracks for your needs within seconds!
 Available On mobile📱, and desktop💻. It's Open-Source and FREE to use, Enjoy!
 
-[Try NOW!](https://donraz.github.io/DTrack-Finder/) 🎉⚡️✅
+[Try NOW! 🎉⚡️✅](https://donraz.github.io/DTrack-Finder/) 
 
-[Discord Community](https://discord.gg/u7dtAbvc) 💬💬💬
+[Discord Community 💬💬💬](https://discord.gg/u7dtAbvc) 
 
-[Instagram Page](https://www.instagram.com/ddance_official/) 📸💃🕺
+[Instagram Page 📸💃🕺 ](https://www.instagram.com/ddance_official/) 
 
-[Youtube Channel](https://www.youtube.com/channel/UCXw6Q30Gl7S7cz3_UkFBf9Q) 📱🎥🥁
+[Youtube Channel 📱🎥🥁 ](https://www.youtube.com/channel/UCXw6Q30Gl7S7cz3_UkFBf9Q) 
 
 # Features Demo 
 
@@ -24,8 +24,6 @@ Available On mobile📱, and desktop💻. It's Open-Source and FREE to use, Enjo
 
 # Usage Demos
 
-
-
 Find the perfect Mashup for any song! (How To)
 
 <a href="https://www.youtube.com/watch?v=03K2DUSp9W4&t=6s"><img src="https://img.youtube.com/vi/03K2DUSp9W4/maxresdefault.jpg" width="550"></a>
@@ -33,6 +31,12 @@ Find the perfect Mashup for any song! (How To)
 STEM mixing demo
 
 <a href="https://www.youtube.com/watch?v=pu7TVer5uGg"><img src="https://img.youtube.com/vi/pu7TVer5uGg/maxresdefault.jpg" width="550"></a>
+
+
+Quick-Seek 🔍🎶 Drag & Drop to set BPM & Key in an instant:🕺
+
+<a href="https://youtube.com/shorts/j-UbmjREFE8"><img src="https://img.youtube.com/vi/j-UbmjREFE8/hqdefault.jpg" width="550"></a>
+
 
 Install on Iphone
 
