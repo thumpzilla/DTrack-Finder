@@ -4,55 +4,48 @@ export default class TagFilter {
     constructor(songManager) {
         this.tagWCategories = {
             'Hot':  [
-                "70s", "80s", "90s", "2000s", "2010s", "2020s", "Pop", "Rock", "EDM", "Latin",
-                "Psy-Trance", "Nostalgic", "Wedding", "Sp- Bach Party", "Sp- 4July", "DSet"
-                // "Happy", "Fool Around", "Sing", "Pool", "Sexy", "Club", "EDM", "Hip Hop", "Latin",
+                "70s", "80s", "90s", "2000s", "2010s", "2020s", "Pop", "Rock", "EDM", "Reggaeton",
+                "Psy-Trance", "Nostalgic", "Wedding", "Bach Party", "4th of July", "DSet"
+                // "Happy", "Fool Around", "Sing", "Pool", "Sexy", "Club", "EDM", "Hip Hop", "Reggaeton",
                 // "Dance Remixes" , "Pop", "Jump", "PEGI 4 [Age]", "Wedding", "Flying High"
             ], 
-            'Vibes':  [
-                "Wedding", "Pool", "Bars", "Club", "Strip Club", "Build up", "Jump", "Sing", "Fool Around", "Flying High", "Happy", "Cheer Competitors",
-                "Sexy", "Fight & Fog", "Mad", "Calm", "Romantic & Slow Dance", "Build Down",
-                "Drink Up", "MC Hype", "Inspiring" 
-            ],
+            // 'Vibes':  [
+            //     "Wedding", "Pool", "Bars", "Club", "Strip Club", "Build up", "Jump", "Sing", "Fool Around", "Flying High", "Happy", "Cheer Competitors",
+            //     "Sexy", "Fight & Fog", "Mad", "Calm", "Romantic & Slow Dance", "Build Down",
+            //     "Drink Up", "MC Hype", "Inspiring" 
+            // ],
             'Genres':  [
-                "Pop", "Dance Remixes", "EDM", "Hip Hop", "Rock",  "Latin", "Tribal",  "Club-Hotel",
-                "Psy-Trance", "Israeli - Kibutz", "Mizrahit", "Nostalgic"
+                "Pop", "Dance Remixes", "EDM", "Hip Hop", "Rock",  "Reggaeton", "Tribal",  "Club-Hotel",
+                "Psy-Trance", "Nostalgic",
+                "Kibutz IL", "Mizrahit IL",// "Israeli - Kibutz", "Mizrahit"
             ],
             'Eras': [
                 "60s", "70s", "80s", "90s", "2000s", "2010s", "2020s",
                 
             ],
-            'Collections': [
-                "DTracks", "DSet" ,"Sp- Sing-Along", "Sp- Kids Party", "Sp- Bach Party", "Sp- Workout",
-                "Sp- Bach Israel", "Sp- Wedding", "Sp- PsyTrance", "Sp- Nostalgic", "Sp- Party by Eras", "Sp- 4July", "Sp- College Party",
+            'Occasion': [
+                "Wedding", "Bach Party", "Kids Party", "Workout", "4th of July", "College Party" // "USA Party",
             ],
-
+            // 'Collections': [ 
+            //      "DTracks", "DSet" , "Playlists",
+            //     "Sp- Sing-Along", "Sp- Kids Party", "Sp- Bach Party", "Sp- Workout",
+            //     "Sp- Bach Israel", "Sp- Wedding", "Sp- PsyTrance", "Sp- Nostalgic", "Sp- Party by Eras", "Sp- 4July", "Sp- College Party",
+            // ],
             'Extra': [
-                "Girl Power", "Darbuka", "Israel [Loc]", "California [Loc]", 
-                "Morning", "Sunset", "PEGI 16 [Age]", "PEGI 4 [Age]",
+                "Sing", "Happy", "DSet" , "Playlists", "Fight & Fog"
+                // "Girl Power", "Darbuka", "Israel [Loc]", "California [Loc]", 
+                // "Morning", "Sunset", "Israel", "PEGI 16 [Age]", "PEGI 4 [Age]",
 
             ],
 
-            'DSet Tags':[
-                // DSet Tags: (TEMPORARY!)
-                'Workout',   'Bach party',
-                'Victory Celebration', 'Birthday',
-                'Wedding',   'Vacation - Freedom',
-                'Kids Party',  'Corporate Event',
-                'College Party', '4July',
-                'Sing Along', 
-                'Jump', 'Cheer Competitors',
-                'Relaxing', 'Background',
-                'Workout', 'Pop',
-                'EDM', 'Hip Hop',
-                'Reggaeton', 'Rock',
-                'Tribal', 'Club-Hotel',
-                'Psy-Trance', 'Israeli - Kibutz',
-                'Mizrahit', 'Nostalgic',
-                'Calm Cover', 'Remake/Edit',
-                'Dance Remixes'
+            // 'DSet Tags':[
+            //     // DSet Tags: (TEMPORARY!)
+            //     'Workout',   'Bach party', 'Victory Celebration', 'Birthday',  'Wedding',   'Vacation - Freedom',
+            //     'Kids Party',  'Corporate Event', 'College Party', '4July','Sing Along', 'Jump', 'Cheer Competitors',
+            //     'Relaxing', 'Background','Workout', 'Pop','EDM', 'Hip Hop','Reggaeton', 'Rock', 'Tribal', 'Club-Hotel',
+            //     'Psy-Trance', 'Israeli - Kibutz','Mizrahit', 'Nostalgic', 'Calm Cover', 'Remake/Edit', 'Dance Remixes'
 
-            ]
+            // ]
 
         };
         this.twoDSelector = document.getElementById('2dSelector'); // style.display - 'block' or 'none'
