@@ -30,7 +30,29 @@ export default class TagFilter {
             'Extra': [
                 "Girl Power", "Darbuka", "Israel [Loc]", "California [Loc]", 
                 "Morning", "Sunset", "PEGI 16 [Age]", "PEGI 4 [Age]",
+
             ],
+
+            'DSet Tags':[
+                // DSet Tags: (TEMPORARY!)
+                'Workout',   'Bach party',
+                'Victory Celebration', 'Birthday',
+                'Wedding',   'Vacation - Freedom',
+                'Kids Party',  'Corporate Event',
+                'College Party', '4July',
+                'Sing Along', 
+                'Jump', 'Cheer Competitors',
+                'Relaxing', 'Background',
+                'Workout', 'Pop',
+                'EDM', 'Hip Hop',
+                'Reggaeton', 'Rock',
+                'Tribal', 'Club-Hotel',
+                'Psy-Trance', 'Israeli - Kibutz',
+                'Mizrahit', 'Nostalgic',
+                'Calm Cover', 'Remake/Edit',
+                'Dance Remixes'
+
+            ]
 
         };
         this.twoDSelector = document.getElementById('2dSelector'); // style.display - 'block' or 'none'
