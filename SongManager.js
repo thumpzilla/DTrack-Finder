@@ -326,7 +326,8 @@ export default class SongManager {
         let songsToCopy = this.currentSortedSongs.length > 100 ? this.currentSortedSongs.slice(0, 100) : this.currentSortedSongs;
         
         // Map over the songs to create an array of strings, each string is a CSV row
-        const csvContent = songsToCopy.map(song => `${song.artist} - ${song.trackTitle}`).join('\n');
+        // const csvContent = songsToCopy.map(song => `${song.artist} - ${song.trackTitle}` ).join('\n');
+        const csvContent = songsToCopy.map(song => `${song.artist} - ${song.trackTitle} | Energy: ${song.energy} Popularity ${song.popularity}` ).join('\n');
     
         // Use the Clipboard API to copy the text to the clipboard
         navigator.clipboard.writeText(csvContent).then(() => {

@@ -5,7 +5,8 @@ export default class TagFilter {
         this.tagWCategories = {
             'Hot':  [
                 "70s", "80s", "90s", "2000s", "2010s", "2020s", "Pop", "Rock", "EDM", "Reggaeton",
-                "Psy-Trance", "Nostalgic", "Wedding", "Bach Party", "4th of July", "DSet"
+                "Psy-Trance", "Nostalgic", "Wedding", "Bach Party", "4th of July", "DJ Live Set"
+                                                                    
                 // "Happy", "Fool Around", "Sing", "Pool", "Sexy", "Club", "EDM", "Hip Hop", "Reggaeton",
                 // "Dance Remixes" , "Pop", "Jump", "PEGI 4 [Age]", "Wedding", "Flying High"
             ], 
@@ -14,17 +15,17 @@ export default class TagFilter {
             //     "Sexy", "Fight & Fog", "Mad", "Calm", "Romantic & Slow Dance", "Build Down",
             //     "Drink Up", "MC Hype", "Inspiring" 
             // ],
-            'Genres':  [
-                "Pop", "Dance Remixes", "EDM", "Hip Hop", "Rock",  "Reggaeton", "Tribal",  "Club-Hotel",
-                "Psy-Trance", "Nostalgic",
-                "Kibutz IL", "Mizrahit IL",// "Israeli - Kibutz", "Mizrahit"
+            'Occasion': [
+                "4th of July", "College Party", "Bach Party", "Wedding", "Kids Party", "Workout" // "USA Party",
             ],
             'Eras': [
                 "60s", "70s", "80s", "90s", "2000s", "2010s", "2020s",
                 
             ],
-            'Occasion': [
-                "Wedding", "Bach Party", "Kids Party", "Workout", "4th of July", "College Party" // "USA Party",
+            'Genres':  [
+                "Pop", "Dance Remixes", "EDM", "Hip Hop", "Rock",  "Reggaeton", "Tribal",  
+                "Psy-Trance", "Nostalgic", "Club-Hotel",
+                "Kibutz IL", "Mizrahit IL",// "Israeli - Kibutz", "Mizrahit"
             ],
             // 'Collections': [ 
             //      "DTracks", "DSet" , "Playlists",
@@ -32,7 +33,7 @@ export default class TagFilter {
             //     "Sp- Bach Israel", "Sp- Wedding", "Sp- PsyTrance", "Sp- Nostalgic", "Sp- Party by Eras", "Sp- 4July", "Sp- College Party",
             // ],
             'Extra': [
-                "Sing", "Happy", "DSet" , "Playlists", "Fight & Fog"
+                "Sing", "Happy", "Fight & Fog", "Playlists", "DJ Live Set"
                 // "Girl Power", "Darbuka", "Israel [Loc]", "California [Loc]", 
                 // "Morning", "Sunset", "Israel", "PEGI 16 [Age]", "PEGI 4 [Age]",
 
