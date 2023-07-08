@@ -1,0 +1,256 @@
+[
+    {
+        "#": 1,
+        "Track Title": "Faded",
+        "Artist": "Alan Walker",
+        "Key": "2B",
+        "Energy": 6.859,
+        "Popularity": 7.75,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "7gHs73wELdeycvS48JfIos",
+            "explicit": false,
+            "album": "Faded",
+            "release_date": "2015-12-04",
+            "genres": [
+                "electro house"
+            ],
+            "duration": 212627,
+            "acousticness": 0.0291,
+            "danceability": 6.301,
+            "instrumentalness": 3.2e-06,
+            "liveness": 0.111,
+            "loudness": -5.097,
+            "speechiness": 0.0306,
+            "time_signature": 4,
+            "happiness": 2.4939999999999998
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Dance Monkey - Street Sax Performance",
+        "Artist": "Daniele Vitale Sax",
+        "Key": "2A",
+        "Energy": 6.796,
+        "Popularity": 1.0,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "0ZPNJcgemZIKRjPpdiIHEN",
+            "explicit": false,
+            "album": "Daniele Vitale Sax",
+            "release_date": "2020-05-29",
+            "genres": [],
+            "duration": 154375,
+            "acousticness": 0.364,
+            "danceability": 8.695,
+            "instrumentalness": 0.757,
+            "liveness": 0.0986,
+            "loudness": -5.864,
+            "speechiness": 0.0588,
+            "time_signature": 4,
+            "happiness": 5.7250000000000005
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "The Business",
+        "Artist": "Tiësto",
+        "Key": "4A",
+        "Energy": 6.58,
+        "Popularity": 8.379999999999999,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Dance Remixes",
+            "EDM",
+            "Pop",
+            "Club-Hotel",
+            "Flying High"
+        ],
+        "Additional Info": {
+            "id": "6f3Slt0GbA2bPZlz0aIFXN",
+            "explicit": false,
+            "album": "The Business",
+            "release_date": "2020-09-16",
+            "genres": [
+                "big room",
+                "brostep",
+                "dutch edm",
+                "edm",
+                "house",
+                "pop dance",
+                "slap house",
+                "trance"
+            ],
+            "duration": 164000,
+            "acousticness": 0.414,
+            "danceability": 8.182,
+            "instrumentalness": 0.0192,
+            "liveness": 0.112,
+            "loudness": -7.079,
+            "speechiness": 0.232,
+            "time_signature": 4,
+            "happiness": 3.1149999999999998
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Me Provocas",
+        "Artist": "Dynoro, Fumaratto",
+        "Key": "7A",
+        "Energy": 8.911,
+        "Popularity": 7.209999999999999,
+        "BPM": 126,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "7sEwsJK7Ol0J6PFV9nioxu",
+            "explicit": false,
+            "album": "Me Provocas",
+            "release_date": "2020-04-03",
+            "genres": [
+                "edm",
+                "guaracha"
+            ],
+            "duration": 147255,
+            "acousticness": 0.0115,
+            "danceability": 7.111000000000001,
+            "instrumentalness": 0.0151,
+            "liveness": 0.343,
+            "loudness": -3.321,
+            "speechiness": 0.0556,
+            "time_signature": 4,
+            "happiness": 3.9250000000000003
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Larg",
+        "Artist": "Elgit Doda",
+        "Key": "1B",
+        "Energy": 5.617,
+        "Popularity": 1.0,
+        "BPM": 117,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "5N0L9oMGuDA7s29DiPnodw",
+            "explicit": false,
+            "album": "Larg",
+            "release_date": "2019-06-02",
+            "genres": [
+                "albanian pop"
+            ],
+            "duration": 187222,
+            "acousticness": 0.256,
+            "danceability": 8.596,
+            "instrumentalness": 0.0252,
+            "liveness": 0.12,
+            "loudness": -9.173,
+            "speechiness": 0.159,
+            "time_signature": 4,
+            "happiness": 3.916
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Opus",
+        "Artist": "Eric Prydz",
+        "Key": "2A",
+        "Energy": 7.489,
+        "Popularity": 6.94,
+        "BPM": 125,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Pop",
+            "Club-Hotel",
+            "Dance Remixes",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "3v2oAQomhOcYCPPHafS3KV",
+            "explicit": false,
+            "album": "Opus",
+            "release_date": "2016-02-05",
+            "genres": [
+                "edm",
+                "electro house",
+                "house",
+                "pop dance",
+                "progressive electro house",
+                "progressive house"
+            ],
+            "duration": 543453,
+            "acousticness": 0.000702,
+            "danceability": 3.475,
+            "instrumentalness": 0.821,
+            "liveness": 0.0792,
+            "loudness": -6.222,
+            "speechiness": 0.0359,
+            "time_signature": 4,
+            "happiness": 2.6559999999999997
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Sonata Infinity: I",
+        "Artist": "Paweł Janas",
+        "Key": "7B",
+        "Energy": 1.02025,
+        "Popularity": 1.3599999999999999,
+        "BPM": 72,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "5eCPMiAB9rlxlRJTaqJUXx",
+            "explicit": false,
+            "album": "Small Talks: Wojtek Psiuk Saxophone - Paweł Janas Accordion",
+            "release_date": "2015-04-16",
+            "genres": [],
+            "duration": 139151,
+            "acousticness": 0.862,
+            "danceability": 3.133,
+            "instrumentalness": 3.08e-05,
+            "liveness": 0.194,
+            "loudness": -29.445,
+            "speechiness": 0.0387,
+            "time_signature": 4,
+            "happiness": 1.5184
+        }
+    }
+]

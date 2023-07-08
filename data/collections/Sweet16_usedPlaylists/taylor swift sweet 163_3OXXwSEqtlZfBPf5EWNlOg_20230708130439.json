@@ -1,0 +1,1750 @@
+[
+    {
+        "#": 1,
+        "Track Title": "Paper Rings",
+        "Artist": "Taylor Swift",
+        "Key": "11B",
+        "Energy": 7.471,
+        "Popularity": 8.92,
+        "BPM": 104,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4y5bvROuBDPr5fuwXbIBZR",
+            "explicit": false,
+            "album": "Lover",
+            "release_date": "2019-08-23",
+            "genres": [
+                "pop"
+            ],
+            "duration": 222400,
+            "acousticness": 0.0129,
+            "danceability": 8.299,
+            "instrumentalness": 1.36e-05,
+            "liveness": 0.0742,
+            "loudness": -6.553,
+            "speechiness": 0.0497,
+            "time_signature": 4,
+            "happiness": 8.785
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Cruel Summer",
+        "Artist": "Taylor Swift",
+        "Key": "11B",
+        "Energy": 7.318,
+        "Popularity": 9.82,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1BxfuPKGuaTgP7aM0Bbdwr",
+            "explicit": false,
+            "album": "Lover",
+            "release_date": "2019-08-23",
+            "genres": [
+                "pop"
+            ],
+            "duration": 178427,
+            "acousticness": 0.117,
+            "danceability": 5.968,
+            "instrumentalness": 2.06e-05,
+            "liveness": 0.105,
+            "loudness": -5.707,
+            "speechiness": 0.157,
+            "time_signature": 4,
+            "happiness": 6.076
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "Style",
+        "Artist": "Taylor Swift",
+        "Key": "9B",
+        "Energy": 8.119,
+        "Popularity": 9.19,
+        "BPM": 95,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0ug5NqcwcFR2xrfTkc7k8e",
+            "explicit": false,
+            "album": "1989 (Deluxe)",
+            "release_date": "2014-01-01",
+            "genres": [
+                "pop"
+            ],
+            "duration": 231000,
+            "acousticness": 0.00245,
+            "danceability": 6.292,
+            "instrumentalness": 0.00258,
+            "liveness": 0.118,
+            "loudness": -5.595,
+            "speechiness": 0.0402,
+            "time_signature": 4,
+            "happiness": 5.383
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Bad Blood",
+        "Artist": "Taylor Swift",
+        "Key": "9B",
+        "Energy": 8.218,
+        "Popularity": 8.559999999999999,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0TvQLMecTE8utzoNmvXRbK",
+            "explicit": false,
+            "album": "1989",
+            "release_date": "2014-01-01",
+            "genres": [
+                "pop"
+            ],
+            "duration": 211933,
+            "acousticness": 0.0871,
+            "danceability": 6.868,
+            "instrumentalness": 6.45e-06,
+            "liveness": 0.148,
+            "loudness": -6.114,
+            "speechiness": 0.181,
+            "time_signature": 4,
+            "happiness": 3.655
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Blank Space",
+        "Artist": "Taylor Swift",
+        "Key": "7B",
+        "Energy": 7.327,
+        "Popularity": 9.280000000000001,
+        "BPM": 96,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1u8c2t2Cy7UBoG4ArRcF5g",
+            "explicit": false,
+            "album": "1989 (Deluxe)",
+            "release_date": "2014-01-01",
+            "genres": [
+                "pop"
+            ],
+            "duration": 231827,
+            "acousticness": 0.103,
+            "danceability": 7.84,
+            "instrumentalness": 0,
+            "liveness": 0.0913,
+            "loudness": -5.412,
+            "speechiness": 0.054,
+            "time_signature": 4,
+            "happiness": 6.13
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "The Man",
+        "Artist": "Taylor Swift",
+        "Key": "8B",
+        "Energy": 6.922000000000001,
+        "Popularity": 8.92,
+        "BPM": 110,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3RauEVgRgj1IuWdJ9fDs70",
+            "explicit": false,
+            "album": "Lover",
+            "release_date": "2019-08-23",
+            "genres": [
+                "pop"
+            ],
+            "duration": 190360,
+            "acousticness": 0.0767,
+            "danceability": 7.993,
+            "instrumentalness": 0,
+            "liveness": 0.0901,
+            "loudness": -5.191,
+            "speechiness": 0.054,
+            "time_signature": 4,
+            "happiness": 6.697
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Enchanted",
+        "Artist": "Taylor Swift",
+        "Key": "4B",
+        "Energy": 6.562,
+        "Popularity": 8.83,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3sqrvkNC6IPTIXvvbx9Arw",
+            "explicit": false,
+            "album": "Speak Now (Deluxe Package)",
+            "release_date": "2010-01-01",
+            "genres": [
+                "pop"
+            ],
+            "duration": 352200,
+            "acousticness": 0.0716,
+            "danceability": 5.815,
+            "instrumentalness": 0.000388,
+            "liveness": 0.169,
+            "loudness": -3.913,
+            "speechiness": 0.0273,
+            "time_signature": 4,
+            "happiness": 3.052
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Speak Now",
+        "Artist": "Taylor Swift",
+        "Key": "9B",
+        "Energy": 6.409,
+        "Popularity": 7.4799999999999995,
+        "BPM": 119,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2PBghI9zJkQEWBzMSMo2Ki",
+            "explicit": false,
+            "album": "Speak Now (Deluxe Package)",
+            "release_date": "2010-01-01",
+            "genres": [
+                "pop"
+            ],
+            "duration": 240773,
+            "acousticness": 0.101,
+            "danceability": 7.372,
+            "instrumentalness": 0,
+            "liveness": 0.0979,
+            "loudness": -3.75,
+            "speechiness": 0.0306,
+            "time_signature": 4,
+            "happiness": 7.678
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Gorgeous",
+        "Artist": "Taylor Swift",
+        "Key": "9B",
+        "Energy": 5.815,
+        "Popularity": 8.74,
+        "BPM": 92,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1ZY1PqizIl78geGM4xWlEA",
+            "explicit": false,
+            "album": "reputation",
+            "release_date": "2017-11-10",
+            "genres": [
+                "pop"
+            ],
+            "duration": 209680,
+            "acousticness": 0.0713,
+            "danceability": 8.2,
+            "instrumentalness": 9.48e-06,
+            "liveness": 0.213,
+            "loudness": -6.684,
+            "speechiness": 0.135,
+            "time_signature": 4,
+            "happiness": 5.059
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "You Belong With Me (Taylor’s Version)",
+        "Artist": "Taylor Swift",
+        "Key": "2B",
+        "Energy": 7.957,
+        "Popularity": 8.92,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1qrpoAMXodY6895hGKoUpA",
+            "explicit": false,
+            "album": "Fearless (Taylor's Version)",
+            "release_date": "2021-04-09",
+            "genres": [
+                "pop"
+            ],
+            "duration": 231124,
+            "acousticness": 0.0623,
+            "danceability": 6.688,
+            "instrumentalness": 0,
+            "liveness": 0.0885,
+            "loudness": -4.856,
+            "speechiness": 0.0346,
+            "time_signature": 4,
+            "happiness": 5.266
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Red (Taylor's Version)",
+        "Artist": "Taylor Swift",
+        "Key": "3A",
+        "Energy": 7.993,
+        "Popularity": 8.379999999999999,
+        "BPM": 125,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "4OAuvHryIVv4kMDNSLuPt6",
+            "explicit": false,
+            "album": "Red (Taylor's Version)",
+            "release_date": "2021-11-12",
+            "genres": [
+                "pop"
+            ],
+            "duration": 223093,
+            "acousticness": 0.00108,
+            "danceability": 5.644,
+            "instrumentalness": 1.62e-06,
+            "liveness": 0.0761,
+            "loudness": -4.908,
+            "speechiness": 0.0375,
+            "time_signature": 4,
+            "happiness": 4.672
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "Love Story (Taylor’s Version)",
+        "Artist": "Taylor Swift",
+        "Key": "10B",
+        "Energy": 8.128,
+        "Popularity": 8.469999999999999,
+        "BPM": 119,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6YvqWjhGD8mB5QXcbcUKtx",
+            "explicit": false,
+            "album": "Fearless (Taylor's Version)",
+            "release_date": "2021-04-09",
+            "genres": [
+                "pop"
+            ],
+            "duration": 235767,
+            "acousticness": 0.13,
+            "danceability": 6.643,
+            "instrumentalness": 3.97e-06,
+            "liveness": 0.0845,
+            "loudness": -4.311,
+            "speechiness": 0.031,
+            "time_signature": 4,
+            "happiness": 4.734999999999999
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "London Boy",
+        "Artist": "Taylor Swift",
+        "Key": "3B",
+        "Energy": 7.39,
+        "Popularity": 8.379999999999999,
+        "BPM": 79,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1LLXZFeAHK9R4xUramtUKw",
+            "explicit": false,
+            "album": "Lover",
+            "release_date": "2019-08-23",
+            "genres": [
+                "pop"
+            ],
+            "duration": 190240,
+            "acousticness": 0.0246,
+            "danceability": 7.255,
+            "instrumentalness": 0.000104,
+            "liveness": 0.133,
+            "loudness": -6.639,
+            "speechiness": 0.05,
+            "time_signature": 4,
+            "happiness": 6.013000000000001
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "I Knew You Were Trouble (Taylor's Version)",
+        "Artist": "Taylor Swift",
+        "Key": "2B",
+        "Energy": 6.013000000000001,
+        "Popularity": 8.379999999999999,
+        "BPM": 77,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6AtZLIzUINvExIUy4QhdjP",
+            "explicit": false,
+            "album": "Red (Taylor's Version)",
+            "release_date": "2021-11-12",
+            "genres": [
+                "pop"
+            ],
+            "duration": 219760,
+            "acousticness": 0.0129,
+            "danceability": 6.255999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.0576,
+            "loudness": -6.371,
+            "speechiness": 0.0342,
+            "time_signature": 4,
+            "happiness": 7.9030000000000005
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "22 (Taylor's Version)",
+        "Artist": "Taylor Swift",
+        "Key": "9B",
+        "Energy": 7.255,
+        "Popularity": 8.290000000000001,
+        "BPM": 104,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3yII7UwgLF6K5zW3xad3MP",
+            "explicit": false,
+            "album": "Red (Taylor's Version)",
+            "release_date": "2021-11-12",
+            "genres": [
+                "pop"
+            ],
+            "duration": 230960,
+            "acousticness": 0.000443,
+            "danceability": 6.7780000000000005,
+            "instrumentalness": 1.02e-05,
+            "liveness": 0.0753,
+            "loudness": -5.62,
+            "speechiness": 0.0281,
+            "time_signature": 4,
+            "happiness": 6.7780000000000005
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "Mr. Perfectly Fine (Taylor’s Version) (From The Vault)",
+        "Artist": "Taylor Swift",
+        "Key": "1A",
+        "Energy": 8.353,
+        "Popularity": 8.11,
+        "BPM": 136,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2CYVETnhM9aytqrazYYwrK",
+            "explicit": false,
+            "album": "Fearless (Taylor's Version)",
+            "release_date": "2021-04-09",
+            "genres": [
+                "pop"
+            ],
+            "duration": 277592,
+            "acousticness": 0.162,
+            "danceability": 6.94,
+            "instrumentalness": 0,
+            "liveness": 0.0667,
+            "loudness": -6.269,
+            "speechiness": 0.0521,
+            "time_signature": 4,
+            "happiness": 7.426
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "Bejeweled",
+        "Artist": "Taylor Swift",
+        "Key": "9B",
+        "Energy": 6.031000000000001,
+        "Popularity": 8.74,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3qoftcUZaUOncvIYjFSPdE",
+            "explicit": false,
+            "album": "Midnights",
+            "release_date": "2022-10-21",
+            "genres": [
+                "pop"
+            ],
+            "duration": 194166,
+            "acousticness": 0.0618,
+            "danceability": 7.263999999999999,
+            "instrumentalness": 5.58e-05,
+            "liveness": 0.0887,
+            "loudness": -9.19,
+            "speechiness": 0.0693,
+            "time_signature": 4,
+            "happiness": 4.897
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+        "Artist": "Taylor Swift",
+        "Key": "8B",
+        "Energy": 5.662,
+        "Popularity": 8.92,
+        "BPM": 93,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "5enxwA8aAbwZbf5qCHORXi",
+            "explicit": true,
+            "album": "Red (Taylor's Version)",
+            "release_date": "2021-11-12",
+            "genres": [
+                "pop"
+            ],
+            "duration": 613027,
+            "acousticness": 0.274,
+            "danceability": 6.679,
+            "instrumentalness": 0,
+            "liveness": 0.088,
+            "loudness": -8.771,
+            "speechiness": 0.0303,
+            "time_signature": 4,
+            "happiness": 2.8449999999999998
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "This Love (Taylor’s Version)",
+        "Artist": "Taylor Swift",
+        "Key": "12B",
+        "Energy": 5.446,
+        "Popularity": 8.2,
+        "BPM": 144,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "4d1CG5ei1E2vGbvmgf5KKv",
+            "explicit": false,
+            "album": "This Love (Taylor’s Version)",
+            "release_date": "2022-05-06",
+            "genres": [
+                "pop"
+            ],
+            "duration": 250100,
+            "acousticness": 0.302,
+            "danceability": 5.2299999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.0672,
+            "loudness": -8.672,
+            "speechiness": 0.0349,
+            "time_signature": 4,
+            "happiness": 1.4716
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "King Of My Heart",
+        "Artist": "Taylor Swift",
+        "Key": "8B",
+        "Energy": 7.327,
+        "Popularity": 8.2,
+        "BPM": 110,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "7HuBDWi18s4aJM8UFnNheH",
+            "explicit": false,
+            "album": "reputation",
+            "release_date": "2017-11-10",
+            "genres": [
+                "pop"
+            ],
+            "duration": 214320,
+            "acousticness": 0.00882,
+            "danceability": 7.075,
+            "instrumentalness": 2.21e-06,
+            "liveness": 0.0391,
+            "loudness": -7.902,
+            "speechiness": 0.0382,
+            "time_signature": 4,
+            "happiness": 3.826
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "I Think He Knows",
+        "Artist": "Taylor Swift",
+        "Key": "8B",
+        "Energy": 4.2940000000000005,
+        "Popularity": 8.290000000000001,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "2YWtcWi3a83pdEg3Gif4Pd",
+            "explicit": false,
+            "album": "Lover",
+            "release_date": "2019-08-23",
+            "genres": [
+                "pop"
+            ],
+            "duration": 173387,
+            "acousticness": 0.00889,
+            "danceability": 9.073,
+            "instrumentalness": 0.000353,
+            "liveness": 0.0715,
+            "loudness": -8.029,
+            "speechiness": 0.0569,
+            "time_signature": 4,
+            "happiness": 4.744
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "Lavender Haze",
+        "Artist": "Taylor Swift",
+        "Key": "6B",
+        "Energy": 4.9239999999999995,
+        "Popularity": 9.01,
+        "BPM": 97,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "5jQI2r1RdgtuT8S3iG8zFC",
+            "explicit": true,
+            "album": "Midnights",
+            "release_date": "2022-10-21",
+            "genres": [
+                "pop"
+            ],
+            "duration": 202396,
+            "acousticness": 0.258,
+            "danceability": 7.5969999999999995,
+            "instrumentalness": 0.000573,
+            "liveness": 0.157,
+            "loudness": -10.489,
+            "speechiness": 0.08,
+            "time_signature": 4,
+            "happiness": 1.8784
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "Better Than Revenge",
+        "Artist": "Taylor Swift",
+        "Key": "1A",
+        "Energy": 9.253,
+        "Popularity": 7.4799999999999995,
+        "BPM": 146,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "55mh9j2aB7xZ1Oh463gK8k",
+            "explicit": false,
+            "album": "Speak Now (Deluxe Package)",
+            "release_date": "2010-01-01",
+            "genres": [
+                "pop"
+            ],
+            "duration": 217173,
+            "acousticness": 0.0167,
+            "danceability": 5.671,
+            "instrumentalness": 2.06e-05,
+            "liveness": 0.359,
+            "loudness": -3.185,
+            "speechiness": 0.0887,
+            "time_signature": 4,
+            "happiness": 6.868
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "This Is Why We Can't Have Nice Things",
+        "Artist": "Taylor Swift",
+        "Key": "7B",
+        "Energy": 8.100999999999999,
+        "Popularity": 8.02,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "07NxDD1iKCHbAldceD7QLP",
+            "explicit": false,
+            "album": "reputation",
+            "release_date": "2017-11-10",
+            "genres": [
+                "pop"
+            ],
+            "duration": 207133,
+            "acousticness": 0.0156,
+            "danceability": 6.103,
+            "instrumentalness": 0,
+            "liveness": 0.382,
+            "loudness": -5.986,
+            "speechiness": 0.115,
+            "time_signature": 4,
+            "happiness": 4.942
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "Midnight Rain",
+        "Artist": "Taylor Swift",
+        "Key": "8B",
+        "Energy": 4.2669999999999995,
+        "Popularity": 8.92,
+        "BPM": 140,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3rWDp9tBPQR9z6U5YyRSK4",
+            "explicit": false,
+            "album": "Midnights",
+            "release_date": "2022-10-21",
+            "genres": [
+                "pop"
+            ],
+            "duration": 174783,
+            "acousticness": 0.69,
+            "danceability": 6.787,
+            "instrumentalness": 5.17e-05,
+            "liveness": 0.115,
+            "loudness": -11.738,
+            "speechiness": 0.0767,
+            "time_signature": 4,
+            "happiness": 3.0700000000000003
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "Dress",
+        "Artist": "Taylor Swift",
+        "Key": "8B",
+        "Energy": 5.221,
+        "Popularity": 8.379999999999999,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6oVxXO5oQ4pTpO8RSnkzvv",
+            "explicit": false,
+            "album": "reputation",
+            "release_date": "2017-11-10",
+            "genres": [
+                "pop"
+            ],
+            "duration": 230373,
+            "acousticness": 0.0329,
+            "danceability": 7.471,
+            "instrumentalness": 0,
+            "liveness": 0.169,
+            "loudness": -8.792,
+            "speechiness": 0.0533,
+            "time_signature": 4,
+            "happiness": 1.7658999999999998
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "Paris",
+        "Artist": "Taylor Swift",
+        "Key": "9B",
+        "Energy": 5.365,
+        "Popularity": 7.03,
+        "BPM": 111,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6J834IBcZJMH38ksrgAqwF",
+            "explicit": false,
+            "album": "Midnights (3am Edition)",
+            "release_date": "2022-10-21",
+            "genres": [
+                "pop"
+            ],
+            "duration": 196259,
+            "acousticness": 0.103,
+            "danceability": 7.263999999999999,
+            "instrumentalness": 6.69e-05,
+            "liveness": 0.136,
+            "loudness": -10.573,
+            "speechiness": 0.123,
+            "time_signature": 4,
+            "happiness": 4.051
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "Karma",
+        "Artist": "Taylor Swift",
+        "Key": "4B",
+        "Energy": 6.58,
+        "Popularity": 9.19,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "7KokYm8cMIXCsGVmUvKtqf",
+            "explicit": true,
+            "album": "Midnights",
+            "release_date": "2022-10-21",
+            "genres": [
+                "pop"
+            ],
+            "duration": 204852,
+            "acousticness": 0.0734,
+            "danceability": 6.7780000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.483,
+            "loudness": -7.091,
+            "speechiness": 0.0666,
+            "time_signature": 4,
+            "happiness": 1.8721
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "Mastermind",
+        "Artist": "Taylor Swift",
+        "Key": "12B",
+        "Energy": 4.213,
+        "Popularity": 8.290000000000001,
+        "BPM": 126,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "7FmYn9e7KHMXcxqGSj9LjH",
+            "explicit": false,
+            "album": "Midnights",
+            "release_date": "2022-10-21",
+            "genres": [
+                "pop"
+            ],
+            "duration": 191039,
+            "acousticness": 0.553,
+            "danceability": 6.958,
+            "instrumentalness": 0.00129,
+            "liveness": 0.0837,
+            "loudness": -14.064,
+            "speechiness": 0.154,
+            "time_signature": 4,
+            "happiness": 2.116
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Maroon",
+        "Artist": "Taylor Swift",
+        "Key": "9B",
+        "Energy": 4.582000000000001,
+        "Popularity": 8.559999999999999,
+        "BPM": 108,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3eX0NZfLtGzoLUxPNvRfqm",
+            "explicit": true,
+            "album": "Midnights",
+            "release_date": "2022-10-21",
+            "genres": [
+                "pop"
+            ],
+            "duration": 218271,
+            "acousticness": 0.0573,
+            "danceability": 6.7330000000000005,
+            "instrumentalness": 1.03e-06,
+            "liveness": 0.101,
+            "loudness": -8.294,
+            "speechiness": 0.0564,
+            "time_signature": 4,
+            "happiness": 1.3366
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "Sparks Fly",
+        "Artist": "Taylor Swift",
+        "Key": "7B",
+        "Energy": 8.065000000000001,
+        "Popularity": 7.3,
+        "BPM": 115,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "09cM9BjyNFizKUOXh6j9rT",
+            "explicit": false,
+            "album": "Speak Now (Deluxe Package)",
+            "release_date": "2010-01-01",
+            "genres": [
+                "pop"
+            ],
+            "duration": 260947,
+            "acousticness": 0.0387,
+            "danceability": 6.4719999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.158,
+            "loudness": -2.976,
+            "speechiness": 0.0311,
+            "time_signature": 4,
+            "happiness": 4.384
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "Dancing With Our Hands Tied",
+        "Artist": "Taylor Swift",
+        "Key": "8A",
+        "Energy": 7.218999999999999,
+        "Popularity": 8.11,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "7I7JbDv63ZJJsSi24DyJrz",
+            "explicit": false,
+            "album": "reputation",
+            "release_date": "2017-11-10",
+            "genres": [
+                "pop"
+            ],
+            "duration": 211507,
+            "acousticness": 0.0604,
+            "danceability": 6.616,
+            "instrumentalness": 1.1e-05,
+            "liveness": 0.138,
+            "loudness": -6.686,
+            "speechiness": 0.196,
+            "time_signature": 4,
+            "happiness": 3.5559999999999996
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "Would've, Could've, Should've",
+        "Artist": "Taylor Swift",
+        "Key": "8B",
+        "Energy": 8.488,
+        "Popularity": 7.39,
+        "BPM": 79,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3pUa0ZxdSeaJXm0EIydD3F",
+            "explicit": false,
+            "album": "Midnights (3am Edition)",
+            "release_date": "2022-10-21",
+            "genres": [
+                "pop"
+            ],
+            "duration": 260362,
+            "acousticness": 0.424,
+            "danceability": 5.3919999999999995,
+            "instrumentalness": 0.00288,
+            "liveness": 0.139,
+            "loudness": -6.508,
+            "speechiness": 0.114,
+            "time_signature": 4,
+            "happiness": 5.986000000000001
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "You're On Your Own, Kid",
+        "Artist": "Taylor Swift",
+        "Key": "10B",
+        "Energy": 4.564,
+        "Popularity": 8.74,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "4D7BCuvgdJlYvlX5WlN54t",
+            "explicit": false,
+            "album": "Midnights",
+            "release_date": "2022-10-21",
+            "genres": [
+                "pop"
+            ],
+            "duration": 194207,
+            "acousticness": 0.401,
+            "danceability": 7.263999999999999,
+            "instrumentalness": 5.2e-06,
+            "liveness": 0.125,
+            "loudness": -10.289,
+            "speechiness": 0.0656,
+            "time_signature": 4,
+            "happiness": 4.42
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "Out Of The Woods",
+        "Artist": "Taylor Swift",
+        "Key": "9B",
+        "Energy": 8.568999999999999,
+        "Popularity": 8.02,
+        "BPM": 92,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0qUnBLZ8bJqUNEeQgayL9t",
+            "explicit": false,
+            "album": "1989 (Deluxe)",
+            "release_date": "2014-01-01",
+            "genres": [
+                "pop"
+            ],
+            "duration": 235800,
+            "acousticness": 0.000743,
+            "danceability": 5.977,
+            "instrumentalness": 1.19e-05,
+            "liveness": 0.341,
+            "loudness": -6.937,
+            "speechiness": 0.0396,
+            "time_signature": 4,
+            "happiness": 4.042
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "cardigan",
+        "Artist": "Taylor Swift",
+        "Key": "8A",
+        "Energy": 6.228999999999999,
+        "Popularity": 9.370000000000001,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "4R2kfaDFhslZEMJqAFNpdd",
+            "explicit": false,
+            "album": "folklore",
+            "release_date": "2020-07-24",
+            "genres": [
+                "pop"
+            ],
+            "duration": 239560,
+            "acousticness": 0.537,
+            "danceability": 6.5169999999999995,
+            "instrumentalness": 0.000345,
+            "liveness": 0.25,
+            "loudness": -8.588,
+            "speechiness": 0.0424,
+            "time_signature": 4,
+            "happiness": 5.9590000000000005
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "mirrorball",
+        "Artist": "Taylor Swift",
+        "Key": "10B",
+        "Energy": 4.717,
+        "Popularity": 8.290000000000001,
+        "BPM": 110,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0ZNU020wNYvgW84iljPkPP",
+            "explicit": false,
+            "album": "folklore",
+            "release_date": "2020-07-24",
+            "genres": [
+                "pop"
+            ],
+            "duration": 208978,
+            "acousticness": 0.687,
+            "danceability": 5.977,
+            "instrumentalness": 2.33e-06,
+            "liveness": 0.0594,
+            "loudness": -10.037,
+            "speechiness": 0.0334,
+            "time_signature": 4,
+            "happiness": 4.411
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "Question...?",
+        "Artist": "Taylor Swift",
+        "Key": "9B",
+        "Energy": 5.518,
+        "Popularity": 8.2,
+        "BPM": 109,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0heeNYlwOGuUSe7TgUD27B",
+            "explicit": true,
+            "album": "Midnights",
+            "release_date": "2022-10-21",
+            "genres": [
+                "pop"
+            ],
+            "duration": 210557,
+            "acousticness": 0.2,
+            "danceability": 7.759,
+            "instrumentalness": 0,
+            "liveness": 0.296,
+            "loudness": -8.763,
+            "speechiness": 0.167,
+            "time_signature": 4,
+            "happiness": 1.954
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "Call It What You Want",
+        "Artist": "Taylor Swift",
+        "Key": "11B",
+        "Energy": 5.536,
+        "Popularity": 8.379999999999999,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1GwMQaZz6Au3QLDbjbMdme",
+            "explicit": false,
+            "album": "reputation",
+            "release_date": "2017-11-10",
+            "genres": [
+                "pop"
+            ],
+            "duration": 203507,
+            "acousticness": 0.186,
+            "danceability": 6.382,
+            "instrumentalness": 0.000221,
+            "liveness": 0.34,
+            "loudness": -9.874,
+            "speechiness": 0.0731,
+            "time_signature": 4,
+            "happiness": 3.268
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "Dear Reader",
+        "Artist": "Taylor Swift",
+        "Key": "8B",
+        "Energy": 4.564,
+        "Popularity": 6.31,
+        "BPM": 108,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "7lFNXsbcbds699xCWO3pSe",
+            "explicit": false,
+            "album": "Midnights (3am Edition)",
+            "release_date": "2022-10-21",
+            "genres": [
+                "pop"
+            ],
+            "duration": 225194,
+            "acousticness": 0.487,
+            "danceability": 7.1290000000000004,
+            "instrumentalness": 0.00138,
+            "liveness": 0.117,
+            "loudness": -12.109,
+            "speechiness": 0.0487,
+            "time_signature": 4,
+            "happiness": 2.4130000000000003
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "Long Live",
+        "Artist": "Taylor Swift",
+        "Key": "9B",
+        "Energy": 7.138000000000001,
+        "Popularity": 6.94,
+        "BPM": 102,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "7BFc7ffruhZ4Hecnqf5xju",
+            "explicit": false,
+            "album": "Speak Now (Deluxe Package)",
+            "release_date": "2010-01-01",
+            "genres": [
+                "pop"
+            ],
+            "duration": 317960,
+            "acousticness": 0.0426,
+            "danceability": 4.708,
+            "instrumentalness": 7.47e-05,
+            "liveness": 0.106,
+            "loudness": -4.319,
+            "speechiness": 0.0339,
+            "time_signature": 4,
+            "happiness": 2.314
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "Labyrinth",
+        "Artist": "Taylor Swift",
+        "Key": "8B",
+        "Energy": 3.754,
+        "Popularity": 8.11,
+        "BPM": 110,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "0A1JLUlkZkp2EFrosoNQi0",
+            "explicit": false,
+            "album": "Midnights",
+            "release_date": "2022-10-21",
+            "genres": [
+                "pop"
+            ],
+            "duration": 247962,
+            "acousticness": 0.785,
+            "danceability": 4.654,
+            "instrumentalness": 0.488,
+            "liveness": 0.122,
+            "loudness": -15.48,
+            "speechiness": 0.0517,
+            "time_signature": 4,
+            "happiness": 2.098
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "New Romantics",
+        "Artist": "Taylor Swift",
+        "Key": "7B",
+        "Energy": 9.001,
+        "Popularity": 8.11,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0qAIiGFKLdV1xpNlEhjpq8",
+            "explicit": false,
+            "album": "1989 (Deluxe)",
+            "release_date": "2014-01-01",
+            "genres": [
+                "pop"
+            ],
+            "duration": 230467,
+            "acousticness": 0.00463,
+            "danceability": 6.697,
+            "instrumentalness": 0.000458,
+            "liveness": 0.0658,
+            "loudness": -5.87,
+            "speechiness": 0.0715,
+            "time_signature": 4,
+            "happiness": 6.255999999999999
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "Shake It Off",
+        "Artist": "Taylor Swift",
+        "Key": "9B",
+        "Energy": 8.2,
+        "Popularity": 8.92,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0cqRj7pUJDkTCEsJkx8snD",
+            "explicit": false,
+            "album": "1989 (Deluxe)",
+            "release_date": "2014-01-01",
+            "genres": [
+                "pop"
+            ],
+            "duration": 219200,
+            "acousticness": 0.0647,
+            "danceability": 6.823,
+            "instrumentalness": 0,
+            "liveness": 0.334,
+            "loudness": -5.384,
+            "speechiness": 0.165,
+            "time_signature": 4,
+            "happiness": 9.478
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "Welcome To New York",
+        "Artist": "Taylor Swift",
+        "Key": "9B",
+        "Energy": 6.706,
+        "Popularity": 7.57,
+        "BPM": 117,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "10nqz67NQWWa7XPq7ycihi",
+            "explicit": false,
+            "album": "1989",
+            "release_date": "2014-01-01",
+            "genres": [
+                "pop"
+            ],
+            "duration": 212600,
+            "acousticness": 0.038,
+            "danceability": 8.137,
+            "instrumentalness": 1.76e-06,
+            "liveness": 0.304,
+            "loudness": -4.807,
+            "speechiness": 0.0324,
+            "time_signature": 4,
+            "happiness": 6.535
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "You’re Not Sorry (Taylor’s Version)",
+        "Artist": "Taylor Swift",
+        "Key": "2B",
+        "Energy": 4.996,
+        "Popularity": 7.57,
+        "BPM": 134,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6iiAfo4wTA2CVC3Uwx9uh8",
+            "explicit": false,
+            "album": "Fearless (Taylor's Version)",
+            "release_date": "2021-04-09",
+            "genres": [
+                "pop"
+            ],
+            "duration": 261843,
+            "acousticness": 0.0538,
+            "danceability": 5.554,
+            "instrumentalness": 0,
+            "liveness": 0.123,
+            "loudness": -4.99,
+            "speechiness": 0.0285,
+            "time_signature": 4,
+            "happiness": 3.169
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "The Archer",
+        "Artist": "Taylor Swift",
+        "Key": "8B",
+        "Energy": 6.1659999999999995,
+        "Popularity": 8.559999999999999,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3pHkh7d0lzM2AldUtz2x37",
+            "explicit": false,
+            "album": "Lover",
+            "release_date": "2019-08-23",
+            "genres": [
+                "pop"
+            ],
+            "duration": 211240,
+            "acousticness": 0.12,
+            "danceability": 3.6279999999999997,
+            "instrumentalness": 0.00569,
+            "liveness": 0.0663,
+            "loudness": -9.375,
+            "speechiness": 0.0401,
+            "time_signature": 4,
+            "happiness": 2.4939999999999998
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "Delicate",
+        "Artist": "Taylor Swift",
+        "Key": "11A",
+        "Energy": 4.636,
+        "Popularity": 8.83,
+        "BPM": 95,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6NFyWDv5CjfwuzoCkw47Xf",
+            "explicit": false,
+            "album": "reputation",
+            "release_date": "2017-11-10",
+            "genres": [
+                "pop"
+            ],
+            "duration": 232253,
+            "acousticness": 0.216,
+            "danceability": 7.75,
+            "instrumentalness": 0.000357,
+            "liveness": 0.0911,
+            "loudness": -10.178,
+            "speechiness": 0.0682,
+            "time_signature": 4,
+            "happiness": 1.4491
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "Mean",
+        "Artist": "Taylor Swift",
+        "Key": "12B",
+        "Energy": 7.723,
+        "Popularity": 7.3,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0KztjtD3ytzgYjUKIVfBnW",
+            "explicit": false,
+            "album": "Speak Now",
+            "release_date": "2010-10-25",
+            "genres": [
+                "pop"
+            ],
+            "duration": 237747,
+            "acousticness": 0.445,
+            "danceability": 6.13,
+            "instrumentalness": 0,
+            "liveness": 0.219,
+            "loudness": -3.978,
+            "speechiness": 0.0426,
+            "time_signature": 4,
+            "happiness": 8.272
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "Enchanted",
+        "Artist": "Taylor Swift",
+        "Key": "4B",
+        "Energy": 6.562,
+        "Popularity": 8.559999999999999,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "04S1pkp1VaIqjg8zZqknR5",
+            "explicit": false,
+            "album": "Speak Now",
+            "release_date": "2010-10-25",
+            "genres": [
+                "pop"
+            ],
+            "duration": 352200,
+            "acousticness": 0.0716,
+            "danceability": 5.815,
+            "instrumentalness": 0.000388,
+            "liveness": 0.169,
+            "loudness": -3.913,
+            "speechiness": 0.0273,
+            "time_signature": 4,
+            "happiness": 3.052
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "Wildest Dreams (Taylor's Version)",
+        "Artist": "Taylor Swift",
+        "Key": "4B",
+        "Energy": 7.03,
+        "Popularity": 8.92,
+        "BPM": 140,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1Ov37jtRQ2YNAe8HzfczkL",
+            "explicit": false,
+            "album": "Wildest Dreams (Taylor's Version)",
+            "release_date": "2021-09-17",
+            "genres": [
+                "pop"
+            ],
+            "duration": 220433,
+            "acousticness": 0.0374,
+            "danceability": 6.247,
+            "instrumentalness": 0.0001,
+            "liveness": 0.126,
+            "loudness": -7.289,
+            "speechiness": 0.0646,
+            "time_signature": 4,
+            "happiness": 5.482
+        }
+    }
+]

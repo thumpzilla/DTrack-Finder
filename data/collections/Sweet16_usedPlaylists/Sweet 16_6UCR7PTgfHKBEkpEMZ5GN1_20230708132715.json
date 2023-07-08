@@ -1,0 +1,3782 @@
+[
+    {
+        "#": 1,
+        "Track Title": "Who's That Girl?",
+        "Artist": "Eve",
+        "Key": "2B",
+        "Energy": 8.74,
+        "Popularity": 7.39,
+        "BPM": 96,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Romantic & Slow Dance",
+            "Dance Remixes",
+            "Hip Hop",
+            "Pop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3uVE5vLKkigiWBOQEgmdDk",
+            "explicit": true,
+            "album": "Scorpion",
+            "release_date": "2001-01-01",
+            "genres": [
+                "contemporary r&b",
+                "dance pop",
+                "hip pop",
+                "philly rap",
+                "r&b",
+                "urban contemporary"
+            ],
+            "duration": 281907,
+            "acousticness": 0.0159,
+            "danceability": 7.93,
+            "instrumentalness": 0.000713,
+            "liveness": 0.0682,
+            "loudness": -3.702,
+            "speechiness": 0.19,
+            "time_signature": 4,
+            "happiness": 5.923
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Schudden",
+        "Artist": "Def Rhymz",
+        "Key": "11A",
+        "Energy": 8.649999999999999,
+        "Popularity": 6.22,
+        "BPM": 135,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "2E3Vt7fF1tuvnkwc8Pqk7B",
+            "explicit": false,
+            "album": "De Allergoeiste (Reissue)",
+            "release_date": "2001-01-01",
+            "genres": [
+                "old school nederhop"
+            ],
+            "duration": 222173,
+            "acousticness": 0.0648,
+            "danceability": 8.209,
+            "instrumentalness": 0.000107,
+            "liveness": 0.902,
+            "loudness": -7.237,
+            "speechiness": 0.218,
+            "time_signature": 4,
+            "happiness": 6.445
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "Get Busy",
+        "Artist": "Sean Paul",
+        "Key": "6A",
+        "Energy": 8.416,
+        "Popularity": 8.2,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Dance Remixes",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6bK9BH9Ts8Gj5JFvnQkzak",
+            "explicit": false,
+            "album": "Dutty Rock (20th Anniversary)",
+            "release_date": "2022-11-11",
+            "genres": [
+                "dance pop",
+                "dancehall",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 211666,
+            "acousticness": 0.614,
+            "danceability": 7.669,
+            "instrumentalness": 0,
+            "liveness": 0.158,
+            "loudness": -4.143,
+            "speechiness": 0.0352,
+            "time_signature": 4,
+            "happiness": 7.5249999999999995
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Balada",
+        "Artist": "Gusttavo Lima",
+        "Key": "1A",
+        "Energy": 9.811,
+        "Popularity": 1.0,
+        "BPM": 128,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2DwPpCp82IDp1aYE924Lc6",
+            "explicit": false,
+            "album": "Balada",
+            "release_date": "2015-05-08",
+            "genres": [
+                "agronejo",
+                "arrocha",
+                "sertanejo",
+                "sertanejo universitario"
+            ],
+            "duration": 203496,
+            "acousticness": 0.283,
+            "danceability": 6.3549999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.981,
+            "loudness": -2.68,
+            "speechiness": 0.0804,
+            "time_signature": 4,
+            "happiness": 7.534
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Watskeburt?!",
+        "Artist": "De Jeugd Van Tegenwoordig",
+        "Key": "3B",
+        "Energy": 5.419,
+        "Popularity": 6.22,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "2Oaq2Q6JFS1xIXGL9TVryY",
+            "explicit": true,
+            "album": "Parels Voor De Zwijnen",
+            "release_date": "2008-01-01",
+            "genres": [
+                "dutch hip hop",
+                "dutch pop",
+                "dutch rock"
+            ],
+            "duration": 375973,
+            "acousticness": 0.00521,
+            "danceability": 9.514,
+            "instrumentalness": 0,
+            "liveness": 0.226,
+            "loudness": -7.931,
+            "speechiness": 0.231,
+            "time_signature": 4,
+            "happiness": 6.274
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Omlaag",
+        "Artist": "Gio, Keizer, Freddy Moreira",
+        "Key": "6B",
+        "Energy": 9.325000000000001,
+        "Popularity": 6.040000000000001,
+        "BPM": 105,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "30cpqNr13JSRCesTUOenrd",
+            "explicit": true,
+            "album": "Omlaag",
+            "release_date": "2015-11-02",
+            "genres": [
+                "dutch hip hop",
+                "dutch pop",
+                "dutch rap pop",
+                "dutch hip hop",
+                "dutch rap pop",
+                "basshall",
+                "dutch rap pop"
+            ],
+            "duration": 196958,
+            "acousticness": 0.0182,
+            "danceability": 7.948,
+            "instrumentalness": 3.92e-05,
+            "liveness": 0.286,
+            "loudness": -3.297,
+            "speechiness": 0.0442,
+            "time_signature": 4,
+            "happiness": 7.678
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Tout Est Bon",
+        "Artist": "Boef, Numidia",
+        "Key": "4A",
+        "Energy": 8.748999999999999,
+        "Popularity": 6.3999999999999995,
+        "BPM": 95,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1tA3foex0E78CzVzNkDhdf",
+            "explicit": false,
+            "album": "Allemaal Een Droom",
+            "release_date": "2020-07-10",
+            "genres": [
+                "dutch hip hop"
+            ],
+            "duration": 155433,
+            "acousticness": 0.211,
+            "danceability": 8.119,
+            "instrumentalness": 0,
+            "liveness": 0.0833,
+            "loudness": -5.311,
+            "speechiness": 0.12,
+            "time_signature": 3,
+            "happiness": 9.658
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Traag",
+        "Artist": "Bizzey, Jozo, Kraantje Pappie",
+        "Key": "8B",
+        "Energy": 8.902000000000001,
+        "Popularity": 1.0,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "7shAADk9RbPvnwCSkjctFJ",
+            "explicit": true,
+            "album": "Traag",
+            "release_date": "2017-05-12",
+            "genres": [
+                "dutch hip hop",
+                "dutch rap pop",
+                "dutch hip hop",
+                "dutch hip hop"
+            ],
+            "duration": 189619,
+            "acousticness": 0.103,
+            "danceability": 8.524000000000001,
+            "instrumentalness": 0.0149,
+            "liveness": 0.131,
+            "loudness": -4.629,
+            "speechiness": 0.0709,
+            "time_signature": 4,
+            "happiness": 6.4719999999999995
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Vamos A La Playa (Radio Edit)",
+        "Artist": "Hak op de Tak, Barry Fest",
+        "Key": "3A",
+        "Energy": 9.442,
+        "Popularity": 1.0,
+        "BPM": 75,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "7DrkIsNsDP1SJdDJwz2zCg",
+            "explicit": false,
+            "album": "Vamos A La Playa (Radio Edit)",
+            "release_date": "2019-06-12",
+            "genres": [
+                "nederlandse hardstyle",
+                "carnaval",
+                "nederlandse hardstyle"
+            ],
+            "duration": 184858,
+            "acousticness": 0.107,
+            "danceability": 7.048,
+            "instrumentalness": 0.289,
+            "liveness": 0.157,
+            "loudness": -3.684,
+            "speechiness": 0.0829,
+            "time_signature": 4,
+            "happiness": 3.259
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Hot Hot Hot",
+        "Artist": "Vengaboys",
+        "Key": "2B",
+        "Energy": 9.217,
+        "Popularity": 5.41,
+        "BPM": 128,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Pop",
+            "Happy",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5VOWJDEdJgmUjjZcmeswNF",
+            "explicit": false,
+            "album": "Hot Hot Hot",
+            "release_date": "2013-07-24",
+            "genres": [
+                "bubblegum dance",
+                "eurodance",
+                "europop"
+            ],
+            "duration": 211128,
+            "acousticness": 0.0106,
+            "danceability": 8.047,
+            "instrumentalness": 1.06e-05,
+            "liveness": 0.107,
+            "loudness": -1.983,
+            "speechiness": 0.21,
+            "time_signature": 4,
+            "happiness": 7.543
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Magnifico",
+        "Artist": "K-Liber",
+        "Key": "11A",
+        "Energy": 8.065000000000001,
+        "Popularity": 5.140000000000001,
+        "BPM": 115,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5a3AAXSngdGh0vXQAhF1j9",
+            "explicit": false,
+            "album": "Schuurpapier",
+            "release_date": "2004-01-01",
+            "genres": [
+                "antilliaanse rap",
+                "dutch hip hop"
+            ],
+            "duration": 210893,
+            "acousticness": 0.25,
+            "danceability": 8.677,
+            "instrumentalness": 0,
+            "liveness": 0.0904,
+            "loudness": -7.301,
+            "speechiness": 0.14,
+            "time_signature": 4,
+            "happiness": 8.658999999999999
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "Gasolina",
+        "Artist": "Daddy Yankee",
+        "Key": "8B",
+        "Energy": 8.173,
+        "Popularity": 8.92,
+        "BPM": 96,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Latin",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "228BxWXUYQPJrJYHDLOHkj",
+            "explicit": false,
+            "album": "Barrio Fino (Bonus Track Version)",
+            "release_date": "2004-07-13",
+            "genres": [
+                "latin hip hop",
+                "reggaeton",
+                "trap latino",
+                "urbano latino"
+            ],
+            "duration": 192600,
+            "acousticness": 0.322,
+            "danceability": 8.668,
+            "instrumentalness": 2.69e-06,
+            "liveness": 0.0845,
+            "loudness": -6.543,
+            "speechiness": 0.0614,
+            "time_signature": 4,
+            "happiness": 7.669
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "Viben",
+        "Artist": "K-Liber",
+        "Key": "2A",
+        "Energy": 9.136000000000001,
+        "Popularity": 5.86,
+        "BPM": 75,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7wxqjTEvxVOsQEDJn2kB3Y",
+            "explicit": false,
+            "album": "Schuurpapier",
+            "release_date": "2004-01-01",
+            "genres": [
+                "antilliaanse rap",
+                "dutch hip hop"
+            ],
+            "duration": 176147,
+            "acousticness": 0.0802,
+            "danceability": 4.933,
+            "instrumentalness": 5.76e-06,
+            "liveness": 0.221,
+            "loudness": -4.304,
+            "speechiness": 0.198,
+            "time_signature": 4,
+            "happiness": 8.182
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "Genius (speed up) - Remix",
+        "Artist": "Splice Records",
+        "Key": "5A",
+        "Energy": 6.544,
+        "Popularity": 7.3,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "6rmOwCP9GvB6TSSaq7xbir",
+            "explicit": false,
+            "album": "Genius (speed up) [Remix]",
+            "release_date": "2023-04-16",
+            "genres": [
+                "sped up"
+            ],
+            "duration": 170812,
+            "acousticness": 0.058,
+            "danceability": 7.318,
+            "instrumentalness": 0.000181,
+            "liveness": 0.0981,
+            "loudness": -6.282,
+            "speechiness": 0.0768,
+            "time_signature": 4,
+            "happiness": 6.625
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Hands up!",
+        "Artist": "6arelyhuman, kets4eki, Pixel Hood",
+        "Key": "11B",
+        "Energy": 8.398,
+        "Popularity": 8.02,
+        "BPM": 77,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "04gSLX5nUhkKiMe1geeqnA",
+            "explicit": true,
+            "album": "Hands up!",
+            "release_date": "2022-12-10",
+            "genres": [
+                "scenecore",
+                "scenecore",
+                "scenecore"
+            ],
+            "duration": 134545,
+            "acousticness": 0.000156,
+            "danceability": 6.247,
+            "instrumentalness": 0.000601,
+            "liveness": 0.187,
+            "loudness": -5.215,
+            "speechiness": 0.0362,
+            "time_signature": 4,
+            "happiness": 8.488
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",
+        "Artist": "Pitbull, Ne-Yo, AFROJACK, Nayer",
+        "Key": "4B",
+        "Energy": 9.450999999999999,
+        "Popularity": 8.74,
+        "BPM": 129,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Romantic & Slow Dance",
+            "EDM",
+            "Dance Remixes",
+            "Club-Hotel",
+            "Hip Hop",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4QNpBfC0zvjKqPJcyqBy9W",
+            "explicit": false,
+            "album": "Planet Pit (Deluxe Version)",
+            "release_date": "2011-06-17",
+            "genres": [
+                "dance pop",
+                "miami hip hop",
+                "pop",
+                "dance pop",
+                "pop",
+                "r&b",
+                "urban contemporary",
+                "big room",
+                "dance pop",
+                "dutch house",
+                "edm",
+                "electro house",
+                "pop dance",
+                "progressive electro house",
+                "deep dance pop"
+            ],
+            "duration": 252307,
+            "acousticness": 0.191,
+            "danceability": 7.039000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.298,
+            "loudness": -3.206,
+            "speechiness": 0.161,
+            "time_signature": 4,
+            "happiness": 5.7700000000000005
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "Hey Baby (Speed Up) - Remix",
+        "Artist": "Splice Records",
+        "Key": "3A",
+        "Energy": 6.904,
+        "Popularity": 6.58,
+        "BPM": 150,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3gQfLm0ndKTryMW4oPhArh",
+            "explicit": false,
+            "album": "Hey Baby (Speed Up) (Remix)",
+            "release_date": "2022-12-27",
+            "genres": [
+                "sped up"
+            ],
+            "duration": 174643,
+            "acousticness": 0.0374,
+            "danceability": 5.878,
+            "instrumentalness": 0,
+            "liveness": 0.359,
+            "loudness": -14.722,
+            "speechiness": 0.159,
+            "time_signature": 4,
+            "happiness": 8.713000000000001
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "Last Friday Night (T.G.I.F.)",
+        "Artist": "Katy Perry",
+        "Key": "5A",
+        "Energy": 8.334999999999999,
+        "Popularity": 8.02,
+        "BPM": 126,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "455AfCsOhhLPRc68sE01D8",
+            "explicit": false,
+            "album": "Teenage Dream: The Complete Confection",
+            "release_date": "2012-03-12",
+            "genres": [
+                "pop"
+            ],
+            "duration": 230747,
+            "acousticness": 0.00125,
+            "danceability": 6.841,
+            "instrumentalness": 4.31e-05,
+            "liveness": 0.671,
+            "loudness": -3.796,
+            "speechiness": 0.0415,
+            "time_signature": 4,
+            "happiness": 7.885
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Dancing Queen",
+        "Artist": "ABBA",
+        "Key": "11B",
+        "Energy": 8.83,
+        "Popularity": 1.27,
+        "BPM": 101,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "70s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "01iyCAUm8EvOFqVWYJ3dVX",
+            "explicit": false,
+            "album": "Arrival",
+            "release_date": "1976-10-11",
+            "genres": [
+                "europop",
+                "swedish pop"
+            ],
+            "duration": 230400,
+            "acousticness": 0.358,
+            "danceability": 5.8870000000000005,
+            "instrumentalness": 0.000939,
+            "liveness": 0.792,
+            "loudness": -6.514,
+            "speechiness": 0.0428,
+            "time_signature": 4,
+            "happiness": 7.786
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "Everytime We Touch",
+        "Artist": "Cascada",
+        "Key": "4B",
+        "Energy": 9.937,
+        "Popularity": 6.31,
+        "BPM": 142,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2vTaJoK6kaRnwsAPn66STg",
+            "explicit": false,
+            "album": "Everytime We Touch",
+            "release_date": "2011-05-13",
+            "genres": [
+                "eurodance",
+                "europop",
+                "german techno",
+                "melbourne bounce international"
+            ],
+            "duration": 196974,
+            "acousticness": 0.0105,
+            "danceability": 6.796,
+            "instrumentalness": 0,
+            "liveness": 0.276,
+            "loudness": -2.784,
+            "speechiness": 0.0688,
+            "time_signature": 4,
+            "happiness": 4.5280000000000005
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Vier Zomers Lang - Barry Fest Remix",
+        "Artist": "Dirk Meeldijk, Marco Kraats, Barry Fest",
+        "Key": "1B",
+        "Energy": 9.532,
+        "Popularity": 5.41,
+        "BPM": 96,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "216Zm7o5aJcu4kdPpiIXTf",
+            "explicit": false,
+            "album": "Vier Zomers Lang (Barry Fest Remix)",
+            "release_date": "2022-08-05",
+            "genres": [
+                "levenslied",
+                "carnaval",
+                "levenslied",
+                "nederlandse hardstyle",
+                "carnaval",
+                "nederlandse hardstyle"
+            ],
+            "duration": 207064,
+            "acousticness": 0.166,
+            "danceability": 3.943,
+            "instrumentalness": 4.02e-06,
+            "liveness": 0.311,
+            "loudness": -1.632,
+            "speechiness": 0.0614,
+            "time_signature": 4,
+            "happiness": 3.844
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "Sweet Caroline",
+        "Artist": "The Partyjocks",
+        "Key": "3B",
+        "Energy": 9.838,
+        "Popularity": 4.42,
+        "BPM": 145,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "3a1f8lekpGB24k0MFqzQ51",
+            "explicit": false,
+            "album": "Sweet Caroline",
+            "release_date": "2005",
+            "genres": [
+                "carnaval"
+            ],
+            "duration": 214000,
+            "acousticness": 0.0912,
+            "danceability": 6.409,
+            "instrumentalness": 7.28e-05,
+            "liveness": 0.341,
+            "loudness": -4.992,
+            "speechiness": 0.094,
+            "time_signature": 4,
+            "happiness": 4.141
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "Shut Up and Dance",
+        "Artist": "WALK THE MOON",
+        "Key": "3B",
+        "Energy": 8.794,
+        "Popularity": 8.83,
+        "BPM": 128,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Rock",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "4kbj5MwxO1bq9wjT5g9HaA",
+            "explicit": false,
+            "album": "TALKING IS HARD",
+            "release_date": "2014-12-02",
+            "genres": [
+                "dance rock",
+                "modern rock",
+                "pop"
+            ],
+            "duration": 199080,
+            "acousticness": 0.00701,
+            "danceability": 6.202,
+            "instrumentalness": 0,
+            "liveness": 0.257,
+            "loudness": -3.804,
+            "speechiness": 0.0619,
+            "time_signature": 4,
+            "happiness": 6.571
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "Ik Moet Zuipen!",
+        "Artist": "PartyfrieX, Schorre Chef",
+        "Key": "8B",
+        "Energy": 9.541,
+        "Popularity": 1.09,
+        "BPM": 144,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "72lQhFytmSrEVWBiYUWkcR",
+            "explicit": false,
+            "album": "Ik Moet Zuipen!",
+            "release_date": "2017-07-21",
+            "genres": [
+                "carnaval",
+                "nederlandse hardstyle",
+                "carnaval"
+            ],
+            "duration": 204178,
+            "acousticness": 0.106,
+            "danceability": 5.644,
+            "instrumentalness": 0,
+            "liveness": 0.973,
+            "loudness": -3.883,
+            "speechiness": 0.0579,
+            "time_signature": 4,
+            "happiness": 7.867
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "Safe And Sound - Hardstyle",
+        "Artist": "HARDSTYLE MAGE, Vaskan, ZYZZ MUSIC",
+        "Key": "8B",
+        "Energy": 9.037,
+        "Popularity": 6.49,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "11Z22I6gaBcuKQPpONijxG",
+            "explicit": false,
+            "album": "Safe And Sound (Hardstyle)",
+            "release_date": "2023-02-27",
+            "genres": [
+                "gym hardstyle",
+                "gym hardstyle",
+                "gym hardstyle"
+            ],
+            "duration": 143250,
+            "acousticness": 0.03,
+            "danceability": 6.138999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.0887,
+            "loudness": -3.291,
+            "speechiness": 0.0424,
+            "time_signature": 4,
+            "happiness": 5.266
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "APPLAUSE - HARDSTYLE",
+        "Artist": "HARD DEMON, ZYZZ MUSIC, Mr Demon",
+        "Key": "6A",
+        "Energy": 9.316,
+        "Popularity": 5.41,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "75za1P8kRySMtmVsm4TNna",
+            "explicit": false,
+            "album": "APPLAUSE - HARDSTYLE",
+            "release_date": "2023-04-11",
+            "genres": [
+                "gym hardstyle"
+            ],
+            "duration": 145412,
+            "acousticness": 0.313,
+            "danceability": 4.564,
+            "instrumentalness": 0.00204,
+            "liveness": 0.468,
+            "loudness": -2.598,
+            "speechiness": 0.0861,
+            "time_signature": 4,
+            "happiness": 3.691
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "I'm Good (Blue) - Hardstyle Remix",
+        "Artist": "Kratos, Hardstyle Gym Bro",
+        "Key": "11A",
+        "Energy": 9.604,
+        "Popularity": 6.67,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "5YQoeliHU9Iz2La6pgsL9X",
+            "explicit": false,
+            "album": "I'm Good (Blue) [Hardstyle Remix]",
+            "release_date": "2023-03-03",
+            "genres": [
+                "gym hardstyle",
+                "gym hardstyle"
+            ],
+            "duration": 151125,
+            "acousticness": 0.0242,
+            "danceability": 5.374,
+            "instrumentalness": 7.44e-06,
+            "liveness": 0.193,
+            "loudness": -2.381,
+            "speechiness": 0.0651,
+            "time_signature": 4,
+            "happiness": 4.447
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "All That She Wants - Helion Remix",
+        "Artist": "Ace of Base, Helion",
+        "Key": "3B",
+        "Energy": 8.731,
+        "Popularity": 6.040000000000001,
+        "BPM": 75,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "747OPJC1PujokY0T3rAajk",
+            "explicit": false,
+            "album": "All That She Wants (Helion Remix)",
+            "release_date": "2023-06-09",
+            "genres": [
+                "eurodance",
+                "europop",
+                "new wave pop",
+                "melbourne bounce international"
+            ],
+            "duration": 167163,
+            "acousticness": 0.000184,
+            "danceability": 6.247,
+            "instrumentalness": 0.0321,
+            "liveness": 0.165,
+            "loudness": -6.38,
+            "speechiness": 0.0902,
+            "time_signature": 4,
+            "happiness": 4.204
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "Op En Neer (Heen En Weer)",
+        "Artist": "Snollebollekes",
+        "Key": "11B",
+        "Energy": 9.055,
+        "Popularity": 4.87,
+        "BPM": 140,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "6G5vVtqeXBSbvucLpntN1f",
+            "explicit": false,
+            "album": "Op En Neer (Heen En Weer)",
+            "release_date": "2017-11-17",
+            "genres": [
+                "carnaval",
+                "kermis",
+                "nederlandse hardstyle"
+            ],
+            "duration": 177000,
+            "acousticness": 0.0888,
+            "danceability": 7.435,
+            "instrumentalness": 0.00129,
+            "liveness": 0.23,
+            "loudness": -2.14,
+            "speechiness": 0.0756,
+            "time_signature": 4,
+            "happiness": 6.553
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Shirt Uit & Zwaaien",
+        "Artist": "Feestteam, DJ Maurice",
+        "Key": "10A",
+        "Energy": 9.693999999999999,
+        "Popularity": 1.0,
+        "BPM": 136,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7ht8qSQ4ftbfM4LapPsHrw",
+            "explicit": false,
+            "album": "Shirt Uit & Zwaaien",
+            "release_date": "2016-06-24",
+            "genres": [
+                "carnaval",
+                "levenslied",
+                "carnaval",
+                "nederlandse hardstyle"
+            ],
+            "duration": 160781,
+            "acousticness": 0.0907,
+            "danceability": 7.327,
+            "instrumentalness": 0,
+            "liveness": 0.0476,
+            "loudness": -3.25,
+            "speechiness": 0.151,
+            "time_signature": 4,
+            "happiness": 7.93
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "Macarena",
+        "Artist": "Los Del Rio",
+        "Key": "4A",
+        "Energy": 8.992,
+        "Popularity": 6.94,
+        "BPM": 103,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6mhw2fEPH4fMF0wolNm96e",
+            "explicit": false,
+            "album": "Hits Of The 90s",
+            "release_date": "2002-05-20",
+            "genres": [
+                "tropical"
+            ],
+            "duration": 222627,
+            "acousticness": 0.199,
+            "danceability": 7.651,
+            "instrumentalness": 0,
+            "liveness": 0.0704,
+            "loudness": -7.16,
+            "speechiness": 0.0576,
+            "time_signature": 4,
+            "happiness": 9.594999999999999
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "S&M",
+        "Artist": "Rihanna",
+        "Key": "3B",
+        "Energy": 7.138000000000001,
+        "Popularity": 7.93,
+        "BPM": 128,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Happy",
+            "Hip Hop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0C4ejWmOTMv8vuYj85mf8m",
+            "explicit": true,
+            "album": "Loud",
+            "release_date": "2010-11-16",
+            "genres": [
+                "barbadian pop",
+                "pop",
+                "urban contemporary"
+            ],
+            "duration": 243533,
+            "acousticness": 0.0113,
+            "danceability": 7.9030000000000005,
+            "instrumentalness": 0.00016,
+            "liveness": 0.104,
+            "loudness": -5.02,
+            "speechiness": 0.042,
+            "time_signature": 4,
+            "happiness": 8.497
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "YMCA",
+        "Artist": "Village People",
+        "Key": "2B",
+        "Energy": 7.263999999999999,
+        "Popularity": 7.4799999999999995,
+        "BPM": 126,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "80s",
+            "Rock",
+            "Pop",
+            "Dance Remixes",
+            "Calm",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3ypMsqUwfNFMiooMLVHfkp",
+            "explicit": false,
+            "album": "Can't Stop the Music (Original Soundtrack 1980)",
+            "release_date": "1980",
+            "genres": [
+                "disco",
+                "new wave pop",
+                "soft rock"
+            ],
+            "duration": 202573,
+            "acousticness": 0.19,
+            "danceability": 7.678,
+            "instrumentalness": 0,
+            "liveness": 0.151,
+            "loudness": -7.871,
+            "speechiness": 0.0735,
+            "time_signature": 3,
+            "happiness": 8.559999999999999
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "Hangover",
+        "Artist": "Taio Cruz, Flo Rida",
+        "Key": "5B",
+        "Energy": 8.947,
+        "Popularity": 7.93,
+        "BPM": 128,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Dance Remixes",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "5pmL3RzOy3IvGFaSDi4hZL",
+            "explicit": true,
+            "album": "TY.O (International Version)",
+            "release_date": "2011-01-01",
+            "genres": [
+                "dance pop",
+                "pop",
+                "pop rap",
+                "dance pop",
+                "miami hip hop",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 244907,
+            "acousticness": 0.00872,
+            "danceability": 6.454,
+            "instrumentalness": 0,
+            "liveness": 0.0698,
+            "loudness": -3.243,
+            "speechiness": 0.0423,
+            "time_signature": 4,
+            "happiness": 6.4719999999999995
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "Gas Op Die Lollie",
+        "Artist": "FeestDJRuud",
+        "Key": "2B",
+        "Energy": 8.236,
+        "Popularity": 3.5200000000000005,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3OiofJ7W7h7pgi0ufVhYET",
+            "explicit": false,
+            "album": "Gas Op Die Lollie",
+            "release_date": "2011-01-01",
+            "genres": [
+                "carnaval"
+            ],
+            "duration": 187853,
+            "acousticness": 0.179,
+            "danceability": 8.137,
+            "instrumentalness": 0,
+            "liveness": 0.0625,
+            "loudness": -4.68,
+            "speechiness": 0.348,
+            "time_signature": 4,
+            "happiness": 9.469
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "Just Dance (Hardstyle)",
+        "Artist": "puremind",
+        "Key": "1B",
+        "Energy": 9.487,
+        "Popularity": 1.3599999999999999,
+        "BPM": 83,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "37OKETEWvDL52jaxCUlOaF",
+            "explicit": false,
+            "album": "Just Dance (Hardstyle)",
+            "release_date": "2022-10-15",
+            "genres": [
+                "gym hardstyle"
+            ],
+            "duration": 150465,
+            "acousticness": 0.00856,
+            "danceability": 6.066999999999999,
+            "instrumentalness": 0.000422,
+            "liveness": 0.195,
+            "loudness": -4.216,
+            "speechiness": 0.0418,
+            "time_signature": 4,
+            "happiness": 3.151
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "DRUP",
+        "Artist": "Bizzey, Kraantje Pappie, Jonna Fraser, Ramiks",
+        "Key": "7B",
+        "Energy": 6.751,
+        "Popularity": 5.59,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "1fpmB97puEtPLW9ui8qEBw",
+            "explicit": true,
+            "album": "DRUP",
+            "release_date": "2019-01-11",
+            "genres": [
+                "dutch hip hop",
+                "dutch rap pop",
+                "dutch hip hop",
+                "dutch hip hop",
+                "dutch rap pop",
+                "dutch rap pop"
+            ],
+            "duration": 181216,
+            "acousticness": 0.179,
+            "danceability": 9.334,
+            "instrumentalness": 0.00857,
+            "liveness": 0.137,
+            "loudness": -4.729,
+            "speechiness": 0.0729,
+            "time_signature": 4,
+            "happiness": 6.138999999999999
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "What Is Love - 7\" Mix",
+        "Artist": "Haddaway",
+        "Key": "9A",
+        "Energy": 7.948,
+        "Popularity": 8.11,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "EDM",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2ahnofp2LbBWDXcJbMaSTu",
+            "explicit": false,
+            "album": "What Is Love (Remixes)",
+            "release_date": "1993-03-22",
+            "genres": [
+                "eurodance",
+                "europop"
+            ],
+            "duration": 270373,
+            "acousticness": 0.0222,
+            "danceability": 7.147,
+            "instrumentalness": 0.0149,
+            "liveness": 0.203,
+            "loudness": -7.907,
+            "speechiness": 0.0311,
+            "time_signature": 4,
+            "happiness": 7.633
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "Rampeneren",
+        "Artist": "Ali B, The Partysquad, Yes-R",
+        "Key": "1A",
+        "Energy": 6.2379999999999995,
+        "Popularity": 6.040000000000001,
+        "BPM": 125,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "EDM",
+            "Latin",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6t2BM5Thoh9b2H9PnbEVKI",
+            "explicit": false,
+            "album": "Petje Af",
+            "release_date": "2006",
+            "genres": [
+                "dutch hip hop",
+                "dutch pop",
+                "dutch hip hop",
+                "moombahton",
+                "dutch hip hop"
+            ],
+            "duration": 227413,
+            "acousticness": 0.0517,
+            "danceability": 9.693999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.0329,
+            "loudness": -8.521,
+            "speechiness": 0.0779,
+            "time_signature": 4,
+            "happiness": 9.127
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "Lekker Pik",
+        "Artist": "Buren Van De Brandweer",
+        "Key": "2B",
+        "Energy": 9.082,
+        "Popularity": 5.2299999999999995,
+        "BPM": 75,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "5lwLPeFUuXXcj6h5u65Qek",
+            "explicit": true,
+            "album": "Lekker Pik",
+            "release_date": "2017-11-19",
+            "genres": [
+                "carnaval",
+                "nederlandse hardstyle"
+            ],
+            "duration": 193828,
+            "acousticness": 0.0358,
+            "danceability": 8.182,
+            "instrumentalness": 1.31e-05,
+            "liveness": 0.124,
+            "loudness": -4.082,
+            "speechiness": 0.237,
+            "time_signature": 4,
+            "happiness": 8.191
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "Leipe Mocro Flavour",
+        "Artist": "Ali B",
+        "Key": "10B",
+        "Energy": 6.904,
+        "Popularity": 4.24,
+        "BPM": 107,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3T6dHNzhmIRKJ9h29jgGgh",
+            "explicit": false,
+            "album": "Vertelt Het Leven Van De Straat",
+            "release_date": "2004",
+            "genres": [
+                "dutch hip hop",
+                "dutch pop"
+            ],
+            "duration": 211800,
+            "acousticness": 0.0241,
+            "danceability": 9.721,
+            "instrumentalness": 0,
+            "liveness": 0.0617,
+            "loudness": -8.467,
+            "speechiness": 0.0821,
+            "time_signature": 4,
+            "happiness": 8.119
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "Liberté - Zany Radio Remix",
+        "Artist": "Parla & Pardoux",
+        "Key": "3B",
+        "Energy": 9.793,
+        "Popularity": 5.7700000000000005,
+        "BPM": 75,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2NCBTuKIRThf3jLJhvm14v",
+            "explicit": false,
+            "album": "Liberté (Zany Remix)",
+            "release_date": "2018-09-14",
+            "genres": [
+                "nederlandse hardstyle"
+            ],
+            "duration": 145000,
+            "acousticness": 0.011,
+            "danceability": 5.437,
+            "instrumentalness": 0.00572,
+            "liveness": 0.226,
+            "loudness": -3.312,
+            "speechiness": 0.0555,
+            "time_signature": 4,
+            "happiness": 7.228
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "1001 Arabian Nights - Hak op de Tak & Martin B Remix",
+        "Artist": "Chipz, Hak op de Tak, Martin B",
+        "Key": "3B",
+        "Energy": 9.487,
+        "Popularity": 5.41,
+        "BPM": 145,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3uv37u1YJoziwuO8Nq65Dz",
+            "explicit": false,
+            "album": "1001 Arabian Nights (Hak op de Tak & Martin B Remix)",
+            "release_date": "2022-06-03",
+            "genres": [
+                "bubblegum dance",
+                "nederlandse hardstyle"
+            ],
+            "duration": 185379,
+            "acousticness": 0.00266,
+            "danceability": 6.913,
+            "instrumentalness": 0.0913,
+            "liveness": 0.154,
+            "loudness": -3.023,
+            "speechiness": 0.08,
+            "time_signature": 4,
+            "happiness": 7.165000000000001
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "Safe And Sound",
+        "Artist": "Capital Cities",
+        "Key": "8B",
+        "Energy": 8.370999999999999,
+        "Popularity": 8.74,
+        "BPM": 118,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Club-Hotel",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6Z8R6UsFuGXGtiIxiD8ISb",
+            "explicit": false,
+            "album": "In A Tidal Wave Of Mystery (Deluxe Edition)",
+            "release_date": "2013",
+            "genres": [
+                "metropopolis",
+                "modern rock"
+            ],
+            "duration": 192790,
+            "acousticness": 0.000176,
+            "danceability": 6.8950000000000005,
+            "instrumentalness": 0.00374,
+            "liveness": 0.104,
+            "loudness": -4.852,
+            "speechiness": 0.0316,
+            "time_signature": 5,
+            "happiness": 7.894
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "Like A G6",
+        "Artist": "Far East Movement, The Cataracs, DEV",
+        "Key": "5B",
+        "Energy": 8.533,
+        "Popularity": 8.02,
+        "BPM": 125,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Dance Remixes",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5AyL2kgLtTWEu3qO3B9SqK",
+            "explicit": false,
+            "album": "Free Wired",
+            "release_date": "2010-01-01",
+            "genres": [
+                "asian american hip hop",
+                "dance pop",
+                "pop rap"
+            ],
+            "duration": 216893,
+            "acousticness": 0.00676,
+            "danceability": 4.915,
+            "instrumentalness": 0,
+            "liveness": 0.117,
+            "loudness": -8.126,
+            "speechiness": 0.449,
+            "time_signature": 4,
+            "happiness": 8.002
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "Shameless (Techno)",
+        "Artist": "Way 2 Hard, Way 2 Fast",
+        "Key": "12A",
+        "Energy": 7.885,
+        "Popularity": 5.32,
+        "BPM": 145,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "5MFdNP6LWuJwLc0h2ZaxaG",
+            "explicit": false,
+            "album": "Shameless (Techno)",
+            "release_date": "2023-01-26",
+            "genres": [
+                "sped up"
+            ],
+            "duration": 193712,
+            "acousticness": 0.0263,
+            "danceability": 7.552,
+            "instrumentalness": 0.681,
+            "liveness": 0.196,
+            "loudness": -9.0,
+            "speechiness": 0.0685,
+            "time_signature": 4,
+            "happiness": 1.6228
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "Atje Voor De Sfeer - DJ Maurice Remix",
+        "Artist": "Rene Karst, DJ Maurice",
+        "Key": "1A",
+        "Energy": 9.549999999999999,
+        "Popularity": 2.62,
+        "BPM": 140,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "6LAGAzthU6SV8riX88qPZ6",
+            "explicit": false,
+            "album": "Atje Voor De Sfeer (DJ Maurice Remix)",
+            "release_date": "2019-05-24",
+            "genres": [
+                "carnaval",
+                "kermis",
+                "levenslied",
+                "carnaval",
+                "nederlandse hardstyle"
+            ],
+            "duration": 165000,
+            "acousticness": 0.122,
+            "danceability": 7.948,
+            "instrumentalness": 0,
+            "liveness": 0.326,
+            "loudness": -3.145,
+            "speechiness": 0.134,
+            "time_signature": 4,
+            "happiness": 6.823
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "Sex Met Die Kale",
+        "Artist": "Lawineboys, DJ Jerome",
+        "Key": "4B",
+        "Energy": 9.847,
+        "Popularity": 5.68,
+        "BPM": 77,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "31DSKNhOyK88M3yRVANJfz",
+            "explicit": false,
+            "album": "10 Jaar Lawinegevaar",
+            "release_date": "2012-01-19",
+            "genres": [
+                "carnaval",
+                "levenslied"
+            ],
+            "duration": 225000,
+            "acousticness": 0.139,
+            "danceability": 6.445,
+            "instrumentalness": 2.33e-05,
+            "liveness": 0.774,
+            "loudness": -2.595,
+            "speechiness": 0.0426,
+            "time_signature": 4,
+            "happiness": 9.172
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "Feesttent",
+        "Artist": "Kraantje Pappie, MC Jiggy Djé",
+        "Key": "9B",
+        "Energy": 9.343,
+        "Popularity": 6.13,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3jFnYU30fibZbOE9y4wPQx",
+            "explicit": false,
+            "album": "Crane II",
+            "release_date": "2014-01-01",
+            "genres": [
+                "dutch hip hop"
+            ],
+            "duration": 183707,
+            "acousticness": 0.132,
+            "danceability": 7.426,
+            "instrumentalness": 0,
+            "liveness": 0.686,
+            "loudness": -2.996,
+            "speechiness": 0.319,
+            "time_signature": 4,
+            "happiness": 8.173
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "Atje Voor De Sfeer - Hardstyle Remix",
+        "Artist": "Rene Karst, Altijd Larstig & Rob Gasd'rop, Poar Neem'n",
+        "Key": "9B",
+        "Energy": 9.649,
+        "Popularity": 4.6899999999999995,
+        "BPM": 150,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "42CxtPzRkuHA1wyQr78W1S",
+            "explicit": false,
+            "album": "Atje Voor De Sfeer (Hardstyle Remix)",
+            "release_date": "2019-06-14",
+            "genres": [
+                "carnaval",
+                "kermis",
+                "levenslied",
+                "nederlandse hardstyle",
+                "nederlandse hardstyle"
+            ],
+            "duration": 171567,
+            "acousticness": 0.0106,
+            "danceability": 6.2829999999999995,
+            "instrumentalness": 0.000587,
+            "liveness": 0.338,
+            "loudness": -3.913,
+            "speechiness": 0.0617,
+            "time_signature": 4,
+            "happiness": 6.3999999999999995
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "Bietje Bas",
+        "Artist": "Dr Rude, Schorre Chef & MC Vals",
+        "Key": "9B",
+        "Energy": 9.874,
+        "Popularity": 5.2299999999999995,
+        "BPM": 75,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2ZThLTNBFvgJx7H2yV4cVL",
+            "explicit": false,
+            "album": "Bietje Bas",
+            "release_date": "2021-10-01",
+            "genres": [
+                "classic hardstyle",
+                "euphoric hardstyle",
+                "rawstyle"
+            ],
+            "duration": 154617,
+            "acousticness": 0.0211,
+            "danceability": 6.040000000000001,
+            "instrumentalness": 0.00801,
+            "liveness": 0.312,
+            "loudness": -1.954,
+            "speechiness": 0.0937,
+            "time_signature": 4,
+            "happiness": 5.995
+        }
+    },
+    {
+        "#": 52,
+        "Track Title": "Boom Boom Boom Boom !!",
+        "Artist": "Willy William, Vengaboys",
+        "Key": "3B",
+        "Energy": 8.911,
+        "Popularity": 5.32,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Pop",
+            "Happy",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1ORBjMSbvMsnRWWFW1Umfx",
+            "explicit": false,
+            "album": "Boom Boom Boom Boom !!",
+            "release_date": "2023-06-15",
+            "genres": [
+                "pop dance",
+                "bubblegum dance",
+                "eurodance",
+                "europop"
+            ],
+            "duration": 150510,
+            "acousticness": 0.029,
+            "danceability": 7.606,
+            "instrumentalness": 0.000429,
+            "liveness": 0.153,
+            "loudness": -4.792,
+            "speechiness": 0.0364,
+            "time_signature": 4,
+            "happiness": 8.578
+        }
+    },
+    {
+        "#": 53,
+        "Track Title": "Make Some Noise",
+        "Artist": "Brennan Heart, Ben Nicky, Maikki",
+        "Key": "2A",
+        "Energy": 9.172,
+        "Popularity": 5.7700000000000005,
+        "BPM": 77,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "7kk5uXHvIq9APSfAuoPfvk",
+            "explicit": true,
+            "album": "Make Some Noise (feat. Maikki)",
+            "release_date": "2022-10-27",
+            "genres": [
+                "classic hardstyle",
+                "euphoric hardstyle",
+                "rawstyle",
+                "hard trance"
+            ],
+            "duration": 208937,
+            "acousticness": 0.00701,
+            "danceability": 4.618,
+            "instrumentalness": 0.00243,
+            "liveness": 0.0677,
+            "loudness": -5.004,
+            "speechiness": 0.316,
+            "time_signature": 4,
+            "happiness": 3.394
+        }
+    },
+    {
+        "#": 54,
+        "Track Title": "Belly Dancer",
+        "Artist": "Imanbek, BYOR",
+        "Key": "3B",
+        "Energy": 8.173,
+        "Popularity": 8.74,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Pop",
+            "Dance Remixes",
+            "Club-Hotel"
+        ],
+        "Additional Info": {
+            "id": "7fZBQnc0zXwVybgCIrQQil",
+            "explicit": false,
+            "album": "Belly Dancer",
+            "release_date": "2022-02-18",
+            "genres": [
+                "electro house",
+                "pop dance",
+                "slap house",
+                "pop dance",
+                "russian edm"
+            ],
+            "duration": 151475,
+            "acousticness": 0.0582,
+            "danceability": 8.605,
+            "instrumentalness": 5.57e-06,
+            "liveness": 0.167,
+            "loudness": -4.984,
+            "speechiness": 0.139,
+            "time_signature": 4,
+            "happiness": 4.798
+        }
+    },
+    {
+        "#": 55,
+        "Track Title": "Baby Girl",
+        "Artist": "Disco Lines",
+        "Key": "10B",
+        "Energy": 9.163,
+        "Popularity": 8.2,
+        "BPM": 121,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2cSdAkzAf2T4j4aLvx4LLz",
+            "explicit": false,
+            "album": "Baby Girl",
+            "release_date": "2022-06-15",
+            "genres": [
+                "stutter house"
+            ],
+            "duration": 111074,
+            "acousticness": 0.0921,
+            "danceability": 7.57,
+            "instrumentalness": 0.114,
+            "liveness": 0.23,
+            "loudness": -3.72,
+            "speechiness": 0.0606,
+            "time_signature": 4,
+            "happiness": 3.241
+        }
+    },
+    {
+        "#": 56,
+        "Track Title": "Ik Ga Zwemmen",
+        "Artist": "Mart Hoogkamer",
+        "Key": "3B",
+        "Energy": 9.019,
+        "Popularity": 6.58,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1f9X68h6QGh01bD0r4g9DF",
+            "explicit": false,
+            "album": "Ik Ga Zwemmen",
+            "release_date": "2021-07-15",
+            "genres": [
+                "carnaval",
+                "kermis"
+            ],
+            "duration": 179364,
+            "acousticness": 0.203,
+            "danceability": 5.239,
+            "instrumentalness": 0,
+            "liveness": 0.332,
+            "loudness": -3.848,
+            "speechiness": 0.142,
+            "time_signature": 4,
+            "happiness": 8.965
+        }
+    },
+    {
+        "#": 57,
+        "Track Title": "Vrouwkes",
+        "Artist": "Snollebollekes",
+        "Key": "7B",
+        "Energy": 8.002,
+        "Popularity": 5.86,
+        "BPM": 128,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1YttCaGuyv7rcrVQ0qRkhc",
+            "explicit": false,
+            "album": "… En Door",
+            "release_date": "2017-02-03",
+            "genres": [
+                "carnaval",
+                "kermis",
+                "nederlandse hardstyle"
+            ],
+            "duration": 168000,
+            "acousticness": 0.161,
+            "danceability": 8.632,
+            "instrumentalness": 0.00018,
+            "liveness": 0.0913,
+            "loudness": -7.147,
+            "speechiness": 0.189,
+            "time_signature": 4,
+            "happiness": 8.182
+        }
+    },
+    {
+        "#": 58,
+        "Track Title": "Helemaal Naar De Klotuh!",
+        "Artist": "Berend Beuker",
+        "Key": "10B",
+        "Energy": 9.073,
+        "Popularity": 5.86,
+        "BPM": 150,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "5dxGjVQocFOjacTNkj4RKH",
+            "explicit": true,
+            "album": "Helemaal Naar De Klotuh!",
+            "release_date": "2020-09-15",
+            "genres": [
+                "nederlandse hardstyle"
+            ],
+            "duration": 172075,
+            "acousticness": 0.00743,
+            "danceability": 5.716,
+            "instrumentalness": 0.000495,
+            "liveness": 0.767,
+            "loudness": -2.664,
+            "speechiness": 0.03,
+            "time_signature": 4,
+            "happiness": 4.824999999999999
+        }
+    },
+    {
+        "#": 59,
+        "Track Title": "Temperature",
+        "Artist": "Sean Paul",
+        "Key": "8A",
+        "Energy": 6.3999999999999995,
+        "Popularity": 8.649999999999999,
+        "BPM": 125,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Pop",
+            "Dance Remixes",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0k2GOhqsrxDTAbFFSdNJjT",
+            "explicit": false,
+            "album": "The Trinity",
+            "release_date": "2005-09-26",
+            "genres": [
+                "dance pop",
+                "dancehall",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 218573,
+            "acousticness": 0.106,
+            "danceability": 9.559,
+            "instrumentalness": 0,
+            "liveness": 0.0712,
+            "loudness": -4.675,
+            "speechiness": 0.0685,
+            "time_signature": 4,
+            "happiness": 8.398
+        }
+    },
+    {
+        "#": 60,
+        "Track Title": "I Know You Want Me (Calle Ocho)",
+        "Artist": "Pitbull",
+        "Key": "10B",
+        "Energy": 7.5969999999999995,
+        "Popularity": 7.75,
+        "BPM": 127,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Pop",
+            "Dance Remixes",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "13plQdOoWSSXPRUSZc5FuM",
+            "explicit": false,
+            "album": "Pitbull Starring In Rebelution",
+            "release_date": "2009-08-27",
+            "genres": [
+                "dance pop",
+                "miami hip hop",
+                "pop"
+            ],
+            "duration": 237120,
+            "acousticness": 0.0152,
+            "danceability": 8.353,
+            "instrumentalness": 4.31e-05,
+            "liveness": 0.107,
+            "loudness": -6.009,
+            "speechiness": 0.145,
+            "time_signature": 4,
+            "happiness": 8.497
+        }
+    },
+    {
+        "#": 61,
+        "Track Title": "Tacata' - Radio Edit",
+        "Artist": "Taca Taca",
+        "Key": "2A",
+        "Energy": 9.370000000000001,
+        "Popularity": 6.13,
+        "BPM": 127,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3tpq43ITbAyLHcXrYWQ8xW",
+            "explicit": false,
+            "album": "Tacata'",
+            "release_date": "2012-06-11",
+            "genres": [],
+            "duration": 211191,
+            "acousticness": 0.0595,
+            "danceability": 8.83,
+            "instrumentalness": 0,
+            "liveness": 0.334,
+            "loudness": -1.873,
+            "speechiness": 0.179,
+            "time_signature": 4,
+            "happiness": 7.497999999999999
+        }
+    },
+    {
+        "#": 62,
+        "Track Title": "Schatje Mag Ik Je Foto?",
+        "Artist": "Gebroeders Ko",
+        "Key": "12B",
+        "Energy": 8.92,
+        "Popularity": 5.59,
+        "BPM": 140,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3q3BWcltOQShTGJ3Yub7a7",
+            "explicit": false,
+            "album": "Ko & Ko",
+            "release_date": "2012-07-23",
+            "genres": [
+                "carnaval",
+                "levenslied"
+            ],
+            "duration": 204000,
+            "acousticness": 0.286,
+            "danceability": 6.823,
+            "instrumentalness": 0,
+            "liveness": 0.374,
+            "loudness": -6.353,
+            "speechiness": 0.0505,
+            "time_signature": 4,
+            "happiness": 8.875
+        }
+    },
+    {
+        "#": 63,
+        "Track Title": "Danza Kuduro 2019 - Diamont Dr",
+        "Artist": "Lucenzo, Don Omar, Big Ali, Luigi Ramirez",
+        "Key": "9B",
+        "Energy": 7.426,
+        "Popularity": 5.59,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Latin",
+            "Pop",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "6UcRpwQooAsR4ru2IPEcFP",
+            "explicit": false,
+            "album": "Emigrante Del Mundo",
+            "release_date": "2020-12-04",
+            "genres": [
+                "reggaeton",
+                "latin hip hop",
+                "puerto rican pop",
+                "reggaeton",
+                "trap latino",
+                "urbano latino"
+            ],
+            "duration": 180705,
+            "acousticness": 0.00233,
+            "danceability": 8.713000000000001,
+            "instrumentalness": 0.0251,
+            "liveness": 0.0195,
+            "loudness": -6.401,
+            "speechiness": 0.168,
+            "time_signature": 4,
+            "happiness": 4.861
+        }
+    },
+    {
+        "#": 64,
+        "Track Title": "Alors on Danse (Remix Edit) [feat. Kayne West & Gilbere Forte]",
+        "Artist": "Stromae",
+        "Key": "12B",
+        "Energy": 8.794,
+        "Popularity": 5.95,
+        "BPM": 128,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2hLxucFzyVxjS47MFyJ9tr",
+            "explicit": false,
+            "album": "Dance Mix USA in the Club (Mixed by Ted the Dillenger) (Continuous DJ Mix)",
+            "release_date": "2011-03-15",
+            "genres": [
+                "belgian pop",
+                "g-house"
+            ],
+            "duration": 210240,
+            "acousticness": 0.292,
+            "danceability": 7.327,
+            "instrumentalness": 0.000229,
+            "liveness": 0.481,
+            "loudness": -4.363,
+            "speechiness": 0.187,
+            "time_signature": 4,
+            "happiness": 6.49
+        }
+    },
+    {
+        "#": 65,
+        "Track Title": "Follow The Leader",
+        "Artist": "The Soca Boys, Van B. King",
+        "Key": "9B",
+        "Energy": 9.280000000000001,
+        "Popularity": 6.13,
+        "BPM": 144,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3MktEQFErlU3BeJY1pFFU1",
+            "explicit": false,
+            "album": "The Album",
+            "release_date": "1998",
+            "genres": [],
+            "duration": 254307,
+            "acousticness": 0.00109,
+            "danceability": 7.894,
+            "instrumentalness": 0.000161,
+            "liveness": 0.337,
+            "loudness": -6.699,
+            "speechiness": 0.0935,
+            "time_signature": 4,
+            "happiness": 9.442
+        }
+    },
+    {
+        "#": 66,
+        "Track Title": "Krokobil",
+        "Artist": "Yellow Claw, Sjaak, Mr. Polska",
+        "Key": "9B",
+        "Energy": 9.541,
+        "Popularity": 4.96,
+        "BPM": 111,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "3CTzu9T44pFp2nz2mDDSHI",
+            "explicit": false,
+            "album": "Krokobil",
+            "release_date": "2012-06-22",
+            "genres": [
+                "edm",
+                "electro house",
+                "pop dance",
+                "dutch hip hop",
+                "polish hip hop",
+                "polish trap"
+            ],
+            "duration": 218787,
+            "acousticness": 0.0181,
+            "danceability": 7.435,
+            "instrumentalness": 0.00146,
+            "liveness": 0.0901,
+            "loudness": -3.42,
+            "speechiness": 0.086,
+            "time_signature": 4,
+            "happiness": 6.103
+        }
+    },
+    {
+        "#": 67,
+        "Track Title": "Toeter Op M`n Waterscooter (Bubbling Versie)",
+        "Artist": "Gebroeders Ko",
+        "Key": "9B",
+        "Energy": 9.793,
+        "Popularity": 5.2299999999999995,
+        "BPM": 146,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3XpQwvRzz7zWDd5iov3DDQ",
+            "explicit": false,
+            "album": "Villa Fiesta",
+            "release_date": "2008-02-11",
+            "genres": [
+                "carnaval",
+                "levenslied"
+            ],
+            "duration": 202000,
+            "acousticness": 0.0195,
+            "danceability": 6.589,
+            "instrumentalness": 0.0162,
+            "liveness": 0.109,
+            "loudness": -5.929,
+            "speechiness": 0.102,
+            "time_signature": 4,
+            "happiness": 9.289
+        }
+    },
+    {
+        "#": 68,
+        "Track Title": "Waar Is Da Feestje",
+        "Artist": "Feestteam",
+        "Key": "8B",
+        "Energy": 8.92,
+        "Popularity": 4.24,
+        "BPM": 135,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "1i8nbtLWfGfx4hOHK3kEgl",
+            "explicit": false,
+            "album": "Feest en Flauwekult",
+            "release_date": "2012-01-19",
+            "genres": [
+                "carnaval",
+                "levenslied"
+            ],
+            "duration": 182000,
+            "acousticness": 0.0956,
+            "danceability": 8.641,
+            "instrumentalness": 0,
+            "liveness": 0.0644,
+            "loudness": -5.387,
+            "speechiness": 0.2,
+            "time_signature": 4,
+            "happiness": 6.67
+        }
+    },
+    {
+        "#": 69,
+        "Track Title": "Stap Voor Stap - Frequencerz Remix",
+        "Artist": "Kav Verhouzer, Sjaak, Frequencerz",
+        "Key": "1B",
+        "Energy": 9.955,
+        "Popularity": 4.779999999999999,
+        "BPM": 75,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3GRwTEb9w317P7rXTByvkT",
+            "explicit": true,
+            "album": "Stap Voor Stap (Frequencerz Remix)",
+            "release_date": "2018-10-01",
+            "genres": [
+                "deep tropical house",
+                "dutch hip hop",
+                "classic hardstyle",
+                "euphoric hardstyle",
+                "rawstyle"
+            ],
+            "duration": 187200,
+            "acousticness": 0.0155,
+            "danceability": 6.337,
+            "instrumentalness": 0.329,
+            "liveness": 0.357,
+            "loudness": -1.241,
+            "speechiness": 0.0585,
+            "time_signature": 4,
+            "happiness": 6.445
+        }
+    },
+    {
+        "#": 70,
+        "Track Title": "Hotel Room Service",
+        "Artist": "Pitbull",
+        "Key": "3B",
+        "Energy": 6.679,
+        "Popularity": 7.84,
+        "BPM": 126,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Pop",
+            "Dance Remixes",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0OPyDgTRuIdCJ9B4bYSths",
+            "explicit": false,
+            "album": "Pitbull Starring In Rebelution",
+            "release_date": "2009-08-27",
+            "genres": [
+                "dance pop",
+                "miami hip hop",
+                "pop"
+            ],
+            "duration": 237600,
+            "acousticness": 0.00684,
+            "danceability": 8.649999999999999,
+            "instrumentalness": 0.000406,
+            "liveness": 0.0679,
+            "loudness": -8.401,
+            "speechiness": 0.227,
+            "time_signature": 4,
+            "happiness": 7.6419999999999995
+        }
+    },
+    {
+        "#": 71,
+        "Track Title": "I Like to Move it - Radio Mix",
+        "Artist": "Nicola Fasano, Miami Rockets",
+        "Key": "8A",
+        "Energy": 9.361,
+        "Popularity": 6.3999999999999995,
+        "BPM": 128,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "0MjeQ5T5E50q0d3i72854N",
+            "explicit": false,
+            "album": "I Like to Move it (Radio Mix)",
+            "release_date": "2016-06-10",
+            "genres": [],
+            "duration": 158501,
+            "acousticness": 0.042,
+            "danceability": 7.4799999999999995,
+            "instrumentalness": 0.00681,
+            "liveness": 0.0935,
+            "loudness": -3.879,
+            "speechiness": 0.0447,
+            "time_signature": 4,
+            "happiness": 6.607
+        }
+    },
+    {
+        "#": 72,
+        "Track Title": "Bad Romance",
+        "Artist": "Lady Gaga",
+        "Key": "8B",
+        "Energy": 9.289,
+        "Popularity": 8.649999999999999,
+        "BPM": 119,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Dance Remixes",
+            "Pop",
+            "Inspiring",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0SiywuOBRcynK0uKGWdCnn",
+            "explicit": true,
+            "album": "The Fame Monster (Deluxe Edition)",
+            "release_date": "2009-11-05",
+            "genres": [
+                "art pop",
+                "dance pop",
+                "pop"
+            ],
+            "duration": 294573,
+            "acousticness": 0.00314,
+            "danceability": 7.263999999999999,
+            "instrumentalness": 5.24e-05,
+            "liveness": 0.0842,
+            "loudness": -3.755,
+            "speechiness": 0.0363,
+            "time_signature": 4,
+            "happiness": 7.426
+        }
+    },
+    {
+        "#": 73,
+        "Track Title": "Sterrenstof",
+        "Artist": "De Jeugd Van Tegenwoordig",
+        "Key": "7A",
+        "Energy": 8.11,
+        "Popularity": 6.76,
+        "BPM": 97,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "7D5vAulNfrQV6xEwzgH0OF",
+            "explicit": true,
+            "album": "De Lachende Derde",
+            "release_date": "2010-01-01",
+            "genres": [
+                "dutch hip hop",
+                "dutch pop",
+                "dutch rock"
+            ],
+            "duration": 220947,
+            "acousticness": 0.317,
+            "danceability": 7.426,
+            "instrumentalness": 1.27e-05,
+            "liveness": 0.198,
+            "loudness": -3.757,
+            "speechiness": 0.109,
+            "time_signature": 4,
+            "happiness": 9.136000000000001
+        }
+    },
+    {
+        "#": 74,
+        "Track Title": "Tijdmachine",
+        "Artist": "Dio, Sef",
+        "Key": "4A",
+        "Energy": 8.308,
+        "Popularity": 6.040000000000001,
+        "BPM": 98,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s"
+        ],
+        "Additional Info": {
+            "id": "0xhWYqbieArhuGsYn9ADzF",
+            "explicit": false,
+            "album": "Rock & Roll",
+            "release_date": "2009-01-01",
+            "genres": [
+                "dutch hip hop",
+                "dutch hip hop"
+            ],
+            "duration": 223440,
+            "acousticness": 0.114,
+            "danceability": 8.479,
+            "instrumentalness": 0,
+            "liveness": 0.0901,
+            "loudness": -3.632,
+            "speechiness": 0.378,
+            "time_signature": 4,
+            "happiness": 6.76
+        }
+    },
+    {
+        "#": 75,
+        "Track Title": "Tante Lien",
+        "Artist": "De Jeugd Van Tegenwoordig",
+        "Key": "3B",
+        "Energy": 6.886,
+        "Popularity": 4.779999999999999,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6lj0yxC8lnP3nHpits0vBa",
+            "explicit": true,
+            "album": "De Lachende Derde",
+            "release_date": "2010",
+            "genres": [
+                "dutch hip hop",
+                "dutch pop",
+                "dutch rock"
+            ],
+            "duration": 325467,
+            "acousticness": 0.324,
+            "danceability": 7.912,
+            "instrumentalness": 0.00101,
+            "liveness": 0.0749,
+            "loudness": -4.516,
+            "speechiness": 0.187,
+            "time_signature": 4,
+            "happiness": 7.273
+        }
+    },
+    {
+        "#": 76,
+        "Track Title": "Bagagedrager",
+        "Artist": "Gers Pardoel, Sef",
+        "Key": "9B",
+        "Energy": 7.5249999999999995,
+        "Popularity": 5.95,
+        "BPM": 105,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "3v0ouAltce6AySBTYBP3pk",
+            "explicit": false,
+            "album": "Deze Wereld Is Van Jou",
+            "release_date": "2011-01-01",
+            "genres": [
+                "dutch hip hop",
+                "dutch pop",
+                "dutch hip hop"
+            ],
+            "duration": 221827,
+            "acousticness": 0.164,
+            "danceability": 9.001,
+            "instrumentalness": 0,
+            "liveness": 0.124,
+            "loudness": -7.134,
+            "speechiness": 0.165,
+            "time_signature": 4,
+            "happiness": 6.508
+        }
+    },
+    {
+        "#": 77,
+        "Track Title": "Liefde In De Lucht",
+        "Artist": "Kraantje Pappie, Joshua Nolet",
+        "Key": "11B",
+        "Energy": 7.308999999999999,
+        "Popularity": 5.59,
+        "BPM": 81,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3xbLeZAtP6yVnsgP3EGlie",
+            "explicit": true,
+            "album": "Liefde In De Lucht",
+            "release_date": "2018-06-08",
+            "genres": [
+                "dutch hip hop"
+            ],
+            "duration": 212328,
+            "acousticness": 0.17,
+            "danceability": 7.768,
+            "instrumentalness": 0,
+            "liveness": 0.119,
+            "loudness": -6.489,
+            "speechiness": 0.143,
+            "time_signature": 4,
+            "happiness": 8.379999999999999
+        }
+    },
+    {
+        "#": 78,
+        "Track Title": "Shut up My Moms Calling - (Sped Up)",
+        "Artist": "Hotel Ugly",
+        "Key": "7A",
+        "Energy": 5.266,
+        "Popularity": 8.74,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "31mzt4ZV8C0f52pIz1NSwd",
+            "explicit": false,
+            "album": "Shut up My Moms Calling (Sped up)",
+            "release_date": "2022-09-14",
+            "genres": [
+                "modern indie pop"
+            ],
+            "duration": 135529,
+            "acousticness": 0.312,
+            "danceability": 6.877000000000001,
+            "instrumentalness": 6.65e-06,
+            "liveness": 0.119,
+            "loudness": -10.899,
+            "speechiness": 0.103,
+            "time_signature": 4,
+            "happiness": 4.249
+        }
+    },
+    {
+        "#": 79,
+        "Track Title": "Wet Dreamz",
+        "Artist": "J. Cole",
+        "Key": "2A",
+        "Energy": 7.497999999999999,
+        "Popularity": 8.83,
+        "BPM": 88,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "4tqcoej1zPvwePZCzuAjJd",
+            "explicit": true,
+            "album": "2014 Forest Hills Drive",
+            "release_date": "2014-12-09",
+            "genres": [
+                "conscious hip hop",
+                "hip hop",
+                "north carolina hip hop",
+                "rap"
+            ],
+            "duration": 239267,
+            "acousticness": 0.0697,
+            "danceability": 5.455,
+            "instrumentalness": 0,
+            "liveness": 0.113,
+            "loudness": -8.108,
+            "speechiness": 0.357,
+            "time_signature": 4,
+            "happiness": 5.851
+        }
+    },
+    {
+        "#": 80,
+        "Track Title": "The Real Slim Shady",
+        "Artist": "Eminem",
+        "Key": "7A",
+        "Energy": 6.949,
+        "Popularity": 9.1,
+        "BPM": 105,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Hip Hop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3yfqSUWxFvZELEM4PmlwIR",
+            "explicit": true,
+            "album": "The Marshall Mathers LP",
+            "release_date": "2000-05-23",
+            "genres": [
+                "detroit hip hop",
+                "hip hop",
+                "rap"
+            ],
+            "duration": 284200,
+            "acousticness": 0.0302,
+            "danceability": 9.541,
+            "instrumentalness": 0,
+            "liveness": 0.0454,
+            "loudness": -4.244,
+            "speechiness": 0.0572,
+            "time_signature": 4,
+            "happiness": 7.84
+        }
+    },
+    {
+        "#": 81,
+        "Track Title": "Superman",
+        "Artist": "Eminem, Dina Rae",
+        "Key": "12A",
+        "Energy": 7.795,
+        "Popularity": 9.01,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "4woTEX1wYOTGDqNXuavlRC",
+            "explicit": true,
+            "album": "The Eminem Show",
+            "release_date": "2002-05-26",
+            "genres": [
+                "detroit hip hop",
+                "hip hop",
+                "rap"
+            ],
+            "duration": 350320,
+            "acousticness": 0.0215,
+            "danceability": 8.218,
+            "instrumentalness": 0,
+            "liveness": 0.295,
+            "loudness": -3.138,
+            "speechiness": 0.0564,
+            "time_signature": 4,
+            "happiness": 6.22
+        }
+    },
+    {
+        "#": 82,
+        "Track Title": "Rock Your Body",
+        "Artist": "Justin Timberlake",
+        "Key": "12A",
+        "Energy": 7.426,
+        "Popularity": 8.290000000000001,
+        "BPM": 101,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1AWQoqb9bSvzTjaLralEkT",
+            "explicit": false,
+            "album": "Justified",
+            "release_date": "2002-11-04",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "duration": 267267,
+            "acousticness": 0.201,
+            "danceability": 9.028,
+            "instrumentalness": 0.000234,
+            "liveness": 0.0521,
+            "loudness": -6.055,
+            "speechiness": 0.141,
+            "time_signature": 4,
+            "happiness": 8.353
+        }
+    },
+    {
+        "#": 83,
+        "Track Title": "Problem",
+        "Artist": "Ariana Grande, Iggy Azalea",
+        "Key": "3A",
+        "Energy": 8.245000000000001,
+        "Popularity": 8.11,
+        "BPM": 103,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Dance Remixes",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "7vS3Y0IKjde7Xg85LWIEdP",
+            "explicit": false,
+            "album": "My Everything (Deluxe)",
+            "release_date": "2014-08-25",
+            "genres": [
+                "pop",
+                "australian hip hop",
+                "dance pop",
+                "pop"
+            ],
+            "duration": 193920,
+            "acousticness": 0.0192,
+            "danceability": 6.94,
+            "instrumentalness": 8.83e-06,
+            "liveness": 0.159,
+            "loudness": -5.352,
+            "speechiness": 0.153,
+            "time_signature": 4,
+            "happiness": 6.625
+        }
+    },
+    {
+        "#": 84,
+        "Track Title": "I WANNA SEE SOME ASS (feat. jetsonmade)",
+        "Artist": "Jack Harlow, jetsonmade",
+        "Key": "8B",
+        "Energy": 7.218999999999999,
+        "Popularity": 7.66,
+        "BPM": 108,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Mad",
+            "Hip Hop",
+            "Pop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "2aWVaW1p2kUc5yuKwBmRJi",
+            "explicit": true,
+            "album": "Sweet Action",
+            "release_date": "2020-03-13",
+            "genres": [
+                "deep underground hip hop",
+                "kentucky hip hop",
+                "pop rap",
+                "rap"
+            ],
+            "duration": 125302,
+            "acousticness": 0.18,
+            "danceability": 9.091000000000001,
+            "instrumentalness": 0.000451,
+            "liveness": 0.135,
+            "loudness": -7.554,
+            "speechiness": 0.0497,
+            "time_signature": 4,
+            "happiness": 8.785
+        }
+    },
+    {
+        "#": 85,
+        "Track Title": "P.I.M.P.",
+        "Artist": "50 Cent",
+        "Key": "6A",
+        "Energy": 7.948,
+        "Popularity": 8.379999999999999,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Mad",
+            "Hip Hop",
+            "Pop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3G0yz3DZn3lfraledmBCT0",
+            "explicit": true,
+            "album": "Get Rich Or Die Tryin'",
+            "release_date": "2003-02-06",
+            "genres": [
+                "east coast hip hop",
+                "gangster rap",
+                "hip hop",
+                "pop rap",
+                "queens hip hop",
+                "rap"
+            ],
+            "duration": 249480,
+            "acousticness": 0.0521,
+            "danceability": 7.4079999999999995,
+            "instrumentalness": 4.35e-06,
+            "liveness": 0.0368,
+            "loudness": -3.024,
+            "speechiness": 0.346,
+            "time_signature": 4,
+            "happiness": 8.632
+        }
+    },
+    {
+        "#": 86,
+        "Track Title": "January 28th",
+        "Artist": "J. Cole",
+        "Key": "7B",
+        "Energy": 6.111999999999999,
+        "Popularity": 7.3,
+        "BPM": 84,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6LBpGdlukUARutol7VgWIS",
+            "explicit": true,
+            "album": "2014 Forest Hills Drive",
+            "release_date": "2014-12-09",
+            "genres": [
+                "conscious hip hop",
+                "hip hop",
+                "north carolina hip hop",
+                "rap"
+            ],
+            "duration": 242698,
+            "acousticness": 0.242,
+            "danceability": 6.372999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.0838,
+            "loudness": -8.559,
+            "speechiness": 0.342,
+            "time_signature": 4,
+            "happiness": 4.078
+        }
+    },
+    {
+        "#": 87,
+        "Track Title": "Loyalty",
+        "Artist": "D12, Obie Trice",
+        "Key": "2A",
+        "Energy": 8.731,
+        "Popularity": 4.87,
+        "BPM": 89,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Mad",
+            "Hip Hop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "7bKJbPtEJbYnr8B5X3G0M0",
+            "explicit": true,
+            "album": "D-12 World",
+            "release_date": "2004-01-01",
+            "genres": [
+                "detroit hip hop",
+                "gangster rap",
+                "hip hop",
+                "detroit hip hop",
+                "gangster rap"
+            ],
+            "duration": 354827,
+            "acousticness": 0.0374,
+            "danceability": 7.111000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.131,
+            "loudness": -5.48,
+            "speechiness": 0.342,
+            "time_signature": 4,
+            "happiness": 8.119
+        }
+    },
+    {
+        "#": 88,
+        "Track Title": "No Diggity",
+        "Artist": "Blackstreet, Dr. Dre, Queen Pen",
+        "Key": "3A",
+        "Energy": 6.814,
+        "Popularity": 8.290000000000001,
+        "BPM": 89,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Romantic & Slow Dance",
+            "Mad",
+            "Hip Hop",
+            "California [Loc]",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6MdqqkQ8sSC0WB4i8PyRuQ",
+            "explicit": false,
+            "album": "Another Level",
+            "release_date": "1996-09-09",
+            "genres": [
+                "boy band",
+                "contemporary r&b",
+                "new jack swing",
+                "r&b",
+                "urban contemporary",
+                "g funk",
+                "gangster rap",
+                "hip hop",
+                "rap",
+                "west coast rap",
+                "contemporary r&b",
+                "hip pop",
+                "lgbtq+ hip hop"
+            ],
+            "duration": 304600,
+            "acousticness": 0.303,
+            "danceability": 8.803,
+            "instrumentalness": 0,
+            "liveness": 0.279,
+            "loudness": -4.674,
+            "speechiness": 0.288,
+            "time_signature": 4,
+            "happiness": 7.03
+        }
+    },
+    {
+        "#": 89,
+        "Track Title": "Honey See You",
+        "Artist": "ISTERIF",
+        "Key": "3B",
+        "Energy": 6.796,
+        "Popularity": 7.4799999999999995,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "53FhswemY3bkUOAZRi7Lpo",
+            "explicit": true,
+            "album": "Honey See You",
+            "release_date": "2023-03-28",
+            "genres": [
+                "sped up"
+            ],
+            "duration": 88465,
+            "acousticness": 0.0848,
+            "danceability": 5.932,
+            "instrumentalness": 0,
+            "liveness": 0.425,
+            "loudness": -6.305,
+            "speechiness": 0.0402,
+            "time_signature": 4,
+            "happiness": 7.282
+        }
+    },
+    {
+        "#": 90,
+        "Track Title": "Sexy Bitch (feat. Akon)",
+        "Artist": "David Guetta, Akon",
+        "Key": "1A",
+        "Energy": 6.643,
+        "Popularity": 8.290000000000001,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Pop",
+            "Dance Remixes",
+            "Club-Hotel",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "127uq83uGFapbddqiMUKky",
+            "explicit": true,
+            "album": "One More Love",
+            "release_date": "2010-11-22",
+            "genres": [
+                "big room",
+                "dance pop",
+                "edm",
+                "pop",
+                "pop dance",
+                "dance pop"
+            ],
+            "duration": 195853,
+            "acousticness": 0.0771,
+            "danceability": 8.317,
+            "instrumentalness": 0.000616,
+            "liveness": 0.131,
+            "loudness": -5.018,
+            "speechiness": 0.0486,
+            "time_signature": 4,
+            "happiness": 8.209
+        }
+    },
+    {
+        "#": 91,
+        "Track Title": "Low (feat. T-Pain)",
+        "Artist": "Flo Rida, T-Pain",
+        "Key": "6A",
+        "Energy": 6.481,
+        "Popularity": 8.649999999999999,
+        "BPM": 128,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Romantic & Slow Dance",
+            "EDM",
+            "Dance Remixes",
+            "Mad",
+            "Hip Hop",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0CAfXk7DXMnon4gLudAp7J",
+            "explicit": false,
+            "album": "Mail on Sunday",
+            "release_date": "2008-03-17",
+            "genres": [
+                "dance pop",
+                "miami hip hop",
+                "pop",
+                "pop rap",
+                "dance pop",
+                "gangster rap",
+                "hip hop",
+                "pop rap",
+                "r&b",
+                "rap",
+                "southern hip hop",
+                "trap",
+                "urban contemporary"
+            ],
+            "duration": 231400,
+            "acousticness": 0.0928,
+            "danceability": 9.262,
+            "instrumentalness": 0,
+            "liveness": 0.139,
+            "loudness": -5.64,
+            "speechiness": 0.0791,
+            "time_signature": 4,
+            "happiness": 3.7359999999999998
+        }
+    },
+    {
+        "#": 92,
+        "Track Title": "SexyBack (feat. Timbaland)",
+        "Artist": "Justin Timberlake, Timbaland",
+        "Key": "9A",
+        "Energy": 6.247,
+        "Popularity": 8.379999999999999,
+        "BPM": 117,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Pop",
+            "Dance Remixes",
+            "Hip Hop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0O45fw2L5vsWpdsOdXwNAR",
+            "explicit": true,
+            "album": "FutureSex/LoveSounds",
+            "release_date": "2006-09-12",
+            "genres": [
+                "dance pop",
+                "pop",
+                "dance pop",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 242733,
+            "acousticness": 0.0584,
+            "danceability": 9.703,
+            "instrumentalness": 0,
+            "liveness": 0.0519,
+            "loudness": -5.562,
+            "speechiness": 0.0789,
+            "time_signature": 4,
+            "happiness": 9.676
+        }
+    },
+    {
+        "#": 93,
+        "Track Title": "Die For You (with Ariana Grande) - Remix",
+        "Artist": "The Weeknd, Ariana Grande",
+        "Key": "3A",
+        "Energy": 5.5,
+        "Popularity": 8.92,
+        "BPM": 67,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Romantic & Slow Dance",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "4W4fNrZYkobj539TOWsLO2",
+            "explicit": false,
+            "album": "Starboy (Deluxe)",
+            "release_date": "2023-03-14",
+            "genres": [
+                "canadian contemporary r&b",
+                "canadian pop",
+                "pop",
+                "pop"
+            ],
+            "duration": 232857,
+            "acousticness": 0.227,
+            "danceability": 6.175,
+            "instrumentalness": 0,
+            "liveness": 0.335,
+            "loudness": -7.594,
+            "speechiness": 0.0707,
+            "time_signature": 4,
+            "happiness": 5.554
+        }
+    },
+    {
+        "#": 94,
+        "Track Title": "Starboy",
+        "Artist": "The Weeknd, Daft Punk",
+        "Key": "9B",
+        "Energy": 6.2829999999999995,
+        "Popularity": 9.459999999999999,
+        "BPM": 93,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Romantic & Slow Dance",
+            "EDM",
+            "Rock",
+            "Club-Hotel",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "7MXVkk9YMctZqd1Srtv4MB",
+            "explicit": true,
+            "album": "Starboy",
+            "release_date": "2016-11-25",
+            "genres": [
+                "canadian contemporary r&b",
+                "canadian pop",
+                "pop",
+                "electro",
+                "filter house",
+                "rock"
+            ],
+            "duration": 230453,
+            "acousticness": 0.141,
+            "danceability": 7.111000000000001,
+            "instrumentalness": 6.35e-06,
+            "liveness": 0.137,
+            "loudness": -7.015,
+            "speechiness": 0.276,
+            "time_signature": 4,
+            "happiness": 5.374
+        }
+    },
+    {
+        "#": 95,
+        "Track Title": "Save Your Tears",
+        "Artist": "The Weeknd",
+        "Key": "8B",
+        "Energy": 8.434,
+        "Popularity": 9.19,
+        "BPM": 118,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Romantic & Slow Dance",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "5QO79kh1waicV47BqGRL3g",
+            "explicit": true,
+            "album": "After Hours",
+            "release_date": "2020-03-20",
+            "genres": [
+                "canadian contemporary r&b",
+                "canadian pop",
+                "pop"
+            ],
+            "duration": 215627,
+            "acousticness": 0.0212,
+            "danceability": 7.12,
+            "instrumentalness": 1.24e-05,
+            "liveness": 0.543,
+            "loudness": -5.487,
+            "speechiness": 0.0309,
+            "time_signature": 4,
+            "happiness": 6.796
+        }
+    },
+    {
+        "#": 96,
+        "Track Title": "Young, Wild & Free (feat. Bruno Mars)",
+        "Artist": "Snoop Dogg, Wiz Khalifa, Bruno Mars",
+        "Key": "8B",
+        "Energy": 6.8950000000000005,
+        "Popularity": 8.2,
+        "BPM": 95,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Dance Remixes",
+            "Pop",
+            "Hip Hop",
+            "California [Loc]",
+            "Mad",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "5HQVUIKwCEXpe7JIHyY734",
+            "explicit": true,
+            "album": "Young, Wild & Free (feat. Bruno Mars)",
+            "release_date": "2011-10-11",
+            "genres": [
+                "g funk",
+                "gangster rap",
+                "hip hop",
+                "pop rap",
+                "rap",
+                "west coast rap",
+                "hip hop",
+                "pittsburgh rap",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap",
+                "dance pop",
+                "pop"
+            ],
+            "duration": 207333,
+            "acousticness": 0.0525,
+            "danceability": 7.435,
+            "instrumentalness": 0,
+            "liveness": 0.115,
+            "loudness": -6.425,
+            "speechiness": 0.137,
+            "time_signature": 4,
+            "happiness": 5.779
+        }
+    },
+    {
+        "#": 97,
+        "Track Title": "Midnight City",
+        "Artist": "M83",
+        "Key": "1A",
+        "Energy": 7.561,
+        "Popularity": 8.379999999999999,
+        "BPM": 105,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Pop",
+            "Inspiring",
+            "Club-Hotel"
+        ],
+        "Additional Info": {
+            "id": "6GyFP1nfCDB8lbD2bG0Hq9",
+            "explicit": false,
+            "album": "Hurry up, We're Dreaming",
+            "release_date": "2011-10-17",
+            "genres": [
+                "french shoegaze",
+                "french synthpop",
+                "indietronica",
+                "metropopolis",
+                "neo-synthpop"
+            ],
+            "duration": 243960,
+            "acousticness": 0.0182,
+            "danceability": 5.563,
+            "instrumentalness": 1.4e-06,
+            "liveness": 0.0658,
+            "loudness": -5.399,
+            "speechiness": 0.0393,
+            "time_signature": 4,
+            "happiness": 3.4480000000000004
+        }
+    },
+    {
+        "#": 98,
+        "Track Title": "One Dance",
+        "Artist": "Drake, Wizkid, Kyla",
+        "Key": "3B",
+        "Energy": 6.625,
+        "Popularity": 9.1,
+        "BPM": 104,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "1zi7xx7UVEFkmKfv06H8x0",
+            "explicit": false,
+            "album": "Views",
+            "release_date": "2016-05-06",
+            "genres": [
+                "canadian hip hop",
+                "canadian pop",
+                "hip hop",
+                "rap",
+                "toronto rap",
+                "afrobeats",
+                "afropop",
+                "azonto",
+                "azontobeats",
+                "nigerian hip hop",
+                "nigerian pop",
+                "uk funky"
+            ],
+            "duration": 173987,
+            "acousticness": 0.00776,
+            "danceability": 8.128,
+            "instrumentalness": 0.0018,
+            "liveness": 0.329,
+            "loudness": -5.609,
+            "speechiness": 0.0536,
+            "time_signature": 4,
+            "happiness": 4.33
+        }
+    },
+    {
+        "#": 99,
+        "Track Title": "Drank & Drugs",
+        "Artist": "Lil Kleine, Ronnie Flex",
+        "Key": "1A",
+        "Energy": 7.678,
+        "Popularity": 6.76,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "4rHIGjDTXXL9Eudf3YF036",
+            "explicit": true,
+            "album": "New Wave",
+            "release_date": "2015-04-07",
+            "genres": [
+                "dutch hip hop",
+                "dutch rap pop",
+                "dutch hip hop",
+                "dutch rap pop"
+            ],
+            "duration": 145978,
+            "acousticness": 0.0494,
+            "danceability": 9.307,
+            "instrumentalness": 1.79e-05,
+            "liveness": 0.0829,
+            "loudness": -5.047,
+            "speechiness": 0.0495,
+            "time_signature": 4,
+            "happiness": 8.056000000000001
+        }
+    },
+    {
+        "#": 100,
+        "Track Title": "Just Wanna Rock",
+        "Artist": "Lil Uzi Vert",
+        "Key": "1B",
+        "Energy": 5.905,
+        "Popularity": 9.1,
+        "BPM": 75,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "4FyesJzVpA39hbYvcseO2d",
+            "explicit": true,
+            "album": "Just Wanna Rock",
+            "release_date": "2022-10-17",
+            "genres": [
+                "melodic rap",
+                "philly rap",
+                "rage rap",
+                "rap",
+                "trap"
+            ],
+            "duration": 123891,
+            "acousticness": 0.0652,
+            "danceability": 5.374,
+            "instrumentalness": 0.00474,
+            "liveness": 0.0642,
+            "loudness": -7.924,
+            "speechiness": 0.0336,
+            "time_signature": 4,
+            "happiness": 1.3465
+        }
+    }
+]

@@ -1,0 +1,2347 @@
+[
+    {
+        "#": 1,
+        "Track Title": "Mr. Jones",
+        "Artist": "Counting Crows",
+        "Key": "8B",
+        "Energy": 8.353,
+        "Popularity": 8.379999999999999,
+        "BPM": 142,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Pop",
+            "Calm",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5DiXcVovI0FcY2s0icWWUu",
+            "explicit": false,
+            "album": "August And Everything After",
+            "release_date": "1993-01-01",
+            "genres": [
+                "neo mellow",
+                "pop rock",
+                "post-grunge",
+                "rock"
+            ],
+            "duration": 272293,
+            "acousticness": 0.183,
+            "danceability": 6.202,
+            "instrumentalness": 3.06e-06,
+            "liveness": 0.285,
+            "loudness": -6.542,
+            "speechiness": 0.0363,
+            "time_signature": 4,
+            "happiness": 7.534
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Let Her Cry",
+        "Artist": "Hootie & The Blowfish",
+        "Key": "9B",
+        "Energy": 7.282,
+        "Popularity": 7.12,
+        "BPM": 143,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Pop",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "6NGi23FFKq9tH5NR1NcTw2",
+            "explicit": false,
+            "album": "Cracked Rear View",
+            "release_date": "1994-07-01",
+            "genres": [
+                "heartland rock",
+                "pop rock",
+                "post-grunge"
+            ],
+            "duration": 318533,
+            "acousticness": 0.0353,
+            "danceability": 4.167999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.113,
+            "loudness": -6.278,
+            "speechiness": 0.0303,
+            "time_signature": 4,
+            "happiness": 3.3040000000000003
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "Only Wanna Be With You",
+        "Artist": "Hootie & The Blowfish",
+        "Key": "2B",
+        "Energy": 8.857,
+        "Popularity": 7.75,
+        "BPM": 103,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Pop",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "1OFKUn2VLafrHj7ybnap0Q",
+            "explicit": false,
+            "album": "Cracked Rear View",
+            "release_date": "1994-07-01",
+            "genres": [
+                "heartland rock",
+                "pop rock",
+                "post-grunge"
+            ],
+            "duration": 229587,
+            "acousticness": 0.107,
+            "danceability": 5.41,
+            "instrumentalness": 5.19e-06,
+            "liveness": 0.118,
+            "loudness": -5.861,
+            "speechiness": 0.0355,
+            "time_signature": 4,
+            "happiness": 5.617
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "3AM - 2007 Remaster",
+        "Artist": "Matchbox Twenty",
+        "Key": "4B",
+        "Energy": 7.759,
+        "Popularity": 5.41,
+        "BPM": 108,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Pop",
+            "Calm",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "3iN6UdRp0kJZlWRitU8zz9",
+            "explicit": false,
+            "album": "Exile on Mainstream",
+            "release_date": "2007-10-02",
+            "genres": [
+                "neo mellow",
+                "pop rock",
+                "post-grunge"
+            ],
+            "duration": 224907,
+            "acousticness": 0.00138,
+            "danceability": 5.626,
+            "instrumentalness": 0,
+            "liveness": 0.145,
+            "loudness": -6.839,
+            "speechiness": 0.0294,
+            "time_signature": 4,
+            "happiness": 5.1850000000000005
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "How You Remind Me",
+        "Artist": "Nickelback",
+        "Key": "6B",
+        "Energy": 7.876,
+        "Popularity": 8.559999999999999,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "0gmbgwZ8iqyMPmXefof8Yf",
+            "explicit": false,
+            "album": "Silver Side Up",
+            "release_date": "2001-09-11",
+            "genres": [
+                "alternative metal",
+                "canadian rock",
+                "post-grunge"
+            ],
+            "duration": 223840,
+            "acousticness": 0.00135,
+            "danceability": 5.014,
+            "instrumentalness": 0,
+            "liveness": 0.099,
+            "loudness": -5.042,
+            "speechiness": 0.033,
+            "time_signature": 4,
+            "happiness": 5.8870000000000005
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Drops of Jupiter (Tell Me)",
+        "Artist": "Train",
+        "Key": "8B",
+        "Energy": 6.742,
+        "Popularity": 8.379999999999999,
+        "BPM": 79,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Pop",
+            "Dance Remixes",
+            "Calm",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "2hKdd3qO7cWr2Jo0Bcs0MA",
+            "explicit": false,
+            "album": "Drops Of Jupiter",
+            "release_date": "2001-03-27",
+            "genres": [
+                "dance pop",
+                "neo mellow",
+                "pop",
+                "pop rock"
+            ],
+            "duration": 259933,
+            "acousticness": 0.153,
+            "danceability": 5.329,
+            "instrumentalness": 0,
+            "liveness": 0.154,
+            "loudness": -5.862,
+            "speechiness": 0.0276,
+            "time_signature": 4,
+            "happiness": 5.473
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "One Week",
+        "Artist": "Barenaked Ladies",
+        "Key": "11B",
+        "Energy": 9.082,
+        "Popularity": 1.0,
+        "BPM": 113,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Pop",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1C0pmryC2MdXfa7MZ9uIrU",
+            "explicit": false,
+            "album": "Stunt",
+            "release_date": "1998-07-07",
+            "genres": [
+                "canadian pop",
+                "canadian rock",
+                "pop rock",
+                "post-grunge"
+            ],
+            "duration": 169760,
+            "acousticness": 0.00854,
+            "danceability": 7.318,
+            "instrumentalness": 0.000154,
+            "liveness": 0.0917,
+            "loudness": -6.003,
+            "speechiness": 0.0373,
+            "time_signature": 4,
+            "happiness": 7.579
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Semi-Charmed Life",
+        "Artist": "Third Eye Blind",
+        "Key": "9B",
+        "Energy": 8.776,
+        "Popularity": 8.11,
+        "BPM": 102,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Pop",
+            "Mad",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "42et6fnHCw1HIPSrdPprMl",
+            "explicit": false,
+            "album": "Third Eye Blind",
+            "release_date": "1997-04-08",
+            "genres": [
+                "alternative metal",
+                "alternative rock",
+                "pop rock",
+                "post-grunge"
+            ],
+            "duration": 268360,
+            "acousticness": 0.00832,
+            "danceability": 6.76,
+            "instrumentalness": 0,
+            "liveness": 0.123,
+            "loudness": -6.576,
+            "speechiness": 0.0314,
+            "time_signature": 4,
+            "happiness": 7.308999999999999
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "The Impression That I Get",
+        "Artist": "The Mighty Mighty Bosstones",
+        "Key": "12B",
+        "Energy": 9.504999999999999,
+        "Popularity": 7.39,
+        "BPM": 91,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Mad",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1ru5R5iSawvuMELqKXxLjS",
+            "explicit": false,
+            "album": "Let's Face It",
+            "release_date": "1997-01-01",
+            "genres": [
+                "boston punk",
+                "boston rock",
+                "punk",
+                "ska",
+                "ska punk",
+                "skate punk"
+            ],
+            "duration": 194760,
+            "acousticness": 0.0991,
+            "danceability": 4.7620000000000005,
+            "instrumentalness": 0.0123,
+            "liveness": 0.23,
+            "loudness": -5.406,
+            "speechiness": 0.118,
+            "time_signature": 4,
+            "happiness": 7.263999999999999
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "How's It Going to Be",
+        "Artist": "Third Eye Blind",
+        "Key": "7B",
+        "Energy": 6.337,
+        "Popularity": 7.4799999999999995,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Pop",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "3Uvx1TO0Kg5HgGPk58lHXv",
+            "explicit": false,
+            "album": "Third Eye Blind",
+            "release_date": "1997-04-08",
+            "genres": [
+                "alternative metal",
+                "alternative rock",
+                "pop rock",
+                "post-grunge"
+            ],
+            "duration": 253413,
+            "acousticness": 0.00327,
+            "danceability": 6.049,
+            "instrumentalness": 0.00144,
+            "liveness": 0.0967,
+            "loudness": -9.362,
+            "speechiness": 0.0264,
+            "time_signature": 4,
+            "happiness": 6.1659999999999995
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "What's My Age Again?",
+        "Artist": "blink-182",
+        "Key": "2B",
+        "Energy": 9.604,
+        "Popularity": 1.0,
+        "BPM": 79,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Pop",
+            "California [Loc]",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "5JZcX7TTLx4l0xFIXJ3DBt",
+            "explicit": false,
+            "album": "Enema Of The State",
+            "release_date": "1999-01-01",
+            "genres": [
+                "alternative metal",
+                "modern rock",
+                "pop punk",
+                "punk",
+                "rock",
+                "socal pop punk"
+            ],
+            "duration": 148573,
+            "acousticness": 0.017,
+            "danceability": 4.627000000000001,
+            "instrumentalness": 7.09e-05,
+            "liveness": 0.0893,
+            "loudness": -7.376,
+            "speechiness": 0.0732,
+            "time_signature": 4,
+            "happiness": 6.049
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "All The Small Things",
+        "Artist": "blink-182",
+        "Key": "8B",
+        "Energy": 9.019,
+        "Popularity": 1.0,
+        "BPM": 149,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Pop",
+            "California [Loc]",
+            "Mad",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7yCPwWs66K8Ba5lFuU2bcx",
+            "explicit": false,
+            "album": "Enema Of The State",
+            "release_date": "1999-01-01",
+            "genres": [
+                "alternative metal",
+                "modern rock",
+                "pop punk",
+                "punk",
+                "rock",
+                "socal pop punk"
+            ],
+            "duration": 168000,
+            "acousticness": 0.0122,
+            "danceability": 4.9510000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.547,
+            "loudness": -4.764,
+            "speechiness": 0.057,
+            "time_signature": 4,
+            "happiness": 7.255
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "Run-Around",
+        "Artist": "Blues Traveler",
+        "Key": "9B",
+        "Energy": 9.163,
+        "Popularity": 6.22,
+        "BPM": 76,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Pop",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3y8rEUEUdmAcPCpPoLotnO",
+            "explicit": false,
+            "album": "Travelogue: Blues Traveler Classics",
+            "release_date": "2002-01-01",
+            "genres": [
+                "heartland rock",
+                "jam band",
+                "pop rock",
+                "post-grunge"
+            ],
+            "duration": 280093,
+            "acousticness": 0.0675,
+            "danceability": 6.319,
+            "instrumentalness": 0,
+            "liveness": 0.0903,
+            "loudness": -5.648,
+            "speechiness": 0.0837,
+            "time_signature": 4,
+            "happiness": 8.353
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "Ants Marching",
+        "Artist": "Dave Matthews Band",
+        "Key": "10B",
+        "Energy": 8.704,
+        "Popularity": 6.94,
+        "BPM": 113,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Pop",
+            "Calm",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2FfZg072w8RoxlMOR7M4CT",
+            "explicit": false,
+            "album": "Under the Table and Dreaming (Expanded Edition)",
+            "release_date": "1994-09-27",
+            "genres": [
+                "jam band",
+                "neo mellow",
+                "pop rock"
+            ],
+            "duration": 271187,
+            "acousticness": 0.0187,
+            "danceability": 6.7330000000000005,
+            "instrumentalness": 1.99e-05,
+            "liveness": 0.0157,
+            "loudness": -4.34,
+            "speechiness": 0.034,
+            "time_signature": 4,
+            "happiness": 8.614
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Send Me On My Way",
+        "Artist": "Rusted Root",
+        "Key": "8B",
+        "Energy": 7.966,
+        "Popularity": 6.31,
+        "BPM": 119,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4yshHBPp0MoVynV1sMCKV3",
+            "explicit": false,
+            "album": "The Best Of / 20th Century Masters The Millennium Collection",
+            "release_date": "2005-01-01",
+            "genres": [
+                "jam band",
+                "pittsburgh rock"
+            ],
+            "duration": 261707,
+            "acousticness": 0.138,
+            "danceability": 5.455,
+            "instrumentalness": 1.31e-05,
+            "liveness": 0.128,
+            "loudness": -6.543,
+            "speechiness": 0.0718,
+            "time_signature": 4,
+            "happiness": 7.435
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "Push",
+        "Artist": "Matchbox Twenty",
+        "Key": "2B",
+        "Energy": 7.048,
+        "Popularity": 7.93,
+        "BPM": 84,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Pop",
+            "Calm",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "2KVwlelhxKUy8LVV6JypH3",
+            "explicit": false,
+            "album": "Yourself or Someone Like You",
+            "release_date": "1996-10-01",
+            "genres": [
+                "neo mellow",
+                "pop rock",
+                "post-grunge"
+            ],
+            "duration": 238667,
+            "acousticness": 0.0067,
+            "danceability": 4.779999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.108,
+            "loudness": -7.902,
+            "speechiness": 0.027,
+            "time_signature": 4,
+            "happiness": 5.284
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "One Headlight",
+        "Artist": "The Wallflowers",
+        "Key": "10B",
+        "Energy": 5.851,
+        "Popularity": 7.84,
+        "BPM": 108,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Pop",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0z1b34WikhOH9ZxU8QDWcv",
+            "explicit": false,
+            "album": "Bringing Down The Horse",
+            "release_date": "1996-01-01",
+            "genres": [
+                "pop rock",
+                "post-grunge"
+            ],
+            "duration": 312627,
+            "acousticness": 0.000655,
+            "danceability": 7.308999999999999,
+            "instrumentalness": 0.005,
+            "liveness": 0.0589,
+            "loudness": -8.968,
+            "speechiness": 0.0277,
+            "time_signature": 4,
+            "happiness": 7.768
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "Steady, As She Goes",
+        "Artist": "The Raconteurs",
+        "Key": "11B",
+        "Energy": 6.409,
+        "Popularity": 1.0,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Inspiring",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "2zk1COXk7NaAaDW1KWMuio",
+            "explicit": false,
+            "album": "Broken Boy Soldiers",
+            "release_date": "2006",
+            "genres": [
+                "alternative rock",
+                "garage rock",
+                "garage rock revival",
+                "indie rock",
+                "modern blues rock",
+                "modern rock",
+                "rock",
+                "supergroup"
+            ],
+            "duration": 215293,
+            "acousticness": 0.00882,
+            "danceability": 5.7700000000000005,
+            "instrumentalness": 0.0211,
+            "liveness": 0.083,
+            "loudness": -4.364,
+            "speechiness": 0.112,
+            "time_signature": 4,
+            "happiness": 6.148
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Panic Switch",
+        "Artist": "Silversun Pickups",
+        "Key": "7A",
+        "Energy": 8.965,
+        "Popularity": 6.22,
+        "BPM": 99,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "California [Loc]",
+            "Inspiring",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "597i9UhHbW8hHgBUp8Tm54",
+            "explicit": false,
+            "album": "Swoon",
+            "release_date": "2009-04-14",
+            "genres": [
+                "alternative rock",
+                "indie rock",
+                "la indie",
+                "modern alternative rock",
+                "modern rock"
+            ],
+            "duration": 343907,
+            "acousticness": 0.000202,
+            "danceability": 2.467,
+            "instrumentalness": 0.0121,
+            "liveness": 0.228,
+            "loudness": -4.623,
+            "speechiness": 0.0725,
+            "time_signature": 3,
+            "happiness": 5.941000000000001
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "Someday",
+        "Artist": "The Strokes",
+        "Key": "11B",
+        "Energy": 5.689,
+        "Popularity": 7.39,
+        "BPM": 106,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "7hm4HTk9encxT0LYC0J6oI",
+            "explicit": false,
+            "album": "Is This It",
+            "release_date": "2001-07-30",
+            "genres": [
+                "alternative rock",
+                "garage rock",
+                "modern rock",
+                "permanent wave",
+                "rock"
+            ],
+            "duration": 183440,
+            "acousticness": 0.00425,
+            "danceability": 5.851,
+            "instrumentalness": 0,
+            "liveness": 0.367,
+            "loudness": -7.46,
+            "speechiness": 0.0299,
+            "time_signature": 4,
+            "happiness": 7.111000000000001
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Nearly Lost You",
+        "Artist": "Screaming Trees",
+        "Key": "9B",
+        "Energy": 9.738999999999999,
+        "Popularity": 6.22,
+        "BPM": 101,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "7qzFXUvBk7lELXuxVREypV",
+            "explicit": false,
+            "album": "Sweet Oblivion",
+            "release_date": "1992",
+            "genres": [
+                "alternative rock",
+                "grunge"
+            ],
+            "duration": 247093,
+            "acousticness": 3.84e-05,
+            "danceability": 2.4939999999999998,
+            "instrumentalness": 6.15e-05,
+            "liveness": 0.21,
+            "loudness": -5.231,
+            "speechiness": 0.119,
+            "time_signature": 4,
+            "happiness": 4.906000000000001
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "Fade Into You",
+        "Artist": "Mazzy Star",
+        "Key": "11B",
+        "Energy": 3.97,
+        "Popularity": 8.469999999999999,
+        "BPM": 79,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "1LzNfuep1bnAUR9skqdHCK",
+            "explicit": false,
+            "album": "So Tonight That I Might See",
+            "release_date": "1993-10-05",
+            "genres": [
+                "dream pop",
+                "melancholia",
+                "shoegaze",
+                "slowcore"
+            ],
+            "duration": 295600,
+            "acousticness": 0.245,
+            "danceability": 4.779999999999999,
+            "instrumentalness": 0.000679,
+            "liveness": 0.0677,
+            "loudness": -13.925,
+            "speechiness": 0.0275,
+            "time_signature": 3,
+            "happiness": 2.575
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "When I Come Around",
+        "Artist": "Green Day",
+        "Key": "1B",
+        "Energy": 9.181000000000001,
+        "Popularity": 8.290000000000001,
+        "BPM": 98,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Mad",
+            "Nostalgic",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1Dr1fXbc2IxaK1Mu8P8Khz",
+            "explicit": false,
+            "album": "Dookie",
+            "release_date": "1994-02-01",
+            "genres": [
+                "modern rock",
+                "permanent wave",
+                "punk",
+                "rock"
+            ],
+            "duration": 178000,
+            "acousticness": 0.0175,
+            "danceability": 5.779,
+            "instrumentalness": 0,
+            "liveness": 0.231,
+            "loudness": -4.236,
+            "speechiness": 0.034,
+            "time_signature": 4,
+            "happiness": 8.326
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "Low",
+        "Artist": "Cracker",
+        "Key": "9B",
+        "Energy": 7.0840000000000005,
+        "Popularity": 5.41,
+        "BPM": 87,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Pop",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "3zOvCNuRh0hX0Bua4eWJbs",
+            "explicit": false,
+            "album": "Get On With It: The Best Of",
+            "release_date": "2006-01-01",
+            "genres": [
+                "alternative rock",
+                "permanent wave",
+                "pop rock"
+            ],
+            "duration": 274573,
+            "acousticness": 0.0104,
+            "danceability": 4.933,
+            "instrumentalness": 0.00456,
+            "liveness": 0.145,
+            "loudness": -5.607,
+            "speechiness": 0.0253,
+            "time_signature": 4,
+            "happiness": 4.996
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "Cannonball",
+        "Artist": "The Breeders",
+        "Key": "5B",
+        "Energy": 7.849,
+        "Popularity": 1.0,
+        "BPM": 113,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "11nv53N7ZnNTCgyl8yxvYd",
+            "explicit": false,
+            "album": "Last Splash",
+            "release_date": "1993-08-30",
+            "genres": [
+                "alternative rock",
+                "boston rock"
+            ],
+            "duration": 213693,
+            "acousticness": 0.00938,
+            "danceability": 5.554,
+            "instrumentalness": 0.782,
+            "liveness": 0.298,
+            "loudness": -9.765,
+            "speechiness": 0.0404,
+            "time_signature": 4,
+            "happiness": 7.705
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "Corduroy - Remastered",
+        "Artist": "Pearl Jam",
+        "Key": "8B",
+        "Energy": 9.370000000000001,
+        "Popularity": 6.22,
+        "BPM": 131,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Nostalgic",
+            "Mad",
+            "Rock",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "5F6rwEF15hN1jnhNk2YQHn",
+            "explicit": false,
+            "album": "Vitalogy",
+            "release_date": "1994-11-22",
+            "genres": [
+                "alternative metal",
+                "alternative rock",
+                "classic rock",
+                "grunge",
+                "permanent wave",
+                "rock"
+            ],
+            "duration": 277587,
+            "acousticness": 0.00241,
+            "danceability": 5.383,
+            "instrumentalness": 2.82e-05,
+            "liveness": 0.0841,
+            "loudness": -7.3,
+            "speechiness": 0.0632,
+            "time_signature": 4,
+            "happiness": 2.206
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "Pets",
+        "Artist": "Porno for Pyros",
+        "Key": "1B",
+        "Energy": 5.635,
+        "Popularity": 6.13,
+        "BPM": 113,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Rock",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "5kcQEPksJHTOLQ4In5oGN2",
+            "explicit": true,
+            "album": "Porno For Pyros",
+            "release_date": "1993-04-23",
+            "genres": [
+                "alternative rock",
+                "funk metal",
+                "post-grunge"
+            ],
+            "duration": 216733,
+            "acousticness": 0.05,
+            "danceability": 6.202,
+            "instrumentalness": 0.0268,
+            "liveness": 0.119,
+            "loudness": -9.541,
+            "speechiness": 0.0347,
+            "time_signature": 4,
+            "happiness": 3.718
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "I Stay Away",
+        "Artist": "Alice In Chains",
+        "Key": "2B",
+        "Energy": 8.029,
+        "Popularity": 6.8500000000000005,
+        "BPM": 81,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "6HnZsLUDrG3HTSbh8sq2u3",
+            "explicit": false,
+            "album": "Jar Of Flies",
+            "release_date": "1994",
+            "genres": [
+                "alternative metal",
+                "alternative rock",
+                "grunge",
+                "hard rock",
+                "nu metal",
+                "rock"
+            ],
+            "duration": 254400,
+            "acousticness": 0.0452,
+            "danceability": 2.566,
+            "instrumentalness": 0.00346,
+            "liveness": 0.0822,
+            "loudness": -7.066,
+            "speechiness": 0.0406,
+            "time_signature": 4,
+            "happiness": 3.484
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "Under the Bridge",
+        "Artist": "Red Hot Chili Peppers",
+        "Key": "12B",
+        "Energy": 4.1049999999999995,
+        "Popularity": 8.74,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "3d9DChrdc6BOeFsbrZ3Is0",
+            "explicit": false,
+            "album": "Blood Sugar Sex Magik (Deluxe Edition)",
+            "release_date": "1991-09-24",
+            "genres": [
+                "alternative rock",
+                "funk metal",
+                "funk rock",
+                "permanent wave",
+                "rock"
+            ],
+            "duration": 264307,
+            "acousticness": 0.0576,
+            "danceability": 6.031000000000001,
+            "instrumentalness": 0.000105,
+            "liveness": 0.141,
+            "loudness": -13.496,
+            "speechiness": 0.0459,
+            "time_signature": 4,
+            "happiness": 5.122
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Rearviewmirror - Remastered",
+        "Artist": "Pearl Jam",
+        "Key": "1A",
+        "Energy": 9.649,
+        "Popularity": 6.49,
+        "BPM": 79,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Nostalgic",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "5XtyytAig4m3HkO2XXaL9l",
+            "explicit": false,
+            "album": "Vs.",
+            "release_date": "1993-10-19",
+            "genres": [
+                "alternative metal",
+                "alternative rock",
+                "classic rock",
+                "grunge",
+                "permanent wave",
+                "rock"
+            ],
+            "duration": 283467,
+            "acousticness": 0.00146,
+            "danceability": 4.366,
+            "instrumentalness": 0.00036,
+            "liveness": 0.351,
+            "loudness": -5.387,
+            "speechiness": 0.0656,
+            "time_signature": 4,
+            "happiness": 4.933
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "Lemon",
+        "Artist": "U2",
+        "Key": "2B",
+        "Energy": 6.868,
+        "Popularity": 1.0,
+        "BPM": 116,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "02d6RIbA7iGRugnvUmurVV",
+            "explicit": false,
+            "album": "Zooropa",
+            "release_date": "1993-01-01",
+            "genres": [
+                "irish rock",
+                "permanent wave",
+                "rock"
+            ],
+            "duration": 418227,
+            "acousticness": 0.00444,
+            "danceability": 6.544,
+            "instrumentalness": 0.0115,
+            "liveness": 0.0427,
+            "loudness": -14.76,
+            "speechiness": 0.0348,
+            "time_signature": 4,
+            "happiness": 3.934
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "Wonderwall",
+        "Artist": "Oasis",
+        "Key": "10B",
+        "Energy": 8.668,
+        "Popularity": 1.0,
+        "BPM": 87,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Pop",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "3UNAMgNHKl0fWzbZaU0fDM",
+            "explicit": false,
+            "album": "(What's the Story) Morning Glory?",
+            "release_date": "1995-10-02",
+            "genres": [
+                "beatlesque",
+                "britpop",
+                "madchester",
+                "permanent wave",
+                "rock"
+            ],
+            "duration": 258907,
+            "acousticness": 0.00219,
+            "danceability": 4.636,
+            "instrumentalness": 0,
+            "liveness": 0.13,
+            "loudness": -5.591,
+            "speechiness": 0.0367,
+            "time_signature": 4,
+            "happiness": 5.338
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "My Friends",
+        "Artist": "Red Hot Chili Peppers",
+        "Key": "8B",
+        "Energy": 7.380999999999999,
+        "Popularity": 6.94,
+        "BPM": 81,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "6HksxcBzMVdT17aq1Q79Xe",
+            "explicit": false,
+            "album": "One Hot Minute (Deluxe Edition)",
+            "release_date": "1995-09-12",
+            "genres": [
+                "alternative rock",
+                "funk metal",
+                "funk rock",
+                "permanent wave",
+                "rock"
+            ],
+            "duration": 248640,
+            "acousticness": 0.00565,
+            "danceability": 4.9510000000000005,
+            "instrumentalness": 0.00152,
+            "liveness": 0.131,
+            "loudness": -3.545,
+            "speechiness": 0.026,
+            "time_signature": 4,
+            "happiness": 3.871
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "Heaven Beside You",
+        "Artist": "Alice In Chains",
+        "Key": "6A",
+        "Energy": 7.516,
+        "Popularity": 6.76,
+        "BPM": 111,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Mad",
+            "Rock",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "1DCdIWCE5UFiObCsTSpKFv",
+            "explicit": true,
+            "album": "Alice In Chains",
+            "release_date": "1995-10-30",
+            "genres": [
+                "alternative metal",
+                "alternative rock",
+                "grunge",
+                "hard rock",
+                "nu metal",
+                "rock"
+            ],
+            "duration": 327893,
+            "acousticness": 0.00451,
+            "danceability": 5.9590000000000005,
+            "instrumentalness": 0.000167,
+            "liveness": 0.116,
+            "loudness": -7.09,
+            "speechiness": 0.032,
+            "time_signature": 4,
+            "happiness": 6.031000000000001
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "Everlong",
+        "Artist": "Foo Fighters",
+        "Key": "1A",
+        "Energy": 8.929,
+        "Popularity": 8.92,
+        "BPM": 79,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Nostalgic",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "5UWwZ5lm5PKu6eKsHAGxOk",
+            "explicit": false,
+            "album": "The Colour And The Shape",
+            "release_date": "1997-05-20",
+            "genres": [
+                "alternative metal",
+                "alternative rock",
+                "modern rock",
+                "permanent wave",
+                "post-grunge",
+                "rock"
+            ],
+            "duration": 250547,
+            "acousticness": 5.99e-05,
+            "danceability": 4.717,
+            "instrumentalness": 0.000308,
+            "liveness": 0.0805,
+            "loudness": -5.541,
+            "speechiness": 0.0367,
+            "time_signature": 4,
+            "happiness": 4.276
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "Snow [Hey Oh]",
+        "Artist": "Red Hot Chili Peppers",
+        "Key": "1B",
+        "Energy": 9.1,
+        "Popularity": 1.0,
+        "BPM": 105,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "4W3Bkljqflf1SD5l2VEtfl",
+            "explicit": false,
+            "album": "Stadium Arcadium",
+            "release_date": "2006-05-09",
+            "genres": [
+                "alternative rock",
+                "funk metal",
+                "funk rock",
+                "permanent wave",
+                "rock"
+            ],
+            "duration": 334667,
+            "acousticness": 0.116,
+            "danceability": 4.843,
+            "instrumentalness": 1.75e-05,
+            "liveness": 0.119,
+            "loudness": -3.674,
+            "speechiness": 0.0499,
+            "time_signature": 4,
+            "happiness": 6.391
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "She Talks to Angels",
+        "Artist": "The Black Crowes",
+        "Key": "12B",
+        "Energy": 4.024,
+        "Popularity": 1.0,
+        "BPM": 144,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Mad",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "1syiesv03VRWmpW5JjgVp2",
+            "explicit": false,
+            "album": "Croweology",
+            "release_date": "2010-08-03",
+            "genres": [
+                "album rock",
+                "blues rock",
+                "classic rock",
+                "hard rock",
+                "heartland rock",
+                "jam band",
+                "rock",
+                "southern rock"
+            ],
+            "duration": 376960,
+            "acousticness": 0.264,
+            "danceability": 4.4559999999999995,
+            "instrumentalness": 0.00132,
+            "liveness": 0.315,
+            "loudness": -12.603,
+            "speechiness": 0.0304,
+            "time_signature": 4,
+            "happiness": 2.557
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "What Would You Say",
+        "Artist": "Dave Matthews Band",
+        "Key": "10B",
+        "Energy": 9.478,
+        "Popularity": 1.0,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Pop",
+            "Calm",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2jt523mKmS9gFDLdSZHQoh",
+            "explicit": false,
+            "album": "Dave Matthews Band - The Best Of What's Around - Vol.1",
+            "release_date": "2006-11-07",
+            "genres": [
+                "jam band",
+                "neo mellow",
+                "pop rock"
+            ],
+            "duration": 221107,
+            "acousticness": 0.137,
+            "danceability": 6.652,
+            "instrumentalness": 0.000386,
+            "liveness": 0.118,
+            "loudness": -4.875,
+            "speechiness": 0.0531,
+            "time_signature": 4,
+            "happiness": 7.057
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "Elderly Woman Behind the Counter in a Small Town",
+        "Artist": "Pearl Jam",
+        "Key": "9B",
+        "Energy": 5.779,
+        "Popularity": 4.51,
+        "BPM": 60,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "6EPKMxXr5kZu9xJmycquGk",
+            "explicit": false,
+            "album": "rearviewmirror (greatest hits 1991-2003)",
+            "release_date": "2004-11-16",
+            "genres": [
+                "alternative metal",
+                "alternative rock",
+                "classic rock",
+                "grunge",
+                "permanent wave",
+                "rock"
+            ],
+            "duration": 194667,
+            "acousticness": 0.0613,
+            "danceability": 3.4210000000000003,
+            "instrumentalness": 7.78e-06,
+            "liveness": 0.0984,
+            "loudness": -7.162,
+            "speechiness": 0.0305,
+            "time_signature": 4,
+            "happiness": 2.17
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "Linger",
+        "Artist": "The Cranberries",
+        "Key": "9B",
+        "Energy": 6.76,
+        "Popularity": 5.5,
+        "BPM": 95,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Pop",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "3HHehSGzW9dhs2V7Sod4jX",
+            "explicit": false,
+            "album": "Stars: The Best Of The Cranberries 1992-2002",
+            "release_date": "2002-09-16",
+            "genres": [
+                "irish rock",
+                "pop rock",
+                "rock"
+            ],
+            "duration": 274773,
+            "acousticness": 0.081,
+            "danceability": 5.023,
+            "instrumentalness": 4.79e-05,
+            "liveness": 0.34,
+            "loudness": -8.706,
+            "speechiness": 0.0271,
+            "time_signature": 4,
+            "happiness": 2.629
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "Wonderwall",
+        "Artist": "Oasis",
+        "Key": "2A",
+        "Energy": 9.037,
+        "Popularity": 1.0,
+        "BPM": 87,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Pop",
+            "Nostalgic",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3nV3zKrWBuDcCYjju4LkNp",
+            "explicit": false,
+            "album": "Stop The Clocks",
+            "release_date": "2006",
+            "genres": [
+                "beatlesque",
+                "britpop",
+                "madchester",
+                "permanent wave",
+                "rock"
+            ],
+            "duration": 258080,
+            "acousticness": 0.000714,
+            "danceability": 4.6899999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.202,
+            "loudness": -4.347,
+            "speechiness": 0.0342,
+            "time_signature": 4,
+            "happiness": 7.191999999999999
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "Drift Away",
+        "Artist": "Uncle Kracker",
+        "Key": "1B",
+        "Energy": 6.94,
+        "Popularity": 7.57,
+        "BPM": 76,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Pop",
+            "Nostalgic",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0RFgvrhkf9FiDRLA0BhzpZ",
+            "explicit": false,
+            "album": "No Stranger to Shame",
+            "release_date": "2002-07-09",
+            "genres": [
+                "country",
+                "pop rock",
+                "post-grunge"
+            ],
+            "duration": 255560,
+            "acousticness": 0.181,
+            "danceability": 6.247,
+            "instrumentalness": 0,
+            "liveness": 0.0979,
+            "loudness": -5.078,
+            "speechiness": 0.0377,
+            "time_signature": 4,
+            "happiness": 8.748999999999999
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "Tomorrow",
+        "Artist": "Silverchair",
+        "Key": "10B",
+        "Energy": 7.426,
+        "Popularity": 7.03,
+        "BPM": 76,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "24tO365YW6lcZr1hN4Ukzj",
+            "explicit": false,
+            "album": "Frogstomp (Deluxe Edition) [Remastered]",
+            "release_date": "1995-03-27",
+            "genres": [
+                "alternative metal",
+                "alternative rock",
+                "australian alternative rock",
+                "australian psych",
+                "australian rock",
+                "grunge",
+                "nu metal",
+                "post-grunge"
+            ],
+            "duration": 266280,
+            "acousticness": 0.000658,
+            "danceability": 3.6279999999999997,
+            "instrumentalness": 0.000109,
+            "liveness": 0.102,
+            "loudness": -4.919,
+            "speechiness": 0.0316,
+            "time_signature": 3,
+            "happiness": 5.158
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "Possum Kingdom",
+        "Artist": "Toadies",
+        "Key": "11B",
+        "Energy": 7.534,
+        "Popularity": 7.03,
+        "BPM": 101,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Pop",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "56SkdBKyR2zOkjk6wVFI9s",
+            "explicit": false,
+            "album": "Rubberneck",
+            "release_date": "1994-01-01",
+            "genres": [
+                "alternative rock",
+                "grunge",
+                "pop rock",
+                "post-grunge"
+            ],
+            "duration": 308333,
+            "acousticness": 0.000772,
+            "danceability": 6.787,
+            "instrumentalness": 0.00969,
+            "liveness": 0.07,
+            "loudness": -9.314,
+            "speechiness": 0.0255,
+            "time_signature": 4,
+            "happiness": 9.325000000000001
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "She Talks To Angels",
+        "Artist": "The Black Crowes",
+        "Key": "12B",
+        "Energy": 5.689,
+        "Popularity": 7.3,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Mad",
+            "Nostalgic",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "5NK8jad728pj6YeqM5VJD4",
+            "explicit": false,
+            "album": "Shake Your Money Maker",
+            "release_date": "1990-02-13",
+            "genres": [
+                "album rock",
+                "blues rock",
+                "classic rock",
+                "hard rock",
+                "heartland rock",
+                "jam band",
+                "rock",
+                "southern rock"
+            ],
+            "duration": 329400,
+            "acousticness": 0.06,
+            "danceability": 6.255999999999999,
+            "instrumentalness": 7.56e-05,
+            "liveness": 0.22,
+            "loudness": -5.782,
+            "speechiness": 0.0295,
+            "time_signature": 4,
+            "happiness": 3.853
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "Machinehead",
+        "Artist": "Bush",
+        "Key": "11B",
+        "Energy": 9.271,
+        "Popularity": 7.12,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Mad",
+            "Rock",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "6dJODklApmve5IzgKWUqV2",
+            "explicit": false,
+            "album": "Sixteen Stone (Remastered)",
+            "release_date": "2014-10-14",
+            "genres": [
+                "alternative metal",
+                "alternative rock",
+                "grunge",
+                "nu metal",
+                "post-grunge",
+                "rock"
+            ],
+            "duration": 256333,
+            "acousticness": 2.57e-05,
+            "danceability": 2.287,
+            "instrumentalness": 0.00427,
+            "liveness": 0.134,
+            "loudness": -4.438,
+            "speechiness": 0.11,
+            "time_signature": 3,
+            "happiness": 2.809
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "Unsung",
+        "Artist": "Helmet",
+        "Key": "11B",
+        "Energy": 8.326,
+        "Popularity": 6.58,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Mad",
+            "Rock",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0z25tUQgEI4cIyNZ1TgWig",
+            "explicit": false,
+            "album": "Meantime",
+            "release_date": "1992-01-01",
+            "genres": [
+                "alternative metal",
+                "alternative rock",
+                "groove metal",
+                "grunge",
+                "industrial metal",
+                "industrial rock",
+                "nu metal",
+                "post-hardcore"
+            ],
+            "duration": 236400,
+            "acousticness": 6.74e-05,
+            "danceability": 3.799,
+            "instrumentalness": 0.00534,
+            "liveness": 0.198,
+            "loudness": -9.272,
+            "speechiness": 0.0545,
+            "time_signature": 4,
+            "happiness": 7.579
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "Santa Monica - Remastered 2004",
+        "Artist": "Everclear",
+        "Key": "9B",
+        "Energy": 9.649,
+        "Popularity": 5.05,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Pop",
+            "Nostalgic",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "7iU5Lm0gZ5HRu9YPlO8NpI",
+            "explicit": false,
+            "album": "Ten Years Gone: The Best Of Everclear 1994-2004",
+            "release_date": "2004-10-05",
+            "genres": [
+                "alternative metal",
+                "alternative rock",
+                "nu metal",
+                "permanent wave",
+                "pop rock",
+                "post-grunge"
+            ],
+            "duration": 191493,
+            "acousticness": 0.0838,
+            "danceability": 4.771,
+            "instrumentalness": 0,
+            "liveness": 0.537,
+            "loudness": -2.255,
+            "speechiness": 0.117,
+            "time_signature": 4,
+            "happiness": 3.97
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "Wasting My Time",
+        "Artist": "Default",
+        "Key": "10B",
+        "Energy": 7.984,
+        "Popularity": 6.58,
+        "BPM": 148,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Mad",
+            "Rock",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "5dpAN1mjFPL38kh9kWsCiw",
+            "explicit": false,
+            "album": "The Fallout (Limited Edition)",
+            "release_date": "2001",
+            "genres": [
+                "alternative metal",
+                "canadian rock",
+                "post-grunge"
+            ],
+            "duration": 269307,
+            "acousticness": 0.00171,
+            "danceability": 5.041,
+            "instrumentalness": 0,
+            "liveness": 0.0698,
+            "loudness": -5.594,
+            "speechiness": 0.0322,
+            "time_signature": 4,
+            "happiness": 2.782
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "Flagpole Sitta",
+        "Artist": "Harvey Danger",
+        "Key": "12A",
+        "Energy": 9.109,
+        "Popularity": 7.209999999999999,
+        "BPM": 145,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Pop",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "7cz70nyRXlCJOE85whEkgU",
+            "explicit": false,
+            "album": "Where Have All The Merrymakers Gone?",
+            "release_date": "1997-01-01",
+            "genres": [
+                "pop rock",
+                "post-grunge"
+            ],
+            "duration": 217267,
+            "acousticness": 0.00152,
+            "danceability": 4.249,
+            "instrumentalness": 0.000263,
+            "liveness": 0.286,
+            "loudness": -4.133,
+            "speechiness": 0.0443,
+            "time_signature": 4,
+            "happiness": 5.338
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "Bound For The Floor",
+        "Artist": "Local H",
+        "Key": "2B",
+        "Energy": 5.7700000000000005,
+        "Popularity": 7.03,
+        "BPM": 119,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "3cbTV3IZZvSBYVcl0xuZbY",
+            "explicit": false,
+            "album": "As Good As Dead",
+            "release_date": "1996-01-01",
+            "genres": [
+                "alternative rock",
+                "grunge",
+                "post-grunge"
+            ],
+            "duration": 222960,
+            "acousticness": 0.000113,
+            "danceability": 6.886,
+            "instrumentalness": 0.0197,
+            "liveness": 0.0534,
+            "loudness": -7.409,
+            "speechiness": 0.0556,
+            "time_signature": 4,
+            "happiness": 6.255999999999999
+        }
+    },
+    {
+        "#": 52,
+        "Track Title": "Blurry",
+        "Artist": "Puddle Of Mudd",
+        "Key": "5A",
+        "Energy": 9.442,
+        "Popularity": 7.3,
+        "BPM": 79,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "6lSr3iZTC144PKhvbPFzMp",
+            "explicit": false,
+            "album": "Come Clean",
+            "release_date": "2001-01-01",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "post-grunge"
+            ],
+            "duration": 304000,
+            "acousticness": 0.00805,
+            "danceability": 4.879,
+            "instrumentalness": 0,
+            "liveness": 0.138,
+            "loudness": -4.507,
+            "speechiness": 0.0542,
+            "time_signature": 4,
+            "happiness": 5.707
+        }
+    },
+    {
+        "#": 53,
+        "Track Title": "Take a Picture",
+        "Artist": "Filter",
+        "Key": "10B",
+        "Energy": 7.9750000000000005,
+        "Popularity": 1.0,
+        "BPM": 99,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "2O2mr2gzBRtKGRiswqRyiN",
+            "explicit": false,
+            "album": "Title Of Record",
+            "release_date": "1999-08-24",
+            "genres": [
+                "alternative metal",
+                "alternative rock",
+                "grunge",
+                "industrial metal",
+                "nu metal",
+                "post-grunge"
+            ],
+            "duration": 363800,
+            "acousticness": 0.00151,
+            "danceability": 5.869000000000001,
+            "instrumentalness": 0.000222,
+            "liveness": 0.178,
+            "loudness": -8.041,
+            "speechiness": 0.0297,
+            "time_signature": 4,
+            "happiness": 3.439
+        }
+    },
+    {
+        "#": 54,
+        "Track Title": "Interstate Love Song - 2019 Remaster",
+        "Artist": "Stone Temple Pilots",
+        "Key": "11B",
+        "Energy": 9.343,
+        "Popularity": 8.11,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Nostalgic",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "6qLEOZvf5gI7kWE63JE7p3",
+            "explicit": false,
+            "album": "Purple (2019 Remaster)",
+            "release_date": "1994-06-07",
+            "genres": [
+                "alternative metal",
+                "alternative rock",
+                "classic rock",
+                "grunge",
+                "hard rock",
+                "nu metal",
+                "post-grunge",
+                "rock"
+            ],
+            "duration": 194853,
+            "acousticness": 0.000273,
+            "danceability": 2.935,
+            "instrumentalness": 0.00661,
+            "liveness": 0.126,
+            "loudness": -7.327,
+            "speechiness": 0.0452,
+            "time_signature": 4,
+            "happiness": 5.41
+        }
+    },
+    {
+        "#": 55,
+        "Track Title": "Lounge Act",
+        "Artist": "Nirvana",
+        "Key": "1A",
+        "Energy": 9.676,
+        "Popularity": 6.49,
+        "BPM": 76,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Nostalgic",
+            "Rock",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "7glld4kxYHp61zIPtSVHNk",
+            "explicit": true,
+            "album": "Nevermind (Remastered)",
+            "release_date": "1991-09-26",
+            "genres": [
+                "grunge",
+                "permanent wave",
+                "rock"
+            ],
+            "duration": 156427,
+            "acousticness": 1.26e-05,
+            "danceability": 4.069000000000001,
+            "instrumentalness": 0.000103,
+            "liveness": 0.151,
+            "loudness": -5.327,
+            "speechiness": 0.107,
+            "time_signature": 4,
+            "happiness": 5.131
+        }
+    },
+    {
+        "#": 56,
+        "Track Title": "Shimmer",
+        "Artist": "Fuel",
+        "Key": "12A",
+        "Energy": 8.155000000000001,
+        "Popularity": 7.03,
+        "BPM": 115,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "74KI6d8jEM2zwOAo3luayU",
+            "explicit": false,
+            "album": "Sunburn",
+            "release_date": "1997",
+            "genres": [
+                "alternative metal",
+                "nu metal",
+                "post-grunge"
+            ],
+            "duration": 214107,
+            "acousticness": 0.00236,
+            "danceability": 5.32,
+            "instrumentalness": 0,
+            "liveness": 0.189,
+            "loudness": -6.408,
+            "speechiness": 0.0421,
+            "time_signature": 4,
+            "happiness": 4.888
+        }
+    },
+    {
+        "#": 57,
+        "Track Title": "Got You (Where I Want You)",
+        "Artist": "The Flys",
+        "Key": "4B",
+        "Energy": 6.796,
+        "Popularity": 6.22,
+        "BPM": 76,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "1xpd5XqLsrQDBa81ON2kOb",
+            "explicit": false,
+            "album": "Holiday Man",
+            "release_date": "1998",
+            "genres": [
+                "post-grunge"
+            ],
+            "duration": 242453,
+            "acousticness": 0.000405,
+            "danceability": 5.2299999999999995,
+            "instrumentalness": 0.293,
+            "liveness": 0.134,
+            "loudness": -6.721,
+            "speechiness": 0.0269,
+            "time_signature": 4,
+            "happiness": 5.689
+        }
+    },
+    {
+        "#": 58,
+        "Track Title": "Gives You Hell",
+        "Artist": "The All-American Rejects",
+        "Key": "12B",
+        "Energy": 7.218999999999999,
+        "Popularity": 7.75,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Pop",
+            "Calm",
+            "Mad",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "6ihL9TjfRjadfEePzXXyVF",
+            "explicit": false,
+            "album": "When The World Comes Down",
+            "release_date": "2008-01-01",
+            "genres": [
+                "alternative metal",
+                "modern rock",
+                "neo mellow",
+                "neon pop punk",
+                "pop punk",
+                "pop rock",
+                "post-grunge"
+            ],
+            "duration": 213107,
+            "acousticness": 0.0159,
+            "danceability": 7.462,
+            "instrumentalness": 0,
+            "liveness": 0.0627,
+            "loudness": -6.44,
+            "speechiness": 0.0387,
+            "time_signature": 4,
+            "happiness": 5.968
+        }
+    },
+    {
+        "#": 59,
+        "Track Title": "The Things That I Used To Do",
+        "Artist": "G. Love & Special Sauce",
+        "Key": "8B",
+        "Energy": 7.489,
+        "Popularity": 4.15,
+        "BPM": 101,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s"
+        ],
+        "Additional Info": {
+            "id": "3T9Uc8jc7RayIwvqlt5fKn",
+            "explicit": false,
+            "album": "G. Love And Special Sauce",
+            "release_date": "1994-05-10",
+            "genres": [
+                "jam band"
+            ],
+            "duration": 213293,
+            "acousticness": 0.0201,
+            "danceability": 5.005,
+            "instrumentalness": 5.21e-06,
+            "liveness": 0.0415,
+            "loudness": -8.225,
+            "speechiness": 0.244,
+            "time_signature": 4,
+            "happiness": 6.274
+        }
+    },
+    {
+        "#": 60,
+        "Track Title": "Cold Beverage",
+        "Artist": "G. Love & Special Sauce",
+        "Key": "7B",
+        "Energy": 7.75,
+        "Popularity": 2.44,
+        "BPM": 101,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6voaqrnCLWCDG6D0mmFoad",
+            "explicit": false,
+            "album": "Playlist: The Very Best Of G. Love & Special Sauce (The Okeh Years)",
+            "release_date": "1994",
+            "genres": [
+                "jam band"
+            ],
+            "duration": 154133,
+            "acousticness": 0.659,
+            "danceability": 6.94,
+            "instrumentalness": 1.77e-05,
+            "liveness": 0.0636,
+            "loudness": -8.193,
+            "speechiness": 0.0559,
+            "time_signature": 4,
+            "happiness": 9.172
+        }
+    }
+]

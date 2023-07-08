@@ -1,0 +1,670 @@
+[
+    {
+        "#": 1,
+        "Track Title": "Skywalk",
+        "Artist": "Gorgon City",
+        "Key": "11A",
+        "Energy": 7.4079999999999995,
+        "Popularity": 4.779999999999999,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Pop",
+            "Club-Hotel",
+            "Dance Remixes",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "4AHbsdacRagQT4GklwTtON",
+            "explicit": false,
+            "album": "Skywalk",
+            "release_date": "2021-09-09",
+            "genres": [
+                "future garage",
+                "house",
+                "pop dance",
+                "uk dance"
+            ],
+            "duration": 303125,
+            "acousticness": 0.000587,
+            "danceability": 7.048,
+            "instrumentalness": 0.24,
+            "liveness": 0.088,
+            "loudness": -8.198,
+            "speechiness": 0.0594,
+            "time_signature": 4,
+            "happiness": 1.3500999999999999
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "TARAKA",
+        "Artist": "Gordo",
+        "Key": "4B",
+        "Energy": 9.442,
+        "Popularity": 5.140000000000001,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "5P6ilWY7ZC1LrDkLgB1HHv",
+            "explicit": false,
+            "album": "TARAKA",
+            "release_date": "2021-09-17",
+            "genres": [],
+            "duration": 307742,
+            "acousticness": 0.00104,
+            "danceability": 6.724,
+            "instrumentalness": 0.0772,
+            "liveness": 0.338,
+            "loudness": -4.799,
+            "speechiness": 0.0458,
+            "time_signature": 4,
+            "happiness": 1.4329
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "Breathing You",
+        "Artist": "Maxim Lany",
+        "Key": "1B",
+        "Energy": 6.9670000000000005,
+        "Popularity": 2.62,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "5IiWrJ1WNehyL73DjXmZeM",
+            "explicit": false,
+            "album": "Closer (You’re Not Alone)",
+            "release_date": "2021-08-27",
+            "genres": [
+                "belgian edm"
+            ],
+            "duration": 474155,
+            "acousticness": 0.0242,
+            "danceability": 6.868,
+            "instrumentalness": 0.848,
+            "liveness": 0.0938,
+            "loudness": -11.079,
+            "speechiness": 0.0438,
+            "time_signature": 4,
+            "happiness": 2.089
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Next to Me - Vintage Culture Remix",
+        "Artist": "RÜFÜS DU SOL, Vintage Culture",
+        "Key": "12A",
+        "Energy": 8.614,
+        "Popularity": 6.22,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Inspiring",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "2bidvM5hM1LGiEDkgp0EUz",
+            "explicit": false,
+            "album": "Next to Me (Remixes)",
+            "release_date": "2021-09-10",
+            "genres": [
+                "australian electropop",
+                "indietronica",
+                "brazilian edm"
+            ],
+            "duration": 382439,
+            "acousticness": 0.000324,
+            "danceability": 5.932,
+            "instrumentalness": 0.0284,
+            "liveness": 0.242,
+            "loudness": -7.534,
+            "speechiness": 0.0295,
+            "time_signature": 4,
+            "happiness": 1.9809999999999999
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Tangible",
+        "Artist": "Massano",
+        "Key": "9A",
+        "Energy": 5.1850000000000005,
+        "Popularity": 4.24,
+        "BPM": 126,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "7A7Y1Q9V3UFMusXdSHkABW",
+            "explicit": false,
+            "album": "Symbolism",
+            "release_date": "2021-09-17",
+            "genres": [
+                "melodic techno"
+            ],
+            "duration": 409744,
+            "acousticness": 0.281,
+            "danceability": 7.399,
+            "instrumentalness": 0.878,
+            "liveness": 0.0986,
+            "loudness": -14.344,
+            "speechiness": 0.0569,
+            "time_signature": 4,
+            "happiness": 2.2510000000000003
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Who's to Say What's Real - Mind Against, Colyn Remix",
+        "Artist": "KAS:ST, Mind Against, Colyn",
+        "Key": "1A",
+        "Energy": 6.255999999999999,
+        "Popularity": 4.24,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "6HDKnbJpahdlprPsi81McM",
+            "explicit": false,
+            "album": "A Magic World (Remixes)",
+            "release_date": "2021-09-10",
+            "genres": [
+                "french techno",
+                "deep techno",
+                "italian techno",
+                "melodic techno",
+                "minimal techno",
+                "melodic techno"
+            ],
+            "duration": 455046,
+            "acousticness": 0.00914,
+            "danceability": 7.822,
+            "instrumentalness": 0.853,
+            "liveness": 0.0901,
+            "loudness": -11.259,
+            "speechiness": 0.0593,
+            "time_signature": 4,
+            "happiness": 1.3168
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Feel What You Want (feat. Rebecca)",
+        "Artist": "Phonique, Na",
+        "Key": "11A",
+        "Energy": 6.787,
+        "Popularity": 2.8,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "76qQbEZqi4erjaLsD5QB2E",
+            "explicit": false,
+            "album": "Best of Phonique",
+            "release_date": "2014-04-28",
+            "genres": [
+                "deep disco house",
+                "german house"
+            ],
+            "duration": 385760,
+            "acousticness": 0.0203,
+            "danceability": 8.524000000000001,
+            "instrumentalness": 0.0471,
+            "liveness": 0.0906,
+            "loudness": -10.389,
+            "speechiness": 0.0611,
+            "time_signature": 4,
+            "happiness": 5.023
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Orbital Love",
+        "Artist": "Hollt",
+        "Key": "1A",
+        "Energy": 6.427,
+        "Popularity": 5.68,
+        "BPM": 121,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "7sSTTQbR0C0pKSlJYHWg0L",
+            "explicit": false,
+            "album": "Orbital Love",
+            "release_date": "2021-09-10",
+            "genres": [
+                "dutch tech house"
+            ],
+            "duration": 237391,
+            "acousticness": 0.0876,
+            "danceability": 6.859,
+            "instrumentalness": 0.733,
+            "liveness": 0.0566,
+            "loudness": -9.68,
+            "speechiness": 0.0384,
+            "time_signature": 4,
+            "happiness": 1.2988
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Without You - Extended Mix",
+        "Artist": "Alar, Korolova, Krismi",
+        "Key": "12A",
+        "Energy": 8.929,
+        "Popularity": 4.15,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2Gj0J2M804YQSARJ0BkH4Z",
+            "explicit": false,
+            "album": "Without You",
+            "release_date": "2021-10-22",
+            "genres": [],
+            "duration": 396440,
+            "acousticness": 0.00192,
+            "danceability": 6.922000000000001,
+            "instrumentalness": 0.847,
+            "liveness": 0.15,
+            "loudness": -8.195,
+            "speechiness": 0.0598,
+            "time_signature": 4,
+            "happiness": 3.844
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Alive - Anyma Remix",
+        "Artist": "RÜFÜS DU SOL, Anyma",
+        "Key": "5A",
+        "Energy": 8.092,
+        "Popularity": 5.68,
+        "BPM": 125,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Inspiring",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "1I0aQ7U6feL3NF1muq7u8z",
+            "explicit": false,
+            "album": "Alive (Remixes)",
+            "release_date": "2021-07-29",
+            "genres": [
+                "australian electropop",
+                "indietronica",
+                "stutter house"
+            ],
+            "duration": 311345,
+            "acousticness": 0.00461,
+            "danceability": 6.13,
+            "instrumentalness": 0.5,
+            "liveness": 0.0733,
+            "loudness": -10.259,
+            "speechiness": 0.0325,
+            "time_signature": 4,
+            "happiness": 1.3402
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Flame - Edit",
+        "Artist": "ARTBAT",
+        "Key": "12A",
+        "Energy": 9.424000000000001,
+        "Popularity": 5.59,
+        "BPM": 127,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "38be6Tha1a4kOJPBaqpeEm",
+            "explicit": false,
+            "album": "Flame",
+            "release_date": "2021-08-27",
+            "genres": [
+                "ukrainian electronic"
+            ],
+            "duration": 326929,
+            "acousticness": 0.00181,
+            "danceability": 6.4719999999999995,
+            "instrumentalness": 0.736,
+            "liveness": 0.0463,
+            "loudness": -6.254,
+            "speechiness": 0.0583,
+            "time_signature": 4,
+            "happiness": 1.3500999999999999
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "Pont de la Caille",
+        "Artist": "Hidden Empire",
+        "Key": "9B",
+        "Energy": 9.109,
+        "Popularity": 5.5,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "3jAPlfftOtKBgrJ722luE3",
+            "explicit": false,
+            "album": "Pont de la Caille",
+            "release_date": "2021-09-02",
+            "genres": [
+                "dark techno"
+            ],
+            "duration": 313809,
+            "acousticness": 0.00168,
+            "danceability": 7.102,
+            "instrumentalness": 0.899,
+            "liveness": 0.109,
+            "loudness": -8.83,
+            "speechiness": 0.0438,
+            "time_signature": 4,
+            "happiness": 1.3042
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "Feel Again - Alar & Korolova Remix",
+        "Artist": "Spada, Britt Lari, Alar, Korolova",
+        "Key": "12A",
+        "Energy": 8.587,
+        "Popularity": 4.33,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "3RMErdK4uyu6aXbobniGgi",
+            "explicit": false,
+            "album": "Feel Again",
+            "release_date": "2021-09-24",
+            "genres": [
+                "tropical house"
+            ],
+            "duration": 210102,
+            "acousticness": 0.15,
+            "danceability": 6.2379999999999995,
+            "instrumentalness": 0.704,
+            "liveness": 0.111,
+            "loudness": -11.478,
+            "speechiness": 0.0447,
+            "time_signature": 4,
+            "happiness": 2.6470000000000002
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "Cenote",
+        "Artist": "Sainte Vie",
+        "Key": "4A",
+        "Energy": 9.118,
+        "Popularity": 5.7700000000000005,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "6kZOfRM1yZUyLGATRhPTuf",
+            "explicit": false,
+            "album": "Cenote",
+            "release_date": "2021-07-01",
+            "genres": [
+                "organic electronic"
+            ],
+            "duration": 298335,
+            "acousticness": 0.00858,
+            "danceability": 6.066999999999999,
+            "instrumentalness": 0.878,
+            "liveness": 0.0756,
+            "loudness": -10.781,
+            "speechiness": 0.0408,
+            "time_signature": 4,
+            "happiness": 1.3627
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Temperament of the Beat",
+        "Artist": "CamelPhat, Cari Golden",
+        "Key": "10B",
+        "Energy": 8.758,
+        "Popularity": 4.51,
+        "BPM": 121,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Club-Hotel",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "2d7TJXGNI2nvyWF51CLFkJ",
+            "explicit": false,
+            "album": "Temperament of the Beat",
+            "release_date": "2021-08-26",
+            "genres": [
+                "deep tech house",
+                "house",
+                "progressive house",
+                "uk dance"
+            ],
+            "duration": 388783,
+            "acousticness": 0.00054,
+            "danceability": 8.290000000000001,
+            "instrumentalness": 0.921,
+            "liveness": 0.0698,
+            "loudness": -9.494,
+            "speechiness": 0.0491,
+            "time_signature": 4,
+            "happiness": 1.3437999999999999
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "Should Have Seen It Coming - Yotto Remix",
+        "Artist": "Franky Wah, AETHO, Yotto",
+        "Key": "5A",
+        "Energy": 7.066000000000001,
+        "Popularity": 3.88,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "7nsNml2CxXXwcKltcNJJH5",
+            "explicit": false,
+            "album": "Should Have Seen It Coming (Yotto Remix)",
+            "release_date": "2021-07-26",
+            "genres": [
+                "uk dance",
+                "uk house",
+                "finnish edm",
+                "progressive house"
+            ],
+            "duration": 281327,
+            "acousticness": 0.00216,
+            "danceability": 6.814,
+            "instrumentalness": 0.584,
+            "liveness": 0.0767,
+            "loudness": -7.682,
+            "speechiness": 0.028,
+            "time_signature": 4,
+            "happiness": 2.287
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "Sonoma",
+        "Artist": "Simon Doty, Ezequiel Arias",
+        "Key": "9B",
+        "Energy": 9.397,
+        "Popularity": 3.97,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "0YrQuaYeWmUnZRfPFEYC5N",
+            "explicit": false,
+            "album": "Sonoma / Luna",
+            "release_date": "2020-02-18",
+            "genres": [
+                "funky tech house",
+                "progressive house",
+                "dark progressive house",
+                "deep progressive house",
+                "focus trance"
+            ],
+            "duration": 232190,
+            "acousticness": 0.003,
+            "danceability": 6.796,
+            "instrumentalness": 0.861,
+            "liveness": 0.0916,
+            "loudness": -6.572,
+            "speechiness": 0.0363,
+            "time_signature": 4,
+            "happiness": 1.342
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "Hold Your Breath",
+        "Artist": "Ivory (IT)",
+        "Key": "1B",
+        "Energy": 8.965,
+        "Popularity": 3.34,
+        "BPM": 121,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "5gRR3GfhExpfEiQoJdC1sc",
+            "explicit": false,
+            "album": "Exhibition, Vol. 2: Hold Your Breath",
+            "release_date": "2020-04-17",
+            "genres": [],
+            "duration": 440331,
+            "acousticness": 0.00522,
+            "danceability": 7.651,
+            "instrumentalness": 0.921,
+            "liveness": 0.0636,
+            "loudness": -9.954,
+            "speechiness": 0.0529,
+            "time_signature": 4,
+            "happiness": 3.007
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "React",
+        "Artist": "Cassian",
+        "Key": "12A",
+        "Energy": 9.676,
+        "Popularity": 4.0600000000000005,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "2BaC36FSodMCAFacTpgh75",
+            "explicit": false,
+            "album": "Reactivate",
+            "release_date": "2022-02-11",
+            "genres": [],
+            "duration": 287258,
+            "acousticness": 0.000654,
+            "danceability": 7.093,
+            "instrumentalness": 0.873,
+            "liveness": 0.0851,
+            "loudness": -6.555,
+            "speechiness": 0.0486,
+            "time_signature": 4,
+            "happiness": 1.3114
+        }
+    }
+]

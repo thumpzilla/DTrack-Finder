@@ -1,0 +1,3437 @@
+[
+    {
+        "#": 1,
+        "Track Title": "Pink + White",
+        "Artist": "Frank Ocean",
+        "Key": "11B",
+        "Energy": 5.905,
+        "Popularity": 9.1,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Romantic & Slow Dance",
+            "Happy",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "3xKsf9qdS1CyvXSMEid6g8",
+            "explicit": false,
+            "album": "Blonde",
+            "release_date": "2016-08-20",
+            "genres": [
+                "lgbtq+ hip hop",
+                "neo soul"
+            ],
+            "duration": 184516,
+            "acousticness": 0.667,
+            "danceability": 5.905,
+            "instrumentalness": 5.48e-05,
+            "liveness": 0.417,
+            "loudness": -7.362,
+            "speechiness": 0.107,
+            "time_signature": 3,
+            "happiness": 5.941000000000001
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Lost",
+        "Artist": "Frank Ocean",
+        "Key": "4B",
+        "Energy": 6.427,
+        "Popularity": 8.83,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Romantic & Slow Dance",
+            "Happy",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3GZD6HmiNUhxXYf8Gch723",
+            "explicit": true,
+            "album": "channel ORANGE",
+            "release_date": "2012-07-10",
+            "genres": [
+                "lgbtq+ hip hop",
+                "neo soul"
+            ],
+            "duration": 234093,
+            "acousticness": 0.0272,
+            "danceability": 9.217,
+            "instrumentalness": 0.000503,
+            "liveness": 0.167,
+            "loudness": -4.892,
+            "speechiness": 0.226,
+            "time_signature": 4,
+            "happiness": 5.473
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "Ride Wit Me",
+        "Artist": "Nelly, City Spud",
+        "Key": "9B",
+        "Energy": 7.3,
+        "Popularity": 8.2,
+        "BPM": 102,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Dance Remixes",
+            "Mad",
+            "Hip Hop",
+            "Pop",
+            "Happy",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3Gf5nttwcX9aaSQXRWidEZ",
+            "explicit": true,
+            "album": "Country Grammar",
+            "release_date": "2000-06-27",
+            "genres": [
+                "dance pop",
+                "gangster rap",
+                "hip hop",
+                "pop rap",
+                "rap",
+                "st louis rap",
+                "urban contemporary"
+            ],
+            "duration": 291782,
+            "acousticness": 0.0616,
+            "danceability": 8.649999999999999,
+            "instrumentalness": 1.8e-06,
+            "liveness": 0.244,
+            "loudness": -6.49,
+            "speechiness": 0.0478,
+            "time_signature": 4,
+            "happiness": 7.497999999999999
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Pipe Down",
+        "Artist": "Drake",
+        "Key": "11B",
+        "Energy": 7.209999999999999,
+        "Popularity": 7.57,
+        "BPM": 78,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "11pEKMLmavDu8fxOB5QjbQ",
+            "explicit": true,
+            "album": "Certified Lover Boy",
+            "release_date": "2021-09-03",
+            "genres": [
+                "canadian hip hop",
+                "canadian pop",
+                "hip hop",
+                "rap",
+                "toronto rap"
+            ],
+            "duration": 205721,
+            "acousticness": 0.128,
+            "danceability": 5.662,
+            "instrumentalness": 0,
+            "liveness": 0.176,
+            "loudness": -6.15,
+            "speechiness": 0.107,
+            "time_signature": 4,
+            "happiness": 6.31
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "3 Nights",
+        "Artist": "Dominic Fike",
+        "Key": "9A",
+        "Energy": 5.662,
+        "Popularity": 8.11,
+        "BPM": 76,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1tNJrcVe6gwLEiZCtprs1u",
+            "explicit": false,
+            "album": "Don't Forget About Me, Demos",
+            "release_date": "2018-10-16",
+            "genres": [
+                "alternative pop rock",
+                "pov: indie"
+            ],
+            "duration": 177667,
+            "acousticness": 0.223,
+            "danceability": 8.334999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.104,
+            "loudness": -6.594,
+            "speechiness": 0.0897,
+            "time_signature": 4,
+            "happiness": 8.893
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Look Back at It",
+        "Artist": "A Boogie Wit da Hoodie",
+        "Key": "5A",
+        "Energy": 6.2829999999999995,
+        "Popularity": 8.290000000000001,
+        "BPM": 96,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3Ol2xnObFdKV9pmRD2t9x8",
+            "explicit": true,
+            "album": "Hoodie SZN",
+            "release_date": "2018-12-21",
+            "genres": [
+                "melodic rap",
+                "rap",
+                "trap"
+            ],
+            "duration": 179449,
+            "acousticness": 0.407,
+            "danceability": 8.119,
+            "instrumentalness": 0,
+            "liveness": 0.148,
+            "loudness": -5.075,
+            "speechiness": 0.0413,
+            "time_signature": 4,
+            "happiness": 5.824
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Nights",
+        "Artist": "Frank Ocean",
+        "Key": "7A",
+        "Energy": 5.9590000000000005,
+        "Popularity": 8.379999999999999,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Romantic & Slow Dance",
+            "Happy",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "7eqoqGkKwgOaWNNHx90uEZ",
+            "explicit": true,
+            "album": "Blonde",
+            "release_date": "2016-08-20",
+            "genres": [
+                "lgbtq+ hip hop",
+                "neo soul"
+            ],
+            "duration": 307151,
+            "acousticness": 0.427,
+            "danceability": 5.113,
+            "instrumentalness": 1.15e-06,
+            "liveness": 0.113,
+            "loudness": -9.36,
+            "speechiness": 0.167,
+            "time_signature": 4,
+            "happiness": 4.852
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Hotel",
+        "Artist": "Montell Fish",
+        "Key": "8A",
+        "Energy": 4.843,
+        "Popularity": 7.84,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "0JzG1wJuB4v9UPkSE7LMXi",
+            "explicit": false,
+            "album": "Hotel",
+            "release_date": "2022-09-16",
+            "genres": [
+                "pittsburgh rap"
+            ],
+            "duration": 197333,
+            "acousticness": 0.752,
+            "danceability": 3.052,
+            "instrumentalness": 0.0167,
+            "liveness": 0.592,
+            "loudness": -8.739,
+            "speechiness": 0.0363,
+            "time_signature": 4,
+            "happiness": 2.7279999999999998
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Malibu",
+        "Artist": "Yann Muller, MARTiNELLi",
+        "Key": "10A",
+        "Energy": 8.146,
+        "Popularity": 5.41,
+        "BPM": 125,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5PU1ioZwKX1KMUxMQ8eUDP",
+            "explicit": false,
+            "album": "Malibu",
+            "release_date": "2022-06-09",
+            "genres": [
+                "tropical house"
+            ],
+            "duration": 143280,
+            "acousticness": 0.00393,
+            "danceability": 7.471,
+            "instrumentalness": 1.28e-06,
+            "liveness": 0.0409,
+            "loudness": -5.978,
+            "speechiness": 0.0928,
+            "time_signature": 4,
+            "happiness": 7.183000000000001
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Nikes on My Feet",
+        "Artist": "Mac Miller",
+        "Key": "11A",
+        "Energy": 6.13,
+        "Popularity": 7.84,
+        "BPM": 92,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "7cAFB83sEKAmwekVvQtGZj",
+            "explicit": true,
+            "album": "K.I.D.S.",
+            "release_date": "2010-08-13",
+            "genres": [
+                "hip hop",
+                "pittsburgh rap",
+                "rap"
+            ],
+            "duration": 164632,
+            "acousticness": 0.559,
+            "danceability": 8.209,
+            "instrumentalness": 0,
+            "liveness": 0.111,
+            "loudness": -5.103,
+            "speechiness": 0.265,
+            "time_signature": 4,
+            "happiness": 6.084999999999999
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Baby I'm Yours",
+        "Artist": "Arctic Monkeys",
+        "Key": "10B",
+        "Energy": 6.3549999999999995,
+        "Popularity": 7.39,
+        "BPM": 114,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Rock",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "0SzvmWfOhoxZVGrmvb56YL",
+            "explicit": false,
+            "album": "Leave Before The Lights Come On",
+            "release_date": "2006-08-14",
+            "genres": [
+                "garage rock",
+                "modern rock",
+                "permanent wave",
+                "rock",
+                "sheffield indie"
+            ],
+            "duration": 152613,
+            "acousticness": 0.215,
+            "danceability": 5.158,
+            "instrumentalness": 0,
+            "liveness": 0.184,
+            "loudness": -9.363,
+            "speechiness": 0.0347,
+            "time_signature": 4,
+            "happiness": 6.76
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "killer queen",
+        "Artist": "Mad Tsai",
+        "Key": "5A",
+        "Energy": 7.588,
+        "Popularity": 7.57,
+        "BPM": 108,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Inspiring",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0qo1JukfClmpHnUOJxpFXi",
+            "explicit": true,
+            "album": "killer queen",
+            "release_date": "2021-10-29",
+            "genres": [
+                "bedroom pop",
+                "pov: indie"
+            ],
+            "duration": 178889,
+            "acousticness": 0.0604,
+            "danceability": 7.209999999999999,
+            "instrumentalness": 0.00114,
+            "liveness": 0.168,
+            "loudness": -5.352,
+            "speechiness": 0.0497,
+            "time_signature": 4,
+            "happiness": 6.724
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "Heartless",
+        "Artist": "The Weeknd",
+        "Key": "6A",
+        "Energy": 7.714,
+        "Popularity": 8.83,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Romantic & Slow Dance",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6bnF93Rx87YqUBLSgjiMU8",
+            "explicit": true,
+            "album": "After Hours",
+            "release_date": "2020-03-20",
+            "genres": [
+                "canadian contemporary r&b",
+                "canadian pop",
+                "pop"
+            ],
+            "duration": 198267,
+            "acousticness": 0.0236,
+            "danceability": 5.833,
+            "instrumentalness": 1.01e-06,
+            "liveness": 0.156,
+            "loudness": -5.507,
+            "speechiness": 0.15,
+            "time_signature": 4,
+            "happiness": 3.268
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "Beauty And A Beat",
+        "Artist": "Justin Bieber, Nicki Minaj",
+        "Key": "8B",
+        "Energy": 8.587,
+        "Popularity": 8.11,
+        "BPM": 128,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "190jyVPHYjAqEaOGmMzdyk",
+            "explicit": false,
+            "album": "Believe (Deluxe Edition)",
+            "release_date": "2012-06-15",
+            "genres": [
+                "canadian pop",
+                "pop",
+                "hip pop",
+                "pop",
+                "queens hip hop",
+                "rap"
+            ],
+            "duration": 227987,
+            "acousticness": 0.000688,
+            "danceability": 6.418,
+            "instrumentalness": 5.27e-05,
+            "liveness": 0.0682,
+            "loudness": -4.831,
+            "speechiness": 0.0593,
+            "time_signature": 4,
+            "happiness": 5.734
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Still Not a Player (feat. Joe)",
+        "Artist": "Big Pun, Joe",
+        "Key": "12A",
+        "Energy": 6.526,
+        "Popularity": 6.8500000000000005,
+        "BPM": 94,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Romantic & Slow Dance",
+            "Mad",
+            "Happy",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5PG3h38oiQLEJlOuOvIs80",
+            "explicit": false,
+            "album": "Greatest Hits",
+            "release_date": "2008-10-14",
+            "genres": [
+                "bronx hip hop",
+                "east coast hip hop",
+                "hardcore hip hop",
+                "contemporary r&b",
+                "r&b",
+                "urban contemporary"
+            ],
+            "duration": 236907,
+            "acousticness": 0.184,
+            "danceability": 9.118,
+            "instrumentalness": 0.000742,
+            "liveness": 0.0867,
+            "loudness": -6.529,
+            "speechiness": 0.289,
+            "time_signature": 4,
+            "happiness": 8.758
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "Thinkin Bout You",
+        "Artist": "Frank Ocean",
+        "Key": "8B",
+        "Energy": 4.051,
+        "Popularity": 8.379999999999999,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Romantic & Slow Dance",
+            "Happy",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "7DfFc7a6Rwfi3YQMRbDMau",
+            "explicit": false,
+            "album": "channel ORANGE",
+            "release_date": "2012-07-10",
+            "genres": [
+                "lgbtq+ hip hop",
+                "neo soul"
+            ],
+            "duration": 200747,
+            "acousticness": 0.409,
+            "danceability": 7.489,
+            "instrumentalness": 0.00153,
+            "liveness": 0.0973,
+            "loudness": -11.195,
+            "speechiness": 0.0532,
+            "time_signature": 4,
+            "happiness": 2.8
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "False God",
+        "Artist": "Taylor Swift",
+        "Key": "1A",
+        "Energy": 3.88,
+        "Popularity": 8.2,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "5hQSXkFgbxjZo9uCwd11so",
+            "explicit": false,
+            "album": "Lover",
+            "release_date": "2019-08-23",
+            "genres": [
+                "pop"
+            ],
+            "duration": 200307,
+            "acousticness": 0.736,
+            "danceability": 7.651,
+            "instrumentalness": 0.000147,
+            "liveness": 0.111,
+            "loudness": -10.862,
+            "speechiness": 0.239,
+            "time_signature": 4,
+            "happiness": 4.159
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "Double Fantasy (with Future)",
+        "Artist": "The Weeknd, Future",
+        "Key": "11A",
+        "Energy": 6.103,
+        "Popularity": 8.74,
+        "BPM": 119,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Romantic & Slow Dance",
+            "Pop",
+            "EDM",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "4VMRsbfZzd3SfQtaJ1Wpwi",
+            "explicit": true,
+            "album": "Double Fantasy",
+            "release_date": "2023-04-21",
+            "genres": [
+                "canadian contemporary r&b",
+                "canadian pop",
+                "pop",
+                "atl hip hop",
+                "hip hop",
+                "rap",
+                "southern hip hop",
+                "trap"
+            ],
+            "duration": 268235,
+            "acousticness": 0.00621,
+            "danceability": 6.3999999999999995,
+            "instrumentalness": 8.73e-06,
+            "liveness": 0.495,
+            "loudness": -7.269,
+            "speechiness": 0.033,
+            "time_signature": 4,
+            "happiness": 1.8559
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Company",
+        "Artist": "Justin Bieber",
+        "Key": "12A",
+        "Energy": 8.173,
+        "Popularity": 8.2,
+        "BPM": 95,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "61uyGDPJ06MkxJtHgPmuyO",
+            "explicit": false,
+            "album": "Purpose (Deluxe)",
+            "release_date": "2015-11-13",
+            "genres": [
+                "canadian pop",
+                "pop"
+            ],
+            "duration": 208120,
+            "acousticness": 0.132,
+            "danceability": 6.31,
+            "instrumentalness": 0,
+            "liveness": 0.0846,
+            "loudness": -4.901,
+            "speechiness": 0.0614,
+            "time_signature": 4,
+            "happiness": 4.824999999999999
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "ROLE MODEL",
+        "Artist": "Brent Faiyaz",
+        "Key": "6A",
+        "Energy": 5.896000000000001,
+        "Popularity": 7.75,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Romantic & Slow Dance",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "1wGpEisE7VmhhSazD8hZ5l",
+            "explicit": true,
+            "album": "WASTELAND",
+            "release_date": "2022-07-08",
+            "genres": [
+                "r&b",
+                "rap"
+            ],
+            "duration": 194009,
+            "acousticness": 0.0285,
+            "danceability": 6.454,
+            "instrumentalness": 4.88e-06,
+            "liveness": 0.152,
+            "loudness": -7.968,
+            "speechiness": 0.0421,
+            "time_signature": 4,
+            "happiness": 4.015000000000001
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Rock N Roll",
+        "Artist": "Ken Carson",
+        "Key": "3B",
+        "Energy": 6.138999999999999,
+        "Popularity": 7.4799999999999995,
+        "BPM": 142,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "1V0jEAE4UreyX8KYxGLnLP",
+            "explicit": true,
+            "album": "Project X",
+            "release_date": "2021-07-23",
+            "genres": [
+                "rage rap"
+            ],
+            "duration": 148808,
+            "acousticness": 0.0737,
+            "danceability": 7.057,
+            "instrumentalness": 0,
+            "liveness": 0.117,
+            "loudness": -7.631,
+            "speechiness": 0.0488,
+            "time_signature": 4,
+            "happiness": 1.3780000000000001
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "Practice",
+        "Artist": "Drake",
+        "Key": "3B",
+        "Energy": 3.151,
+        "Popularity": 7.4799999999999995,
+        "BPM": 105,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0jF2AdhsalO1L7KkhK4LE5",
+            "explicit": true,
+            "album": "Take Care (Deluxe)",
+            "release_date": "2011-11-15",
+            "genres": [
+                "canadian hip hop",
+                "canadian pop",
+                "hip hop",
+                "rap",
+                "toronto rap"
+            ],
+            "duration": 237733,
+            "acousticness": 0.574,
+            "danceability": 5.014,
+            "instrumentalness": 7.76e-05,
+            "liveness": 0.12,
+            "loudness": -15.327,
+            "speechiness": 0.0876,
+            "time_signature": 4,
+            "happiness": 3.79
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "Sunflower - Spider-Man: Into the Spider-Verse",
+        "Artist": "Post Malone, Swae Lee",
+        "Key": "10B",
+        "Energy": 5.311,
+        "Popularity": 9.280000000000001,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Pop",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3KkXRkHbMCARz0aVfEt68P",
+            "explicit": false,
+            "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+            "release_date": "2018-12-14",
+            "genres": [
+                "dfw rap",
+                "melodic rap",
+                "pop",
+                "rap",
+                "melodic rap",
+                "rap",
+                "trap"
+            ],
+            "duration": 158040,
+            "acousticness": 0.556,
+            "danceability": 7.84,
+            "instrumentalness": 0,
+            "liveness": 0.0703,
+            "loudness": -5.574,
+            "speechiness": 0.0466,
+            "time_signature": 4,
+            "happiness": 9.217
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "Beautiful Girls",
+        "Artist": "Sean Kingston",
+        "Key": "3A",
+        "Energy": 6.949,
+        "Popularity": 8.379999999999999,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Pop",
+            "Dance Remixes",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1hGy2eLcmC8eKx7qr1tOqx",
+            "explicit": false,
+            "album": "Beautiful Girls",
+            "release_date": "2007-07-23",
+            "genres": [
+                "dance pop",
+                "miami hip hop",
+                "pop"
+            ],
+            "duration": 225373,
+            "acousticness": 0.15,
+            "danceability": 7.8580000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.256,
+            "loudness": -6.075,
+            "speechiness": 0.0687,
+            "time_signature": 4,
+            "happiness": 7.921
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "LOOK DON’T TOUCH (feat. cade clair)",
+        "Artist": "Odetari, cade clair",
+        "Key": "12A",
+        "Energy": 7.308999999999999,
+        "Popularity": 8.74,
+        "BPM": 125,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "7E9kejvFw8NDfuu4y3hqkp",
+            "explicit": true,
+            "album": "LOOK DON’T TOUCH (feat. cade clair)",
+            "release_date": "2023-05-17",
+            "genres": [
+                "jersey club"
+            ],
+            "duration": 138240,
+            "acousticness": 0.0875,
+            "danceability": 7.156000000000001,
+            "instrumentalness": 0.135,
+            "liveness": 0.111,
+            "loudness": -11.994,
+            "speechiness": 0.0751,
+            "time_signature": 4,
+            "happiness": 5.482
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "HOTSHOT",
+        "Artist": "YSB Tril",
+        "Key": "4A",
+        "Energy": 6.985,
+        "Popularity": 4.51,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "77BtsDoCb5ETdAc0AMzXkq",
+            "explicit": true,
+            "album": "HOTSHOT",
+            "release_date": "2021-06-29",
+            "genres": [
+                "north carolina hip hop"
+            ],
+            "duration": 137110,
+            "acousticness": 0.0106,
+            "danceability": 9.109,
+            "instrumentalness": 0,
+            "liveness": 0.0797,
+            "loudness": -4.337,
+            "speechiness": 0.0858,
+            "time_signature": 4,
+            "happiness": 8.857
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "Rich Flex",
+        "Artist": "Drake, 21 Savage",
+        "Key": "1A",
+        "Energy": 5.68,
+        "Popularity": 9.1,
+        "BPM": 77,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Pop",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "1bDbXMyjaUIooNwFE9wn0N",
+            "explicit": true,
+            "album": "Her Loss",
+            "release_date": "2022-11-04",
+            "genres": [
+                "canadian hip hop",
+                "canadian pop",
+                "hip hop",
+                "rap",
+                "toronto rap",
+                "atl hip hop",
+                "hip hop",
+                "rap",
+                "trap"
+            ],
+            "duration": 239360,
+            "acousticness": 0.0503,
+            "danceability": 6.049,
+            "instrumentalness": 1.86e-06,
+            "liveness": 0.355,
+            "loudness": -9.342,
+            "speechiness": 0.244,
+            "time_signature": 3,
+            "happiness": 4.816
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "Just Wanna Rock",
+        "Artist": "Lil Uzi Vert",
+        "Key": "1B",
+        "Energy": 5.905,
+        "Popularity": 9.1,
+        "BPM": 75,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "4FyesJzVpA39hbYvcseO2d",
+            "explicit": true,
+            "album": "Just Wanna Rock",
+            "release_date": "2022-10-17",
+            "genres": [
+                "melodic rap",
+                "philly rap",
+                "rage rap",
+                "rap",
+                "trap"
+            ],
+            "duration": 123891,
+            "acousticness": 0.0652,
+            "danceability": 5.374,
+            "instrumentalness": 0.00474,
+            "liveness": 0.0642,
+            "loudness": -7.924,
+            "speechiness": 0.0336,
+            "time_signature": 4,
+            "happiness": 1.3465
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "oops!",
+        "Artist": "Yung Gravy",
+        "Key": "2A",
+        "Energy": 7.687,
+        "Popularity": 7.39,
+        "BPM": 132,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Hip Hop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "7L6G0wpIUiPXuvoo7qhb06",
+            "explicit": true,
+            "album": "Gasanova",
+            "release_date": "2020-10-02",
+            "genres": [
+                "meme rap",
+                "minnesota hip hop"
+            ],
+            "duration": 139760,
+            "acousticness": 0.0358,
+            "danceability": 8.974,
+            "instrumentalness": 0.000198,
+            "liveness": 0.0511,
+            "loudness": -6.797,
+            "speechiness": 0.0812,
+            "time_signature": 4,
+            "happiness": 9.469
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Jimmy Cooks (feat. 21 Savage)",
+        "Artist": "Drake, 21 Savage",
+        "Key": "8B",
+        "Energy": 7.057,
+        "Popularity": 9.19,
+        "BPM": 83,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Pop",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3F5CgOj3wFlRv51JsHbxhe",
+            "explicit": true,
+            "album": "Honestly, Nevermind",
+            "release_date": "2022-06-17",
+            "genres": [
+                "canadian hip hop",
+                "canadian pop",
+                "hip hop",
+                "rap",
+                "toronto rap",
+                "atl hip hop",
+                "hip hop",
+                "rap",
+                "trap"
+            ],
+            "duration": 218365,
+            "acousticness": 0.000307,
+            "danceability": 5.761,
+            "instrumentalness": 2.41e-06,
+            "liveness": 0.093,
+            "loudness": -4.711,
+            "speechiness": 0.175,
+            "time_signature": 4,
+            "happiness": 4.2940000000000005
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "Save Me Pls",
+        "Artist": "Meric",
+        "Key": "6A",
+        "Energy": 9.037,
+        "Popularity": 4.15,
+        "BPM": 142,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "4AZ8bkS4vANlwRiKueJvQN",
+            "explicit": true,
+            "album": "Save Me Pls",
+            "release_date": "2022-02-04",
+            "genres": [],
+            "duration": 185915,
+            "acousticness": 0.0078,
+            "danceability": 5.59,
+            "instrumentalness": 1.31e-05,
+            "liveness": 0.286,
+            "loudness": -4.173,
+            "speechiness": 0.0655,
+            "time_signature": 4,
+            "happiness": 7.552
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "Too Many Nights (feat. Don Toliver & with Future)",
+        "Artist": "Metro Boomin, Future, Don Toliver",
+        "Key": "9A",
+        "Energy": 7.327,
+        "Popularity": 6.3999999999999995,
+        "BPM": 88,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Hip Hop",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "7qPHokLDeNrXTWrjhgudLj",
+            "explicit": false,
+            "album": "HEROES & VILLAINS",
+            "release_date": "2022-12-02",
+            "genres": [
+                "hip hop",
+                "rap",
+                "atl hip hop",
+                "hip hop",
+                "rap",
+                "southern hip hop",
+                "trap",
+                "rap",
+                "trap"
+            ],
+            "duration": 199920,
+            "acousticness": 0.186,
+            "danceability": 7.093,
+            "instrumentalness": 2.44e-05,
+            "liveness": 0.109,
+            "loudness": -4.369,
+            "speechiness": 0.042,
+            "time_signature": 4,
+            "happiness": 2.638
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "Sauce It Up",
+        "Artist": "Lil Uzi Vert",
+        "Key": "2A",
+        "Energy": 5.752000000000001,
+        "Popularity": 7.3,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "1uL78kFWxhz3umTMWJu8n5",
+            "explicit": true,
+            "album": "Luv Is Rage 2",
+            "release_date": "2017-08-25",
+            "genres": [
+                "melodic rap",
+                "philly rap",
+                "rage rap",
+                "rap",
+                "trap"
+            ],
+            "duration": 207039,
+            "acousticness": 0.0715,
+            "danceability": 8.317,
+            "instrumentalness": 0,
+            "liveness": 0.125,
+            "loudness": -6.305,
+            "speechiness": 0.313,
+            "time_signature": 4,
+            "happiness": 2.1790000000000003
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "No Friends In The Industry",
+        "Artist": "Drake",
+        "Key": "3B",
+        "Energy": 7.696,
+        "Popularity": 7.75,
+        "BPM": 84,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Hip Hop",
+            "Fight & Fog",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "2tUL6dZf1mywCj5WvCPZw6",
+            "explicit": true,
+            "album": "Certified Lover Boy",
+            "release_date": "2021-09-03",
+            "genres": [
+                "canadian hip hop",
+                "canadian pop",
+                "hip hop",
+                "rap",
+                "toronto rap"
+            ],
+            "duration": 204347,
+            "acousticness": 0.0181,
+            "danceability": 8.559999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.629,
+            "loudness": -4.751,
+            "speechiness": 0.113,
+            "time_signature": 4,
+            "happiness": 2.539
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "Young, Wild & Free (feat. Bruno Mars)",
+        "Artist": "Snoop Dogg, Wiz Khalifa, Bruno Mars",
+        "Key": "8B",
+        "Energy": 6.8950000000000005,
+        "Popularity": 8.2,
+        "BPM": 95,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Dance Remixes",
+            "Pop",
+            "Hip Hop",
+            "California [Loc]",
+            "Mad",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "5HQVUIKwCEXpe7JIHyY734",
+            "explicit": true,
+            "album": "Young, Wild & Free (feat. Bruno Mars)",
+            "release_date": "2011-10-11",
+            "genres": [
+                "g funk",
+                "gangster rap",
+                "hip hop",
+                "pop rap",
+                "rap",
+                "west coast rap",
+                "hip hop",
+                "pittsburgh rap",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap",
+                "dance pop",
+                "pop"
+            ],
+            "duration": 207333,
+            "acousticness": 0.0525,
+            "danceability": 7.435,
+            "instrumentalness": 0,
+            "liveness": 0.115,
+            "loudness": -6.425,
+            "speechiness": 0.137,
+            "time_signature": 4,
+            "happiness": 5.779
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "One More Time - Radio Edit [Short Radio Edit]",
+        "Artist": "Daft Punk",
+        "Key": "10B",
+        "Energy": 7.039000000000001,
+        "Popularity": 6.67,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "EDM",
+            "Club-Hotel",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "0ijhkvBpA7OBlY4clWSUZw",
+            "explicit": false,
+            "album": "Musique, Vol. 1",
+            "release_date": "2006-03-29",
+            "genres": [
+                "electro",
+                "filter house",
+                "rock"
+            ],
+            "duration": 235467,
+            "acousticness": 0.0348,
+            "danceability": 6.832,
+            "instrumentalness": 0,
+            "liveness": 0.376,
+            "loudness": -8.49,
+            "speechiness": 0.104,
+            "time_signature": 4,
+            "happiness": 5.797000000000001
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "Time of Our Lives",
+        "Artist": "Pitbull, Ne-Yo",
+        "Key": "3B",
+        "Energy": 8.218,
+        "Popularity": 8.649999999999999,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Romantic & Slow Dance",
+            "Dance Remixes",
+            "Hip Hop",
+            "Pop",
+            "Happy",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "2bJvI42r8EF3wxjOuDav4r",
+            "explicit": true,
+            "album": "Globalization",
+            "release_date": "2014-11-21",
+            "genres": [
+                "dance pop",
+                "miami hip hop",
+                "pop",
+                "dance pop",
+                "pop",
+                "r&b",
+                "urban contemporary"
+            ],
+            "duration": 229360,
+            "acousticness": 0.0921,
+            "danceability": 7.489,
+            "instrumentalness": 0,
+            "liveness": 0.694,
+            "loudness": -5.797,
+            "speechiness": 0.0583,
+            "time_signature": 4,
+            "happiness": 7.516
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "Work Out",
+        "Artist": "J. Cole",
+        "Key": "10B",
+        "Energy": 4.843,
+        "Popularity": 8.649999999999999,
+        "BPM": 93,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "2wAJTrFhCnQyNSD3oUgTZO",
+            "explicit": true,
+            "album": "Cole World: The Sideline Story",
+            "release_date": "2011-09-27",
+            "genres": [
+                "conscious hip hop",
+                "hip hop",
+                "north carolina hip hop",
+                "rap"
+            ],
+            "duration": 235320,
+            "acousticness": 0.0531,
+            "danceability": 8.479,
+            "instrumentalness": 0,
+            "liveness": 0.307,
+            "loudness": -6.903,
+            "speechiness": 0.106,
+            "time_signature": 4,
+            "happiness": 2.944
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "Party Rock Anthem",
+        "Artist": "LMFAO, Lauren Bennett, GoonRock",
+        "Key": "7A",
+        "Energy": 7.543,
+        "Popularity": 7.57,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Dance Remixes",
+            "Hip Hop"
+        ],
+        "Additional Info": {
+            "id": "0IkKz2J93C94Ei4BvDop7P",
+            "explicit": false,
+            "album": "Sorry For Party Rocking",
+            "release_date": "2011-01-01",
+            "genres": [
+                "dance pop",
+                "pop",
+                "pop rap"
+            ],
+            "duration": 262173,
+            "acousticness": 0.0189,
+            "danceability": 7.75,
+            "instrumentalness": 0,
+            "liveness": 0.266,
+            "loudness": -4.21,
+            "speechiness": 0.142,
+            "time_signature": 4,
+            "happiness": 4.231
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "Teach Me How to Dougie",
+        "Artist": "Cali Swag District",
+        "Key": "1B",
+        "Energy": 4.942,
+        "Popularity": 7.39,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "61LtVmmkGr8P9I2tSPvdpf",
+            "explicit": true,
+            "album": "The Kickback",
+            "release_date": "2011-07-12",
+            "genres": [
+                "pop rap"
+            ],
+            "duration": 237480,
+            "acousticness": 0.2,
+            "danceability": 8.614,
+            "instrumentalness": 9.43e-05,
+            "liveness": 0.0939,
+            "loudness": -4.981,
+            "speechiness": 0.141,
+            "time_signature": 4,
+            "happiness": 5.6080000000000005
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "No Hands (feat. Roscoe Dash & Wale)",
+        "Artist": "Waka Flocka Flame, Roscoe Dash, Wale",
+        "Key": "3B",
+        "Energy": 6.3549999999999995,
+        "Popularity": 8.2,
+        "BPM": 131,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Pop",
+            "Romantic & Slow Dance",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "03tqyYWC9Um2ZqU0ZN849H",
+            "explicit": true,
+            "album": "Flockaveli",
+            "release_date": "2010-10-01",
+            "genres": [
+                "atl hip hop",
+                "dirty south rap",
+                "rap",
+                "southern hip hop",
+                "trap",
+                "atl hip hop",
+                "dirty south rap",
+                "futuristic swag",
+                "southern hip hop",
+                "trap",
+                "pop rap",
+                "r&b",
+                "rap",
+                "southern hip hop",
+                "trap"
+            ],
+            "duration": 263773,
+            "acousticness": 0.00544,
+            "danceability": 7.84,
+            "instrumentalness": 0,
+            "liveness": 0.241,
+            "loudness": -6.366,
+            "speechiness": 0.0391,
+            "time_signature": 4,
+            "happiness": 4.249
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "Girls Just Want to Have Fun",
+        "Artist": "Cyndi Lauper",
+        "Key": "2B",
+        "Energy": 8.191,
+        "Popularity": 8.559999999999999,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "80s",
+            "Rock",
+            "Nostalgic",
+            "Dance Remixes",
+            "Calm",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4y1LsJpmMti1PfRQV9AWWe",
+            "explicit": false,
+            "album": "She's So Unusual",
+            "release_date": "1983-10-14",
+            "genres": [
+                "dance pop",
+                "new wave pop",
+                "permanent wave",
+                "soft rock"
+            ],
+            "duration": 238267,
+            "acousticness": 0.22,
+            "danceability": 7.39,
+            "instrumentalness": 0.000602,
+            "liveness": 0.349,
+            "loudness": -4.897,
+            "speechiness": 0.0328,
+            "time_signature": 4,
+            "happiness": 7.5249999999999995
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "Ms. Jackson",
+        "Artist": "Outkast",
+        "Key": "12A",
+        "Energy": 8.254000000000001,
+        "Popularity": 8.649999999999999,
+        "BPM": 95,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0I3q5fE6wg7LIfHGngUTnV",
+            "explicit": true,
+            "album": "Stankonia",
+            "release_date": "2000-10-31",
+            "genres": [
+                "atl hip hop",
+                "dirty south rap",
+                "hip hop",
+                "old school atlanta hip hop",
+                "rap",
+                "southern hip hop"
+            ],
+            "duration": 270507,
+            "acousticness": 0.143,
+            "danceability": 8.587,
+            "instrumentalness": 0,
+            "liveness": 0.0771,
+            "loudness": -5.946,
+            "speechiness": 0.269,
+            "time_signature": 4,
+            "happiness": 6.5169999999999995
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "Starships",
+        "Artist": "Nicki Minaj",
+        "Key": "1A",
+        "Energy": 7.444,
+        "Popularity": 8.11,
+        "BPM": 125,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Hip Hop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "1oHNvJVbFkexQc0BpQp7Y4",
+            "explicit": true,
+            "album": "Pink Friday ... Roman Reloaded",
+            "release_date": "2011-01-01",
+            "genres": [
+                "hip pop",
+                "pop",
+                "queens hip hop",
+                "rap"
+            ],
+            "duration": 210627,
+            "acousticness": 0.135,
+            "danceability": 7.723,
+            "instrumentalness": 0,
+            "liveness": 0.251,
+            "loudness": -2.457,
+            "speechiness": 0.075,
+            "time_signature": 4,
+            "happiness": 7.759
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "Act My Age",
+        "Artist": "One Direction",
+        "Key": "2B",
+        "Energy": 8.947,
+        "Popularity": 6.67,
+        "BPM": 136,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Happy",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "4bqIFmnVAsndYWuXxAwQet",
+            "explicit": false,
+            "album": "FOUR (Deluxe)",
+            "release_date": "2014-11-17",
+            "genres": [
+                "boy band",
+                "pop",
+                "post-teen pop",
+                "talent show"
+            ],
+            "duration": 198653,
+            "acousticness": 0.00287,
+            "danceability": 5.455,
+            "instrumentalness": 2.26e-05,
+            "liveness": 0.0978,
+            "loudness": -4.722,
+            "speechiness": 0.0402,
+            "time_signature": 4,
+            "happiness": 6.7780000000000005
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "Wake Up in the Sky",
+        "Artist": "Gucci Mane, Bruno Mars, Kodak Black",
+        "Key": "12A",
+        "Energy": 6.202,
+        "Popularity": 8.2,
+        "BPM": 143,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Latin",
+            "Dance Remixes",
+            "Hip Hop",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0QIjsbm2fh1cJ45XO9eGqq",
+            "explicit": true,
+            "album": "Wake Up in the Sky",
+            "release_date": "2018-09-14",
+            "genres": [
+                "atl hip hop",
+                "dirty south rap",
+                "hip hop",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap",
+                "dance pop",
+                "pop",
+                "florida drill",
+                "florida rap",
+                "melodic rap",
+                "miami hip hop",
+                "rap",
+                "trap",
+                "trap latino"
+            ],
+            "duration": 204665,
+            "acousticness": 0.00381,
+            "danceability": 8.2,
+            "instrumentalness": 0,
+            "liveness": 0.359,
+            "loudness": -5.144,
+            "speechiness": 0.0485,
+            "time_signature": 4,
+            "happiness": 4.303
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "Better",
+        "Artist": "Khalid",
+        "Key": "8A",
+        "Energy": 5.968,
+        "Popularity": 8.290000000000001,
+        "BPM": 98,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Romantic & Slow Dance",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6zeeWid2sgw4lap2jV61PZ",
+            "explicit": false,
+            "album": "Suncity",
+            "release_date": "2018-10-18",
+            "genres": [
+                "pop",
+                "pop r&b"
+            ],
+            "duration": 229320,
+            "acousticness": 0.0765,
+            "danceability": 6.364,
+            "instrumentalness": 0.334,
+            "liveness": 0.104,
+            "loudness": -10.278,
+            "speechiness": 0.097,
+            "time_signature": 4,
+            "happiness": 2.008
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "Baby",
+        "Artist": "Justin Bieber, Ludacris",
+        "Key": "7A",
+        "Energy": 8.731,
+        "Popularity": 8.649999999999999,
+        "BPM": 65,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Nostalgic",
+            "Dance Remixes",
+            "Hip Hop",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6epn3r7S14KUqlReYr77hA",
+            "explicit": false,
+            "album": "My World 2.0",
+            "release_date": "2010-01-01",
+            "genres": [
+                "canadian pop",
+                "pop",
+                "atl hip hop",
+                "dance pop",
+                "dirty south rap",
+                "hip hop",
+                "old school atlanta hip hop",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap"
+            ],
+            "duration": 214240,
+            "acousticness": 0.0401,
+            "danceability": 7.552,
+            "instrumentalness": 0,
+            "liveness": 0.111,
+            "loudness": -5.237,
+            "speechiness": 0.137,
+            "time_signature": 4,
+            "happiness": 5.815
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "Hey Ya!",
+        "Artist": "Outkast",
+        "Key": "12A",
+        "Energy": 9.766,
+        "Popularity": 8.74,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Nostalgic",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2PpruBYCo4H7WOBJ7Q2EwM",
+            "explicit": false,
+            "album": "Speakerboxxx/The Love Below",
+            "release_date": "2003",
+            "genres": [
+                "atl hip hop",
+                "dirty south rap",
+                "hip hop",
+                "old school atlanta hip hop",
+                "rap",
+                "southern hip hop"
+            ],
+            "duration": 235213,
+            "acousticness": 0.103,
+            "danceability": 7.543,
+            "instrumentalness": 0.000532,
+            "liveness": 0.174,
+            "loudness": -2.261,
+            "speechiness": 0.0664,
+            "time_signature": 4,
+            "happiness": 9.685
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "Party In The U.S.A.",
+        "Artist": "Miley Cyrus",
+        "Key": "6A",
+        "Energy": 7.282,
+        "Popularity": 8.649999999999999,
+        "BPM": 96,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3E7dfMvvCLUddWissuqMwr",
+            "explicit": false,
+            "album": "The Time Of Our Lives (International Version)",
+            "release_date": "2009-01-01",
+            "genres": [
+                "pop"
+            ],
+            "duration": 202067,
+            "acousticness": 0.00112,
+            "danceability": 6.868,
+            "instrumentalness": 0.000115,
+            "liveness": 0.0886,
+            "loudness": -4.667,
+            "speechiness": 0.042,
+            "time_signature": 4,
+            "happiness": 5.2299999999999995
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "That's My Girl",
+        "Artist": "Fifth Harmony",
+        "Key": "7A",
+        "Energy": 8.658999999999999,
+        "Popularity": 7.93,
+        "BPM": 101,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Girl Power",
+            "Pop",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "2ACOWPLUe4A4KuQ5ioD2od",
+            "explicit": false,
+            "album": "7/27 (Deluxe)",
+            "release_date": "2016-05-27",
+            "genres": [
+                "girl group",
+                "pop",
+                "talent show"
+            ],
+            "duration": 204013,
+            "acousticness": 0.0358,
+            "danceability": 6.364,
+            "instrumentalness": 3.19e-05,
+            "liveness": 0.365,
+            "loudness": -4.245,
+            "speechiness": 0.121,
+            "time_signature": 4,
+            "happiness": 6.508
+        }
+    },
+    {
+        "#": 52,
+        "Track Title": "Last Friday Night (T.G.I.F.)",
+        "Artist": "Katy Perry",
+        "Key": "5A",
+        "Energy": 8.308,
+        "Popularity": 8.11,
+        "BPM": 126,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3avYqdwHKEq8beXbeWCKqJ",
+            "explicit": false,
+            "album": "Teenage Dream",
+            "release_date": "2010-01-01",
+            "genres": [
+                "pop"
+            ],
+            "duration": 230733,
+            "acousticness": 0.00125,
+            "danceability": 6.868,
+            "instrumentalness": 3.01e-05,
+            "liveness": 0.667,
+            "loudness": -3.797,
+            "speechiness": 0.0409,
+            "time_signature": 4,
+            "happiness": 7.4799999999999995
+        }
+    },
+    {
+        "#": 53,
+        "Track Title": "Super Freaky Girl",
+        "Artist": "Nicki Minaj",
+        "Key": "10B",
+        "Energy": 9.019,
+        "Popularity": 8.290000000000001,
+        "BPM": 133,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Hip Hop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "4C6Uex2ILwJi9sZXRdmqXp",
+            "explicit": true,
+            "album": "Super Freaky Girl",
+            "release_date": "2022-08-12",
+            "genres": [
+                "hip pop",
+                "pop",
+                "queens hip hop",
+                "rap"
+            ],
+            "duration": 170977,
+            "acousticness": 0.0645,
+            "danceability": 9.549999999999999,
+            "instrumentalness": 1.77e-05,
+            "liveness": 0.309,
+            "loudness": -2.653,
+            "speechiness": 0.241,
+            "time_signature": 4,
+            "happiness": 9.208
+        }
+    },
+    {
+        "#": 54,
+        "Track Title": "Replay",
+        "Artist": "Iyaz",
+        "Key": "11B",
+        "Energy": 7.759,
+        "Popularity": 7.84,
+        "BPM": 91,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Pop",
+            "Happy",
+            "Dance Remixes",
+            "Hip Hop",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "5vlEg2fT4cFWAqU5QptIpQ",
+            "explicit": false,
+            "album": "Replay",
+            "release_date": "2009-08-11",
+            "genres": [
+                "dance pop",
+                "pop rap",
+                "post-teen pop"
+            ],
+            "duration": 182307,
+            "acousticness": 0.173,
+            "danceability": 7.353999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.168,
+            "loudness": -6.323,
+            "speechiness": 0.0708,
+            "time_signature": 4,
+            "happiness": 2.755
+        }
+    },
+    {
+        "#": 55,
+        "Track Title": "No Scrubs",
+        "Artist": "TLC",
+        "Key": "4A",
+        "Energy": 7.075,
+        "Popularity": 8.649999999999999,
+        "BPM": 93,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Romantic & Slow Dance",
+            "Dance Remixes",
+            "Hip Hop",
+            "Girl Power",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1KGi9sZVMeszgZOWivFpxs",
+            "explicit": false,
+            "album": "Fanmail",
+            "release_date": "1999-02-23",
+            "genres": [
+                "atl hip hop",
+                "contemporary r&b",
+                "dance pop",
+                "girl group",
+                "hip pop",
+                "r&b",
+                "urban contemporary"
+            ],
+            "duration": 214400,
+            "acousticness": 0.0251,
+            "danceability": 7.687,
+            "instrumentalness": 0.000717,
+            "liveness": 0.0685,
+            "loudness": -4.267,
+            "speechiness": 0.0953,
+            "time_signature": 4,
+            "happiness": 6.31
+        }
+    },
+    {
+        "#": 56,
+        "Track Title": "22",
+        "Artist": "Taylor Swift",
+        "Key": "9B",
+        "Energy": 7.561,
+        "Popularity": 7.66,
+        "BPM": 104,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6ce41JVa6KFaryfmC2bu2W",
+            "explicit": false,
+            "album": "Red (Big Machine Radio Release Special)",
+            "release_date": "2012-10-22",
+            "genres": [
+                "pop"
+            ],
+            "duration": 232120,
+            "acousticness": 0.00215,
+            "danceability": 6.949,
+            "instrumentalness": 0.0013,
+            "liveness": 0.0477,
+            "loudness": -6.561,
+            "speechiness": 0.0376,
+            "time_signature": 4,
+            "happiness": 7.0120000000000005
+        }
+    },
+    {
+        "#": 57,
+        "Track Title": "About Damn Time",
+        "Artist": "Lizzo",
+        "Key": "6A",
+        "Energy": 7.687,
+        "Popularity": 8.469999999999999,
+        "BPM": 109,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Pop",
+            "Hip Hop",
+            "Calm",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "1PckUlxKqWQs3RlWXVBLw3",
+            "explicit": true,
+            "album": "About Damn Time",
+            "release_date": "2022-04-14",
+            "genres": [
+                "escape room",
+                "minnesota hip hop",
+                "pop",
+                "trap queen"
+            ],
+            "duration": 191822,
+            "acousticness": 0.0995,
+            "danceability": 8.524000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.335,
+            "loudness": -6.305,
+            "speechiness": 0.0656,
+            "time_signature": 4,
+            "happiness": 7.497999999999999
+        }
+    },
+    {
+        "#": 58,
+        "Track Title": "Better Days (NEIKED x Mae Muller x Polo G)",
+        "Artist": "NEIKED, Mae Muller, Polo G",
+        "Key": "8A",
+        "Energy": 7.039000000000001,
+        "Popularity": 8.290000000000001,
+        "BPM": 110,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Romantic & Slow Dance",
+            "Pop",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6f5ExP43esnvdKPddwKXJH",
+            "explicit": false,
+            "album": "Better Days (NEIKED x Mae Muller x Polo G)",
+            "release_date": "2021-09-24",
+            "genres": [
+                "scandipop",
+                "uk contemporary r&b",
+                "uk pop",
+                "chicago rap",
+                "rap"
+            ],
+            "duration": 160657,
+            "acousticness": 0.0018,
+            "danceability": 7.452999999999999,
+            "instrumentalness": 2.54e-06,
+            "liveness": 0.0921,
+            "loudness": -5.077,
+            "speechiness": 0.0337,
+            "time_signature": 4,
+            "happiness": 7.2909999999999995
+        }
+    },
+    {
+        "#": 59,
+        "Track Title": "Timber (feat. Ke$ha)",
+        "Artist": "Pitbull, Kesha",
+        "Key": "1B",
+        "Energy": 9.667,
+        "Popularity": 8.74,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Dance Remixes",
+            "Hip Hop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3cHyrEgdyYRjgJKSOiOtcS",
+            "explicit": false,
+            "album": "Global Warming: Meltdown (Deluxe Version)",
+            "release_date": "2012",
+            "genres": [
+                "dance pop",
+                "miami hip hop",
+                "pop",
+                "dance pop",
+                "pop"
+            ],
+            "duration": 204160,
+            "acousticness": 0.0295,
+            "danceability": 6.228999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.139,
+            "loudness": -4.087,
+            "speechiness": 0.0981,
+            "time_signature": 4,
+            "happiness": 8.092
+        }
+    },
+    {
+        "#": 60,
+        "Track Title": "Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",
+        "Artist": "Pitbull, Ne-Yo, AFROJACK, Nayer",
+        "Key": "4B",
+        "Energy": 9.450999999999999,
+        "Popularity": 8.74,
+        "BPM": 129,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Romantic & Slow Dance",
+            "EDM",
+            "Dance Remixes",
+            "Club-Hotel",
+            "Hip Hop",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4QNpBfC0zvjKqPJcyqBy9W",
+            "explicit": false,
+            "album": "Planet Pit (Deluxe Version)",
+            "release_date": "2011-06-17",
+            "genres": [
+                "dance pop",
+                "miami hip hop",
+                "pop",
+                "dance pop",
+                "pop",
+                "r&b",
+                "urban contemporary",
+                "big room",
+                "dance pop",
+                "dutch house",
+                "edm",
+                "electro house",
+                "pop dance",
+                "progressive electro house",
+                "deep dance pop"
+            ],
+            "duration": 252307,
+            "acousticness": 0.191,
+            "danceability": 7.039000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.298,
+            "loudness": -3.206,
+            "speechiness": 0.161,
+            "time_signature": 4,
+            "happiness": 5.7700000000000005
+        }
+    },
+    {
+        "#": 61,
+        "Track Title": "Paper Rings",
+        "Artist": "Taylor Swift",
+        "Key": "11B",
+        "Energy": 7.471,
+        "Popularity": 8.92,
+        "BPM": 104,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4y5bvROuBDPr5fuwXbIBZR",
+            "explicit": false,
+            "album": "Lover",
+            "release_date": "2019-08-23",
+            "genres": [
+                "pop"
+            ],
+            "duration": 222400,
+            "acousticness": 0.0129,
+            "danceability": 8.299,
+            "instrumentalness": 1.36e-05,
+            "liveness": 0.0742,
+            "loudness": -6.553,
+            "speechiness": 0.0497,
+            "time_signature": 4,
+            "happiness": 8.785
+        }
+    },
+    {
+        "#": 62,
+        "Track Title": "You Belong With Me (Taylor’s Version)",
+        "Artist": "Taylor Swift",
+        "Key": "2B",
+        "Energy": 7.957,
+        "Popularity": 8.92,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "1qrpoAMXodY6895hGKoUpA",
+            "explicit": false,
+            "album": "Fearless (Taylor's Version)",
+            "release_date": "2021-04-09",
+            "genres": [
+                "pop"
+            ],
+            "duration": 231124,
+            "acousticness": 0.0623,
+            "danceability": 6.688,
+            "instrumentalness": 0,
+            "liveness": 0.0885,
+            "loudness": -4.856,
+            "speechiness": 0.0346,
+            "time_signature": 4,
+            "happiness": 5.266
+        }
+    },
+    {
+        "#": 63,
+        "Track Title": "California Gurls",
+        "Artist": "Katy Perry, Snoop Dogg",
+        "Key": "8B",
+        "Energy": 7.777,
+        "Popularity": 7.84,
+        "BPM": 125,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Mad",
+            "Hip Hop",
+            "California [Loc]"
+        ],
+        "Additional Info": {
+            "id": "6KOEK6SeCEZOQkLj5M1PxH",
+            "explicit": false,
+            "album": "Teenage Dream",
+            "release_date": "2010-01-01",
+            "genres": [
+                "pop",
+                "g funk",
+                "gangster rap",
+                "hip hop",
+                "pop rap",
+                "rap",
+                "west coast rap"
+            ],
+            "duration": 234653,
+            "acousticness": 0.0038,
+            "danceability": 8.092,
+            "instrumentalness": 0,
+            "liveness": 0.18,
+            "loudness": -3.71,
+            "speechiness": 0.0536,
+            "time_signature": 4,
+            "happiness": 4.627000000000001
+        }
+    },
+    {
+        "#": 64,
+        "Track Title": "Die For You",
+        "Artist": "The Weeknd",
+        "Key": "3A",
+        "Energy": 5.7250000000000005,
+        "Popularity": 8.92,
+        "BPM": 133,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Romantic & Slow Dance",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "2Ch7LmS7r2Gy2kc64wv3Bz",
+            "explicit": false,
+            "album": "Starboy",
+            "release_date": "2016-11-25",
+            "genres": [
+                "canadian contemporary r&b",
+                "canadian pop",
+                "pop"
+            ],
+            "duration": 260253,
+            "acousticness": 0.111,
+            "danceability": 6.2379999999999995,
+            "instrumentalness": 0,
+            "liveness": 0.134,
+            "loudness": -7.163,
+            "speechiness": 0.0627,
+            "time_signature": 4,
+            "happiness": 5.59
+        }
+    },
+    {
+        "#": 65,
+        "Track Title": "Pray For Me (with Kendrick Lamar)",
+        "Artist": "The Weeknd, Kendrick Lamar",
+        "Key": "10B",
+        "Energy": 7.0120000000000005,
+        "Popularity": 1.0,
+        "BPM": 101,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Romantic & Slow Dance",
+            "Inspiring",
+            "Hip Hop",
+            "California [Loc]",
+            "Pop",
+            "Fight & Fog",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "4ofvoCdXq99vpMZO4Cfp8x",
+            "explicit": true,
+            "album": "Pray For Me (with Kendrick Lamar)",
+            "release_date": "2018-02-02",
+            "genres": [
+                "canadian contemporary r&b",
+                "canadian pop",
+                "pop",
+                "conscious hip hop",
+                "hip hop",
+                "rap",
+                "west coast rap"
+            ],
+            "duration": 211440,
+            "acousticness": 0.0805,
+            "danceability": 7.552,
+            "instrumentalness": 1.49e-05,
+            "liveness": 0.102,
+            "loudness": -5.02,
+            "speechiness": 0.126,
+            "time_signature": 4,
+            "happiness": 2.458
+        }
+    },
+    {
+        "#": 66,
+        "Track Title": "Miss Americana & The Heartbreak Prince",
+        "Artist": "Taylor Swift",
+        "Key": "1A",
+        "Energy": 7.723,
+        "Popularity": 8.74,
+        "BPM": 75,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "214nt20w5wOxJnY462klLw",
+            "explicit": false,
+            "album": "Lover",
+            "release_date": "2019-08-23",
+            "genres": [
+                "pop"
+            ],
+            "duration": 234147,
+            "acousticness": 0.028,
+            "danceability": 6.958,
+            "instrumentalness": 0.00615,
+            "liveness": 0.138,
+            "loudness": -6.926,
+            "speechiness": 0.0736,
+            "time_signature": 4,
+            "happiness": 5.383
+        }
+    },
+    {
+        "#": 67,
+        "Track Title": "Cancel Me",
+        "Artist": "Dominic Fike",
+        "Key": "4B",
+        "Energy": 8.866,
+        "Popularity": 6.13,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Inspiring",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "2FMO2IFR4cJSe5D4BlpDV8",
+            "explicit": true,
+            "album": "What Could Possibly Go Wrong",
+            "release_date": "2020-07-31",
+            "genres": [
+                "alternative pop rock",
+                "pov: indie"
+            ],
+            "duration": 137242,
+            "acousticness": 0.466,
+            "danceability": 6.985,
+            "instrumentalness": 3.65e-06,
+            "liveness": 0.082,
+            "loudness": -2.241,
+            "speechiness": 0.323,
+            "time_signature": 4,
+            "happiness": 7.849
+        }
+    },
+    {
+        "#": 68,
+        "Track Title": "Hell N Back",
+        "Artist": "Bakar",
+        "Key": "6A",
+        "Energy": 7.156000000000001,
+        "Popularity": 7.84,
+        "BPM": 105,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0rVJ6v23RQozOIvr1YotJP",
+            "explicit": true,
+            "album": "Hell N Back (Sped Up)",
+            "release_date": "2019-08-14",
+            "genres": [
+                "uk alternative hip hop"
+            ],
+            "duration": 213573,
+            "acousticness": 0.314,
+            "danceability": 6.697,
+            "instrumentalness": 8.95e-05,
+            "liveness": 0.112,
+            "loudness": -4.314,
+            "speechiness": 0.591,
+            "time_signature": 4,
+            "happiness": 7.5249999999999995
+        }
+    },
+    {
+        "#": 69,
+        "Track Title": "Novacane",
+        "Artist": "Frank Ocean",
+        "Key": "5B",
+        "Energy": 5.572,
+        "Popularity": 8.649999999999999,
+        "BPM": 94,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Romantic & Slow Dance",
+            "Happy",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "4osgfFTICMkcGbbigdsa53",
+            "explicit": true,
+            "album": "Novacane",
+            "release_date": "2011-01-01",
+            "genres": [
+                "lgbtq+ hip hop",
+                "neo soul"
+            ],
+            "duration": 302347,
+            "acousticness": 0.0584,
+            "danceability": 7.8580000000000005,
+            "instrumentalness": 0.00126,
+            "liveness": 0.16,
+            "loudness": -9.112,
+            "speechiness": 0.0919,
+            "time_signature": 4,
+            "happiness": 4.33
+        }
+    },
+    {
+        "#": 70,
+        "Track Title": "The Spins",
+        "Artist": "Mac Miller",
+        "Key": "11A",
+        "Energy": 7.894,
+        "Popularity": 8.649999999999999,
+        "BPM": 127,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "7FAFkQQZFeNwOFzTrSDFIh",
+            "explicit": true,
+            "album": "K.I.D.S. (Deluxe)",
+            "release_date": "2010-08-13",
+            "genres": [
+                "hip hop",
+                "pittsburgh rap",
+                "rap"
+            ],
+            "duration": 195873,
+            "acousticness": 0.0135,
+            "danceability": 8.146,
+            "instrumentalness": 0,
+            "liveness": 0.0785,
+            "loudness": -3.894,
+            "speechiness": 0.0377,
+            "time_signature": 4,
+            "happiness": 5.95
+        }
+    },
+    {
+        "#": 71,
+        "Track Title": "The Weekend - Funk Wav Remix",
+        "Artist": "SZA, Calvin Harris, Funk Wav",
+        "Key": "1B",
+        "Energy": 6.157,
+        "Popularity": 7.93,
+        "BPM": 102,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Romantic & Slow Dance",
+            "EDM",
+            "Dance Remixes",
+            "Club-Hotel",
+            "Hip Hop",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0P6AWOA4LG1XOctzaVu5tt",
+            "explicit": false,
+            "album": "The Weekend (Funk Wav Remix)",
+            "release_date": "2017-12-15",
+            "genres": [
+                "pop",
+                "r&b",
+                "rap",
+                "dance pop",
+                "edm",
+                "electro house",
+                "house",
+                "pop",
+                "progressive house",
+                "uk dance",
+                "funktronica"
+            ],
+            "duration": 171806,
+            "acousticness": 0.495,
+            "danceability": 7.9750000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.126,
+            "loudness": -4.933,
+            "speechiness": 0.0585,
+            "time_signature": 4,
+            "happiness": 7.003
+        }
+    },
+    {
+        "#": 72,
+        "Track Title": "Phone Numbers",
+        "Artist": "Dominic Fike, Kenny Beats",
+        "Key": "3A",
+        "Energy": 5.851,
+        "Popularity": 7.84,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Inspiring",
+            "Hip Hop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3f9Mzvd3URfbbIJBX4pz9Z",
+            "explicit": true,
+            "album": "Phone Numbers",
+            "release_date": "2019-07-04",
+            "genres": [
+                "alternative pop rock",
+                "pov: indie",
+                "indie hip hop",
+                "trap",
+                "underground hip hop"
+            ],
+            "duration": 146827,
+            "acousticness": 0.239,
+            "danceability": 8.956,
+            "instrumentalness": 0,
+            "liveness": 0.0805,
+            "loudness": -6.389,
+            "speechiness": 0.208,
+            "time_signature": 4,
+            "happiness": 7.984
+        }
+    },
+    {
+        "#": 73,
+        "Track Title": "Mama's Boy",
+        "Artist": "Dominic Fike",
+        "Key": "11B",
+        "Energy": 4.186,
+        "Popularity": 7.3,
+        "BPM": 79,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "65leXqfkdViSssEVN23uYL",
+            "explicit": false,
+            "album": "Mama's Boy",
+            "release_date": "2023-06-23",
+            "genres": [
+                "alternative pop rock",
+                "pov: indie"
+            ],
+            "duration": 155722,
+            "acousticness": 0.15,
+            "danceability": 8.263000000000002,
+            "instrumentalness": 0.713,
+            "liveness": 0.186,
+            "loudness": -7.554,
+            "speechiness": 0.0321,
+            "time_signature": 4,
+            "happiness": 6.418
+        }
+    },
+    {
+        "#": 74,
+        "Track Title": "Ivy",
+        "Artist": "Frank Ocean",
+        "Key": "11A",
+        "Energy": 4.474,
+        "Popularity": 8.469999999999999,
+        "BPM": 116,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Romantic & Slow Dance",
+            "Happy",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "2ZWlPOoWh0626oTaHrnl2a",
+            "explicit": true,
+            "album": "Blonde",
+            "release_date": "2016-08-20",
+            "genres": [
+                "lgbtq+ hip hop",
+                "neo soul"
+            ],
+            "duration": 249191,
+            "acousticness": 0.785,
+            "danceability": 6.175,
+            "instrumentalness": 0.000289,
+            "liveness": 0.229,
+            "loudness": -9.584,
+            "speechiness": 0.037,
+            "time_signature": 4,
+            "happiness": 5.194
+        }
+    },
+    {
+        "#": 75,
+        "Track Title": "C U Girl",
+        "Artist": "Steve Lacy",
+        "Key": "1A",
+        "Energy": 5.257,
+        "Popularity": 8.469999999999999,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "6FBzhcfgGacfXF3AmtfEaX",
+            "explicit": false,
+            "album": "C U Girl",
+            "release_date": "2015-02-15",
+            "genres": [
+                "afrofuturism"
+            ],
+            "duration": 129698,
+            "acousticness": 0.663,
+            "danceability": 4.726,
+            "instrumentalness": 0.0523,
+            "liveness": 0.128,
+            "loudness": -8.911,
+            "speechiness": 0.116,
+            "time_signature": 4,
+            "happiness": 4.680999999999999
+        }
+    },
+    {
+        "#": 76,
+        "Track Title": "Stop Selling Her Drugs (feat. Dominic Fike)",
+        "Artist": "Bakar, Dominic Fike",
+        "Key": "7B",
+        "Energy": 3.475,
+        "Popularity": 7.03,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "4uBQDAzZ881KYZvW7ZInUn",
+            "explicit": true,
+            "album": "Will You Be My Yellow?",
+            "release_date": "2019-09-20",
+            "genres": [
+                "uk alternative hip hop",
+                "alternative pop rock",
+                "pov: indie"
+            ],
+            "duration": 173349,
+            "acousticness": 0.61,
+            "danceability": 8.623,
+            "instrumentalness": 0,
+            "liveness": 0.0737,
+            "loudness": -6.44,
+            "speechiness": 0.113,
+            "time_signature": 4,
+            "happiness": 7.876
+        }
+    },
+    {
+        "#": 77,
+        "Track Title": "GRAVITY (FEAT. TYLER, THE CREATOR)",
+        "Artist": "Brent Faiyaz, DJ Dahi, Tyler, The Creator",
+        "Key": "3A",
+        "Energy": 6.571,
+        "Popularity": 7.84,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Romantic & Slow Dance",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3zakx7RAwdkUQlOoQ7SJRt",
+            "explicit": true,
+            "album": "WASTELAND",
+            "release_date": "2022-07-08",
+            "genres": [
+                "r&b",
+                "rap",
+                "hip hop",
+                "rap"
+            ],
+            "duration": 214693,
+            "acousticness": 0.167,
+            "danceability": 5.869000000000001,
+            "instrumentalness": 0.00633,
+            "liveness": 0.144,
+            "loudness": -8.746,
+            "speechiness": 0.254,
+            "time_signature": 4,
+            "happiness": 5.419
+        }
+    },
+    {
+        "#": 78,
+        "Track Title": "Ain't It Fun",
+        "Artist": "Paramore",
+        "Key": "11B",
+        "Energy": 9.037,
+        "Popularity": 6.58,
+        "BPM": 104,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Rock",
+            "Pop",
+            "Happy",
+            "Mad",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3yrvQHw6pQemsrCQEpMnKv",
+            "explicit": false,
+            "album": "Paramore (Deluxe Edition)",
+            "release_date": "2013-04-09",
+            "genres": [
+                "candy pop",
+                "pixie",
+                "pop",
+                "pop emo",
+                "pop punk",
+                "rock"
+            ],
+            "duration": 296520,
+            "acousticness": 0.154,
+            "danceability": 6.49,
+            "instrumentalness": 4.41e-05,
+            "liveness": 0.021,
+            "loudness": -3.681,
+            "speechiness": 0.0921,
+            "time_signature": 4,
+            "happiness": 7.057
+        }
+    },
+    {
+        "#": 79,
+        "Track Title": "Doses & Mimosas",
+        "Artist": "Cherub",
+        "Key": "7B",
+        "Energy": 6.8950000000000005,
+        "Popularity": 7.84,
+        "BPM": 115,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "44CZRkOxv7UItaAUmh8PgN",
+            "explicit": true,
+            "album": "Year of the Caprese",
+            "release_date": "2014",
+            "genres": [],
+            "duration": 323253,
+            "acousticness": 0.114,
+            "danceability": 7.9750000000000005,
+            "instrumentalness": 0.00016,
+            "liveness": 0.035,
+            "loudness": -7.333,
+            "speechiness": 0.102,
+            "time_signature": 4,
+            "happiness": 4.114
+        }
+    },
+    {
+        "#": 80,
+        "Track Title": "Peach",
+        "Artist": "Kevin Abstract",
+        "Key": "9B",
+        "Energy": 7.138000000000001,
+        "Popularity": 7.39,
+        "BPM": 132,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "5JRMqkR82k2fdDEAim9SCN",
+            "explicit": true,
+            "album": "ARIZONA BABY",
+            "release_date": "2019-04-25",
+            "genres": [
+                "afrofuturism",
+                "lgbtq+ hip hop"
+            ],
+            "duration": 176732,
+            "acousticness": 0.683,
+            "danceability": 6.814,
+            "instrumentalness": 4.84e-06,
+            "liveness": 0.107,
+            "loudness": -5.847,
+            "speechiness": 0.0759,
+            "time_signature": 4,
+            "happiness": 4.789
+        }
+    },
+    {
+        "#": 81,
+        "Track Title": "MATHEMATICAL DISRESPECT",
+        "Artist": "Lil Mabu",
+        "Key": "3B",
+        "Energy": 5.563,
+        "Popularity": 8.92,
+        "BPM": 147,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0Ymjv0OJeIIPXr6s9wi3iW",
+            "explicit": true,
+            "album": "MATHEMATICAL DISRESPECT",
+            "release_date": "2023-05-05",
+            "genres": [
+                "meme"
+            ],
+            "duration": 88304,
+            "acousticness": 0.0612,
+            "danceability": 8.155000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.272,
+            "loudness": -8.06,
+            "speechiness": 0.303,
+            "time_signature": 4,
+            "happiness": 5.32
+        }
+    },
+    {
+        "#": 82,
+        "Track Title": "Reggae & Calypso (Russ Millions x Buni x YV)",
+        "Artist": "Russ Millions, Buni, YV",
+        "Key": "3A",
+        "Energy": 8.227,
+        "Popularity": 7.57,
+        "BPM": 141,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Hip Hop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3FMedgGsLUNwx8NciePFEK",
+            "explicit": true,
+            "album": "One Of A Kind Music Presents: Reggae & Calypso (Russ Millions x Buni x YV)",
+            "release_date": "2022-02-10",
+            "genres": [
+                "melodic drill",
+                "uk drill",
+                "uk drill"
+            ],
+            "duration": 141277,
+            "acousticness": 0.413,
+            "danceability": 7.831,
+            "instrumentalness": 0,
+            "liveness": 0.362,
+            "loudness": -6.77,
+            "speechiness": 0.277,
+            "time_signature": 4,
+            "happiness": 9.055
+        }
+    },
+    {
+        "#": 83,
+        "Track Title": "Something in the Orange",
+        "Artist": "Zach Bryan",
+        "Key": "12A",
+        "Energy": 2.7279999999999998,
+        "Popularity": 9.1,
+        "BPM": 88,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "3WMj8moIAXJhHsyLaqIIHI",
+            "explicit": false,
+            "album": "Something in the Orange",
+            "release_date": "2022-04-22",
+            "genres": [
+                "classic oklahoma country",
+                "modern country pop"
+            ],
+            "duration": 228013,
+            "acousticness": 0.555,
+            "danceability": 4.321,
+            "instrumentalness": 8.35e-06,
+            "liveness": 0.0954,
+            "loudness": -12.151,
+            "speechiness": 0.04,
+            "time_signature": 3,
+            "happiness": 2.332
+        }
+    },
+    {
+        "#": 84,
+        "Track Title": "Put It On Da Floor Again (feat. Cardi B)",
+        "Artist": "Latto, Cardi B",
+        "Key": "3B",
+        "Energy": 6.526,
+        "Popularity": 8.2,
+        "BPM": 111,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Pop",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6c6WmIHcHlhccEwSFBhzNa",
+            "explicit": true,
+            "album": "Put It On Da Floor Again (feat. Cardi B)",
+            "release_date": "2023-06-02",
+            "genres": [
+                "trap queen",
+                "pop",
+                "rap"
+            ],
+            "duration": 185748,
+            "acousticness": 0.0282,
+            "danceability": 8.641,
+            "instrumentalness": 0,
+            "liveness": 0.0603,
+            "loudness": -7.323,
+            "speechiness": 0.317,
+            "time_signature": 5,
+            "happiness": 5.247999999999999
+        }
+    },
+    {
+        "#": 85,
+        "Track Title": "Black Beatles",
+        "Artist": "Rae Sremmurd, Gucci Mane",
+        "Key": "8B",
+        "Energy": 6.688,
+        "Popularity": 8.02,
+        "BPM": 146,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Pop",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6fujklziTHa8uoM5OQSfIo",
+            "explicit": true,
+            "album": "SremmLife 2 (Deluxe)",
+            "release_date": "2016-08-12",
+            "genres": [
+                "melodic rap",
+                "mississippi hip hop",
+                "rap",
+                "trap",
+                "atl hip hop",
+                "dirty south rap",
+                "hip hop",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap"
+            ],
+            "duration": 291893,
+            "acousticness": 0.142,
+            "danceability": 8.146,
+            "instrumentalness": 0,
+            "liveness": 0.128,
+            "loudness": -6.163,
+            "speechiness": 0.0649,
+            "time_signature": 4,
+            "happiness": 4.195
+        }
+    },
+    {
+        "#": 86,
+        "Track Title": "Call Me",
+        "Artist": "NAV, Metro Boomin",
+        "Key": "11A",
+        "Energy": 4.555,
+        "Popularity": 7.12,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Hip Hop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "1xpXnpIpuvzpx9jz15baJF",
+            "explicit": true,
+            "album": "Perfect Timing",
+            "release_date": "2017-07-21",
+            "genres": [
+                "canadian hip hop",
+                "canadian trap",
+                "melodic rap",
+                "rap",
+                "toronto rap",
+                "trap",
+                "hip hop",
+                "rap"
+            ],
+            "duration": 215067,
+            "acousticness": 0.411,
+            "danceability": 7.102,
+            "instrumentalness": 0.00544,
+            "liveness": 0.122,
+            "loudness": -8.639,
+            "speechiness": 0.12,
+            "time_signature": 4,
+            "happiness": 2.224
+        }
+    },
+    {
+        "#": 87,
+        "Track Title": "You Belong With Me",
+        "Artist": "Taylor Swift",
+        "Key": "2B",
+        "Energy": 7.795,
+        "Popularity": 6.040000000000001,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3OaBCFROgrLRbZGCFP6E3M",
+            "explicit": false,
+            "album": "Fearless",
+            "release_date": "2008-01-01",
+            "genres": [
+                "pop"
+            ],
+            "duration": 232120,
+            "acousticness": 0.157,
+            "danceability": 7.183000000000001,
+            "instrumentalness": 1.09e-05,
+            "liveness": 0.093,
+            "loudness": -4.426,
+            "speechiness": 0.0385,
+            "time_signature": 4,
+            "happiness": 5.05
+        }
+    }
+]

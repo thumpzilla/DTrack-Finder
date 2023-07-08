@@ -1,0 +1,3539 @@
+[
+    {
+        "#": 1,
+        "Track Title": "Wings",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.292,
+        "Popularity": 6.22,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0nZgC8skrXzSv1cjfHFlyt",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 184080,
+            "acousticness": 0.344,
+            "danceability": 6.76,
+            "instrumentalness": 0.156,
+            "liveness": 0.135,
+            "loudness": -10.064,
+            "speechiness": 0.0538,
+            "time_signature": 4,
+            "happiness": 7.3
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "TIPPY TOE",
+        "Artist": "BamBam",
+        "Key": "10B",
+        "Energy": 6.2829999999999995,
+        "Popularity": 6.31,
+        "BPM": 79,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4QZ822qY72CrhhPaJAvQZ0",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 134933,
+            "acousticness": 0.0167,
+            "danceability": 7.777,
+            "instrumentalness": 0.000288,
+            "liveness": 0.124,
+            "loudness": -6.361,
+            "speechiness": 0.0898,
+            "time_signature": 4,
+            "happiness": 4.779999999999999
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "riBBon",
+        "Artist": "BamBam",
+        "Key": "2B",
+        "Energy": 8.965,
+        "Popularity": 6.040000000000001,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1Y8KxQUmP1xuaF5mNTYE0x",
+            "explicit": false,
+            "album": "riBBon",
+            "release_date": "2021-06-15",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 187133,
+            "acousticness": 0.196,
+            "danceability": 7.3,
+            "instrumentalness": 0,
+            "liveness": 0.101,
+            "loudness": -3.83,
+            "speechiness": 0.0483,
+            "time_signature": 4,
+            "happiness": 9.667
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Air",
+        "Artist": "BamBam",
+        "Key": "3B",
+        "Energy": 6.706,
+        "Popularity": 5.2299999999999995,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3D7Zit3sPdOQMHpWnHtAQY",
+            "explicit": false,
+            "album": "riBBon",
+            "release_date": "2021-06-15",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 175800,
+            "acousticness": 0.44,
+            "danceability": 7.534,
+            "instrumentalness": 0.0311,
+            "liveness": 0.111,
+            "loudness": -7.885,
+            "speechiness": 0.0409,
+            "time_signature": 4,
+            "happiness": 4.1049999999999995
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Slow Mo",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.481,
+        "Popularity": 5.7700000000000005,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2stElshTCkdXTnCkD9moQF",
+            "explicit": false,
+            "album": "B",
+            "release_date": "2022-01-18",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 152667,
+            "acousticness": 0.0952,
+            "danceability": 6.49,
+            "instrumentalness": 0.0143,
+            "liveness": 0.0928,
+            "loudness": -4.444,
+            "speechiness": 0.0546,
+            "time_signature": 4,
+            "happiness": 3.97
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Take It Easy",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.093999999999999,
+        "Popularity": 6.22,
+        "BPM": 146,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6QDWGa7lqR8pq67EtzYy0s",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 127187,
+            "acousticness": 0.594,
+            "danceability": 6.814,
+            "instrumentalness": 3.8e-05,
+            "liveness": 0.143,
+            "loudness": -8.673,
+            "speechiness": 0.073,
+            "time_signature": 4,
+            "happiness": 4.789
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "about YOU",
+        "Artist": "BamBam",
+        "Key": "8A",
+        "Energy": 7.4799999999999995,
+        "Popularity": 6.22,
+        "BPM": 133,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4oJYQsSAYxt1a3igYU10IX",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 165027,
+            "acousticness": 0.131,
+            "danceability": 7.813,
+            "instrumentalness": 0,
+            "liveness": 0.084,
+            "loudness": -4.778,
+            "speechiness": 0.124,
+            "time_signature": 4,
+            "happiness": 6.111999999999999
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "GHOST",
+        "Artist": "BamBam",
+        "Key": "12B",
+        "Energy": 7.201,
+        "Popularity": 6.22,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3TQqMPOcfzwCTr9nVvbrgi",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 157213,
+            "acousticness": 0.0367,
+            "danceability": 6.724,
+            "instrumentalness": 0,
+            "liveness": 0.0876,
+            "loudness": -7.938,
+            "speechiness": 0.0542,
+            "time_signature": 4,
+            "happiness": 9.037
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Sour & Sweet",
+        "Artist": "BamBam",
+        "Key": "10A",
+        "Energy": 8.596,
+        "Popularity": 7.66,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3bcLtU0Z3MuUhhQHIVSSX2",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 147680,
+            "acousticness": 0.023,
+            "danceability": 6.409,
+            "instrumentalness": 1.1e-06,
+            "liveness": 0.0909,
+            "loudness": -4.764,
+            "speechiness": 0.0544,
+            "time_signature": 4,
+            "happiness": 7.308999999999999
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Let's Dance",
+        "Artist": "BamBam",
+        "Key": "12A",
+        "Energy": 2.7910000000000004,
+        "Popularity": 6.22,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6ik3gFk33ugDijVHKISRpz",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 207453,
+            "acousticness": 0.615,
+            "danceability": 8.227,
+            "instrumentalness": 0,
+            "liveness": 0.104,
+            "loudness": -11.803,
+            "speechiness": 0.0729,
+            "time_signature": 3,
+            "happiness": 3.133
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Feather",
+        "Artist": "BamBam",
+        "Key": "3A",
+        "Energy": 5.140000000000001,
+        "Popularity": 6.22,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "718Z6vhLSTO4NjBVa7qKiY",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 150827,
+            "acousticness": 0.815,
+            "danceability": 4.2669999999999995,
+            "instrumentalness": 0.0143,
+            "liveness": 0.919,
+            "loudness": -11.091,
+            "speechiness": 0.181,
+            "time_signature": 4,
+            "happiness": 4.321
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "Feather",
+        "Artist": "BamBam",
+        "Key": "3A",
+        "Energy": 5.140000000000001,
+        "Popularity": 6.22,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "718Z6vhLSTO4NjBVa7qKiY",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 150827,
+            "acousticness": 0.815,
+            "danceability": 4.2669999999999995,
+            "instrumentalness": 0.0143,
+            "liveness": 0.919,
+            "loudness": -11.091,
+            "speechiness": 0.181,
+            "time_signature": 4,
+            "happiness": 4.321
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "Take It Easy",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.093999999999999,
+        "Popularity": 6.22,
+        "BPM": 146,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6QDWGa7lqR8pq67EtzYy0s",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 127187,
+            "acousticness": 0.594,
+            "danceability": 6.814,
+            "instrumentalness": 3.8e-05,
+            "liveness": 0.143,
+            "loudness": -8.673,
+            "speechiness": 0.073,
+            "time_signature": 4,
+            "happiness": 4.789
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "GHOST",
+        "Artist": "BamBam",
+        "Key": "12B",
+        "Energy": 7.201,
+        "Popularity": 6.22,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3TQqMPOcfzwCTr9nVvbrgi",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 157213,
+            "acousticness": 0.0367,
+            "danceability": 6.724,
+            "instrumentalness": 0,
+            "liveness": 0.0876,
+            "loudness": -7.938,
+            "speechiness": 0.0542,
+            "time_signature": 4,
+            "happiness": 9.037
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Sour & Sweet",
+        "Artist": "BamBam",
+        "Key": "10A",
+        "Energy": 8.596,
+        "Popularity": 7.66,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3bcLtU0Z3MuUhhQHIVSSX2",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 147680,
+            "acousticness": 0.023,
+            "danceability": 6.409,
+            "instrumentalness": 1.1e-06,
+            "liveness": 0.0909,
+            "loudness": -4.764,
+            "speechiness": 0.0544,
+            "time_signature": 4,
+            "happiness": 7.308999999999999
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "Let's Dance",
+        "Artist": "BamBam",
+        "Key": "12A",
+        "Energy": 2.7910000000000004,
+        "Popularity": 6.22,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6ik3gFk33ugDijVHKISRpz",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 207453,
+            "acousticness": 0.615,
+            "danceability": 8.227,
+            "instrumentalness": 0,
+            "liveness": 0.104,
+            "loudness": -11.803,
+            "speechiness": 0.0729,
+            "time_signature": 3,
+            "happiness": 3.133
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "about YOU",
+        "Artist": "BamBam",
+        "Key": "8A",
+        "Energy": 7.4799999999999995,
+        "Popularity": 6.22,
+        "BPM": 133,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4oJYQsSAYxt1a3igYU10IX",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 165027,
+            "acousticness": 0.131,
+            "danceability": 7.813,
+            "instrumentalness": 0,
+            "liveness": 0.084,
+            "loudness": -4.778,
+            "speechiness": 0.124,
+            "time_signature": 4,
+            "happiness": 6.111999999999999
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "TIPPY TOE",
+        "Artist": "BamBam",
+        "Key": "10B",
+        "Energy": 6.2829999999999995,
+        "Popularity": 6.31,
+        "BPM": 79,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4QZ822qY72CrhhPaJAvQZ0",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 134933,
+            "acousticness": 0.0167,
+            "danceability": 7.777,
+            "instrumentalness": 0.000288,
+            "liveness": 0.124,
+            "loudness": -6.361,
+            "speechiness": 0.0898,
+            "time_signature": 4,
+            "happiness": 4.779999999999999
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Wings",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.292,
+        "Popularity": 6.22,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0nZgC8skrXzSv1cjfHFlyt",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 184080,
+            "acousticness": 0.344,
+            "danceability": 6.76,
+            "instrumentalness": 0.156,
+            "liveness": 0.135,
+            "loudness": -10.064,
+            "speechiness": 0.0538,
+            "time_signature": 4,
+            "happiness": 7.3
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "Feather",
+        "Artist": "BamBam",
+        "Key": "3A",
+        "Energy": 5.140000000000001,
+        "Popularity": 6.22,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "718Z6vhLSTO4NjBVa7qKiY",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 150827,
+            "acousticness": 0.815,
+            "danceability": 4.2669999999999995,
+            "instrumentalness": 0.0143,
+            "liveness": 0.919,
+            "loudness": -11.091,
+            "speechiness": 0.181,
+            "time_signature": 4,
+            "happiness": 4.321
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Take It Easy",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.093999999999999,
+        "Popularity": 6.22,
+        "BPM": 146,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6QDWGa7lqR8pq67EtzYy0s",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 127187,
+            "acousticness": 0.594,
+            "danceability": 6.814,
+            "instrumentalness": 3.8e-05,
+            "liveness": 0.143,
+            "loudness": -8.673,
+            "speechiness": 0.073,
+            "time_signature": 4,
+            "happiness": 4.789
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "GHOST",
+        "Artist": "BamBam",
+        "Key": "12B",
+        "Energy": 7.201,
+        "Popularity": 6.22,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3TQqMPOcfzwCTr9nVvbrgi",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 157213,
+            "acousticness": 0.0367,
+            "danceability": 6.724,
+            "instrumentalness": 0,
+            "liveness": 0.0876,
+            "loudness": -7.938,
+            "speechiness": 0.0542,
+            "time_signature": 4,
+            "happiness": 9.037
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "Sour & Sweet",
+        "Artist": "BamBam",
+        "Key": "10A",
+        "Energy": 8.596,
+        "Popularity": 7.66,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3bcLtU0Z3MuUhhQHIVSSX2",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 147680,
+            "acousticness": 0.023,
+            "danceability": 6.409,
+            "instrumentalness": 1.1e-06,
+            "liveness": 0.0909,
+            "loudness": -4.764,
+            "speechiness": 0.0544,
+            "time_signature": 4,
+            "happiness": 7.308999999999999
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "Let's Dance",
+        "Artist": "BamBam",
+        "Key": "12A",
+        "Energy": 2.7910000000000004,
+        "Popularity": 6.22,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6ik3gFk33ugDijVHKISRpz",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 207453,
+            "acousticness": 0.615,
+            "danceability": 8.227,
+            "instrumentalness": 0,
+            "liveness": 0.104,
+            "loudness": -11.803,
+            "speechiness": 0.0729,
+            "time_signature": 3,
+            "happiness": 3.133
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "about YOU",
+        "Artist": "BamBam",
+        "Key": "8A",
+        "Energy": 7.4799999999999995,
+        "Popularity": 6.22,
+        "BPM": 133,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4oJYQsSAYxt1a3igYU10IX",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 165027,
+            "acousticness": 0.131,
+            "danceability": 7.813,
+            "instrumentalness": 0,
+            "liveness": 0.084,
+            "loudness": -4.778,
+            "speechiness": 0.124,
+            "time_signature": 4,
+            "happiness": 6.111999999999999
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "TIPPY TOE",
+        "Artist": "BamBam",
+        "Key": "10B",
+        "Energy": 6.2829999999999995,
+        "Popularity": 6.31,
+        "BPM": 79,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4QZ822qY72CrhhPaJAvQZ0",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 134933,
+            "acousticness": 0.0167,
+            "danceability": 7.777,
+            "instrumentalness": 0.000288,
+            "liveness": 0.124,
+            "loudness": -6.361,
+            "speechiness": 0.0898,
+            "time_signature": 4,
+            "happiness": 4.779999999999999
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "Wings",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.292,
+        "Popularity": 6.22,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0nZgC8skrXzSv1cjfHFlyt",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 184080,
+            "acousticness": 0.344,
+            "danceability": 6.76,
+            "instrumentalness": 0.156,
+            "liveness": 0.135,
+            "loudness": -10.064,
+            "speechiness": 0.0538,
+            "time_signature": 4,
+            "happiness": 7.3
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "Feather",
+        "Artist": "BamBam",
+        "Key": "3A",
+        "Energy": 5.140000000000001,
+        "Popularity": 6.22,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "718Z6vhLSTO4NjBVa7qKiY",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 150827,
+            "acousticness": 0.815,
+            "danceability": 4.2669999999999995,
+            "instrumentalness": 0.0143,
+            "liveness": 0.919,
+            "loudness": -11.091,
+            "speechiness": 0.181,
+            "time_signature": 4,
+            "happiness": 4.321
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "Take It Easy",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.093999999999999,
+        "Popularity": 6.22,
+        "BPM": 146,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6QDWGa7lqR8pq67EtzYy0s",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 127187,
+            "acousticness": 0.594,
+            "danceability": 6.814,
+            "instrumentalness": 3.8e-05,
+            "liveness": 0.143,
+            "loudness": -8.673,
+            "speechiness": 0.073,
+            "time_signature": 4,
+            "happiness": 4.789
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "GHOST",
+        "Artist": "BamBam",
+        "Key": "12B",
+        "Energy": 7.201,
+        "Popularity": 6.22,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3TQqMPOcfzwCTr9nVvbrgi",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 157213,
+            "acousticness": 0.0367,
+            "danceability": 6.724,
+            "instrumentalness": 0,
+            "liveness": 0.0876,
+            "loudness": -7.938,
+            "speechiness": 0.0542,
+            "time_signature": 4,
+            "happiness": 9.037
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "Sour & Sweet",
+        "Artist": "BamBam",
+        "Key": "10A",
+        "Energy": 8.596,
+        "Popularity": 7.66,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3bcLtU0Z3MuUhhQHIVSSX2",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 147680,
+            "acousticness": 0.023,
+            "danceability": 6.409,
+            "instrumentalness": 1.1e-06,
+            "liveness": 0.0909,
+            "loudness": -4.764,
+            "speechiness": 0.0544,
+            "time_signature": 4,
+            "happiness": 7.308999999999999
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "Let's Dance",
+        "Artist": "BamBam",
+        "Key": "12A",
+        "Energy": 2.7910000000000004,
+        "Popularity": 6.22,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6ik3gFk33ugDijVHKISRpz",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 207453,
+            "acousticness": 0.615,
+            "danceability": 8.227,
+            "instrumentalness": 0,
+            "liveness": 0.104,
+            "loudness": -11.803,
+            "speechiness": 0.0729,
+            "time_signature": 3,
+            "happiness": 3.133
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "about YOU",
+        "Artist": "BamBam",
+        "Key": "8A",
+        "Energy": 7.4799999999999995,
+        "Popularity": 6.22,
+        "BPM": 133,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4oJYQsSAYxt1a3igYU10IX",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 165027,
+            "acousticness": 0.131,
+            "danceability": 7.813,
+            "instrumentalness": 0,
+            "liveness": 0.084,
+            "loudness": -4.778,
+            "speechiness": 0.124,
+            "time_signature": 4,
+            "happiness": 6.111999999999999
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "TIPPY TOE",
+        "Artist": "BamBam",
+        "Key": "10B",
+        "Energy": 6.2829999999999995,
+        "Popularity": 6.31,
+        "BPM": 79,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4QZ822qY72CrhhPaJAvQZ0",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 134933,
+            "acousticness": 0.0167,
+            "danceability": 7.777,
+            "instrumentalness": 0.000288,
+            "liveness": 0.124,
+            "loudness": -6.361,
+            "speechiness": 0.0898,
+            "time_signature": 4,
+            "happiness": 4.779999999999999
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "Wings",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.292,
+        "Popularity": 6.22,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0nZgC8skrXzSv1cjfHFlyt",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 184080,
+            "acousticness": 0.344,
+            "danceability": 6.76,
+            "instrumentalness": 0.156,
+            "liveness": 0.135,
+            "loudness": -10.064,
+            "speechiness": 0.0538,
+            "time_signature": 4,
+            "happiness": 7.3
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "Feather",
+        "Artist": "BamBam",
+        "Key": "3A",
+        "Energy": 5.140000000000001,
+        "Popularity": 6.22,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "718Z6vhLSTO4NjBVa7qKiY",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 150827,
+            "acousticness": 0.815,
+            "danceability": 4.2669999999999995,
+            "instrumentalness": 0.0143,
+            "liveness": 0.919,
+            "loudness": -11.091,
+            "speechiness": 0.181,
+            "time_signature": 4,
+            "happiness": 4.321
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "Take It Easy",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.093999999999999,
+        "Popularity": 6.22,
+        "BPM": 146,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6QDWGa7lqR8pq67EtzYy0s",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 127187,
+            "acousticness": 0.594,
+            "danceability": 6.814,
+            "instrumentalness": 3.8e-05,
+            "liveness": 0.143,
+            "loudness": -8.673,
+            "speechiness": 0.073,
+            "time_signature": 4,
+            "happiness": 4.789
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "GHOST",
+        "Artist": "BamBam",
+        "Key": "12B",
+        "Energy": 7.201,
+        "Popularity": 6.22,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3TQqMPOcfzwCTr9nVvbrgi",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 157213,
+            "acousticness": 0.0367,
+            "danceability": 6.724,
+            "instrumentalness": 0,
+            "liveness": 0.0876,
+            "loudness": -7.938,
+            "speechiness": 0.0542,
+            "time_signature": 4,
+            "happiness": 9.037
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "Sour & Sweet",
+        "Artist": "BamBam",
+        "Key": "10A",
+        "Energy": 8.596,
+        "Popularity": 7.66,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3bcLtU0Z3MuUhhQHIVSSX2",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 147680,
+            "acousticness": 0.023,
+            "danceability": 6.409,
+            "instrumentalness": 1.1e-06,
+            "liveness": 0.0909,
+            "loudness": -4.764,
+            "speechiness": 0.0544,
+            "time_signature": 4,
+            "happiness": 7.308999999999999
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "Let's Dance",
+        "Artist": "BamBam",
+        "Key": "12A",
+        "Energy": 2.7910000000000004,
+        "Popularity": 6.22,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6ik3gFk33ugDijVHKISRpz",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 207453,
+            "acousticness": 0.615,
+            "danceability": 8.227,
+            "instrumentalness": 0,
+            "liveness": 0.104,
+            "loudness": -11.803,
+            "speechiness": 0.0729,
+            "time_signature": 3,
+            "happiness": 3.133
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "about YOU",
+        "Artist": "BamBam",
+        "Key": "8A",
+        "Energy": 7.4799999999999995,
+        "Popularity": 6.22,
+        "BPM": 133,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4oJYQsSAYxt1a3igYU10IX",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 165027,
+            "acousticness": 0.131,
+            "danceability": 7.813,
+            "instrumentalness": 0,
+            "liveness": 0.084,
+            "loudness": -4.778,
+            "speechiness": 0.124,
+            "time_signature": 4,
+            "happiness": 6.111999999999999
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "TIPPY TOE",
+        "Artist": "BamBam",
+        "Key": "10B",
+        "Energy": 6.2829999999999995,
+        "Popularity": 6.31,
+        "BPM": 79,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4QZ822qY72CrhhPaJAvQZ0",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 134933,
+            "acousticness": 0.0167,
+            "danceability": 7.777,
+            "instrumentalness": 0.000288,
+            "liveness": 0.124,
+            "loudness": -6.361,
+            "speechiness": 0.0898,
+            "time_signature": 4,
+            "happiness": 4.779999999999999
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "Wings",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.292,
+        "Popularity": 6.22,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0nZgC8skrXzSv1cjfHFlyt",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 184080,
+            "acousticness": 0.344,
+            "danceability": 6.76,
+            "instrumentalness": 0.156,
+            "liveness": 0.135,
+            "loudness": -10.064,
+            "speechiness": 0.0538,
+            "time_signature": 4,
+            "happiness": 7.3
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "Feather",
+        "Artist": "BamBam",
+        "Key": "3A",
+        "Energy": 5.140000000000001,
+        "Popularity": 6.22,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "718Z6vhLSTO4NjBVa7qKiY",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 150827,
+            "acousticness": 0.815,
+            "danceability": 4.2669999999999995,
+            "instrumentalness": 0.0143,
+            "liveness": 0.919,
+            "loudness": -11.091,
+            "speechiness": 0.181,
+            "time_signature": 4,
+            "happiness": 4.321
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "Take It Easy",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.093999999999999,
+        "Popularity": 6.22,
+        "BPM": 146,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6QDWGa7lqR8pq67EtzYy0s",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 127187,
+            "acousticness": 0.594,
+            "danceability": 6.814,
+            "instrumentalness": 3.8e-05,
+            "liveness": 0.143,
+            "loudness": -8.673,
+            "speechiness": 0.073,
+            "time_signature": 4,
+            "happiness": 4.789
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "GHOST",
+        "Artist": "BamBam",
+        "Key": "12B",
+        "Energy": 7.201,
+        "Popularity": 6.22,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3TQqMPOcfzwCTr9nVvbrgi",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 157213,
+            "acousticness": 0.0367,
+            "danceability": 6.724,
+            "instrumentalness": 0,
+            "liveness": 0.0876,
+            "loudness": -7.938,
+            "speechiness": 0.0542,
+            "time_signature": 4,
+            "happiness": 9.037
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "Sour & Sweet",
+        "Artist": "BamBam",
+        "Key": "10A",
+        "Energy": 8.596,
+        "Popularity": 7.66,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3bcLtU0Z3MuUhhQHIVSSX2",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 147680,
+            "acousticness": 0.023,
+            "danceability": 6.409,
+            "instrumentalness": 1.1e-06,
+            "liveness": 0.0909,
+            "loudness": -4.764,
+            "speechiness": 0.0544,
+            "time_signature": 4,
+            "happiness": 7.308999999999999
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "Let's Dance",
+        "Artist": "BamBam",
+        "Key": "12A",
+        "Energy": 2.7910000000000004,
+        "Popularity": 6.22,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6ik3gFk33ugDijVHKISRpz",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 207453,
+            "acousticness": 0.615,
+            "danceability": 8.227,
+            "instrumentalness": 0,
+            "liveness": 0.104,
+            "loudness": -11.803,
+            "speechiness": 0.0729,
+            "time_signature": 3,
+            "happiness": 3.133
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "about YOU",
+        "Artist": "BamBam",
+        "Key": "8A",
+        "Energy": 7.4799999999999995,
+        "Popularity": 6.22,
+        "BPM": 133,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4oJYQsSAYxt1a3igYU10IX",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 165027,
+            "acousticness": 0.131,
+            "danceability": 7.813,
+            "instrumentalness": 0,
+            "liveness": 0.084,
+            "loudness": -4.778,
+            "speechiness": 0.124,
+            "time_signature": 4,
+            "happiness": 6.111999999999999
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "TIPPY TOE",
+        "Artist": "BamBam",
+        "Key": "10B",
+        "Energy": 6.2829999999999995,
+        "Popularity": 6.31,
+        "BPM": 79,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4QZ822qY72CrhhPaJAvQZ0",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 134933,
+            "acousticness": 0.0167,
+            "danceability": 7.777,
+            "instrumentalness": 0.000288,
+            "liveness": 0.124,
+            "loudness": -6.361,
+            "speechiness": 0.0898,
+            "time_signature": 4,
+            "happiness": 4.779999999999999
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "Wings",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.292,
+        "Popularity": 6.22,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0nZgC8skrXzSv1cjfHFlyt",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 184080,
+            "acousticness": 0.344,
+            "danceability": 6.76,
+            "instrumentalness": 0.156,
+            "liveness": 0.135,
+            "loudness": -10.064,
+            "speechiness": 0.0538,
+            "time_signature": 4,
+            "happiness": 7.3
+        }
+    },
+    {
+        "#": 52,
+        "Track Title": "Feather",
+        "Artist": "BamBam",
+        "Key": "3A",
+        "Energy": 5.140000000000001,
+        "Popularity": 6.22,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "718Z6vhLSTO4NjBVa7qKiY",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 150827,
+            "acousticness": 0.815,
+            "danceability": 4.2669999999999995,
+            "instrumentalness": 0.0143,
+            "liveness": 0.919,
+            "loudness": -11.091,
+            "speechiness": 0.181,
+            "time_signature": 4,
+            "happiness": 4.321
+        }
+    },
+    {
+        "#": 53,
+        "Track Title": "Take It Easy",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.093999999999999,
+        "Popularity": 6.22,
+        "BPM": 146,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6QDWGa7lqR8pq67EtzYy0s",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 127187,
+            "acousticness": 0.594,
+            "danceability": 6.814,
+            "instrumentalness": 3.8e-05,
+            "liveness": 0.143,
+            "loudness": -8.673,
+            "speechiness": 0.073,
+            "time_signature": 4,
+            "happiness": 4.789
+        }
+    },
+    {
+        "#": 54,
+        "Track Title": "GHOST",
+        "Artist": "BamBam",
+        "Key": "12B",
+        "Energy": 7.201,
+        "Popularity": 6.22,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3TQqMPOcfzwCTr9nVvbrgi",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 157213,
+            "acousticness": 0.0367,
+            "danceability": 6.724,
+            "instrumentalness": 0,
+            "liveness": 0.0876,
+            "loudness": -7.938,
+            "speechiness": 0.0542,
+            "time_signature": 4,
+            "happiness": 9.037
+        }
+    },
+    {
+        "#": 55,
+        "Track Title": "Sour & Sweet",
+        "Artist": "BamBam",
+        "Key": "10A",
+        "Energy": 8.596,
+        "Popularity": 7.66,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3bcLtU0Z3MuUhhQHIVSSX2",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 147680,
+            "acousticness": 0.023,
+            "danceability": 6.409,
+            "instrumentalness": 1.1e-06,
+            "liveness": 0.0909,
+            "loudness": -4.764,
+            "speechiness": 0.0544,
+            "time_signature": 4,
+            "happiness": 7.308999999999999
+        }
+    },
+    {
+        "#": 56,
+        "Track Title": "Let's Dance",
+        "Artist": "BamBam",
+        "Key": "12A",
+        "Energy": 2.7910000000000004,
+        "Popularity": 6.22,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6ik3gFk33ugDijVHKISRpz",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 207453,
+            "acousticness": 0.615,
+            "danceability": 8.227,
+            "instrumentalness": 0,
+            "liveness": 0.104,
+            "loudness": -11.803,
+            "speechiness": 0.0729,
+            "time_signature": 3,
+            "happiness": 3.133
+        }
+    },
+    {
+        "#": 57,
+        "Track Title": "about YOU",
+        "Artist": "BamBam",
+        "Key": "8A",
+        "Energy": 7.4799999999999995,
+        "Popularity": 6.22,
+        "BPM": 133,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4oJYQsSAYxt1a3igYU10IX",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 165027,
+            "acousticness": 0.131,
+            "danceability": 7.813,
+            "instrumentalness": 0,
+            "liveness": 0.084,
+            "loudness": -4.778,
+            "speechiness": 0.124,
+            "time_signature": 4,
+            "happiness": 6.111999999999999
+        }
+    },
+    {
+        "#": 58,
+        "Track Title": "TIPPY TOE",
+        "Artist": "BamBam",
+        "Key": "10B",
+        "Energy": 6.2829999999999995,
+        "Popularity": 6.31,
+        "BPM": 79,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4QZ822qY72CrhhPaJAvQZ0",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 134933,
+            "acousticness": 0.0167,
+            "danceability": 7.777,
+            "instrumentalness": 0.000288,
+            "liveness": 0.124,
+            "loudness": -6.361,
+            "speechiness": 0.0898,
+            "time_signature": 4,
+            "happiness": 4.779999999999999
+        }
+    },
+    {
+        "#": 59,
+        "Track Title": "Wings",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.292,
+        "Popularity": 6.22,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0nZgC8skrXzSv1cjfHFlyt",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 184080,
+            "acousticness": 0.344,
+            "danceability": 6.76,
+            "instrumentalness": 0.156,
+            "liveness": 0.135,
+            "loudness": -10.064,
+            "speechiness": 0.0538,
+            "time_signature": 4,
+            "happiness": 7.3
+        }
+    },
+    {
+        "#": 60,
+        "Track Title": "Feather",
+        "Artist": "BamBam",
+        "Key": "3A",
+        "Energy": 5.140000000000001,
+        "Popularity": 6.22,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "718Z6vhLSTO4NjBVa7qKiY",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 150827,
+            "acousticness": 0.815,
+            "danceability": 4.2669999999999995,
+            "instrumentalness": 0.0143,
+            "liveness": 0.919,
+            "loudness": -11.091,
+            "speechiness": 0.181,
+            "time_signature": 4,
+            "happiness": 4.321
+        }
+    },
+    {
+        "#": 61,
+        "Track Title": "Take It Easy",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.093999999999999,
+        "Popularity": 6.22,
+        "BPM": 146,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6QDWGa7lqR8pq67EtzYy0s",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 127187,
+            "acousticness": 0.594,
+            "danceability": 6.814,
+            "instrumentalness": 3.8e-05,
+            "liveness": 0.143,
+            "loudness": -8.673,
+            "speechiness": 0.073,
+            "time_signature": 4,
+            "happiness": 4.789
+        }
+    },
+    {
+        "#": 62,
+        "Track Title": "GHOST",
+        "Artist": "BamBam",
+        "Key": "12B",
+        "Energy": 7.201,
+        "Popularity": 6.22,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3TQqMPOcfzwCTr9nVvbrgi",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 157213,
+            "acousticness": 0.0367,
+            "danceability": 6.724,
+            "instrumentalness": 0,
+            "liveness": 0.0876,
+            "loudness": -7.938,
+            "speechiness": 0.0542,
+            "time_signature": 4,
+            "happiness": 9.037
+        }
+    },
+    {
+        "#": 63,
+        "Track Title": "Sour & Sweet",
+        "Artist": "BamBam",
+        "Key": "10A",
+        "Energy": 8.596,
+        "Popularity": 7.66,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3bcLtU0Z3MuUhhQHIVSSX2",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 147680,
+            "acousticness": 0.023,
+            "danceability": 6.409,
+            "instrumentalness": 1.1e-06,
+            "liveness": 0.0909,
+            "loudness": -4.764,
+            "speechiness": 0.0544,
+            "time_signature": 4,
+            "happiness": 7.308999999999999
+        }
+    },
+    {
+        "#": 64,
+        "Track Title": "Let's Dance",
+        "Artist": "BamBam",
+        "Key": "12A",
+        "Energy": 2.7910000000000004,
+        "Popularity": 6.22,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6ik3gFk33ugDijVHKISRpz",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 207453,
+            "acousticness": 0.615,
+            "danceability": 8.227,
+            "instrumentalness": 0,
+            "liveness": 0.104,
+            "loudness": -11.803,
+            "speechiness": 0.0729,
+            "time_signature": 3,
+            "happiness": 3.133
+        }
+    },
+    {
+        "#": 65,
+        "Track Title": "about YOU",
+        "Artist": "BamBam",
+        "Key": "8A",
+        "Energy": 7.4799999999999995,
+        "Popularity": 6.22,
+        "BPM": 133,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4oJYQsSAYxt1a3igYU10IX",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 165027,
+            "acousticness": 0.131,
+            "danceability": 7.813,
+            "instrumentalness": 0,
+            "liveness": 0.084,
+            "loudness": -4.778,
+            "speechiness": 0.124,
+            "time_signature": 4,
+            "happiness": 6.111999999999999
+        }
+    },
+    {
+        "#": 66,
+        "Track Title": "TIPPY TOE",
+        "Artist": "BamBam",
+        "Key": "10B",
+        "Energy": 6.2829999999999995,
+        "Popularity": 6.31,
+        "BPM": 79,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4QZ822qY72CrhhPaJAvQZ0",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 134933,
+            "acousticness": 0.0167,
+            "danceability": 7.777,
+            "instrumentalness": 0.000288,
+            "liveness": 0.124,
+            "loudness": -6.361,
+            "speechiness": 0.0898,
+            "time_signature": 4,
+            "happiness": 4.779999999999999
+        }
+    },
+    {
+        "#": 67,
+        "Track Title": "Wings",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.292,
+        "Popularity": 6.22,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0nZgC8skrXzSv1cjfHFlyt",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 184080,
+            "acousticness": 0.344,
+            "danceability": 6.76,
+            "instrumentalness": 0.156,
+            "liveness": 0.135,
+            "loudness": -10.064,
+            "speechiness": 0.0538,
+            "time_signature": 4,
+            "happiness": 7.3
+        }
+    },
+    {
+        "#": 68,
+        "Track Title": "Feather",
+        "Artist": "BamBam",
+        "Key": "3A",
+        "Energy": 5.140000000000001,
+        "Popularity": 6.22,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "718Z6vhLSTO4NjBVa7qKiY",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 150827,
+            "acousticness": 0.815,
+            "danceability": 4.2669999999999995,
+            "instrumentalness": 0.0143,
+            "liveness": 0.919,
+            "loudness": -11.091,
+            "speechiness": 0.181,
+            "time_signature": 4,
+            "happiness": 4.321
+        }
+    },
+    {
+        "#": 69,
+        "Track Title": "Take It Easy",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.093999999999999,
+        "Popularity": 6.22,
+        "BPM": 146,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6QDWGa7lqR8pq67EtzYy0s",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 127187,
+            "acousticness": 0.594,
+            "danceability": 6.814,
+            "instrumentalness": 3.8e-05,
+            "liveness": 0.143,
+            "loudness": -8.673,
+            "speechiness": 0.073,
+            "time_signature": 4,
+            "happiness": 4.789
+        }
+    },
+    {
+        "#": 70,
+        "Track Title": "GHOST",
+        "Artist": "BamBam",
+        "Key": "12B",
+        "Energy": 7.201,
+        "Popularity": 6.22,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3TQqMPOcfzwCTr9nVvbrgi",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 157213,
+            "acousticness": 0.0367,
+            "danceability": 6.724,
+            "instrumentalness": 0,
+            "liveness": 0.0876,
+            "loudness": -7.938,
+            "speechiness": 0.0542,
+            "time_signature": 4,
+            "happiness": 9.037
+        }
+    },
+    {
+        "#": 71,
+        "Track Title": "Sour & Sweet",
+        "Artist": "BamBam",
+        "Key": "10A",
+        "Energy": 8.596,
+        "Popularity": 7.66,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3bcLtU0Z3MuUhhQHIVSSX2",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 147680,
+            "acousticness": 0.023,
+            "danceability": 6.409,
+            "instrumentalness": 1.1e-06,
+            "liveness": 0.0909,
+            "loudness": -4.764,
+            "speechiness": 0.0544,
+            "time_signature": 4,
+            "happiness": 7.308999999999999
+        }
+    },
+    {
+        "#": 72,
+        "Track Title": "Let's Dance",
+        "Artist": "BamBam",
+        "Key": "12A",
+        "Energy": 2.7910000000000004,
+        "Popularity": 6.22,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6ik3gFk33ugDijVHKISRpz",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 207453,
+            "acousticness": 0.615,
+            "danceability": 8.227,
+            "instrumentalness": 0,
+            "liveness": 0.104,
+            "loudness": -11.803,
+            "speechiness": 0.0729,
+            "time_signature": 3,
+            "happiness": 3.133
+        }
+    },
+    {
+        "#": 73,
+        "Track Title": "about YOU",
+        "Artist": "BamBam",
+        "Key": "8A",
+        "Energy": 7.4799999999999995,
+        "Popularity": 6.22,
+        "BPM": 133,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4oJYQsSAYxt1a3igYU10IX",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 165027,
+            "acousticness": 0.131,
+            "danceability": 7.813,
+            "instrumentalness": 0,
+            "liveness": 0.084,
+            "loudness": -4.778,
+            "speechiness": 0.124,
+            "time_signature": 4,
+            "happiness": 6.111999999999999
+        }
+    },
+    {
+        "#": 74,
+        "Track Title": "TIPPY TOE",
+        "Artist": "BamBam",
+        "Key": "10B",
+        "Energy": 6.2829999999999995,
+        "Popularity": 6.31,
+        "BPM": 79,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4QZ822qY72CrhhPaJAvQZ0",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 134933,
+            "acousticness": 0.0167,
+            "danceability": 7.777,
+            "instrumentalness": 0.000288,
+            "liveness": 0.124,
+            "loudness": -6.361,
+            "speechiness": 0.0898,
+            "time_signature": 4,
+            "happiness": 4.779999999999999
+        }
+    },
+    {
+        "#": 75,
+        "Track Title": "Wings",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.292,
+        "Popularity": 6.22,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0nZgC8skrXzSv1cjfHFlyt",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 184080,
+            "acousticness": 0.344,
+            "danceability": 6.76,
+            "instrumentalness": 0.156,
+            "liveness": 0.135,
+            "loudness": -10.064,
+            "speechiness": 0.0538,
+            "time_signature": 4,
+            "happiness": 7.3
+        }
+    },
+    {
+        "#": 76,
+        "Track Title": "Feather",
+        "Artist": "BamBam",
+        "Key": "3A",
+        "Energy": 5.140000000000001,
+        "Popularity": 6.22,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "718Z6vhLSTO4NjBVa7qKiY",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 150827,
+            "acousticness": 0.815,
+            "danceability": 4.2669999999999995,
+            "instrumentalness": 0.0143,
+            "liveness": 0.919,
+            "loudness": -11.091,
+            "speechiness": 0.181,
+            "time_signature": 4,
+            "happiness": 4.321
+        }
+    },
+    {
+        "#": 77,
+        "Track Title": "Take It Easy",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.093999999999999,
+        "Popularity": 6.22,
+        "BPM": 146,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6QDWGa7lqR8pq67EtzYy0s",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 127187,
+            "acousticness": 0.594,
+            "danceability": 6.814,
+            "instrumentalness": 3.8e-05,
+            "liveness": 0.143,
+            "loudness": -8.673,
+            "speechiness": 0.073,
+            "time_signature": 4,
+            "happiness": 4.789
+        }
+    },
+    {
+        "#": 78,
+        "Track Title": "GHOST",
+        "Artist": "BamBam",
+        "Key": "12B",
+        "Energy": 7.201,
+        "Popularity": 6.22,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3TQqMPOcfzwCTr9nVvbrgi",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 157213,
+            "acousticness": 0.0367,
+            "danceability": 6.724,
+            "instrumentalness": 0,
+            "liveness": 0.0876,
+            "loudness": -7.938,
+            "speechiness": 0.0542,
+            "time_signature": 4,
+            "happiness": 9.037
+        }
+    },
+    {
+        "#": 79,
+        "Track Title": "Sour & Sweet",
+        "Artist": "BamBam",
+        "Key": "10A",
+        "Energy": 8.596,
+        "Popularity": 7.66,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3bcLtU0Z3MuUhhQHIVSSX2",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 147680,
+            "acousticness": 0.023,
+            "danceability": 6.409,
+            "instrumentalness": 1.1e-06,
+            "liveness": 0.0909,
+            "loudness": -4.764,
+            "speechiness": 0.0544,
+            "time_signature": 4,
+            "happiness": 7.308999999999999
+        }
+    },
+    {
+        "#": 80,
+        "Track Title": "Let's Dance",
+        "Artist": "BamBam",
+        "Key": "12A",
+        "Energy": 2.7910000000000004,
+        "Popularity": 6.22,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6ik3gFk33ugDijVHKISRpz",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 207453,
+            "acousticness": 0.615,
+            "danceability": 8.227,
+            "instrumentalness": 0,
+            "liveness": 0.104,
+            "loudness": -11.803,
+            "speechiness": 0.0729,
+            "time_signature": 3,
+            "happiness": 3.133
+        }
+    },
+    {
+        "#": 81,
+        "Track Title": "about YOU",
+        "Artist": "BamBam",
+        "Key": "8A",
+        "Energy": 7.4799999999999995,
+        "Popularity": 6.22,
+        "BPM": 133,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4oJYQsSAYxt1a3igYU10IX",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 165027,
+            "acousticness": 0.131,
+            "danceability": 7.813,
+            "instrumentalness": 0,
+            "liveness": 0.084,
+            "loudness": -4.778,
+            "speechiness": 0.124,
+            "time_signature": 4,
+            "happiness": 6.111999999999999
+        }
+    },
+    {
+        "#": 82,
+        "Track Title": "TIPPY TOE",
+        "Artist": "BamBam",
+        "Key": "10B",
+        "Energy": 6.2829999999999995,
+        "Popularity": 6.31,
+        "BPM": 79,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4QZ822qY72CrhhPaJAvQZ0",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 134933,
+            "acousticness": 0.0167,
+            "danceability": 7.777,
+            "instrumentalness": 0.000288,
+            "liveness": 0.124,
+            "loudness": -6.361,
+            "speechiness": 0.0898,
+            "time_signature": 4,
+            "happiness": 4.779999999999999
+        }
+    },
+    {
+        "#": 83,
+        "Track Title": "Wings",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.292,
+        "Popularity": 6.22,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0nZgC8skrXzSv1cjfHFlyt",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 184080,
+            "acousticness": 0.344,
+            "danceability": 6.76,
+            "instrumentalness": 0.156,
+            "liveness": 0.135,
+            "loudness": -10.064,
+            "speechiness": 0.0538,
+            "time_signature": 4,
+            "happiness": 7.3
+        }
+    },
+    {
+        "#": 84,
+        "Track Title": "Feather",
+        "Artist": "BamBam",
+        "Key": "3A",
+        "Energy": 5.140000000000001,
+        "Popularity": 6.22,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "718Z6vhLSTO4NjBVa7qKiY",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 150827,
+            "acousticness": 0.815,
+            "danceability": 4.2669999999999995,
+            "instrumentalness": 0.0143,
+            "liveness": 0.919,
+            "loudness": -11.091,
+            "speechiness": 0.181,
+            "time_signature": 4,
+            "happiness": 4.321
+        }
+    },
+    {
+        "#": 85,
+        "Track Title": "Take It Easy",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.093999999999999,
+        "Popularity": 6.22,
+        "BPM": 146,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6QDWGa7lqR8pq67EtzYy0s",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 127187,
+            "acousticness": 0.594,
+            "danceability": 6.814,
+            "instrumentalness": 3.8e-05,
+            "liveness": 0.143,
+            "loudness": -8.673,
+            "speechiness": 0.073,
+            "time_signature": 4,
+            "happiness": 4.789
+        }
+    },
+    {
+        "#": 86,
+        "Track Title": "GHOST",
+        "Artist": "BamBam",
+        "Key": "12B",
+        "Energy": 7.201,
+        "Popularity": 6.22,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3TQqMPOcfzwCTr9nVvbrgi",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 157213,
+            "acousticness": 0.0367,
+            "danceability": 6.724,
+            "instrumentalness": 0,
+            "liveness": 0.0876,
+            "loudness": -7.938,
+            "speechiness": 0.0542,
+            "time_signature": 4,
+            "happiness": 9.037
+        }
+    },
+    {
+        "#": 87,
+        "Track Title": "Sour & Sweet",
+        "Artist": "BamBam",
+        "Key": "10A",
+        "Energy": 8.596,
+        "Popularity": 7.66,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3bcLtU0Z3MuUhhQHIVSSX2",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 147680,
+            "acousticness": 0.023,
+            "danceability": 6.409,
+            "instrumentalness": 1.1e-06,
+            "liveness": 0.0909,
+            "loudness": -4.764,
+            "speechiness": 0.0544,
+            "time_signature": 4,
+            "happiness": 7.308999999999999
+        }
+    },
+    {
+        "#": 88,
+        "Track Title": "Let's Dance",
+        "Artist": "BamBam",
+        "Key": "12A",
+        "Energy": 2.7910000000000004,
+        "Popularity": 6.22,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6ik3gFk33ugDijVHKISRpz",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 207453,
+            "acousticness": 0.615,
+            "danceability": 8.227,
+            "instrumentalness": 0,
+            "liveness": 0.104,
+            "loudness": -11.803,
+            "speechiness": 0.0729,
+            "time_signature": 3,
+            "happiness": 3.133
+        }
+    },
+    {
+        "#": 89,
+        "Track Title": "about YOU",
+        "Artist": "BamBam",
+        "Key": "8A",
+        "Energy": 7.4799999999999995,
+        "Popularity": 6.22,
+        "BPM": 133,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4oJYQsSAYxt1a3igYU10IX",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 165027,
+            "acousticness": 0.131,
+            "danceability": 7.813,
+            "instrumentalness": 0,
+            "liveness": 0.084,
+            "loudness": -4.778,
+            "speechiness": 0.124,
+            "time_signature": 4,
+            "happiness": 6.111999999999999
+        }
+    },
+    {
+        "#": 90,
+        "Track Title": "TIPPY TOE",
+        "Artist": "BamBam",
+        "Key": "10B",
+        "Energy": 6.2829999999999995,
+        "Popularity": 6.31,
+        "BPM": 79,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4QZ822qY72CrhhPaJAvQZ0",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 134933,
+            "acousticness": 0.0167,
+            "danceability": 7.777,
+            "instrumentalness": 0.000288,
+            "liveness": 0.124,
+            "loudness": -6.361,
+            "speechiness": 0.0898,
+            "time_signature": 4,
+            "happiness": 4.779999999999999
+        }
+    },
+    {
+        "#": 91,
+        "Track Title": "Wings",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.292,
+        "Popularity": 6.22,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0nZgC8skrXzSv1cjfHFlyt",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 184080,
+            "acousticness": 0.344,
+            "danceability": 6.76,
+            "instrumentalness": 0.156,
+            "liveness": 0.135,
+            "loudness": -10.064,
+            "speechiness": 0.0538,
+            "time_signature": 4,
+            "happiness": 7.3
+        }
+    },
+    {
+        "#": 92,
+        "Track Title": "Feather",
+        "Artist": "BamBam",
+        "Key": "3A",
+        "Energy": 5.140000000000001,
+        "Popularity": 6.22,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "718Z6vhLSTO4NjBVa7qKiY",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 150827,
+            "acousticness": 0.815,
+            "danceability": 4.2669999999999995,
+            "instrumentalness": 0.0143,
+            "liveness": 0.919,
+            "loudness": -11.091,
+            "speechiness": 0.181,
+            "time_signature": 4,
+            "happiness": 4.321
+        }
+    },
+    {
+        "#": 93,
+        "Track Title": "Take It Easy",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.093999999999999,
+        "Popularity": 6.22,
+        "BPM": 146,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6QDWGa7lqR8pq67EtzYy0s",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 127187,
+            "acousticness": 0.594,
+            "danceability": 6.814,
+            "instrumentalness": 3.8e-05,
+            "liveness": 0.143,
+            "loudness": -8.673,
+            "speechiness": 0.073,
+            "time_signature": 4,
+            "happiness": 4.789
+        }
+    },
+    {
+        "#": 94,
+        "Track Title": "GHOST",
+        "Artist": "BamBam",
+        "Key": "12B",
+        "Energy": 7.201,
+        "Popularity": 6.22,
+        "BPM": 82,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3TQqMPOcfzwCTr9nVvbrgi",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 157213,
+            "acousticness": 0.0367,
+            "danceability": 6.724,
+            "instrumentalness": 0,
+            "liveness": 0.0876,
+            "loudness": -7.938,
+            "speechiness": 0.0542,
+            "time_signature": 4,
+            "happiness": 9.037
+        }
+    },
+    {
+        "#": 95,
+        "Track Title": "Sour & Sweet",
+        "Artist": "BamBam",
+        "Key": "10A",
+        "Energy": 8.596,
+        "Popularity": 7.66,
+        "BPM": 86,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3bcLtU0Z3MuUhhQHIVSSX2",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 147680,
+            "acousticness": 0.023,
+            "danceability": 6.409,
+            "instrumentalness": 1.1e-06,
+            "liveness": 0.0909,
+            "loudness": -4.764,
+            "speechiness": 0.0544,
+            "time_signature": 4,
+            "happiness": 7.308999999999999
+        }
+    },
+    {
+        "#": 96,
+        "Track Title": "Let's Dance",
+        "Artist": "BamBam",
+        "Key": "12A",
+        "Energy": 2.7910000000000004,
+        "Popularity": 6.22,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6ik3gFk33ugDijVHKISRpz",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 207453,
+            "acousticness": 0.615,
+            "danceability": 8.227,
+            "instrumentalness": 0,
+            "liveness": 0.104,
+            "loudness": -11.803,
+            "speechiness": 0.0729,
+            "time_signature": 3,
+            "happiness": 3.133
+        }
+    },
+    {
+        "#": 97,
+        "Track Title": "about YOU",
+        "Artist": "BamBam",
+        "Key": "8A",
+        "Energy": 7.4799999999999995,
+        "Popularity": 6.22,
+        "BPM": 133,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4oJYQsSAYxt1a3igYU10IX",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 165027,
+            "acousticness": 0.131,
+            "danceability": 7.813,
+            "instrumentalness": 0,
+            "liveness": 0.084,
+            "loudness": -4.778,
+            "speechiness": 0.124,
+            "time_signature": 4,
+            "happiness": 6.111999999999999
+        }
+    },
+    {
+        "#": 98,
+        "Track Title": "TIPPY TOE",
+        "Artist": "BamBam",
+        "Key": "10B",
+        "Energy": 6.2829999999999995,
+        "Popularity": 6.31,
+        "BPM": 79,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4QZ822qY72CrhhPaJAvQZ0",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 134933,
+            "acousticness": 0.0167,
+            "danceability": 7.777,
+            "instrumentalness": 0.000288,
+            "liveness": 0.124,
+            "loudness": -6.361,
+            "speechiness": 0.0898,
+            "time_signature": 4,
+            "happiness": 4.779999999999999
+        }
+    },
+    {
+        "#": 99,
+        "Track Title": "Wings",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.292,
+        "Popularity": 6.22,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0nZgC8skrXzSv1cjfHFlyt",
+            "explicit": false,
+            "album": "Sour & Sweet",
+            "release_date": "2023-03-28",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 184080,
+            "acousticness": 0.344,
+            "danceability": 6.76,
+            "instrumentalness": 0.156,
+            "liveness": 0.135,
+            "loudness": -10.064,
+            "speechiness": 0.0538,
+            "time_signature": 4,
+            "happiness": 7.3
+        }
+    },
+    {
+        "#": 100,
+        "Track Title": "Slow Mo",
+        "Artist": "BamBam",
+        "Key": "4B",
+        "Energy": 6.481,
+        "Popularity": 5.7700000000000005,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2stElshTCkdXTnCkD9moQF",
+            "explicit": false,
+            "album": "B",
+            "release_date": "2022-01-18",
+            "genres": [
+                "k-pop"
+            ],
+            "duration": 152667,
+            "acousticness": 0.0952,
+            "danceability": 6.49,
+            "instrumentalness": 0.0143,
+            "liveness": 0.0928,
+            "loudness": -4.444,
+            "speechiness": 0.0546,
+            "time_signature": 4,
+            "happiness": 3.97
+        }
+    }
+]

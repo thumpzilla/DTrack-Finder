@@ -1,0 +1,1892 @@
+[
+    {
+        "#": 1,
+        "Track Title": "Porcelain",
+        "Artist": "Moby",
+        "Key": "8A",
+        "Energy": 6.5169999999999995,
+        "Popularity": 7.75,
+        "BPM": 95,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s"
+        ],
+        "Additional Info": {
+            "id": "1hEh8Hc9lBAFWUghHBsCel",
+            "explicit": false,
+            "album": "Play",
+            "release_date": "1999-05-17",
+            "genres": [
+                "downtempo",
+                "electronica"
+            ],
+            "duration": 238920,
+            "acousticness": 0.00147,
+            "danceability": 5.635,
+            "instrumentalness": 0.202,
+            "liveness": 0.449,
+            "loudness": -8.423,
+            "speechiness": 0.0305,
+            "time_signature": 4,
+            "happiness": 4.213
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Intentions (feat. Quavo)",
+        "Artist": "Justin Bieber, Quavo",
+        "Key": "11B",
+        "Energy": 5.914000000000001,
+        "Popularity": 8.02,
+        "BPM": 148,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Hip Hop",
+            "EDM",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4umIPjkehX1r7uhmGvXiSV",
+            "explicit": false,
+            "album": "Changes",
+            "release_date": "2020-02-14",
+            "genres": [
+                "canadian pop",
+                "pop",
+                "atl hip hop",
+                "melodic rap",
+                "rap",
+                "trap"
+            ],
+            "duration": 212867,
+            "acousticness": 0.3,
+            "danceability": 8.254000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.102,
+            "loudness": -6.637,
+            "speechiness": 0.0575,
+            "time_signature": 4,
+            "happiness": 8.866
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "Lost In Japan - Remix",
+        "Artist": "Shawn Mendes, Zedd",
+        "Key": "6B",
+        "Energy": 8.695,
+        "Popularity": 6.76,
+        "BPM": 107,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Happy",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "575NJxNUVDqwJGdzBrlLbv",
+            "explicit": false,
+            "album": "Lost In Japan (Remix)",
+            "release_date": "2018-09-27",
+            "genres": [
+                "canadian pop",
+                "pop",
+                "viral pop",
+                "complextro",
+                "edm",
+                "german techno",
+                "pop",
+                "pop dance"
+            ],
+            "duration": 201253,
+            "acousticness": 0.0911,
+            "danceability": 7.353999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.347,
+            "loudness": -5.377,
+            "speechiness": 0.215,
+            "time_signature": 4,
+            "happiness": 3.637
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Fast Car",
+        "Artist": "Y.V.E. 48",
+        "Key": "3A",
+        "Energy": 6.049,
+        "Popularity": 6.58,
+        "BPM": 112,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "7Md7IzzMCu8IgbZr5AJpoX",
+            "explicit": false,
+            "album": "Fast Car",
+            "release_date": "2020-10-09",
+            "genres": [
+                "chill house",
+                "deep tropical house",
+                "tropical house"
+            ],
+            "duration": 157232,
+            "acousticness": 0.0805,
+            "danceability": 7.885,
+            "instrumentalness": 0.141,
+            "liveness": 0.123,
+            "loudness": -8.946,
+            "speechiness": 0.0361,
+            "time_signature": 4,
+            "happiness": 2.323
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
+        "Artist": "Felix Jaehn, Jasmine Thompson",
+        "Key": "10A",
+        "Energy": 6.093999999999999,
+        "Popularity": 7.93,
+        "BPM": 118,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Happy",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "3c8iiZGfEammKJuWTErE5x",
+            "explicit": false,
+            "album": "I",
+            "release_date": "2018-02-16",
+            "genres": [
+                "edm",
+                "german dance",
+                "pop dance",
+                "tropical house",
+                "viral pop"
+            ],
+            "duration": 186147,
+            "acousticness": 0.672,
+            "danceability": 8.002,
+            "instrumentalness": 0.000197,
+            "liveness": 0.0698,
+            "loudness": -6.959,
+            "speechiness": 0.0311,
+            "time_signature": 4,
+            "happiness": 5.311
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Show Me Love",
+        "Artist": "Sam Feldt, Kimberly Anne",
+        "Key": "8B",
+        "Energy": 6.5169999999999995,
+        "Popularity": 6.22,
+        "BPM": 115,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "6ksRossV4vKsXntCCZbhaM",
+            "explicit": false,
+            "album": "Show Me Love",
+            "release_date": "2015-05-18",
+            "genres": [
+                "edm",
+                "pop dance",
+                "tropical house",
+                "indie anthem-folk"
+            ],
+            "duration": 181867,
+            "acousticness": 0.568,
+            "danceability": 6.301,
+            "instrumentalness": 0,
+            "liveness": 0.0675,
+            "loudness": -5.034,
+            "speechiness": 0.0327,
+            "time_signature": 4,
+            "happiness": 2.71
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Kiss It Better - R3hab Remix",
+        "Artist": "Rihanna",
+        "Key": "2B",
+        "Energy": 7.687,
+        "Popularity": 6.67,
+        "BPM": 102,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Hip Hop",
+            "Happy",
+            "Pop",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "2f7HKQh8zptKYnO6aIhErl",
+            "explicit": true,
+            "album": "Kiss It Better (Dance Remix)",
+            "release_date": "2016-06-01",
+            "genres": [
+                "barbadian pop",
+                "pop",
+                "urban contemporary"
+            ],
+            "duration": 184200,
+            "acousticness": 0.0583,
+            "danceability": 7.57,
+            "instrumentalness": 0,
+            "liveness": 0.103,
+            "loudness": -3.948,
+            "speechiness": 0.0417,
+            "time_signature": 4,
+            "happiness": 5.2749999999999995
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Unforgettable",
+        "Artist": "French Montana, Swae Lee",
+        "Key": "2B",
+        "Energy": 7.921,
+        "Popularity": 8.83,
+        "BPM": 98,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Hip Hop",
+            "EDM",
+            "Pop",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3B54sVLJ402zGa6Xm4YGNe",
+            "explicit": true,
+            "album": "Jungle Rules",
+            "release_date": "2017-07-14",
+            "genres": [
+                "hip hop",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap",
+                "melodic rap",
+                "rap",
+                "trap"
+            ],
+            "duration": 233902,
+            "acousticness": 0.0293,
+            "danceability": 7.534,
+            "instrumentalness": 0.0101,
+            "liveness": 0.104,
+            "loudness": -5.043,
+            "speechiness": 0.123,
+            "time_signature": 4,
+            "happiness": 7.5969999999999995
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Starboy - Kygo Remix",
+        "Artist": "The Weeknd, Daft Punk, Kygo",
+        "Key": "11A",
+        "Energy": 6.454,
+        "Popularity": 5.95,
+        "BPM": 93,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Dance Remixes",
+            "EDM",
+            "Rock",
+            "Pop",
+            "Club-Hotel",
+            "Romantic & Slow Dance",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6LJFgCd9wU2VptHEwz2Wl3",
+            "explicit": true,
+            "album": "Starboy (Kygo Remix)",
+            "release_date": "2016-11-11",
+            "genres": [
+                "canadian contemporary r&b",
+                "canadian pop",
+                "pop",
+                "electro",
+                "filter house",
+                "rock",
+                "edm",
+                "pop",
+                "pop dance",
+                "tropical house"
+            ],
+            "duration": 244720,
+            "acousticness": 0.207,
+            "danceability": 7.768,
+            "instrumentalness": 1.26e-06,
+            "liveness": 0.152,
+            "loudness": -7.162,
+            "speechiness": 0.0912,
+            "time_signature": 4,
+            "happiness": 4.680999999999999
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Peaches X Whats Luv",
+        "Artist": "ELJEE",
+        "Key": "8B",
+        "Energy": 8.578,
+        "Popularity": 6.3999999999999995,
+        "BPM": 94,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3KhgMJyvVfyNeDd4ysyx86",
+            "explicit": false,
+            "album": "Peaches X Whats Luv",
+            "release_date": "2021-09-02",
+            "genres": [],
+            "duration": 136152,
+            "acousticness": 0.0081,
+            "danceability": 7.939,
+            "instrumentalness": 0.0906,
+            "liveness": 0.24,
+            "loudness": -8.555,
+            "speechiness": 0.0555,
+            "time_signature": 4,
+            "happiness": 7.4079999999999995
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Peru - R3HAB Remix",
+        "Artist": "Fireboy DML, Ed Sheeran, R3HAB",
+        "Key": "9A",
+        "Energy": 7.8580000000000005,
+        "Popularity": 7.12,
+        "BPM": 121,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Pop",
+            "Dance Remixes",
+            "Club-Hotel",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "3kv0lHXKrW8oltTe7fYbBq",
+            "explicit": true,
+            "album": "Peru (R3HAB Remix)",
+            "release_date": "2022-03-02",
+            "genres": [
+                "afrobeats",
+                "nigerian pop",
+                "pop",
+                "singer-songwriter pop",
+                "uk pop",
+                "dutch house",
+                "edm",
+                "electro house",
+                "pop dance",
+                "progressive electro house",
+                "slap house"
+            ],
+            "duration": 149752,
+            "acousticness": 0.143,
+            "danceability": 8.299,
+            "instrumentalness": 0.000141,
+            "liveness": 0.0904,
+            "loudness": -5.874,
+            "speechiness": 0.071,
+            "time_signature": 4,
+            "happiness": 4.213
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "Wild Thoughts - NOTD Dance Remix",
+        "Artist": "DJ Khaled, NOTD, Rihanna, Bryson Tiller",
+        "Key": "7A",
+        "Energy": 7.786,
+        "Popularity": 5.32,
+        "BPM": 98,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Dance Remixes",
+            "EDM",
+            "Hip Hop",
+            "Pop",
+            "Happy",
+            "Romantic & Slow Dance",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "1LbauiKQcuWyxVeDf9YcQv",
+            "explicit": true,
+            "album": "Wild Thoughts (NOTD Dance Remix)",
+            "release_date": "2017-07-21",
+            "genres": [
+                "hip hop",
+                "miami hip hop",
+                "pop rap",
+                "rap",
+                "electropop",
+                "pop dance",
+                "pop edm",
+                "barbadian pop",
+                "pop",
+                "urban contemporary",
+                "kentucky hip hop",
+                "r&b",
+                "rap"
+            ],
+            "duration": 189700,
+            "acousticness": 0.00702,
+            "danceability": 7.444,
+            "instrumentalness": 1.38e-05,
+            "liveness": 0.233,
+            "loudness": -5.687,
+            "speechiness": 0.16,
+            "time_signature": 4,
+            "happiness": 5.428
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "Nevermind",
+        "Artist": "Dennis Lloyd",
+        "Key": "7A",
+        "Energy": 7.191999999999999,
+        "Popularity": 8.2,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Israeli - Kibutz",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "63SevszngYpZOwf63o61K4",
+            "explicit": false,
+            "album": "Nevermind",
+            "release_date": "2017-06-30",
+            "genres": [
+                "israeli pop"
+            ],
+            "duration": 156600,
+            "acousticness": 0.159,
+            "danceability": 6.3999999999999995,
+            "instrumentalness": 1.29e-05,
+            "liveness": 0.409,
+            "loudness": -8.339,
+            "speechiness": 0.201,
+            "time_signature": 4,
+            "happiness": 1.7137
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "Show Me Love - EDX Remix / Radio Edit",
+        "Artist": "Sam Feldt, Kimberly Anne, EDX",
+        "Key": "8B",
+        "Energy": 6.931,
+        "Popularity": 6.8500000000000005,
+        "BPM": 121,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Pop",
+            "Dance Remixes",
+            "Club-Hotel",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "6PkzXU8dlwtfrwyTlUyVnv",
+            "explicit": false,
+            "album": "Show Me Love (EDX Remix / Radio Edit)",
+            "release_date": "2015-06-14",
+            "genres": [
+                "edm",
+                "pop dance",
+                "tropical house",
+                "indie anthem-folk",
+                "dutch house",
+                "edm",
+                "electro house",
+                "house",
+                "pop dance",
+                "progressive electro house",
+                "progressive house",
+                "swiss pop"
+            ],
+            "duration": 180336,
+            "acousticness": 0.297,
+            "danceability": 8.488,
+            "instrumentalness": 0.000811,
+            "liveness": 0.0704,
+            "loudness": -5.831,
+            "speechiness": 0.0677,
+            "time_signature": 4,
+            "happiness": 7.4079999999999995
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Lush Life - Retro Version",
+        "Artist": "Zara Larsson",
+        "Key": "9A",
+        "Energy": 5.536,
+        "Popularity": 5.5,
+        "BPM": 98,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4O5ygqTjiXLWo9HASGsk8E",
+            "explicit": false,
+            "album": "Lush Life (Retro Version)",
+            "release_date": "2021-08-27",
+            "genres": [
+                "pop",
+                "scandipop",
+                "swedish electropop",
+                "swedish pop"
+            ],
+            "duration": 193853,
+            "acousticness": 0.105,
+            "danceability": 8.578,
+            "instrumentalness": 0,
+            "liveness": 0.114,
+            "loudness": -7.028,
+            "speechiness": 0.0603,
+            "time_signature": 4,
+            "happiness": 7.534
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "Fly Away - Jonas Blue Remix",
+        "Artist": "Tones And I, Jonas Blue",
+        "Key": "3A",
+        "Energy": 7.66,
+        "Popularity": 5.2299999999999995,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "1gwOMsYzYeRH6xjAKVzBFq",
+            "explicit": false,
+            "album": "Fly Away (Jonas Blue Remix)",
+            "release_date": "2021-01-29",
+            "genres": [
+                "australian pop",
+                "pop",
+                "pop dance",
+                "tropical house",
+                "uk dance"
+            ],
+            "duration": 192195,
+            "acousticness": 0.134,
+            "danceability": 7.606,
+            "instrumentalness": 4.25e-05,
+            "liveness": 0.349,
+            "loudness": -6.041,
+            "speechiness": 0.0436,
+            "time_signature": 4,
+            "happiness": 6.364
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "What's Love Got to Do with It",
+        "Artist": "Kygo, Tina Turner",
+        "Key": "4A",
+        "Energy": 6.976,
+        "Popularity": 7.75,
+        "BPM": 105,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Calm",
+            "Dance Remixes",
+            "EDM",
+            "Rock",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "3Be7CLdHZpyzsVijme39cW",
+            "explicit": false,
+            "album": "What's Love Got to Do with It",
+            "release_date": "2020-07-17",
+            "genres": [
+                "edm",
+                "pop",
+                "pop dance",
+                "tropical house",
+                "soft rock"
+            ],
+            "duration": 208156,
+            "acousticness": 0.275,
+            "danceability": 7.75,
+            "instrumentalness": 0,
+            "liveness": 0.0632,
+            "loudness": -5.908,
+            "speechiness": 0.154,
+            "time_signature": 4,
+            "happiness": 6.553
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "Wake Me Up",
+        "Artist": "Avicii",
+        "Key": "10B",
+        "Energy": 8.047,
+        "Popularity": 9.1,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "0nrRP2bk19rLc0orkWPQk2",
+            "explicit": false,
+            "album": "True",
+            "release_date": "2013-01-01",
+            "genres": [
+                "edm",
+                "pop",
+                "pop dance"
+            ],
+            "duration": 247427,
+            "acousticness": 0.0038,
+            "danceability": 5.788,
+            "instrumentalness": 0.0012,
+            "liveness": 0.161,
+            "loudness": -5.697,
+            "speechiness": 0.0523,
+            "time_signature": 4,
+            "happiness": 6.787
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "A Thousand Miles",
+        "Artist": "Damn Hot",
+        "Key": "1B",
+        "Energy": 7.191999999999999,
+        "Popularity": 5.5,
+        "BPM": 114,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "4i33pDtje830b7IhqZQpRY",
+            "explicit": false,
+            "album": "A Thousand Miles",
+            "release_date": "2018-03-23",
+            "genres": [],
+            "duration": 227625,
+            "acousticness": 0.629,
+            "danceability": 7.273,
+            "instrumentalness": 0,
+            "liveness": 0.321,
+            "loudness": -5.706,
+            "speechiness": 0.0802,
+            "time_signature": 4,
+            "happiness": 5.059
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "Everywhere (BBC Children In Need)",
+        "Artist": "Niall Horan, Anne-Marie",
+        "Key": "2A",
+        "Energy": 9.19,
+        "Popularity": 6.3999999999999995,
+        "BPM": 115,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "0z0kUUd2jPQiI2Ob8VXajc",
+            "explicit": false,
+            "album": "Everywhere (BBC Children In Need)",
+            "release_date": "2021-11-19",
+            "genres": [
+                "pop",
+                "pop"
+            ],
+            "duration": 171413,
+            "acousticness": 0.0492,
+            "danceability": 6.742,
+            "instrumentalness": 0.00511,
+            "liveness": 0.137,
+            "loudness": -2.1,
+            "speechiness": 0.0402,
+            "time_signature": 4,
+            "happiness": 5.851
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Perfect (feat. Matoma) - Matoma Remix",
+        "Artist": "One Direction, Matoma",
+        "Key": "10B",
+        "Energy": 7.3,
+        "Popularity": 4.779999999999999,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Dance Remixes",
+            "EDM",
+            "Pop",
+            "Happy",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "33dAxfP8m3pXzhtgVIUQ2r",
+            "explicit": false,
+            "album": "Remixes - EP",
+            "release_date": "2010-11-29",
+            "genres": [
+                "boy band",
+                "pop",
+                "post-teen pop",
+                "talent show",
+                "pop dance",
+                "tropical house"
+            ],
+            "duration": 223827,
+            "acousticness": 0.0342,
+            "danceability": 7.552,
+            "instrumentalness": 0,
+            "liveness": 0.191,
+            "loudness": -4.884,
+            "speechiness": 0.0374,
+            "time_signature": 4,
+            "happiness": 5.266
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "Are You With Me",
+        "Artist": "Lost Frequencies",
+        "Key": "7A",
+        "Energy": 6.4719999999999995,
+        "Popularity": 8.290000000000001,
+        "BPM": 121,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "4255amV4enzl28KAn16rUO",
+            "explicit": false,
+            "album": "Less Is More",
+            "release_date": "2016-10-21",
+            "genres": [
+                "belgian edm",
+                "edm",
+                "pop dance",
+                "tropical house"
+            ],
+            "duration": 138013,
+            "acousticness": 0.262,
+            "danceability": 7.867,
+            "instrumentalness": 2.5e-05,
+            "liveness": 0.12,
+            "loudness": -8.1,
+            "speechiness": 0.035,
+            "time_signature": 4,
+            "happiness": 4.537
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "Dancing In The Moonlight (feat. NEIMY)",
+        "Artist": "Jubël, NEIMY",
+        "Key": "1A",
+        "Energy": 6.526,
+        "Popularity": 6.49,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "4Vs8RLrUdDXeaZbNeIOrtn",
+            "explicit": false,
+            "album": "Dancing In The Moonlight (feat. NEIMY)",
+            "release_date": "2018-09-07",
+            "genres": [
+                "swedish pop",
+                "scandipop",
+                "tropical house"
+            ],
+            "duration": 164010,
+            "acousticness": 0.28,
+            "danceability": 6.958,
+            "instrumentalness": 0,
+            "liveness": 0.187,
+            "loudness": -5.864,
+            "speechiness": 0.0645,
+            "time_signature": 4,
+            "happiness": 2.782
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "Quit Playing Games (With My Heart)",
+        "Artist": "Bodybangers, Stephen Oaks, Just Mike",
+        "Key": "1A",
+        "Energy": 8.965,
+        "Popularity": 4.779999999999999,
+        "BPM": 125,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "7K4soCmLtWWFiECrQjAajz",
+            "explicit": false,
+            "album": "Quit Playing Games (With My Heart)",
+            "release_date": "2021-07-16",
+            "genres": [
+                "german dance"
+            ],
+            "duration": 149760,
+            "acousticness": 0.0748,
+            "danceability": 6.94,
+            "instrumentalness": 0,
+            "liveness": 0.128,
+            "loudness": -4.899,
+            "speechiness": 0.201,
+            "time_signature": 4,
+            "happiness": 5.041
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "Slow Hands - Basic Tape Remix",
+        "Artist": "Niall Horan, Basic Tape",
+        "Key": "8B",
+        "Energy": 7.4799999999999995,
+        "Popularity": 5.140000000000001,
+        "BPM": 114,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3XJhDig11wzszomesWNOnV",
+            "explicit": false,
+            "album": "Slow Hands (Basic Tape Remix)",
+            "release_date": "2017-06-23",
+            "genres": [
+                "pop",
+                "new french touch"
+            ],
+            "duration": 182608,
+            "acousticness": 0.00806,
+            "danceability": 7.507,
+            "instrumentalness": 0,
+            "liveness": 0.0885,
+            "loudness": -5.675,
+            "speechiness": 0.0325,
+            "time_signature": 4,
+            "happiness": 9.118
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "South of the Border (feat. Camila Cabello & Cardi B) - Cheat Codes Remix",
+        "Artist": "Ed Sheeran, Cardi B, Camila Cabello, Cheat Codes",
+        "Key": "10A",
+        "Energy": 7.894,
+        "Popularity": 7.03,
+        "BPM": 114,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Hip Hop",
+            "EDM",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "19TOAlTFq0NDHvUPQR0tkr",
+            "explicit": false,
+            "album": "South of the Border (feat. Camila Cabello & Cardi B) [Cheat Codes Remix]",
+            "release_date": "2019-09-27",
+            "genres": [
+                "pop",
+                "singer-songwriter pop",
+                "uk pop",
+                "pop",
+                "rap",
+                "dance pop",
+                "pop",
+                "edm",
+                "pop",
+                "pop dance"
+            ],
+            "duration": 195924,
+            "acousticness": 0.212,
+            "danceability": 8.605,
+            "instrumentalness": 0,
+            "liveness": 0.111,
+            "loudness": -5.727,
+            "speechiness": 0.0658,
+            "time_signature": 4,
+            "happiness": 8.038
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "Shivers - Ofenbach Remix",
+        "Artist": "Ed Sheeran, Ofenbach",
+        "Key": "10B",
+        "Energy": 8.488,
+        "Popularity": 7.39,
+        "BPM": 127,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1eGlStOBtFJ6Oc4hhN5tUR",
+            "explicit": false,
+            "album": "Shivers (Ofenbach Remix)",
+            "release_date": "2021-10-08",
+            "genres": [
+                "pop",
+                "singer-songwriter pop",
+                "uk pop",
+                "pop dance"
+            ],
+            "duration": 187248,
+            "acousticness": 0.0119,
+            "danceability": 8.748999999999999,
+            "instrumentalness": 0,
+            "liveness": 0.0461,
+            "loudness": -3.35,
+            "speechiness": 0.0457,
+            "time_signature": 4,
+            "happiness": 9.253
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "Dreams (feat. Dakota & T-Pain)",
+        "Artist": "Alex Ross, Dakota, T-Pain",
+        "Key": "2A",
+        "Energy": 9.163,
+        "Popularity": 5.5,
+        "BPM": 119,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Dance Remixes",
+            "EDM",
+            "Hip Hop",
+            "Mad",
+            "Pop",
+            "Happy",
+            "Romantic & Slow Dance",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4BdIxxdtdpxaPk3vXYL47G",
+            "explicit": false,
+            "album": "Dreams (feat. Dakota & T-Pain)",
+            "release_date": "2017-03-10",
+            "genres": [
+                "dance pop",
+                "gangster rap",
+                "hip hop",
+                "pop rap",
+                "r&b",
+                "rap",
+                "southern hip hop",
+                "trap",
+                "urban contemporary"
+            ],
+            "duration": 198093,
+            "acousticness": 0.135,
+            "danceability": 6.8950000000000005,
+            "instrumentalness": 4.47e-06,
+            "liveness": 0.591,
+            "loudness": -2.605,
+            "speechiness": 0.0326,
+            "time_signature": 4,
+            "happiness": 8.272
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "About Damn Time - Purple Disco Machine Remix",
+        "Artist": "Lizzo, Purple Disco Machine",
+        "Key": "6A",
+        "Energy": 7.939,
+        "Popularity": 7.3,
+        "BPM": 119,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Calm",
+            "EDM",
+            "Hip Hop",
+            "Pop",
+            "Club-Hotel",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "4WIaDYUIlXsHi4yMF596aI",
+            "explicit": true,
+            "album": "About Damn Time (Purple Disco Machine Remix)",
+            "release_date": "2022-05-18",
+            "genres": [
+                "escape room",
+                "minnesota hip hop",
+                "pop",
+                "trap queen",
+                "deep house",
+                "house"
+            ],
+            "duration": 218476,
+            "acousticness": 0.0531,
+            "danceability": 8.2,
+            "instrumentalness": 0,
+            "liveness": 0.229,
+            "loudness": -6.638,
+            "speechiness": 0.123,
+            "time_signature": 4,
+            "happiness": 8.974
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "I Want You Back - Shaparder & LRX Remix",
+        "Artist": "The Jackson 5, Shaparder and LRX",
+        "Key": "4B",
+        "Energy": 8.559999999999999,
+        "Popularity": 5.05,
+        "BPM": 105,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Nostalgic",
+            "Romantic & Slow Dance"
+        ],
+        "Additional Info": {
+            "id": "2r5Y4sy3vOEAn2DJCdRGo5",
+            "explicit": false,
+            "album": "Remix The Classics (Vol.1)",
+            "release_date": "2015-11-20",
+            "genres": [
+                "motown",
+                "soul"
+            ],
+            "duration": 299583,
+            "acousticness": 0.059,
+            "danceability": 7.741,
+            "instrumentalness": 0.00372,
+            "liveness": 0.0813,
+            "loudness": -5.269,
+            "speechiness": 0.11,
+            "time_signature": 4,
+            "happiness": 6.040000000000001
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "Real Love x Sunchyme (feat. Jess Glynne) [VIP Mash-up]",
+        "Artist": "Clean Bandit, Dario G, Jess Glynne",
+        "Key": "10B",
+        "Energy": 8.497,
+        "Popularity": 6.22,
+        "BPM": 125,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "17fPLuA4TttWwfNcf833J1",
+            "explicit": false,
+            "album": "Real Love x Sunchyme (feat. Jess Glynne) [VIP Mash-up]",
+            "release_date": "2020-07-31",
+            "genres": [
+                "pop",
+                "uk dance",
+                "uk funky",
+                "dream trance",
+                "eurodance",
+                "pop",
+                "uk pop"
+            ],
+            "duration": 219052,
+            "acousticness": 0.0172,
+            "danceability": 6.382,
+            "instrumentalness": 0,
+            "liveness": 0.544,
+            "loudness": -6.333,
+            "speechiness": 0.0497,
+            "time_signature": 4,
+            "happiness": 5.176
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "Higher Love",
+        "Artist": "Kygo, Whitney Houston",
+        "Key": "4B",
+        "Energy": 7.102,
+        "Popularity": 7.84,
+        "BPM": 104,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "1kKYjjfNYxE0YYgLa7vgVY",
+            "explicit": false,
+            "album": "Golden Hour",
+            "release_date": "2020-05-29",
+            "genres": [
+                "edm",
+                "pop",
+                "pop dance",
+                "tropical house",
+                "dance pop"
+            ],
+            "duration": 228267,
+            "acousticness": 0.0151,
+            "danceability": 7.236999999999999,
+            "instrumentalness": 5.71e-06,
+            "liveness": 0.101,
+            "loudness": -7.159,
+            "speechiness": 0.0324,
+            "time_signature": 4,
+            "happiness": 4.636
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "Call On Me - Ryan Riback Remix",
+        "Artist": "Starley, Ryan Riback",
+        "Key": "8B",
+        "Energy": 8.542,
+        "Popularity": 5.95,
+        "BPM": 105,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "3GDTO4VnjlQbHfNJ87FNfn",
+            "explicit": false,
+            "album": "One of One",
+            "release_date": "2020-09-25",
+            "genres": [
+                "aussietronica",
+                "melbourne bounce"
+            ],
+            "duration": 222041,
+            "acousticness": 0.0605,
+            "danceability": 7.03,
+            "instrumentalness": 0.000611,
+            "liveness": 0.159,
+            "loudness": -4.031,
+            "speechiness": 0.0362,
+            "time_signature": 4,
+            "happiness": 7.444
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "Body",
+        "Artist": "Loud Luxury, Brando",
+        "Key": "3B",
+        "Energy": 7.876,
+        "Popularity": 6.58,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "1Cae1YAN5Tf4CPfnWz3nmj",
+            "explicit": false,
+            "album": "Body",
+            "release_date": "2018-04-13",
+            "genres": [
+                "edm",
+                "pop dance",
+                "dance pop",
+                "pop dance"
+            ],
+            "duration": 163216,
+            "acousticness": 0.0476,
+            "danceability": 7.768,
+            "instrumentalness": 9.44e-05,
+            "liveness": 0.0543,
+            "loudness": -4.399,
+            "speechiness": 0.038,
+            "time_signature": 4,
+            "happiness": 6.2379999999999995
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "Killing Me Softly",
+        "Artist": "MD DJ",
+        "Key": "3A",
+        "Energy": 7.0120000000000005,
+        "Popularity": 1.72,
+        "BPM": 112,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4l6TkIalWQ1Ec4lPaLyCri",
+            "explicit": false,
+            "album": "Killing Me Softly",
+            "release_date": "2020-08-11",
+            "genres": [
+                "romanian electronic"
+            ],
+            "duration": 200357,
+            "acousticness": 0.0304,
+            "danceability": 8.263000000000002,
+            "instrumentalness": 3.73e-05,
+            "liveness": 0.21,
+            "loudness": -7.344,
+            "speechiness": 0.0526,
+            "time_signature": 4,
+            "happiness": 7.093
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "Stand by Me",
+        "Artist": "STEEL, FSDW, Gordon & Doyle",
+        "Key": "2A",
+        "Energy": 8.704,
+        "Popularity": 6.040000000000001,
+        "BPM": 125,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "7HiL5RWBUnw5FPpCP1U3IP",
+            "explicit": false,
+            "album": "Stand by Me",
+            "release_date": "2021-01-22",
+            "genres": [],
+            "duration": 158730,
+            "acousticness": 0.0248,
+            "danceability": 7.9030000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.169,
+            "loudness": -3.374,
+            "speechiness": 0.0566,
+            "time_signature": 4,
+            "happiness": 5.473
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "Every Breath You Take",
+        "Artist": "Thundatraxx",
+        "Key": "8B",
+        "Energy": 6.958,
+        "Popularity": 6.22,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "3XVmIdROnDyRdw2ABP1zHq",
+            "explicit": false,
+            "album": "Every Breath You Take",
+            "release_date": "2020-08-07",
+            "genres": [],
+            "duration": 167540,
+            "acousticness": 0.147,
+            "danceability": 7.876,
+            "instrumentalness": 0.0222,
+            "liveness": 0.0729,
+            "loudness": -8.028,
+            "speechiness": 0.0368,
+            "time_signature": 4,
+            "happiness": 5.491
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "Dancing On My Own - Tiësto Remix",
+        "Artist": "Calum Scott, Tiësto",
+        "Key": "3B",
+        "Energy": 6.418,
+        "Popularity": 7.03,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Dance Remixes",
+            "EDM",
+            "Pop",
+            "Club-Hotel",
+            "Flying High"
+        ],
+        "Additional Info": {
+            "id": "2EHVjRFRSsXQaHAsys74Us",
+            "explicit": false,
+            "album": "Only Human (Deluxe)",
+            "release_date": "2018-03-09",
+            "genres": [
+                "pop",
+                "big room",
+                "brostep",
+                "dutch edm",
+                "edm",
+                "house",
+                "pop dance",
+                "slap house",
+                "trance"
+            ],
+            "duration": 222890,
+            "acousticness": 0.0176,
+            "danceability": 6.7330000000000005,
+            "instrumentalness": 0.000179,
+            "liveness": 0.0818,
+            "loudness": -5.546,
+            "speechiness": 0.0346,
+            "time_signature": 4,
+            "happiness": 3.6189999999999998
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "Falling Stars (2022)",
+        "Artist": "Pink Panda, Sunset Strippers",
+        "Key": "8A",
+        "Energy": 8.748999999999999,
+        "Popularity": 6.22,
+        "BPM": 126,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4knKY056J9YVI5gy37EixE",
+            "explicit": false,
+            "album": "Falling Stars (2022)",
+            "release_date": "2022-05-06",
+            "genres": [
+                "uk dance"
+            ],
+            "duration": 136789,
+            "acousticness": 0.19,
+            "danceability": 6.751,
+            "instrumentalness": 0,
+            "liveness": 0.095,
+            "loudness": -4.919,
+            "speechiness": 0.0816,
+            "time_signature": 4,
+            "happiness": 8.821
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "I'll Be There - Cahill Remix",
+        "Artist": "Jess Glynne, Cahill",
+        "Key": "9B",
+        "Energy": 8.983,
+        "Popularity": 6.8500000000000005,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "7gEbuXht8gYcA5OdN9zUpy",
+            "explicit": false,
+            "album": "I'll Be There (Cahill Remix)",
+            "release_date": "2018-06-08",
+            "genres": [
+                "pop",
+                "uk pop"
+            ],
+            "duration": 183992,
+            "acousticness": 0.00198,
+            "danceability": 6.3549999999999995,
+            "instrumentalness": 3.91e-05,
+            "liveness": 0.0518,
+            "loudness": -3.607,
+            "speechiness": 0.0387,
+            "time_signature": 4,
+            "happiness": 6.138999999999999
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "How Will I Know",
+        "Artist": "Whitney Houston, Clean Bandit",
+        "Key": "2B",
+        "Energy": 7.651,
+        "Popularity": 7.4799999999999995,
+        "BPM": 119,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "79wbJeLkXOlJh4AzaWCWfL",
+            "explicit": false,
+            "album": "How Will I Know",
+            "release_date": "2021-09-24",
+            "genres": [
+                "dance pop",
+                "pop",
+                "uk dance",
+                "uk funky"
+            ],
+            "duration": 213436,
+            "acousticness": 0.178,
+            "danceability": 7.849,
+            "instrumentalness": 3.35e-06,
+            "liveness": 0.23,
+            "loudness": -3.591,
+            "speechiness": 0.0369,
+            "time_signature": 4,
+            "happiness": 6.904
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "Big Energy (feat. DJ Khaled) - Remix",
+        "Artist": "Latto, Mariah Carey, DJ Khaled",
+        "Key": "1A",
+        "Energy": 7.9750000000000005,
+        "Popularity": 6.94,
+        "BPM": 106,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Dance Remixes",
+            "EDM",
+            "Hip Hop",
+            "Pop",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "0EJ3Kofm9hYq3hL4VZ881G",
+            "explicit": false,
+            "album": "Big Energy (feat. DJ Khaled) [Remix]",
+            "release_date": "2022-03-28",
+            "genres": [
+                "trap queen",
+                "dance pop",
+                "pop",
+                "urban contemporary",
+                "hip hop",
+                "miami hip hop",
+                "pop rap",
+                "rap"
+            ],
+            "duration": 181666,
+            "acousticness": 0.0421,
+            "danceability": 8.83,
+            "instrumentalness": 1.8e-06,
+            "liveness": 0.14,
+            "loudness": -3.703,
+            "speechiness": 0.0865,
+            "time_signature": 4,
+            "happiness": 8.128
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "I Wanna Dance with Somebody (Who Loves Me) - David Solomon Remix",
+        "Artist": "Whitney Houston, David Solomon",
+        "Key": "2B",
+        "Energy": 8.146,
+        "Popularity": 6.31,
+        "BPM": 125,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "5qjych2Ckn8Y1AMfsdgSUg",
+            "explicit": false,
+            "album": "I Wanna Dance with Somebody (Who Loves Me) [David Solomon Remix]",
+            "release_date": "2022-07-08",
+            "genres": [
+                "dance pop"
+            ],
+            "duration": 201712,
+            "acousticness": 0.0146,
+            "danceability": 6.391,
+            "instrumentalness": 0.000679,
+            "liveness": 0.541,
+            "loudness": -4.62,
+            "speechiness": 0.0433,
+            "time_signature": 4,
+            "happiness": 3.1060000000000003
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "Cry To Me",
+        "Artist": "Kilotile",
+        "Key": "3A",
+        "Energy": 8.361999999999998,
+        "Popularity": 6.58,
+        "BPM": 128,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "0hr9IMEqFqNAdtNd2fJNtE",
+            "explicit": false,
+            "album": "Cry To Me",
+            "release_date": "2022-05-20",
+            "genres": [],
+            "duration": 208368,
+            "acousticness": 0.0101,
+            "danceability": 7.804,
+            "instrumentalness": 0.0401,
+            "liveness": 0.118,
+            "loudness": -7.758,
+            "speechiness": 0.0797,
+            "time_signature": 4,
+            "happiness": 3.268
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "Sweet Lovin' - Radio Edit",
+        "Artist": "Sigala, Bryn Christopher",
+        "Key": "6B",
+        "Energy": 9.19,
+        "Popularity": 5.86,
+        "BPM": 125,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Romantic & Slow Dance",
+            "Pop",
+            "Dance Remixes",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "1cKkc3YG4wFcGVVv6jGLPa",
+            "explicit": false,
+            "album": "Sweet Lovin'",
+            "release_date": "2015-11-13",
+            "genres": [
+                "dance pop",
+                "edm",
+                "pop dance",
+                "uk dance",
+                "british soul"
+            ],
+            "duration": 202149,
+            "acousticness": 0.0553,
+            "danceability": 7.147,
+            "instrumentalness": 4.78e-06,
+            "liveness": 0.336,
+            "loudness": -1.231,
+            "speechiness": 0.0515,
+            "time_signature": 4,
+            "happiness": 7.066000000000001
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "Oh Baby",
+        "Artist": "Seizo",
+        "Key": "4B",
+        "Energy": 8.2,
+        "Popularity": 6.040000000000001,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "0RNdlFw9TaimQ6syL8rgCh",
+            "explicit": false,
+            "album": "Oh Baby",
+            "release_date": "2016-02-25",
+            "genres": [
+                "deep tropical house"
+            ],
+            "duration": 159896,
+            "acousticness": 0.0278,
+            "danceability": 7.255,
+            "instrumentalness": 0.00118,
+            "liveness": 0.118,
+            "loudness": -5.011,
+            "speechiness": 0.0345,
+            "time_signature": 4,
+            "happiness": 4.51
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "Flashdance, What a Feeling (feat. SPYZR)",
+        "Artist": "E-Motion, Irene Cara, SPYZR",
+        "Key": "6B",
+        "Energy": 7.984,
+        "Popularity": 3.97,
+        "BPM": 128,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Calm",
+            "Dance Remixes",
+            "Rock",
+            "Pop",
+            "Romantic & Slow Dance"
+        ],
+        "Additional Info": {
+            "id": "0RCtGxvzDZ72RjL60JKT4H",
+            "explicit": false,
+            "album": "Flashdance, What a Feeling (feat. SPYZR)",
+            "release_date": "2017-04-28",
+            "genres": [
+                "disco",
+                "new romantic",
+                "new wave pop",
+                "soft rock"
+            ],
+            "duration": 170625,
+            "acousticness": 0.00322,
+            "danceability": 7.156000000000001,
+            "instrumentalness": 0.0832,
+            "liveness": 0.34,
+            "loudness": -5.554,
+            "speechiness": 0.112,
+            "time_signature": 4,
+            "happiness": 5.302
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "Night Changes - Afterhrs Remix",
+        "Artist": "One Direction, Afterhrs",
+        "Key": "7A",
+        "Energy": 6.265,
+        "Popularity": 4.51,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Happy",
+            "Pop"
+        ],
+        "Additional Info": {
+            "id": "6yUNcknEpIg92uh38iAfdM",
+            "explicit": false,
+            "album": "Remixes - EP",
+            "release_date": "2010-11-29",
+            "genres": [
+                "boy band",
+                "pop",
+                "post-teen pop",
+                "talent show"
+            ],
+            "duration": 220173,
+            "acousticness": 0.283,
+            "danceability": 6.31,
+            "instrumentalness": 0,
+            "liveness": 0.0811,
+            "loudness": -7.061,
+            "speechiness": 0.0418,
+            "time_signature": 4,
+            "happiness": 4.708
+        }
+    }
+]

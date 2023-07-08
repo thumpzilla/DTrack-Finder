@@ -1,0 +1,3544 @@
+[
+    {
+        "#": 1,
+        "Track Title": "After Earth",
+        "Artist": "Ben Böhmer",
+        "Key": "7B",
+        "Energy": 5.554,
+        "Popularity": 5.140000000000001,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2b6Qg13iooGb1LnBFwrtcH",
+            "explicit": false,
+            "album": "Morning Falls EP",
+            "release_date": "2018-01-05",
+            "genres": [],
+            "duration": 457302,
+            "acousticness": 0.0288,
+            "danceability": 7.417,
+            "instrumentalness": 0.882,
+            "liveness": 0.123,
+            "loudness": -11.252,
+            "speechiness": 0.0435,
+            "time_signature": 4,
+            "happiness": 2.665
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "Father Ocean - Ben Böhmer Remix Edit",
+        "Artist": "Monolink, Ben Böhmer",
+        "Key": "10B",
+        "Energy": 7.66,
+        "Popularity": 6.76,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "4oWDaJpusSH1lqIQQkEHsS",
+            "explicit": false,
+            "album": "Father Ocean",
+            "release_date": "2018-12-07",
+            "genres": [
+                "livetronica"
+            ],
+            "duration": 318675,
+            "acousticness": 0.396,
+            "danceability": 6.481,
+            "instrumentalness": 0.749,
+            "liveness": 0.113,
+            "loudness": -11.046,
+            "speechiness": 0.0342,
+            "time_signature": 4,
+            "happiness": 1.3519
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "Once in a Blue Moon - Extended Mix",
+        "Artist": "Nils Hoffmann",
+        "Key": "8B",
+        "Energy": 5.797000000000001,
+        "Popularity": 1.0,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "25RerHohoUYK9oUuyzVYac",
+            "explicit": false,
+            "album": "Once in a Blue Moon",
+            "release_date": "2019-09-06",
+            "genres": [
+                "deep euro house",
+                "deep minimal techno"
+            ],
+            "duration": 376039,
+            "acousticness": 0.0021,
+            "danceability": 8.191,
+            "instrumentalness": 0.862,
+            "liveness": 0.0673,
+            "loudness": -9.074,
+            "speechiness": 0.0694,
+            "time_signature": 4,
+            "happiness": 2.008
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "Millenium",
+        "Artist": "Joachim Pastor",
+        "Key": "2A",
+        "Energy": 5.6530000000000005,
+        "Popularity": 6.22,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "6T5hiZikP7CNI2uXdWYlCg",
+            "explicit": false,
+            "album": "Eternity",
+            "release_date": "2016-12-09",
+            "genres": [
+                "deep euro house",
+                "french tech house",
+                "new french touch"
+            ],
+            "duration": 421935,
+            "acousticness": 0.0372,
+            "danceability": 4.987,
+            "instrumentalness": 0.895,
+            "liveness": 0.0702,
+            "loudness": -10.019,
+            "speechiness": 0.0542,
+            "time_signature": 4,
+            "happiness": 1.6650999999999998
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "All I Want (feat. Goatchy)",
+        "Artist": "Tube & Berger, Goatchy",
+        "Key": "6B",
+        "Energy": 7.497999999999999,
+        "Popularity": 5.5,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "6hizzLN6GI5rWUWX2EiKR0",
+            "explicit": false,
+            "album": "All I Want (feat. Goatchy)",
+            "release_date": "2020-11-06",
+            "genres": [
+                "deep euro house",
+                "dusseldorf electronic",
+                "german techno"
+            ],
+            "duration": 224978,
+            "acousticness": 0.00171,
+            "danceability": 6.445,
+            "instrumentalness": 0.831,
+            "liveness": 0.0665,
+            "loudness": -7.315,
+            "speechiness": 0.037,
+            "time_signature": 4,
+            "happiness": 3.43
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "No Man No Cry - Jimmy Sax Version",
+        "Artist": "Oliver Koletzki, Jimmy Sax",
+        "Key": "7B",
+        "Energy": 6.409,
+        "Popularity": 6.49,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "426lDtGrejS1wga7gmAmDv",
+            "explicit": false,
+            "album": "No Man No Cry (Jimmy Sax Version)",
+            "release_date": "2017-08-30",
+            "genres": [
+                "german techno",
+                "minimal techno",
+                "organic electronic",
+                "organic house",
+                "saxophone house"
+            ],
+            "duration": 419500,
+            "acousticness": 0.127,
+            "danceability": 7.984,
+            "instrumentalness": 0.611,
+            "liveness": 0.127,
+            "loudness": -9.553,
+            "speechiness": 0.0848,
+            "time_signature": 4,
+            "happiness": 4.122999999999999
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Flug & Fall - Edit",
+        "Artist": "Ben Böhmer",
+        "Key": "6A",
+        "Energy": 6.148,
+        "Popularity": 5.140000000000001,
+        "BPM": 119,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "6ffxu4OQhpMm610PBPwsEZ",
+            "explicit": false,
+            "album": "Anjunadeep Explorations 04",
+            "release_date": "2017-09-22",
+            "genres": [],
+            "duration": 316654,
+            "acousticness": 0.0845,
+            "danceability": 7.03,
+            "instrumentalness": 0.927,
+            "liveness": 0.112,
+            "loudness": -14.848,
+            "speechiness": 0.0427,
+            "time_signature": 4,
+            "happiness": 1.99
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "On Hold - Jamie xx Remix",
+        "Artist": "The xx, Jamie xx",
+        "Key": "8A",
+        "Energy": 9.181000000000001,
+        "Popularity": 6.31,
+        "BPM": 128,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "3qOuySPLpVyBXLuTNMgbRj",
+            "explicit": false,
+            "album": "On Hold (Jamie xx Remix)",
+            "release_date": "2017-09-13",
+            "genres": [
+                "downtempo",
+                "dream pop",
+                "indietronica",
+                "electronica",
+                "future garage",
+                "indie soul",
+                "indietronica"
+            ],
+            "duration": 371533,
+            "acousticness": 0.301,
+            "danceability": 7.831,
+            "instrumentalness": 0.844,
+            "liveness": 0.0998,
+            "loudness": -7.85,
+            "speechiness": 0.0373,
+            "time_signature": 4,
+            "happiness": 5.239
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Innerbloom - Live from Joshua Tree",
+        "Artist": "RÜFÜS DU SOL",
+        "Key": "6B",
+        "Energy": 6.13,
+        "Popularity": 5.140000000000001,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "4tShXbgB6x443S4c28Esjz",
+            "explicit": false,
+            "album": "Live from Joshua Tree",
+            "release_date": "2020-03-06",
+            "genres": [
+                "australian electropop",
+                "indietronica"
+            ],
+            "duration": 477293,
+            "acousticness": 0.0199,
+            "danceability": 7.12,
+            "instrumentalness": 0.196,
+            "liveness": 0.189,
+            "loudness": -8.827,
+            "speechiness": 0.0383,
+            "time_signature": 4,
+            "happiness": 1.3483
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Haul - Radio Edit",
+        "Artist": "Christian Löffler, Mohna",
+        "Key": "1A",
+        "Energy": 4.753,
+        "Popularity": 6.040000000000001,
+        "BPM": 118,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "3sAatKUX1OkCIAkopdMRTU",
+            "explicit": false,
+            "album": "Haul",
+            "release_date": "2016-08-18",
+            "genres": [
+                "electronica",
+                "hamburg electronic",
+                "organic electronic",
+                "pop ambient"
+            ],
+            "duration": 217135,
+            "acousticness": 0.287,
+            "danceability": 6.535,
+            "instrumentalness": 0.862,
+            "liveness": 0.215,
+            "loudness": -15.441,
+            "speechiness": 0.0373,
+            "time_signature": 4,
+            "happiness": 2.053
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "Happy Pink Pills - Marek Hemmann Remix",
+        "Artist": "Valsa, Marek Hemmann",
+        "Key": "1A",
+        "Energy": 7.236999999999999,
+        "Popularity": 5.05,
+        "BPM": 127,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "7lLCI94CimRqONLgExs8op",
+            "explicit": false,
+            "album": "Happy Pink Pills",
+            "release_date": "2017-03-24",
+            "genres": [
+                "german tech house",
+                "german techno",
+                "minimal tech house",
+                "minimal techno"
+            ],
+            "duration": 330060,
+            "acousticness": 0.00631,
+            "danceability": 6.832,
+            "instrumentalness": 0.858,
+            "liveness": 0.133,
+            "loudness": -10.55,
+            "speechiness": 0.04,
+            "time_signature": 4,
+            "happiness": 2.4850000000000003
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "Maybe Not",
+        "Artist": "Jan Blomqvist",
+        "Key": "6A",
+        "Energy": 4.87,
+        "Popularity": 5.86,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "4YlPfwx8aqehj7eSAhtS23",
+            "explicit": false,
+            "album": "Disconnected",
+            "release_date": "2018-10-05",
+            "genres": [
+                "deep euro house"
+            ],
+            "duration": 293901,
+            "acousticness": 0.143,
+            "danceability": 8.254000000000001,
+            "instrumentalness": 0.896,
+            "liveness": 0.106,
+            "loudness": -13.023,
+            "speechiness": 0.0439,
+            "time_signature": 4,
+            "happiness": 5.788
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "Sirens",
+        "Artist": "Monolink",
+        "Key": "12A",
+        "Energy": 7.03,
+        "Popularity": 6.49,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "2Nsz5vf1G6jxQs9JdKkTaT",
+            "explicit": false,
+            "album": "Sirens",
+            "release_date": "2017-11-24",
+            "genres": [
+                "livetronica"
+            ],
+            "duration": 217191,
+            "acousticness": 0.239,
+            "danceability": 7.759,
+            "instrumentalness": 0.0515,
+            "liveness": 0.427,
+            "loudness": -7.883,
+            "speechiness": 0.0633,
+            "time_signature": 4,
+            "happiness": 2.827
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "Again",
+        "Artist": "The George Kaplan Conspiracy",
+        "Key": "11B",
+        "Energy": 5.140000000000001,
+        "Popularity": 6.13,
+        "BPM": 105,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "3VdTkrOXjoKe4nutykkoz1",
+            "explicit": false,
+            "album": "Recollected Memories",
+            "release_date": "2019-04-05",
+            "genres": [
+                "french indietronica"
+            ],
+            "duration": 244522,
+            "acousticness": 0.134,
+            "danceability": 6.949,
+            "instrumentalness": 0.675,
+            "liveness": 0.0842,
+            "loudness": -10.224,
+            "speechiness": 0.0484,
+            "time_signature": 4,
+            "happiness": 3.088
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "Love And Cherish",
+        "Artist": "Michael D",
+        "Key": "9A",
+        "Energy": 7.651,
+        "Popularity": 2.62,
+        "BPM": 127,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1RNjLXxkX2h9rf8ov1y9iD",
+            "explicit": false,
+            "album": "Love And Cherish",
+            "release_date": "2021-07-16",
+            "genres": [],
+            "duration": 311727,
+            "acousticness": 0.00454,
+            "danceability": 7.6419999999999995,
+            "instrumentalness": 0.589,
+            "liveness": 0.0751,
+            "loudness": -10.458,
+            "speechiness": 0.114,
+            "time_signature": 4,
+            "happiness": 4.303
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "Arrecife",
+        "Artist": "Tomas Novoa",
+        "Key": "10B",
+        "Energy": 3.979,
+        "Popularity": 1.0,
+        "BPM": 115,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "5QAwPrd3J4JsoY1QpPOihZ",
+            "explicit": false,
+            "album": "Espacio Negativo",
+            "release_date": "2020-03-06",
+            "genres": [],
+            "duration": 250435,
+            "acousticness": 0.0796,
+            "danceability": 7.534,
+            "instrumentalness": 0.848,
+            "liveness": 0.114,
+            "loudness": -14.391,
+            "speechiness": 0.041,
+            "time_signature": 4,
+            "happiness": 1.8307
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "Katy - Rosbeh Remix",
+        "Artist": "BUFFALA, Rosbeh",
+        "Key": "6A",
+        "Energy": 8.155000000000001,
+        "Popularity": 4.24,
+        "BPM": 118,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Fight & Fog",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "32yYHbU5OzKtBW7q0MZMWe",
+            "explicit": true,
+            "album": "Katy (Rosbeh Remix)",
+            "release_date": "2021-02-26",
+            "genres": [
+                "stutter house"
+            ],
+            "duration": 209492,
+            "acousticness": 0.178,
+            "danceability": 7.768,
+            "instrumentalness": 0.234,
+            "liveness": 0.246,
+            "loudness": -8.981,
+            "speechiness": 0.0451,
+            "time_signature": 4,
+            "happiness": 2.989
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "The Space In Between - Ben Böhmer Remix",
+        "Artist": "Jan Blomqvist, Ben Böhmer",
+        "Key": "7A",
+        "Energy": 6.904,
+        "Popularity": 6.94,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "6QcU4iwfLjjsrW7zsqyc1D",
+            "explicit": false,
+            "album": "The Space In Between (Ben Böhmer Remix)",
+            "release_date": "2018-06-29",
+            "genres": [
+                "deep euro house"
+            ],
+            "duration": 253813,
+            "acousticness": 0.0574,
+            "danceability": 6.031000000000001,
+            "instrumentalness": 0.627,
+            "liveness": 0.177,
+            "loudness": -10.794,
+            "speechiness": 0.0365,
+            "time_signature": 4,
+            "happiness": 1.3474
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Burning Sun",
+        "Artist": "Monolink",
+        "Key": "2A",
+        "Energy": 4.987,
+        "Popularity": 5.5,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "3ApJMBV3TjMQpn5T6Y6iX6",
+            "explicit": false,
+            "album": "Amniotic",
+            "release_date": "2018-04-20",
+            "genres": [
+                "livetronica"
+            ],
+            "duration": 503000,
+            "acousticness": 0.119,
+            "danceability": 7.353999999999999,
+            "instrumentalness": 0.393,
+            "liveness": 0.0939,
+            "loudness": -13.444,
+            "speechiness": 0.0388,
+            "time_signature": 4,
+            "happiness": 3.646
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "Ghostkeeper",
+        "Artist": "Klangkarussell, GIVVEN",
+        "Key": "2B",
+        "Energy": 5.914000000000001,
+        "Popularity": 1.18,
+        "BPM": 106,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "13EMVBU1hcy5yJdX1Xhf9a",
+            "explicit": false,
+            "album": "Ghostkeeper",
+            "release_date": "2020-02-21",
+            "genres": [
+                "austrian pop",
+                "deep euro house"
+            ],
+            "duration": 331381,
+            "acousticness": 0.175,
+            "danceability": 7.209999999999999,
+            "instrumentalness": 0.781,
+            "liveness": 0.107,
+            "loudness": -6.647,
+            "speechiness": 0.035,
+            "time_signature": 4,
+            "happiness": 5.581
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Far Away Place (Rampa Remix)",
+        "Artist": "Xinobi, Vaarwell, Rampa",
+        "Key": "2A",
+        "Energy": 8.434,
+        "Popularity": 1.0,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "1f3ZwobWbPHJoZ60BtdN6g",
+            "explicit": false,
+            "album": "Far Away Place (Rampa Remix)",
+            "release_date": "2018-11-30",
+            "genres": [
+                "deep disco house",
+                "organic house"
+            ],
+            "duration": 219330,
+            "acousticness": 0.173,
+            "danceability": 6.093999999999999,
+            "instrumentalness": 0.76,
+            "liveness": 0.166,
+            "loudness": -9.751,
+            "speechiness": 0.0357,
+            "time_signature": 4,
+            "happiness": 2.458
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "See You in the Other Side",
+        "Artist": "Pyramid",
+        "Key": "7A",
+        "Energy": 7.308999999999999,
+        "Popularity": 5.95,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "0y6gmJdgwbpXJ9J4Zp5Qrh",
+            "explicit": false,
+            "album": "The Hall",
+            "release_date": "2011-03-28",
+            "genres": [
+                "new french touch"
+            ],
+            "duration": 332000,
+            "acousticness": 0.00432,
+            "danceability": 6.031000000000001,
+            "instrumentalness": 0.874,
+            "liveness": 0.117,
+            "loudness": -9.843,
+            "speechiness": 0.0446,
+            "time_signature": 4,
+            "happiness": 1.6813
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "Killing Time",
+        "Artist": "Helsloot, Boy Wolf",
+        "Key": "3A",
+        "Energy": 6.210999999999999,
+        "Popularity": 1.0,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Club-Hotel"
+        ],
+        "Additional Info": {
+            "id": "3Qgr5fOPZ0ug2kt6yfP7oX",
+            "explicit": false,
+            "album": "Killing Time",
+            "release_date": "2021-10-01",
+            "genres": [
+                "house"
+            ],
+            "duration": 332000,
+            "acousticness": 0.0647,
+            "danceability": 7.543,
+            "instrumentalness": 0.13,
+            "liveness": 0.0914,
+            "loudness": -12.005,
+            "speechiness": 0.0417,
+            "time_signature": 4,
+            "happiness": 2.431
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "Whatever Realm",
+        "Artist": "Helsloot",
+        "Key": "3B",
+        "Energy": 6.625,
+        "Popularity": 3.88,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Club-Hotel"
+        ],
+        "Additional Info": {
+            "id": "6bswGGSy5ykx3QREsxfy6H",
+            "explicit": false,
+            "album": "Whatever Realm / No Need To Hide",
+            "release_date": "2021-08-26",
+            "genres": [
+                "house"
+            ],
+            "duration": 207097,
+            "acousticness": 0.0198,
+            "danceability": 7.452999999999999,
+            "instrumentalness": 0.885,
+            "liveness": 0.0788,
+            "loudness": -11.19,
+            "speechiness": 0.0431,
+            "time_signature": 3,
+            "happiness": 1.8595000000000002
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "Eyes Wide Open - John Grand Remix",
+        "Artist": "Christian Burns, John Grand",
+        "Key": "9B",
+        "Energy": 7.4799999999999995,
+        "Popularity": 1.9,
+        "BPM": 126,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Flying High",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "2XwQbtkA7P2heNNiLfogmy",
+            "explicit": false,
+            "album": "Eyes Wide Open",
+            "release_date": "2021-10-15",
+            "genres": [
+                "deep uplifting trance",
+                "progressive trance"
+            ],
+            "duration": 222384,
+            "acousticness": 0.0137,
+            "danceability": 4.348,
+            "instrumentalness": 0.0141,
+            "liveness": 0.216,
+            "loudness": -7.227,
+            "speechiness": 0.0339,
+            "time_signature": 4,
+            "happiness": 1.7155
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "Little Darling",
+        "Artist": "Marsh",
+        "Key": "3A",
+        "Energy": 8.866,
+        "Popularity": 4.0600000000000005,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "6a8cXlaywnIqM9i5e9CQ1I",
+            "explicit": false,
+            "album": "Little Darling",
+            "release_date": "2021-05-14",
+            "genres": [
+                "progressive house"
+            ],
+            "duration": 220524,
+            "acousticness": 0.0331,
+            "danceability": 7.2459999999999996,
+            "instrumentalness": 0.866,
+            "liveness": 0.108,
+            "loudness": -8.164,
+            "speechiness": 0.035,
+            "time_signature": 4,
+            "happiness": 1.6678000000000002
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "Kilian",
+        "Artist": "Rodriguez Jr.",
+        "Key": "9B",
+        "Energy": 8.236,
+        "Popularity": 4.96,
+        "BPM": 125,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "3vaJ9CccAzBkvHZ6EQwbMe",
+            "explicit": false,
+            "album": "Kilian",
+            "release_date": "2021-09-10",
+            "genres": [
+                "deep disco house",
+                "deep euro house",
+                "french tech house",
+                "microhouse",
+                "minimal tech house",
+                "minimal techno",
+                "organic house"
+            ],
+            "duration": 420115,
+            "acousticness": 0.0019,
+            "danceability": 7.218999999999999,
+            "instrumentalness": 0.821,
+            "liveness": 0.0994,
+            "loudness": -9.402,
+            "speechiness": 0.0382,
+            "time_signature": 4,
+            "happiness": 1.6372
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "Come Away",
+        "Artist": "Nora En Pure, Tim Morrison",
+        "Key": "2B",
+        "Energy": 9.504999999999999,
+        "Popularity": 4.96,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Pop",
+            "Club-Hotel",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "4vvt4hb0B6ZL1gFxW19rfC",
+            "explicit": false,
+            "album": "Come Away",
+            "release_date": "2020-10-23",
+            "genres": [
+                "deep house",
+                "electra",
+                "house",
+                "progressive house",
+                "swiss pop"
+            ],
+            "duration": 232800,
+            "acousticness": 0.00616,
+            "danceability": 6.49,
+            "instrumentalness": 0.0747,
+            "liveness": 0.0893,
+            "loudness": -5.556,
+            "speechiness": 0.0465,
+            "time_signature": 4,
+            "happiness": 1.3411
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "Colour",
+        "Artist": "Le Youth",
+        "Key": "8B",
+        "Energy": 7.435,
+        "Popularity": 4.6899999999999995,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Club-Hotel",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "4jqYXH8BDZlCkM4CN8hH5q",
+            "explicit": false,
+            "album": "Colour",
+            "release_date": "2021-02-25",
+            "genres": [
+                "house",
+                "nu disco",
+                "uk dance"
+            ],
+            "duration": 297515,
+            "acousticness": 0.123,
+            "danceability": 5.554,
+            "instrumentalness": 0.861,
+            "liveness": 0.0987,
+            "loudness": -10.633,
+            "speechiness": 0.0336,
+            "time_signature": 4,
+            "happiness": 1.927
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Paradise (ft. Saro)",
+        "Artist": "Tinlicker, Helsloot, Saro",
+        "Key": "2A",
+        "Energy": 7.939,
+        "Popularity": 5.32,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Club-Hotel",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "38Nzs84S96AZYiICQ1rjaV",
+            "explicit": false,
+            "album": "Paradise (ft. Saro)",
+            "release_date": "2020-08-28",
+            "genres": [
+                "progressive house",
+                "house"
+            ],
+            "duration": 213037,
+            "acousticness": 0.629,
+            "danceability": 7.236999999999999,
+            "instrumentalness": 0.829,
+            "liveness": 0.104,
+            "loudness": -10.197,
+            "speechiness": 0.0387,
+            "time_signature": 4,
+            "happiness": 1.3753
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "Artifacts",
+        "Artist": "Rezident",
+        "Key": "1A",
+        "Energy": 5.131,
+        "Popularity": 1.0,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "2TGLxgbHd9LxxmRFJVHSRB",
+            "explicit": false,
+            "album": "Definition",
+            "release_date": "2020-12-04",
+            "genres": [
+                "german house"
+            ],
+            "duration": 244000,
+            "acousticness": 0.66,
+            "danceability": 8.047,
+            "instrumentalness": 0.918,
+            "liveness": 0.095,
+            "loudness": -13.91,
+            "speechiness": 0.0676,
+            "time_signature": 3,
+            "happiness": 3.214
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "Ani Kuni",
+        "Artist": "Polo & Pan",
+        "Key": "8B",
+        "Energy": 6.607,
+        "Popularity": 6.31,
+        "BPM": 121,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "12QphPukpWDR9w1iimddfP",
+            "explicit": false,
+            "album": "Ani Kuni",
+            "release_date": "2021-05-07",
+            "genres": [
+                "dark disco",
+                "electro-pop francais",
+                "french indietronica"
+            ],
+            "duration": 276387,
+            "acousticness": 0.198,
+            "danceability": 6.949,
+            "instrumentalness": 0.602,
+            "liveness": 0.0753,
+            "loudness": -6.157,
+            "speechiness": 0.0292,
+            "time_signature": 4,
+            "happiness": 1.4419
+        }
+    },
+    {
+        "#": 33,
+        "Track Title": "So High",
+        "Artist": "WATEVA",
+        "Key": "9B",
+        "Energy": 8.677,
+        "Popularity": 2.5300000000000002,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "4khyvL38mTdqYWPOqiPRaA",
+            "explicit": false,
+            "album": "DISPOSABLE SOCIETY",
+            "release_date": "2021-08-06",
+            "genres": [
+                "estonian electronic"
+            ],
+            "duration": 200656,
+            "acousticness": 0.00148,
+            "danceability": 6.31,
+            "instrumentalness": 0.756,
+            "liveness": 0.438,
+            "loudness": -5.65,
+            "speechiness": 0.0377,
+            "time_signature": 4,
+            "happiness": 2.143
+        }
+    },
+    {
+        "#": 34,
+        "Track Title": "The Last Goodbye",
+        "Artist": "ODESZA, Bettye LaVette",
+        "Key": "11B",
+        "Energy": 9.280000000000001,
+        "Popularity": 7.39,
+        "BPM": 115,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Inspiring",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "4XeIiGpUBshIfs9yrBDVZC",
+            "explicit": false,
+            "album": "The Last Goodbye",
+            "release_date": "2022-02-08",
+            "genres": [
+                "chillwave",
+                "edm",
+                "indietronica",
+                "soul blues"
+            ],
+            "duration": 358983,
+            "acousticness": 0.00752,
+            "danceability": 7.003,
+            "instrumentalness": 0.00232,
+            "liveness": 0.126,
+            "loudness": -2.71,
+            "speechiness": 0.0773,
+            "time_signature": 4,
+            "happiness": 2.314
+        }
+    },
+    {
+        "#": 35,
+        "Track Title": "I'm Fine - IMANU Remix",
+        "Artist": "Apashe, High Klassified, Cherry Lena, IMANU",
+        "Key": "6A",
+        "Energy": 9.271,
+        "Popularity": 6.8500000000000005,
+        "BPM": 121,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Hip Hop",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "4DHATlv5A1Gs9pMaWSHDMb",
+            "explicit": false,
+            "album": "I'm Fine (IMANU Remix)",
+            "release_date": "2021-02-04",
+            "genres": [
+                "bass trap",
+                "canadian hip hop",
+                "rap montrealais",
+                "substep",
+                "vapor twitch",
+                "dutch dnb"
+            ],
+            "duration": 243977,
+            "acousticness": 0.278,
+            "danceability": 7.021000000000001,
+            "instrumentalness": 0.0343,
+            "liveness": 0.0934,
+            "loudness": -2.888,
+            "speechiness": 0.0652,
+            "time_signature": 4,
+            "happiness": 5.626
+        }
+    },
+    {
+        "#": 36,
+        "Track Title": "Begin Again",
+        "Artist": "Ben Böhmer",
+        "Key": "4A",
+        "Energy": 4.888,
+        "Popularity": 7.209999999999999,
+        "BPM": 121,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "6j9hfHxpXEaYzFwcSK4MhH",
+            "explicit": false,
+            "album": "Begin Again",
+            "release_date": "2021-09-24",
+            "genres": [],
+            "duration": 161760,
+            "acousticness": 0.278,
+            "danceability": 7.687,
+            "instrumentalness": 0.913,
+            "liveness": 0.117,
+            "loudness": -14.725,
+            "speechiness": 0.0499,
+            "time_signature": 4,
+            "happiness": 4.699
+        }
+    },
+    {
+        "#": 37,
+        "Track Title": "Cappadocia",
+        "Artist": "Ben Böhmer, Romain Garcia",
+        "Key": "4B",
+        "Energy": 7.165000000000001,
+        "Popularity": 6.31,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "4rERaNiKlILD603GJvdEvm",
+            "explicit": false,
+            "album": "Cappadocia",
+            "release_date": "2020-09-10",
+            "genres": [],
+            "duration": 282064,
+            "acousticness": 0.0037,
+            "danceability": 4.141,
+            "instrumentalness": 0.893,
+            "liveness": 0.122,
+            "loudness": -9.281,
+            "speechiness": 0.0421,
+            "time_signature": 4,
+            "happiness": 3.4930000000000003
+        }
+    },
+    {
+        "#": 38,
+        "Track Title": "OnlyL",
+        "Artist": "TSHA, NIMMO",
+        "Key": "12B",
+        "Energy": 8.947,
+        "Popularity": 5.32,
+        "BPM": 134,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Pop",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "01XAVHIdfq8SNtZDplT0ZD",
+            "explicit": false,
+            "album": "OnlyL",
+            "release_date": "2021-06-14",
+            "genres": [
+                "uk house",
+                "uk alternative pop",
+                "uk pop"
+            ],
+            "duration": 227543,
+            "acousticness": 0.716,
+            "danceability": 6.805,
+            "instrumentalness": 0.000259,
+            "liveness": 0.106,
+            "loudness": -6.514,
+            "speechiness": 0.168,
+            "time_signature": 4,
+            "happiness": 1.9809999999999999
+        }
+    },
+    {
+        "#": 39,
+        "Track Title": "Grains",
+        "Artist": "Yotto, Cassian",
+        "Key": "5B",
+        "Energy": 8.326,
+        "Popularity": 1.0,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "65kSgWVGY4JIWNLWnfEwbe",
+            "explicit": false,
+            "album": "Rogue",
+            "release_date": "2020-11-19",
+            "genres": [
+                "finnish edm",
+                "progressive house"
+            ],
+            "duration": 284619,
+            "acousticness": 0.0141,
+            "danceability": 3.9970000000000003,
+            "instrumentalness": 0.889,
+            "liveness": 0.34,
+            "loudness": -9.359,
+            "speechiness": 0.0616,
+            "time_signature": 4,
+            "happiness": 1.7353
+        }
+    },
+    {
+        "#": 40,
+        "Track Title": "Atlas - Adriatique Remix",
+        "Artist": "Marc Romboy, Stephan Bodzin, Adriatique",
+        "Key": "2A",
+        "Energy": 7.191999999999999,
+        "Popularity": 5.41,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "1Ou1g6tCGdwp2SFnNyfZXw",
+            "explicit": false,
+            "album": "Atlas (Remixes)",
+            "release_date": "2016-07-01",
+            "genres": [
+                "german house",
+                "german techno",
+                "minimal techno",
+                "deep techno",
+                "german techno",
+                "minimal techno",
+                "deep disco house",
+                "melodic techno",
+                "swiss house"
+            ],
+            "duration": 377739,
+            "acousticness": 0.00177,
+            "danceability": 7.9030000000000005,
+            "instrumentalness": 0.875,
+            "liveness": 0.0644,
+            "loudness": -9.108,
+            "speechiness": 0.0496,
+            "time_signature": 4,
+            "happiness": 1.3239999999999998
+        }
+    },
+    {
+        "#": 41,
+        "Track Title": "Come Back",
+        "Artist": "Pretty Pink",
+        "Key": "4A",
+        "Energy": 8.407,
+        "Popularity": 4.0600000000000005,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "0lRfksu6CZrxY8LrsIsHjd",
+            "explicit": false,
+            "album": "Come Back",
+            "release_date": "2020-11-09",
+            "genres": [
+                "german house"
+            ],
+            "duration": 176832,
+            "acousticness": 0.0801,
+            "danceability": 6.679,
+            "instrumentalness": 0.463,
+            "liveness": 0.317,
+            "loudness": -8.406,
+            "speechiness": 0.0699,
+            "time_signature": 4,
+            "happiness": 1.999
+        }
+    },
+    {
+        "#": 42,
+        "Track Title": "Magnetik",
+        "Artist": "Malandra Jr.",
+        "Key": "4B",
+        "Energy": 6.859,
+        "Popularity": 1.0,
+        "BPM": 121,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "6zhjE2fYVsY8cXj1OAGWUy",
+            "explicit": false,
+            "album": "Magnetik EP",
+            "release_date": "2019-04-12",
+            "genres": [
+                "melodic techno"
+            ],
+            "duration": 300678,
+            "acousticness": 0.151,
+            "danceability": 7.66,
+            "instrumentalness": 0.266,
+            "liveness": 0.314,
+            "loudness": -10.968,
+            "speechiness": 0.0719,
+            "time_signature": 4,
+            "happiness": 5.428
+        }
+    },
+    {
+        "#": 43,
+        "Track Title": "Easier (feat. LOWES) - Radio Edit",
+        "Artist": "CamelPhat, LOWES",
+        "Key": "1A",
+        "Energy": 9.055,
+        "Popularity": 5.05,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Club-Hotel",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "133YafRPaKLYCR28FSbN4M",
+            "explicit": false,
+            "album": "Easier (feat. LOWES) [Radio Edit]",
+            "release_date": "2020-10-29",
+            "genres": [
+                "deep tech house",
+                "house",
+                "progressive house",
+                "uk dance"
+            ],
+            "duration": 214687,
+            "acousticness": 0.0435,
+            "danceability": 5.239,
+            "instrumentalness": 0.00747,
+            "liveness": 0.105,
+            "loudness": -6.622,
+            "speechiness": 0.0458,
+            "time_signature": 4,
+            "happiness": 2.026
+        }
+    },
+    {
+        "#": 44,
+        "Track Title": "Hold Me",
+        "Artist": "ØGM",
+        "Key": "10B",
+        "Energy": 9.154,
+        "Popularity": 5.32,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "7xJ9izrPOR2qyPW7N6jIjP",
+            "explicit": false,
+            "album": "Hold Me",
+            "release_date": "2020-05-30",
+            "genres": [
+                "uk house"
+            ],
+            "duration": 259869,
+            "acousticness": 0.0573,
+            "danceability": 6.13,
+            "instrumentalness": 0.556,
+            "liveness": 0.135,
+            "loudness": -6.569,
+            "speechiness": 0.039,
+            "time_signature": 4,
+            "happiness": 1.4617
+        }
+    },
+    {
+        "#": 45,
+        "Track Title": "Riptide - Solid Stone Remix",
+        "Artist": "Ruben de Ronde, Rodg, Louise Rademakers, Solid Stone",
+        "Key": "9B",
+        "Energy": 7.165000000000001,
+        "Popularity": 4.87,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Flying High",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "0gd6Iz0oD2ROwesoHCKIQ4",
+            "explicit": false,
+            "album": "TogetheRR (Remixed)",
+            "release_date": "2018-09-21",
+            "genres": [
+                "progressive house",
+                "progressive trance",
+                "trance",
+                "uplifting trance",
+                "progressive house",
+                "progressive trance",
+                "progressive house",
+                "progressive trance",
+                "progressive uplifting trance"
+            ],
+            "duration": 259024,
+            "acousticness": 0.00352,
+            "danceability": 8.002,
+            "instrumentalness": 0.775,
+            "liveness": 0.125,
+            "loudness": -9.616,
+            "speechiness": 0.042,
+            "time_signature": 4,
+            "happiness": 1.8766
+        }
+    },
+    {
+        "#": 46,
+        "Track Title": "Breathing",
+        "Artist": "Ben Böhmer, Nils Hoffmann, Malou",
+        "Key": "1A",
+        "Energy": 6.049,
+        "Popularity": 7.209999999999999,
+        "BPM": 91,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "1MvLmHeLkaNgUScgbUVnWJ",
+            "explicit": false,
+            "album": "Breathing",
+            "release_date": "2019-11-22",
+            "genres": [
+                "deep euro house",
+                "deep minimal techno"
+            ],
+            "duration": 222606,
+            "acousticness": 0.0229,
+            "danceability": 6.382,
+            "instrumentalness": 0.557,
+            "liveness": 0.109,
+            "loudness": -11.421,
+            "speechiness": 0.0511,
+            "time_signature": 3,
+            "happiness": 1.3465
+        }
+    },
+    {
+        "#": 47,
+        "Track Title": "Moments - Ben Böhmer & Nils Hoffmann Remix",
+        "Artist": "Kidnap, Leo Stannard, Ben Böhmer, Nils Hoffmann",
+        "Key": "9A",
+        "Energy": 5.716,
+        "Popularity": 6.76,
+        "BPM": 121,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "4F6dlpCLyi8jWWFEjdxCQ0",
+            "explicit": false,
+            "album": "Grow (The Remixes)",
+            "release_date": "2020-06-19",
+            "genres": [
+                "future garage",
+                "indie anthem-folk",
+                "deep euro house",
+                "deep minimal techno"
+            ],
+            "duration": 250207,
+            "acousticness": 0.453,
+            "danceability": 7.318,
+            "instrumentalness": 0.89,
+            "liveness": 0.111,
+            "loudness": -12.422,
+            "speechiness": 0.0393,
+            "time_signature": 4,
+            "happiness": 3.5469999999999997
+        }
+    },
+    {
+        "#": 48,
+        "Track Title": "Miradors - Lane 8 Remix",
+        "Artist": "Solomon Grey, Lane 8",
+        "Key": "2A",
+        "Energy": 8.452,
+        "Popularity": 5.32,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "4sLE1L20uz54NmWB7yFGRs",
+            "explicit": false,
+            "album": "3D1T",
+            "release_date": "2015-10-30",
+            "genres": [
+                "gauze pop",
+                "progressive house"
+            ],
+            "duration": 552507,
+            "acousticness": 0.0187,
+            "danceability": 6.157,
+            "instrumentalness": 0.603,
+            "liveness": 0.0991,
+            "loudness": -11.814,
+            "speechiness": 0.036,
+            "time_signature": 4,
+            "happiness": 1.3258
+        }
+    },
+    {
+        "#": 49,
+        "Track Title": "Pontos de Exclamação - Vintage Culture & Future Class Remix",
+        "Artist": "Jovem Dionisio, Vintage Culture, Future Class",
+        "Key": "1A",
+        "Energy": 7.75,
+        "Popularity": 6.94,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "25usEf5iGk9HL0LM9VTxue",
+            "explicit": false,
+            "album": "Pontos de Exclamação (Vintage Culture & Future Class Remix)",
+            "release_date": "2020-06-12",
+            "genres": [
+                "indie curitibano",
+                "brazilian edm",
+                "brazilian edm",
+                "brazilian house"
+            ],
+            "duration": 218770,
+            "acousticness": 0.0742,
+            "danceability": 8.074,
+            "instrumentalness": 0.0277,
+            "liveness": 0.109,
+            "loudness": -6.277,
+            "speechiness": 0.102,
+            "time_signature": 4,
+            "happiness": 7.263999999999999
+        }
+    },
+    {
+        "#": 50,
+        "Track Title": "deja vu - Aaron Hibell edit",
+        "Artist": "Aaron Hibell",
+        "Key": "2B",
+        "Energy": 7.651,
+        "Popularity": 5.5,
+        "BPM": 135,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "4dVg8JfQN3mb7RKwKPwQJ9",
+            "explicit": false,
+            "album": "deja vu (Aaron Hibell edit)",
+            "release_date": "2021-11-17",
+            "genres": [
+                "stutter house",
+                "uk dance"
+            ],
+            "duration": 247222,
+            "acousticness": 0.147,
+            "danceability": 6.228999999999999,
+            "instrumentalness": 0.752,
+            "liveness": 0.119,
+            "loudness": -6.602,
+            "speechiness": 0.0381,
+            "time_signature": 4,
+            "happiness": 1.3348
+        }
+    },
+    {
+        "#": 51,
+        "Track Title": "When I'm Around You",
+        "Artist": "Running Touch",
+        "Key": "2B",
+        "Energy": 7.345,
+        "Popularity": 5.86,
+        "BPM": 117,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "4sa9lNcmtvFlpshQA4X6pM",
+            "explicit": false,
+            "album": "When I'm Around You",
+            "release_date": "2019-02-08",
+            "genres": [
+                "aussietronica"
+            ],
+            "duration": 203782,
+            "acousticness": 0.0733,
+            "danceability": 7.885,
+            "instrumentalness": 7.58e-05,
+            "liveness": 0.112,
+            "loudness": -6.482,
+            "speechiness": 0.0383,
+            "time_signature": 4,
+            "happiness": 8.173
+        }
+    },
+    {
+        "#": 52,
+        "Track Title": "White Dress",
+        "Artist": "Set Mo, Deutsch Duke",
+        "Key": "9A",
+        "Energy": 6.661,
+        "Popularity": 5.41,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "6zYlRD0EFeBBQO8gS7TzWT",
+            "explicit": false,
+            "album": "White Dress",
+            "release_date": "2015-04-09",
+            "genres": [
+                "aussietronica",
+                "australian alternative pop"
+            ],
+            "duration": 210324,
+            "acousticness": 0.0509,
+            "danceability": 7.3,
+            "instrumentalness": 0.0235,
+            "liveness": 0.203,
+            "loudness": -6.876,
+            "speechiness": 0.0315,
+            "time_signature": 4,
+            "happiness": 4.393
+        }
+    },
+    {
+        "#": 53,
+        "Track Title": "Love Letter",
+        "Artist": "ODESZA, The Knocks",
+        "Key": "4B",
+        "Energy": 8.515,
+        "Popularity": 5.86,
+        "BPM": 110,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Dance Remixes",
+            "EDM",
+            "Rock",
+            "Pop",
+            "Inspiring",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "26wuBc04catG1QQyYupr35",
+            "explicit": false,
+            "album": "Love Letter",
+            "release_date": "2022-03-23",
+            "genres": [
+                "chillwave",
+                "edm",
+                "indietronica",
+                "alternative dance",
+                "indie poptimism",
+                "nu disco"
+            ],
+            "duration": 253122,
+            "acousticness": 0.0948,
+            "danceability": 6.715,
+            "instrumentalness": 0.0119,
+            "liveness": 0.285,
+            "loudness": -2.876,
+            "speechiness": 0.0589,
+            "time_signature": 4,
+            "happiness": 2.944
+        }
+    },
+    {
+        "#": 54,
+        "Track Title": "Losing Game",
+        "Artist": "GHEIST",
+        "Key": "7A",
+        "Energy": 6.8500000000000005,
+        "Popularity": 4.779999999999999,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "4eSPKciUMc2ZzzCqwBuWNA",
+            "explicit": false,
+            "album": "Losing Game",
+            "release_date": "2022-09-30",
+            "genres": [],
+            "duration": 331458,
+            "acousticness": 0.000121,
+            "danceability": 6.985,
+            "instrumentalness": 0.363,
+            "liveness": 0.0733,
+            "loudness": -9.742,
+            "speechiness": 0.041,
+            "time_signature": 4,
+            "happiness": 3.574
+        }
+    },
+    {
+        "#": 55,
+        "Track Title": "EYES",
+        "Artist": "The Blaze",
+        "Key": "8B",
+        "Energy": 4.897,
+        "Popularity": 6.67,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "4ipoHe6bjN9IeXr8CGJYgR",
+            "explicit": false,
+            "album": "EYES",
+            "release_date": "2022-06-09",
+            "genres": [
+                "new french touch"
+            ],
+            "duration": 212080,
+            "acousticness": 0.175,
+            "danceability": 8.361999999999998,
+            "instrumentalness": 0.00413,
+            "liveness": 0.124,
+            "loudness": -10.853,
+            "speechiness": 0.0702,
+            "time_signature": 4,
+            "happiness": 2.0709999999999997
+        }
+    },
+    {
+        "#": 56,
+        "Track Title": "SHE",
+        "Artist": "The Blaze",
+        "Key": "11A",
+        "Energy": 8.460999999999999,
+        "Popularity": 6.94,
+        "BPM": 125,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "16IzV3JdxmR3X10ZbWHlfB",
+            "explicit": false,
+            "album": "DANCEHALL",
+            "release_date": "2018-09-07",
+            "genres": [
+                "new french touch"
+            ],
+            "duration": 218653,
+            "acousticness": 0.0314,
+            "danceability": 7.273,
+            "instrumentalness": 0.283,
+            "liveness": 0.307,
+            "loudness": -8.869,
+            "speechiness": 0.0399,
+            "time_signature": 4,
+            "happiness": 1.3582
+        }
+    },
+    {
+        "#": 57,
+        "Track Title": "Clouds",
+        "Artist": "BUNT., Nate Traveller",
+        "Key": "11A",
+        "Energy": 7.732,
+        "Popularity": 8.11,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "2lWc1iJlz2NVcStV5fbtPG",
+            "explicit": false,
+            "album": "Clouds",
+            "release_date": "2023-01-13",
+            "genres": [
+                "stutter house"
+            ],
+            "duration": 158761,
+            "acousticness": 0.226,
+            "danceability": 7.3,
+            "instrumentalness": 0.796,
+            "liveness": 0.104,
+            "loudness": -8.16,
+            "speechiness": 0.0771,
+            "time_signature": 4,
+            "happiness": 2.386
+        }
+    },
+    {
+        "#": 58,
+        "Track Title": "the leaf",
+        "Artist": "spüke",
+        "Key": "3A",
+        "Energy": 5.491,
+        "Popularity": 4.6899999999999995,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "74ZW7WIVpwUKF3BmMKcdRx",
+            "explicit": false,
+            "album": "the leaf",
+            "release_date": "2022-03-16",
+            "genres": [
+                "stutter house"
+            ],
+            "duration": 187062,
+            "acousticness": 0.00978,
+            "danceability": 8.002,
+            "instrumentalness": 0.147,
+            "liveness": 0.0815,
+            "loudness": -10.93,
+            "speechiness": 0.139,
+            "time_signature": 4,
+            "happiness": 1.918
+        }
+    },
+    {
+        "#": 59,
+        "Track Title": "Food for the Soul",
+        "Artist": "it's murph",
+        "Key": "9A",
+        "Energy": 7.426,
+        "Popularity": 7.3,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "7u0fz3V6cYeYTX91DMmIvQ",
+            "explicit": false,
+            "album": "Food for the Soul",
+            "release_date": "2023-02-17",
+            "genres": [
+                "stutter house"
+            ],
+            "duration": 210562,
+            "acousticness": 0.0512,
+            "danceability": 6.8950000000000005,
+            "instrumentalness": 0.48,
+            "liveness": 0.32,
+            "loudness": -7.78,
+            "speechiness": 0.0572,
+            "time_signature": 4,
+            "happiness": 2.1790000000000003
+        }
+    },
+    {
+        "#": 60,
+        "Track Title": "I Do - Vandelux Remix",
+        "Artist": "DRAMA, Vandelux",
+        "Key": "8B",
+        "Energy": 6.949,
+        "Popularity": 6.8500000000000005,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "67kX42oRw7Jru4GankOtm2",
+            "explicit": true,
+            "album": "Don't Wait Up (Remixes)",
+            "release_date": "2022-09-30",
+            "genres": [
+                "indie soul",
+                "stutter house"
+            ],
+            "duration": 196559,
+            "acousticness": 0.64,
+            "danceability": 7.993,
+            "instrumentalness": 0.0215,
+            "liveness": 0.333,
+            "loudness": -9.006,
+            "speechiness": 0.0397,
+            "time_signature": 4,
+            "happiness": 4.546
+        }
+    },
+    {
+        "#": 61,
+        "Track Title": "NOBODYNOONE - BLVTH ON SP33D REMIX",
+        "Artist": "BLVTH",
+        "Key": "2A",
+        "Energy": 9.676,
+        "Popularity": 6.3999999999999995,
+        "BPM": 135,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "3YqCc7yganNAs9bwaLGM9r",
+            "explicit": false,
+            "album": "NOBODYNOONE (BLVTH ON SP33D REMIX)",
+            "release_date": "2022-08-24",
+            "genres": [
+                "german cloud rap"
+            ],
+            "duration": 118222,
+            "acousticness": 0.362,
+            "danceability": 6.688,
+            "instrumentalness": 0,
+            "liveness": 0.35,
+            "loudness": -6.269,
+            "speechiness": 0.419,
+            "time_signature": 3,
+            "happiness": 2.2600000000000002
+        }
+    },
+    {
+        "#": 62,
+        "Track Title": "Let Go",
+        "Artist": "Duskus",
+        "Key": "11B",
+        "Energy": 6.076,
+        "Popularity": 7.209999999999999,
+        "BPM": 133,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "4oZnV1W54b1TIn96i0KIwV",
+            "explicit": false,
+            "album": "Let Go",
+            "release_date": "2022-04-21",
+            "genres": [
+                "future bass",
+                "vapor twitch"
+            ],
+            "duration": 126044,
+            "acousticness": 0.311,
+            "danceability": 8.137,
+            "instrumentalness": 0.914,
+            "liveness": 0.203,
+            "loudness": -11.307,
+            "speechiness": 0.125,
+            "time_signature": 4,
+            "happiness": 4.591
+        }
+    },
+    {
+        "#": 63,
+        "Track Title": "Peleides",
+        "Artist": "Drumstone",
+        "Key": "4A",
+        "Energy": 6.391,
+        "Popularity": 4.87,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "05Zgy9iFYMFPgtkU6sYebd",
+            "explicit": false,
+            "album": "Peleides",
+            "release_date": "2020-04-06",
+            "genres": [
+                "melodic techno"
+            ],
+            "duration": 394839,
+            "acousticness": 0.0237,
+            "danceability": 5.8420000000000005,
+            "instrumentalness": 0.873,
+            "liveness": 0.0406,
+            "loudness": -10.47,
+            "speechiness": 0.0503,
+            "time_signature": 4,
+            "happiness": 1.3429
+        }
+    },
+    {
+        "#": 64,
+        "Track Title": "Spiral",
+        "Artist": "Tommy Lunaire, Rau Ze",
+        "Key": "8A",
+        "Energy": 4.798,
+        "Popularity": 5.5,
+        "BPM": 119,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0OkXks3GQbQtWNEOZQ2EJ1",
+            "explicit": true,
+            "album": "Spiral",
+            "release_date": "2022-05-20",
+            "genres": [],
+            "duration": 223626,
+            "acousticness": 0.403,
+            "danceability": 9.199,
+            "instrumentalness": 0.04,
+            "liveness": 0.35,
+            "loudness": -10.497,
+            "speechiness": 0.286,
+            "time_signature": 4,
+            "happiness": 3.349
+        }
+    },
+    {
+        "#": 65,
+        "Track Title": "On My Knees",
+        "Artist": "RÜFÜS DU SOL",
+        "Key": "3B",
+        "Energy": 6.138999999999999,
+        "Popularity": 7.39,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Inspiring"
+        ],
+        "Additional Info": {
+            "id": "2ouFrmMwYik8nQX2n9SeZu",
+            "explicit": false,
+            "album": "Surrender",
+            "release_date": "2021-10-21",
+            "genres": [
+                "australian electropop",
+                "indietronica"
+            ],
+            "duration": 261001,
+            "acousticness": 0.0335,
+            "danceability": 7.147,
+            "instrumentalness": 0.0616,
+            "liveness": 0.0957,
+            "loudness": -7.721,
+            "speechiness": 0.0286,
+            "time_signature": 4,
+            "happiness": 3.61
+        }
+    },
+    {
+        "#": 66,
+        "Track Title": "Beyond Beliefs",
+        "Artist": "Ben Böhmer",
+        "Key": "3B",
+        "Energy": 6.418,
+        "Popularity": 6.76,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "58ney0bG2Vwecj8QzNGRkV",
+            "explicit": false,
+            "album": "Begin Again",
+            "release_date": "2021-09-24",
+            "genres": [],
+            "duration": 313587,
+            "acousticness": 0.709,
+            "danceability": 6.868,
+            "instrumentalness": 0.942,
+            "liveness": 0.186,
+            "loudness": -13.98,
+            "speechiness": 0.0338,
+            "time_signature": 4,
+            "happiness": 1.3591
+        }
+    },
+    {
+        "#": 67,
+        "Track Title": "Rebirth",
+        "Artist": "Tinlicker, Hero Baldwin",
+        "Key": "4B",
+        "Energy": 9.199,
+        "Popularity": 6.58,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "4Xz2mxHREzWiEr0AyCJuU6",
+            "explicit": false,
+            "album": "In Another Lifetime",
+            "release_date": "2022-02-18",
+            "genres": [
+                "progressive house"
+            ],
+            "duration": 284563,
+            "acousticness": 0.0154,
+            "danceability": 5.869000000000001,
+            "instrumentalness": 0.136,
+            "liveness": 0.121,
+            "loudness": -7.152,
+            "speechiness": 0.0556,
+            "time_signature": 4,
+            "happiness": 1.234
+        }
+    },
+    {
+        "#": 68,
+        "Track Title": "Tell Me",
+        "Artist": "Tinlicker, Helsloot, Hero Baldwin",
+        "Key": "4B",
+        "Energy": 7.3,
+        "Popularity": 6.49,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Club-Hotel",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "6gOR8xTSQWEMfEJa7r52k7",
+            "explicit": false,
+            "album": "Tell Me (feat. Hero Baldwin)",
+            "release_date": "2020-11-12",
+            "genres": [
+                "progressive house",
+                "house"
+            ],
+            "duration": 203523,
+            "acousticness": 0.135,
+            "danceability": 7.822,
+            "instrumentalness": 0.177,
+            "liveness": 0.442,
+            "loudness": -8.771,
+            "speechiness": 0.0351,
+            "time_signature": 4,
+            "happiness": 1.8883
+        }
+    },
+    {
+        "#": 69,
+        "Track Title": "BREATH",
+        "Artist": "The Blaze",
+        "Key": "11B",
+        "Energy": 5.545,
+        "Popularity": 4.779999999999999,
+        "BPM": 125,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2WceANzJsL37I31nEKeRva",
+            "explicit": false,
+            "album": "DANCEHALL",
+            "release_date": "2018-09-07",
+            "genres": [
+                "new french touch"
+            ],
+            "duration": 229427,
+            "acousticness": 0.156,
+            "danceability": 6.3549999999999995,
+            "instrumentalness": 0.655,
+            "liveness": 0.0915,
+            "loudness": -10.947,
+            "speechiness": 0.0401,
+            "time_signature": 4,
+            "happiness": 1.342
+        }
+    },
+    {
+        "#": 70,
+        "Track Title": "Price",
+        "Artist": "PALASTIC",
+        "Key": "6A",
+        "Energy": 5.86,
+        "Popularity": 7.39,
+        "BPM": 109,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "7jNnW7e1prkMtR7EKsTElp",
+            "explicit": false,
+            "album": "Price",
+            "release_date": "2022-03-24",
+            "genres": [
+                "austrian pop"
+            ],
+            "duration": 154000,
+            "acousticness": 0.76,
+            "danceability": 5.743,
+            "instrumentalness": 0.0712,
+            "liveness": 0.0774,
+            "loudness": -9.874,
+            "speechiness": 0.21,
+            "time_signature": 1,
+            "happiness": 3.799
+        }
+    },
+    {
+        "#": 71,
+        "Track Title": "Turn On The Lights again.. (feat. Future)",
+        "Artist": "Fred again.., Swedish House Mafia, Future",
+        "Key": "2A",
+        "Energy": 8.983,
+        "Popularity": 4.42,
+        "BPM": 132,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Dance Remixes",
+            "EDM",
+            "Hip Hop",
+            "Pop",
+            "Club-Hotel"
+        ],
+        "Additional Info": {
+            "id": "3pBpX15YF0hdlRz2ddfSh2",
+            "explicit": false,
+            "album": "USB",
+            "release_date": "2022-01-18",
+            "genres": [
+                "edm",
+                "house",
+                "stutter house",
+                "edm",
+                "pop dance",
+                "progressive electro house",
+                "atl hip hop",
+                "hip hop",
+                "rap",
+                "southern hip hop",
+                "trap"
+            ],
+            "duration": 267947,
+            "acousticness": 0.0125,
+            "danceability": 7.147,
+            "instrumentalness": 0.446,
+            "liveness": 0.318,
+            "loudness": -4.944,
+            "speechiness": 0.0497,
+            "time_signature": 4,
+            "happiness": 5.9590000000000005
+        }
+    },
+    {
+        "#": 72,
+        "Track Title": "Dreaming - Gibson Parker Remix",
+        "Artist": "Rootkit, Cammie Robinson, Gibson Parker",
+        "Key": "8A",
+        "Energy": 9.01,
+        "Popularity": 1.9,
+        "BPM": 126,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "3UY3nN9ENMxdwxtRs7nats",
+            "explicit": false,
+            "album": "Recursion (Remixes)",
+            "release_date": "2021-12-03",
+            "genres": [
+                "chillstep",
+                "complextro",
+                "electro house",
+                "gaming edm",
+                "melodic dubstep"
+            ],
+            "duration": 205714,
+            "acousticness": 0.0606,
+            "danceability": 6.093999999999999,
+            "instrumentalness": 0.501,
+            "liveness": 0.134,
+            "loudness": -5.793,
+            "speechiness": 0.0353,
+            "time_signature": 4,
+            "happiness": 4.996
+        }
+    },
+    {
+        "#": 73,
+        "Track Title": "Your Heart",
+        "Artist": "Lynnic, ItsArius",
+        "Key": "6A",
+        "Energy": 6.985,
+        "Popularity": 6.040000000000001,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "56b6hfYKczrdjPRX2iRAhi",
+            "explicit": false,
+            "album": "Your Heart",
+            "release_date": "2022-07-22",
+            "genres": [
+                "chill house"
+            ],
+            "duration": 164875,
+            "acousticness": 0.628,
+            "danceability": 7.201,
+            "instrumentalness": 0.746,
+            "liveness": 0.171,
+            "loudness": -10.391,
+            "speechiness": 0.0375,
+            "time_signature": 4,
+            "happiness": 1.8082
+        }
+    },
+    {
+        "#": 74,
+        "Track Title": "Beyond the Fire",
+        "Artist": "Don Diablo",
+        "Key": "7A",
+        "Energy": 4.411,
+        "Popularity": 6.94,
+        "BPM": 114,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Pop",
+            "Dance Remixes"
+        ],
+        "Additional Info": {
+            "id": "45Q6hkvGtzW0VUybDnQ4n8",
+            "explicit": false,
+            "album": "Beyond the Fire",
+            "release_date": "2023-02-17",
+            "genres": [
+                "dutch house",
+                "edm",
+                "electro house",
+                "future house",
+                "pop dance",
+                "progressive electro house",
+                "progressive house"
+            ],
+            "duration": 252988,
+            "acousticness": 0.888,
+            "danceability": 6.679,
+            "instrumentalness": 0.918,
+            "liveness": 0.0947,
+            "loudness": -12.662,
+            "speechiness": 0.0451,
+            "time_signature": 4,
+            "happiness": 2.404
+        }
+    },
+    {
+        "#": 75,
+        "Track Title": "Lovin' Feeling",
+        "Artist": "French 79, Kid Francescoli",
+        "Key": "4B",
+        "Energy": 6.481,
+        "Popularity": 7.66,
+        "BPM": 0,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "5pxtj7cCnv2hZe6mbS2MBx",
+            "explicit": false,
+            "album": "Olympic",
+            "release_date": "2016-10-21",
+            "genres": [
+                "french indie pop",
+                "french indietronica",
+                "french indie pop",
+                "french indietronica"
+            ],
+            "duration": 204933,
+            "acousticness": 0.135,
+            "danceability": 1.0,
+            "instrumentalness": 0.627,
+            "liveness": 0.0778,
+            "loudness": -8.737,
+            "speechiness": 0,
+            "time_signature": 0,
+            "happiness": 1.0
+        }
+    },
+    {
+        "#": 76,
+        "Track Title": "Stay There",
+        "Artist": "Tonic Walter",
+        "Key": "12A",
+        "Energy": 6.715,
+        "Popularity": 6.13,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "7t9PLlf9nI2Xo8WRrfcItk",
+            "explicit": false,
+            "album": "Stay There",
+            "release_date": "2022-06-17",
+            "genres": [],
+            "duration": 233562,
+            "acousticness": 0.107,
+            "danceability": 7.39,
+            "instrumentalness": 0.881,
+            "liveness": 0.139,
+            "loudness": -11.15,
+            "speechiness": 0.0403,
+            "time_signature": 4,
+            "happiness": 2.593
+        }
+    },
+    {
+        "#": 77,
+        "Track Title": "Strings Attached",
+        "Artist": "Nu Aspect, Arkaden, Sam Welch",
+        "Key": "3B",
+        "Energy": 6.7780000000000005,
+        "Popularity": 6.49,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "2Yp20FZndUt36hb0NJHZI8",
+            "explicit": false,
+            "album": "Strings Attached",
+            "release_date": "2022-07-15",
+            "genres": [
+                "bassline"
+            ],
+            "duration": 185389,
+            "acousticness": 0.111,
+            "danceability": 7.624,
+            "instrumentalness": 0.000519,
+            "liveness": 0.0926,
+            "loudness": -7.341,
+            "speechiness": 0.0406,
+            "time_signature": 4,
+            "happiness": 4.0600000000000005
+        }
+    },
+    {
+        "#": 78,
+        "Track Title": "Till I Found You",
+        "Artist": "Teseo, blaank",
+        "Key": "1A",
+        "Energy": 7.380999999999999,
+        "Popularity": 4.51,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "5qtOFpVpGAmLCtP6GNTzTS",
+            "explicit": false,
+            "album": "Till I Found You",
+            "release_date": "2022-12-02",
+            "genres": [],
+            "duration": 162005,
+            "acousticness": 0.326,
+            "danceability": 7.696,
+            "instrumentalness": 0.00354,
+            "liveness": 0.0755,
+            "loudness": -12.01,
+            "speechiness": 0.0755,
+            "time_signature": 4,
+            "happiness": 2.2510000000000003
+        }
+    },
+    {
+        "#": 79,
+        "Track Title": "Fire & Rain",
+        "Artist": "LOOPERS, IYONA",
+        "Key": "5A",
+        "Energy": 7.984,
+        "Popularity": 3.5200000000000005,
+        "BPM": 127,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "4muHLBe8srj3VknqFpJOr0",
+            "explicit": false,
+            "album": "Fire & Rain",
+            "release_date": "2020-03-26",
+            "genres": [
+                "dutch house",
+                "electro house",
+                "progressive electro house",
+                "sky room"
+            ],
+            "duration": 187077,
+            "acousticness": 0.261,
+            "danceability": 5.113,
+            "instrumentalness": 0.176,
+            "liveness": 0.214,
+            "loudness": -9.412,
+            "speechiness": 0.0878,
+            "time_signature": 4,
+            "happiness": 3.3850000000000002
+        }
+    },
+    {
+        "#": 80,
+        "Track Title": "Erase",
+        "Artist": "Ben Böhmer, lau.ra",
+        "Key": "3B",
+        "Energy": 5.878,
+        "Popularity": 6.13,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1BbXlbs8pWeYI2yGpGhuzA",
+            "explicit": false,
+            "album": "Erase",
+            "release_date": "2021-08-25",
+            "genres": [],
+            "duration": 253240,
+            "acousticness": 0.47,
+            "danceability": 3.511,
+            "instrumentalness": 0.601,
+            "liveness": 0.0888,
+            "loudness": -11.962,
+            "speechiness": 0.0494,
+            "time_signature": 4,
+            "happiness": 2.467
+        }
+    },
+    {
+        "#": 81,
+        "Track Title": "Hope",
+        "Artist": "AVAION",
+        "Key": "1B",
+        "Energy": 5.7700000000000005,
+        "Popularity": 6.76,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "6klB3i7WPg51WX78i3t9yQ",
+            "explicit": false,
+            "album": "Hope",
+            "release_date": "2022-10-07",
+            "genres": [],
+            "duration": 193420,
+            "acousticness": 0.19,
+            "danceability": 7.6419999999999995,
+            "instrumentalness": 0.0183,
+            "liveness": 0.181,
+            "loudness": -9.691,
+            "speechiness": 0.0512,
+            "time_signature": 4,
+            "happiness": 1.7407
+        }
+    },
+    {
+        "#": 82,
+        "Track Title": "Hold Me",
+        "Artist": "Lavern",
+        "Key": "11A",
+        "Energy": 9.478,
+        "Popularity": 7.84,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "4SnuG111QPmgwRmlwhJ4Mg",
+            "explicit": false,
+            "album": "Hold Me",
+            "release_date": "2023-03-31",
+            "genres": [
+                "stutter house"
+            ],
+            "duration": 140000,
+            "acousticness": 0.586,
+            "danceability": 7.8580000000000005,
+            "instrumentalness": 0.764,
+            "liveness": 0.115,
+            "loudness": -6.432,
+            "speechiness": 0.038,
+            "time_signature": 4,
+            "happiness": 1.342
+        }
+    },
+    {
+        "#": 83,
+        "Track Title": "Move Me",
+        "Artist": "Lavern",
+        "Key": "4B",
+        "Energy": 6.796,
+        "Popularity": 7.39,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "6LptEwO1ObZvVQXlU0BPIJ",
+            "explicit": false,
+            "album": "Move Me",
+            "release_date": "2021-02-17",
+            "genres": [
+                "stutter house"
+            ],
+            "duration": 140000,
+            "acousticness": 0.802,
+            "danceability": 7.353999999999999,
+            "instrumentalness": 0.0264,
+            "liveness": 0.14,
+            "loudness": -9.958,
+            "speechiness": 0.044,
+            "time_signature": 4,
+            "happiness": 2.692
+        }
+    },
+    {
+        "#": 84,
+        "Track Title": "Marea (we’ve lost dancing)",
+        "Artist": "Fred again.., The Blessed Madonna",
+        "Key": "7A",
+        "Energy": 8.029,
+        "Popularity": 8.11,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Club-Hotel"
+        ],
+        "Additional Info": {
+            "id": "5Z8Dj3LtbyCMiwE86rhg2f",
+            "explicit": false,
+            "album": "Actual Life (April 14 - December 17 2020)",
+            "release_date": "2021-04-15",
+            "genres": [
+                "edm",
+                "house",
+                "stutter house",
+                "edm"
+            ],
+            "duration": 285375,
+            "acousticness": 0.0681,
+            "danceability": 7.849,
+            "instrumentalness": 0.108,
+            "liveness": 0.0607,
+            "loudness": -6.778,
+            "speechiness": 0.141,
+            "time_signature": 4,
+            "happiness": 5.257
+        }
+    },
+    {
+        "#": 85,
+        "Track Title": "We Don't Ever Stop",
+        "Artist": "Tom Santa",
+        "Key": "12A",
+        "Energy": 8.551,
+        "Popularity": 6.31,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "7tzsbAE9Md4tr8MAbK4h5i",
+            "explicit": false,
+            "album": "We Don’t Ever Stop",
+            "release_date": "2022-10-28",
+            "genres": [
+                "stutter house"
+            ],
+            "duration": 160638,
+            "acousticness": 0.00452,
+            "danceability": 6.724,
+            "instrumentalness": 0.818,
+            "liveness": 0.111,
+            "loudness": -5.972,
+            "speechiness": 0.0359,
+            "time_signature": 4,
+            "happiness": 2.404
+        }
+    },
+    {
+        "#": 86,
+        "Track Title": "Tennis Court - Flume Remix",
+        "Artist": "Lorde, Flume",
+        "Key": "11A",
+        "Energy": 6.183999999999999,
+        "Popularity": 6.94,
+        "BPM": 93,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Dance Remixes",
+            "EDM",
+            "Pop",
+            "Club-Hotel",
+            "Inspiring",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "4fnBNNoBiRqDgTTk3ZQo3E",
+            "explicit": true,
+            "album": "Tennis Court (Flume Remix)",
+            "release_date": "2014-04-24",
+            "genres": [
+                "art pop",
+                "metropopolis",
+                "nz pop",
+                "pop",
+                "australian dance",
+                "australian electropop",
+                "australian indie",
+                "downtempo",
+                "edm",
+                "indietronica"
+            ],
+            "duration": 363959,
+            "acousticness": 0.389,
+            "danceability": 5.8420000000000005,
+            "instrumentalness": 0,
+            "liveness": 0.378,
+            "loudness": -6.57,
+            "speechiness": 0.093,
+            "time_signature": 4,
+            "happiness": 3.313
+        }
+    },
+    {
+        "#": 87,
+        "Track Title": "Only One",
+        "Artist": "Last Sun",
+        "Key": "3A",
+        "Energy": 6.832,
+        "Popularity": 4.96,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "5pBtwAL8PY4qakQIcdkN92",
+            "explicit": false,
+            "album": "Only One",
+            "release_date": "2023-03-03",
+            "genres": [
+                "stutter house"
+            ],
+            "duration": 151385,
+            "acousticness": 0.0903,
+            "danceability": 7.759,
+            "instrumentalness": 0.58,
+            "liveness": 0.298,
+            "loudness": -9.631,
+            "speechiness": 0.0444,
+            "time_signature": 4,
+            "happiness": 4.078
+        }
+    },
+    {
+        "#": 88,
+        "Track Title": "Heaven Takes You Home (feat. Connie Constance)",
+        "Artist": "Swedish House Mafia, Connie Constance",
+        "Key": "8A",
+        "Energy": 7.6419999999999995,
+        "Popularity": 8.290000000000001,
+        "BPM": 125,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Romantic & Slow Dance",
+            "Pop",
+            "Dance Remixes",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "3nEHrvNNtgLv9rneTAYVr4",
+            "explicit": false,
+            "album": "Paradise Again",
+            "release_date": "2022-04-15",
+            "genres": [
+                "edm",
+                "pop dance",
+                "progressive electro house",
+                "uk contemporary r&b"
+            ],
+            "duration": 214071,
+            "acousticness": 0.0124,
+            "danceability": 6.985,
+            "instrumentalness": 0.00598,
+            "liveness": 0.0923,
+            "loudness": -5.931,
+            "speechiness": 0.0379,
+            "time_signature": 4,
+            "happiness": 1.3500999999999999
+        }
+    },
+    {
+        "#": 89,
+        "Track Title": "Delilah (Pull Me Out of This)",
+        "Artist": "Fred again..",
+        "Key": "6B",
+        "Energy": 8.443,
+        "Popularity": 7.66,
+        "BPM": 134,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Club-Hotel"
+        ],
+        "Additional Info": {
+            "id": "0Ftrkz2waaHcjKb4qYvLmz",
+            "explicit": false,
+            "album": "Delilah (pull me out of this)",
+            "release_date": "2022-10-17",
+            "genres": [
+                "edm",
+                "house",
+                "stutter house"
+            ],
+            "duration": 250702,
+            "acousticness": 0.138,
+            "danceability": 7.165000000000001,
+            "instrumentalness": 0.00207,
+            "liveness": 0.374,
+            "loudness": -7.745,
+            "speechiness": 0.224,
+            "time_signature": 4,
+            "happiness": 6.274
+        }
+    },
+    {
+        "#": 90,
+        "Track Title": "Baianá",
+        "Artist": "Bakermat",
+        "Key": "10A",
+        "Energy": 7.795,
+        "Popularity": 6.49,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "430efk5Jc5wGay4EWP4snS",
+            "explicit": false,
+            "album": "Baianá",
+            "release_date": "2019-11-08",
+            "genres": [
+                "minimal tech house",
+                "tropical house"
+            ],
+            "duration": 182187,
+            "acousticness": 0.0007,
+            "danceability": 5.473,
+            "instrumentalness": 0.585,
+            "liveness": 0.33,
+            "loudness": -6.948,
+            "speechiness": 0.0497,
+            "time_signature": 4,
+            "happiness": 5.437
+        }
+    },
+    {
+        "#": 91,
+        "Track Title": "Morgen",
+        "Artist": "Stephan Jolk",
+        "Key": "6A",
+        "Energy": 7.075,
+        "Popularity": 3.79,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "3MzxP73XclZJWN51bMEeOJ",
+            "explicit": false,
+            "album": "Realm Of Consciousness Pt.V",
+            "release_date": "2021-07-23",
+            "genres": [
+                "melodic techno"
+            ],
+            "duration": 379028,
+            "acousticness": 0.169,
+            "danceability": 7.308999999999999,
+            "instrumentalness": 0.92,
+            "liveness": 0.113,
+            "loudness": -16.861,
+            "speechiness": 0.0415,
+            "time_signature": 4,
+            "happiness": 1.2475
+        }
+    },
+    {
+        "#": 92,
+        "Track Title": "If Love Is A Skill",
+        "Artist": "LP Giobbi, Sofi Tukker",
+        "Key": "11A",
+        "Energy": 6.67,
+        "Popularity": 6.58,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Club-Hotel"
+        ],
+        "Additional Info": {
+            "id": "4w5uos4sTvjQeg8ofXtBm8",
+            "explicit": false,
+            "album": "If Love Is A Skill & Georgia",
+            "release_date": "2023-03-21",
+            "genres": [
+                "house",
+                "edm"
+            ],
+            "duration": 217709,
+            "acousticness": 0.228,
+            "danceability": 6.391,
+            "instrumentalness": 0.182,
+            "liveness": 0.208,
+            "loudness": -11.511,
+            "speechiness": 0.0375,
+            "time_signature": 3,
+            "happiness": 3.6189999999999998
+        }
+    },
+    {
+        "#": 93,
+        "Track Title": "CYE SET - Extended Set",
+        "Artist": "Younos",
+        "Key": "7A",
+        "Energy": 4.311999999999999,
+        "Popularity": 1.72,
+        "BPM": 122,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "0BSCgjNkXiBylA7Ku9m4ot",
+            "explicit": false,
+            "album": "CYE SET (Extended Set)",
+            "release_date": "2022-10-08",
+            "genres": [],
+            "duration": 870879,
+            "acousticness": 0.577,
+            "danceability": 4.276,
+            "instrumentalness": 0.58,
+            "liveness": 0.144,
+            "loudness": -14.429,
+            "speechiness": 0.0369,
+            "time_signature": 4,
+            "happiness": 1.3564
+        }
+    },
+    {
+        "#": 94,
+        "Track Title": "INTO THE NIGHT W AG SET - Extended Set",
+        "Artist": "Younos",
+        "Key": "8B",
+        "Energy": 7.075,
+        "Popularity": 4.87,
+        "BPM": 126,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "3vdne5HpqieMB3wWiNr2WV",
+            "explicit": false,
+            "album": "LATE NIGHTS 4422 W/ AG SET ALBUM (Extended Set)",
+            "release_date": "2023-01-05",
+            "genres": [],
+            "duration": 671612,
+            "acousticness": 0.0202,
+            "danceability": 6.769,
+            "instrumentalness": 0.352,
+            "liveness": 0.22,
+            "loudness": -12.622,
+            "speechiness": 0.0581,
+            "time_signature": 4,
+            "happiness": 1.3051
+        }
+    },
+    {
+        "#": 95,
+        "Track Title": "Hold",
+        "Artist": "Home",
+        "Key": "7A",
+        "Energy": 6.787,
+        "Popularity": 6.13,
+        "BPM": 97,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "6xw5MhprxsbnXINmOjEzuT",
+            "explicit": false,
+            "album": "Hold",
+            "release_date": "2019-09-27",
+            "genres": [],
+            "duration": 206609,
+            "acousticness": 0.154,
+            "danceability": 5.6080000000000005,
+            "instrumentalness": 0.823,
+            "liveness": 0.0909,
+            "loudness": -14.806,
+            "speechiness": 0.0495,
+            "time_signature": 4,
+            "happiness": 1.4689
+        }
+    },
+    {
+        "#": 96,
+        "Track Title": "lOnDn",
+        "Artist": "EMBRZ",
+        "Key": "3A",
+        "Energy": 5.284,
+        "Popularity": 5.2299999999999995,
+        "BPM": 124,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "16vsw3UO3DmSmRDzmoaHx7",
+            "explicit": false,
+            "album": "Don't Look Back",
+            "release_date": "2022-03-08",
+            "genres": [
+                "vapor soul"
+            ],
+            "duration": 232000,
+            "acousticness": 0.803,
+            "danceability": 8.713000000000001,
+            "instrumentalness": 0.858,
+            "liveness": 0.101,
+            "loudness": -11.803,
+            "speechiness": 0.136,
+            "time_signature": 4,
+            "happiness": 2.71
+        }
+    },
+    {
+        "#": 97,
+        "Track Title": "Aestas (All That I Wanted)",
+        "Artist": "Alxboiiz",
+        "Key": "10A",
+        "Energy": 5.9590000000000005,
+        "Popularity": 3.61,
+        "BPM": 132,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "6jGQxpCf2rjlxGO7N2njhu",
+            "explicit": false,
+            "album": "Aestas (All That I Wanted)",
+            "release_date": "2023-04-14",
+            "genres": [],
+            "duration": 196364,
+            "acousticness": 0.523,
+            "danceability": 7.353999999999999,
+            "instrumentalness": 0.00205,
+            "liveness": 0.168,
+            "loudness": -10.302,
+            "speechiness": 0.169,
+            "time_signature": 4,
+            "happiness": 3.34
+        }
+    },
+    {
+        "#": 98,
+        "Track Title": "Ember - Radio Edit",
+        "Artist": "WhoMadeWho",
+        "Key": "11A",
+        "Energy": 6.2829999999999995,
+        "Popularity": 6.13,
+        "BPM": 104,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Dance Remixes",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "1RMJunPR0t2nL8cwU0CpqW",
+            "explicit": false,
+            "album": "Ember (Radio Edit)",
+            "release_date": "2015-03-27",
+            "genres": [
+                "alternative dance",
+                "dance-punk",
+                "danish indie",
+                "electronica",
+                "experimental pop"
+            ],
+            "duration": 205385,
+            "acousticness": 0.0743,
+            "danceability": 7.2459999999999996,
+            "instrumentalness": 0.301,
+            "liveness": 0.266,
+            "loudness": -8.489,
+            "speechiness": 0.029,
+            "time_signature": 4,
+            "happiness": 4.680999999999999
+        }
+    },
+    {
+        "#": 99,
+        "Track Title": "Selfish Soul - ODESZA Remix",
+        "Artist": "Sudan Archives, ODESZA",
+        "Key": "11A",
+        "Energy": 8.992,
+        "Popularity": 7.03,
+        "BPM": 107,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "EDM",
+            "Romantic & Slow Dance",
+            "Inspiring",
+            "Fight & Fog",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "6N5thJ3UQMpHdf2fYOB3XL",
+            "explicit": true,
+            "album": "Selfish Soul (ODESZA Remix)",
+            "release_date": "2023-04-16",
+            "genres": [
+                "afrofuturism",
+                "alternative r&b",
+                "experimental r&b",
+                "indie soul",
+                "la pop",
+                "chillwave",
+                "edm",
+                "indietronica"
+            ],
+            "duration": 206211,
+            "acousticness": 0.0321,
+            "danceability": 6.607,
+            "instrumentalness": 0.0143,
+            "liveness": 0.526,
+            "loudness": -5.122,
+            "speechiness": 0.0833,
+            "time_signature": 4,
+            "happiness": 2.683
+        }
+    },
+    {
+        "#": 100,
+        "Track Title": "Airplane Lesson",
+        "Artist": "Stereoclip",
+        "Key": "9A",
+        "Energy": 5.032,
+        "Popularity": 6.3999999999999995,
+        "BPM": 123,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2SxeNZphx2bH5kju5Ntu8P",
+            "explicit": false,
+            "album": "Airplane Lesson",
+            "release_date": "2016",
+            "genres": [],
+            "duration": 252145,
+            "acousticness": 0.671,
+            "danceability": 5.788,
+            "instrumentalness": 0.939,
+            "liveness": 0.0978,
+            "loudness": -13.169,
+            "speechiness": 0.241,
+            "time_signature": 4,
+            "happiness": 2.17
+        }
+    }
+]

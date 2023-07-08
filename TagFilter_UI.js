@@ -16,11 +16,10 @@ export default class TagFilter {
             //     "Drink Up", "MC Hype", "Inspiring" 
             // ],
             'Occasion': [
-                "4th of July", "College Party", "Bach Party", "Wedding", "Kids Party", "Workout" // "USA Party",
+                "4th of July", "College Party", "Bach Party", "Wedding", "Kids Party", "Workout", "Boat Party", "Sweet 16" // "USA Party",
             ],
             'Eras': [
                 "60s", "70s", "80s", "90s", "2000s", "2010s", "2020s",
-                
             ],
             'Genres':  [
                 "Pop", "Dance Remixes", "EDM", "Hip Hop", "Rock",  "Reggaeton", "Tribal",  
@@ -45,7 +44,6 @@ export default class TagFilter {
             //     'Kids Party',  'Corporate Event', 'College Party', '4July','Sing Along', 'Jump', 'Cheer Competitors',
             //     'Relaxing', 'Background','Workout', 'Pop','EDM', 'Hip Hop','Reggaeton', 'Rock', 'Tribal', 'Club-Hotel',
             //     'Psy-Trance', 'Israeli - Kibutz','Mizrahit', 'Nostalgic', 'Calm Cover', 'Remake/Edit', 'Dance Remixes'
-
             // ]
 
         };

@@ -1,0 +1,1068 @@
+[
+    {
+        "#": 1,
+        "Track Title": "RACECAR",
+        "Artist": "James Pacing",
+        "Key": "4A",
+        "Energy": 7.111000000000001,
+        "Popularity": 3.97,
+        "BPM": 85,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "2bqyR1R3Kpjuqqer02cPgF",
+            "explicit": false,
+            "album": "RACECAR",
+            "release_date": "2023-05-05",
+            "genres": [],
+            "duration": 73555,
+            "acousticness": 0.862,
+            "danceability": 6.364,
+            "instrumentalness": 0.738,
+            "liveness": 0.134,
+            "loudness": -9.072,
+            "speechiness": 0.232,
+            "time_signature": 4,
+            "happiness": 8.056000000000001
+        }
+    },
+    {
+        "#": 2,
+        "Track Title": "CHASE (Freestyle)",
+        "Artist": "SquadButter",
+        "Key": "10B",
+        "Energy": 3.052,
+        "Popularity": 3.79,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "32wGlTag5OFCLvm4CBvV9A",
+            "explicit": false,
+            "album": "CHASE (Freestyle)",
+            "release_date": "2023-06-19",
+            "genres": [],
+            "duration": 176963,
+            "acousticness": 0.598,
+            "danceability": 7.876,
+            "instrumentalness": 5.3e-05,
+            "liveness": 0.11,
+            "loudness": -13.465,
+            "speechiness": 0.23,
+            "time_signature": 4,
+            "happiness": 4.122999999999999
+        }
+    },
+    {
+        "#": 3,
+        "Track Title": "Where you are",
+        "Artist": "Lucian Waters",
+        "Key": "4B",
+        "Energy": 5.554,
+        "Popularity": 3.79,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "3yHt1EAHt5eBDtSBI0GtKA",
+            "explicit": false,
+            "album": "Where you are",
+            "release_date": "2023-04-30",
+            "genres": [],
+            "duration": 177000,
+            "acousticness": 0.106,
+            "danceability": 6.454,
+            "instrumentalness": 0,
+            "liveness": 0.0599,
+            "loudness": -8.193,
+            "speechiness": 0.0461,
+            "time_signature": 4,
+            "happiness": 3.259
+        }
+    },
+    {
+        "#": 4,
+        "Track Title": "wasted affairs",
+        "Artist": "Mind’s Eye",
+        "Key": "3A",
+        "Energy": 8.812000000000001,
+        "Popularity": 6.3999999999999995,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Fight & Fog"
+        ],
+        "Additional Info": {
+            "id": "3CczWPmaz03mSTr6qnqXnc",
+            "explicit": false,
+            "album": "wasted affairs",
+            "release_date": "2021-04-03",
+            "genres": [],
+            "duration": 168150,
+            "acousticness": 0.0209,
+            "danceability": 5.095,
+            "instrumentalness": 0.00527,
+            "liveness": 0.15,
+            "loudness": -7.913,
+            "speechiness": 0.051,
+            "time_signature": 4,
+            "happiness": 2.8449999999999998
+        }
+    },
+    {
+        "#": 5,
+        "Track Title": "FEELINGS",
+        "Artist": "Dj Bella Camargo",
+        "Key": "1A",
+        "Energy": 7.8580000000000005,
+        "Popularity": 4.87,
+        "BPM": 126,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "26Rs8UYEx3BexoZE9knmxC",
+            "explicit": false,
+            "album": "FEELINGS",
+            "release_date": "2023-03-31",
+            "genres": [],
+            "duration": 143571,
+            "acousticness": 0.101,
+            "danceability": 7.183000000000001,
+            "instrumentalness": 0,
+            "liveness": 0.315,
+            "loudness": -3.975,
+            "speechiness": 0.203,
+            "time_signature": 4,
+            "happiness": 4.636
+        }
+    },
+    {
+        "#": 6,
+        "Track Title": "Red Moon Night",
+        "Artist": "Dominic Romano, Harley Eblen",
+        "Key": "12B",
+        "Energy": 3.043,
+        "Popularity": 2.98,
+        "BPM": 126,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "0mzL24FuL0QZDUASBaGBOb",
+            "explicit": false,
+            "album": "Red Moon Night",
+            "release_date": "2022-03-11",
+            "genres": [],
+            "duration": 253619,
+            "acousticness": 0.836,
+            "danceability": 5.797000000000001,
+            "instrumentalness": 0.000243,
+            "liveness": 0.12,
+            "loudness": -17.164,
+            "speechiness": 0.0338,
+            "time_signature": 4,
+            "happiness": 1.8478
+        }
+    },
+    {
+        "#": 7,
+        "Track Title": "Infinite Bliss",
+        "Artist": "Maston",
+        "Key": "10B",
+        "Energy": 5.05,
+        "Popularity": 6.13,
+        "BPM": 95,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Nostalgic"
+        ],
+        "Additional Info": {
+            "id": "21rsiCXG7sA0CqEUOTMHNY",
+            "explicit": false,
+            "album": "Tulips",
+            "release_date": "2017-10-27",
+            "genres": [
+                "psychedelic folk rock",
+                "psychedelic pop"
+            ],
+            "duration": 93882,
+            "acousticness": 0.523,
+            "danceability": 5.761,
+            "instrumentalness": 0.967,
+            "liveness": 0.164,
+            "loudness": -9.685,
+            "speechiness": 0.0272,
+            "time_signature": 3,
+            "happiness": 6.706
+        }
+    },
+    {
+        "#": 8,
+        "Track Title": "Goodnight Dad I Love You",
+        "Artist": "Wishing",
+        "Key": "3B",
+        "Energy": 5.644,
+        "Popularity": 6.67,
+        "BPM": 127,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "013L1ZodWo9Ax2g9LejC9O",
+            "explicit": false,
+            "album": "None of This Was Your Fault",
+            "release_date": "2020-04-01",
+            "genres": [
+                "lo-fi indie",
+                "small room"
+            ],
+            "duration": 163993,
+            "acousticness": 0.93,
+            "danceability": 2.476,
+            "instrumentalness": 0.929,
+            "liveness": 0.0857,
+            "loudness": -15.492,
+            "speechiness": 0.0543,
+            "time_signature": 4,
+            "happiness": 1.351
+        }
+    },
+    {
+        "#": 9,
+        "Track Title": "Feels Like We're Dying",
+        "Artist": "Johnny Goth",
+        "Key": "2B",
+        "Energy": 4.699,
+        "Popularity": 5.5,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "0IvaKmBYBLVcdP0Ft8Dwik",
+            "explicit": false,
+            "album": "Far Away",
+            "release_date": "2017-02-22",
+            "genres": [
+                "bedroom pop"
+            ],
+            "duration": 185250,
+            "acousticness": 0.73,
+            "danceability": 6.210999999999999,
+            "instrumentalness": 0.8,
+            "liveness": 0.0945,
+            "loudness": -13.068,
+            "speechiness": 0.0329,
+            "time_signature": 1,
+            "happiness": 2.125
+        }
+    },
+    {
+        "#": 10,
+        "Track Title": "Cosmic Bloom",
+        "Artist": "Dumbo Gets Mad",
+        "Key": "3B",
+        "Energy": 5.239,
+        "Popularity": 6.13,
+        "BPM": 101,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Inspiring",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "1CE6ORhLLyvBopnVdDVf3z",
+            "explicit": false,
+            "album": "Thank You Neil",
+            "release_date": "2015-12-04",
+            "genres": [
+                "indie garage rock",
+                "neo-psychedelic",
+                "psychedelic pop"
+            ],
+            "duration": 66065,
+            "acousticness": 0.882,
+            "danceability": 6.598,
+            "instrumentalness": 0.846,
+            "liveness": 0.0927,
+            "loudness": -10.281,
+            "speechiness": 0.0363,
+            "time_signature": 4,
+            "happiness": 4.789
+        }
+    },
+    {
+        "#": 11,
+        "Track Title": "I Felt Your Shape",
+        "Artist": "The Microphones",
+        "Key": "10B",
+        "Energy": 3.9250000000000003,
+        "Popularity": 5.7700000000000005,
+        "BPM": 114,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Inspiring",
+            "Rock"
+        ],
+        "Additional Info": {
+            "id": "1HTR2cbs7Nor722yzYQi63",
+            "explicit": false,
+            "album": "The Glow, Pt. 2",
+            "release_date": "2001-09-11",
+            "genres": [
+                "indie rock",
+                "lo-fi",
+                "noise pop",
+                "olympia wa indie",
+                "shoegaze"
+            ],
+            "duration": 114627,
+            "acousticness": 0.866,
+            "danceability": 6.877000000000001,
+            "instrumentalness": 0.034,
+            "liveness": 0.117,
+            "loudness": -12.423,
+            "speechiness": 0.0693,
+            "time_signature": 4,
+            "happiness": 5.914000000000001
+        }
+    },
+    {
+        "#": 12,
+        "Track Title": "Rotterdam",
+        "Artist": "8gutta, $onik, Felipe Sono",
+        "Key": "2A",
+        "Energy": 6.337,
+        "Popularity": 4.42,
+        "BPM": 140,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "0MJ5UwJ34KXLRQKyf8Bq6o",
+            "explicit": true,
+            "album": "Rotterdam",
+            "release_date": "2023-05-26",
+            "genres": [],
+            "duration": 105321,
+            "acousticness": 0.2,
+            "danceability": 8.2,
+            "instrumentalness": 0,
+            "liveness": 0.12,
+            "loudness": -7.412,
+            "speechiness": 0.223,
+            "time_signature": 4,
+            "happiness": 6.787
+        }
+    },
+    {
+        "#": 13,
+        "Track Title": "Touch of Tenderness",
+        "Artist": "Yannis Koser",
+        "Key": "12A",
+        "Energy": 4.258,
+        "Popularity": 3.61,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "6Fd8zC4vc8gfPdAI6nxtmo",
+            "explicit": false,
+            "album": "Touch of Tenderness",
+            "release_date": "2023-04-14",
+            "genres": [],
+            "duration": 192403,
+            "acousticness": 0.991,
+            "danceability": 5.482,
+            "instrumentalness": 0.92,
+            "liveness": 0.107,
+            "loudness": -22.888,
+            "speechiness": 0.0543,
+            "time_signature": 4,
+            "happiness": 4.186
+        }
+    },
+    {
+        "#": 14,
+        "Track Title": "Monday Morning",
+        "Artist": "Melanie Fiona",
+        "Key": "5A",
+        "Energy": 7.111000000000001,
+        "Popularity": 6.040000000000001,
+        "BPM": 90,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2000s",
+            "Pop",
+            "Hip Hop",
+            "Romantic & Slow Dance",
+            "Happy",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "77vjMJ0LBNtNy3GhD7um3F",
+            "explicit": false,
+            "album": "The Bridge",
+            "release_date": "2009-01-01",
+            "genres": [
+                "canadian pop",
+                "hip pop",
+                "neo soul",
+                "r&b",
+                "urban contemporary"
+            ],
+            "duration": 218213,
+            "acousticness": 0.00502,
+            "danceability": 7.228,
+            "instrumentalness": 0,
+            "liveness": 0.327,
+            "loudness": -6.714,
+            "speechiness": 0.155,
+            "time_signature": 4,
+            "happiness": 9.406
+        }
+    },
+    {
+        "#": 15,
+        "Track Title": "GLOW",
+        "Artist": "bear bear & friends, Gill Chang",
+        "Key": "3B",
+        "Energy": 7.039000000000001,
+        "Popularity": 6.040000000000001,
+        "BPM": 140,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Pop",
+            "EDM"
+        ],
+        "Additional Info": {
+            "id": "2U5803YfaBN6CTxrClVJmS",
+            "explicit": false,
+            "album": "GLOW",
+            "release_date": "2019-12-30",
+            "genres": [
+                "future bass",
+                "pop edm",
+                "vapor twitch"
+            ],
+            "duration": 181812,
+            "acousticness": 0.235,
+            "danceability": 6.571,
+            "instrumentalness": 0.000698,
+            "liveness": 0.126,
+            "loudness": -3.451,
+            "speechiness": 0.0284,
+            "time_signature": 4,
+            "happiness": 3.394
+        }
+    },
+    {
+        "#": 16,
+        "Track Title": "can you hear my voice",
+        "Artist": "Zaini",
+        "Key": "2A",
+        "Energy": 4.4559999999999995,
+        "Popularity": 4.87,
+        "BPM": 116,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "5jvnEE9aPgPXh9UgjvYMLw",
+            "explicit": false,
+            "album": "can you hear my voice",
+            "release_date": "2019-05-17",
+            "genres": [
+                "lo-fi chill",
+                "sad lo-fi"
+            ],
+            "duration": 150277,
+            "acousticness": 0.963,
+            "danceability": 5.761,
+            "instrumentalness": 0.348,
+            "liveness": 0.575,
+            "loudness": -10.924,
+            "speechiness": 0.0851,
+            "time_signature": 4,
+            "happiness": 4.15
+        }
+    },
+    {
+        "#": 17,
+        "Track Title": "looking at the stars",
+        "Artist": "Rnla",
+        "Key": "11B",
+        "Energy": 2.9619999999999997,
+        "Popularity": 3.6999999999999997,
+        "BPM": 128,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "7rgKjICoP9YhSJgWcwEkwn",
+            "explicit": false,
+            "album": "even if i hate you",
+            "release_date": "2023-04-28",
+            "genres": [
+                "lo-fi chill"
+            ],
+            "duration": 134205,
+            "acousticness": 0.876,
+            "danceability": 4.7620000000000005,
+            "instrumentalness": 3.49e-06,
+            "liveness": 0.181,
+            "loudness": -15.916,
+            "speechiness": 0.132,
+            "time_signature": 4,
+            "happiness": 3.691
+        }
+    },
+    {
+        "#": 18,
+        "Track Title": "Night Owl",
+        "Artist": "Bee Blizz",
+        "Key": "9A",
+        "Energy": 6.958,
+        "Popularity": 4.33,
+        "BPM": 128,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "1l6VO0Nemt9nkTeMH2BhbT",
+            "explicit": false,
+            "album": "Night Owl",
+            "release_date": "2023-05-30",
+            "genres": [],
+            "duration": 189489,
+            "acousticness": 0.0227,
+            "danceability": 7.191999999999999,
+            "instrumentalness": 0.186,
+            "liveness": 0.0984,
+            "loudness": -11.967,
+            "speechiness": 0.0541,
+            "time_signature": 4,
+            "happiness": 4.726
+        }
+    },
+    {
+        "#": 19,
+        "Track Title": "Everywhere You Go",
+        "Artist": "Arnet",
+        "Key": "8B",
+        "Energy": 7.714,
+        "Popularity": 3.97,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "00OQu1CvgaDlmOblV16jDC",
+            "explicit": false,
+            "album": "Everywhere You Go",
+            "release_date": "2023-05-26",
+            "genres": [],
+            "duration": 209285,
+            "acousticness": 0.12,
+            "danceability": 5.824,
+            "instrumentalness": 0.000191,
+            "liveness": 0.0844,
+            "loudness": -5.471,
+            "speechiness": 0.0417,
+            "time_signature": 4,
+            "happiness": 5.077
+        }
+    },
+    {
+        "#": 20,
+        "Track Title": "Mon amour",
+        "Artist": "Felix Magamba, Toni Casablanca",
+        "Key": "9B",
+        "Energy": 7.308999999999999,
+        "Popularity": 5.140000000000001,
+        "BPM": 97,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "64sOrqLlMgne4VvhI0ruEi",
+            "explicit": false,
+            "album": "Mon amour",
+            "release_date": "2023-04-28",
+            "genres": [],
+            "duration": 141867,
+            "acousticness": 0.0716,
+            "danceability": 8.83,
+            "instrumentalness": 0.000331,
+            "liveness": 0.101,
+            "loudness": -4.34,
+            "speechiness": 0.174,
+            "time_signature": 4,
+            "happiness": 8.847999999999999
+        }
+    },
+    {
+        "#": 21,
+        "Track Title": "Way It Is",
+        "Artist": "GC",
+        "Key": "11A",
+        "Energy": 5.86,
+        "Popularity": 3.79,
+        "BPM": 133,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Happy",
+            "PEGI 16 [Age]"
+        ],
+        "Additional Info": {
+            "id": "7MvmvKyJpfHyQDwAYuuap3",
+            "explicit": true,
+            "album": "Way It Is",
+            "release_date": "2023-05-26",
+            "genres": [],
+            "duration": 138684,
+            "acousticness": 0.41,
+            "danceability": 9.415000000000001,
+            "instrumentalness": 2.12e-05,
+            "liveness": 0.115,
+            "loudness": -8.8,
+            "speechiness": 0.279,
+            "time_signature": 4,
+            "happiness": 7.885
+        }
+    },
+    {
+        "#": 22,
+        "Track Title": "That's How I Got To Memphis",
+        "Artist": "Tom T. Hall",
+        "Key": "12B",
+        "Energy": 4.888,
+        "Popularity": 6.31,
+        "BPM": 110,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "90s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5NmBhMK9Pfu1XNAyzmxIro",
+            "explicit": false,
+            "album": "Tom T. Hall - Storyteller, Poet, Philosopher",
+            "release_date": "1995-11-14",
+            "genres": [
+                "classic country pop",
+                "outlaw country"
+            ],
+            "duration": 182467,
+            "acousticness": 0.168,
+            "danceability": 7.3629999999999995,
+            "instrumentalness": 0.000156,
+            "liveness": 0.207,
+            "loudness": -13.432,
+            "speechiness": 0.0368,
+            "time_signature": 4,
+            "happiness": 7.849
+        }
+    },
+    {
+        "#": 23,
+        "Track Title": "Got Me Stone Cold",
+        "Artist": "Tape Machines",
+        "Key": "8A",
+        "Energy": 7.201,
+        "Popularity": 4.96,
+        "BPM": 120,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "4EjbKh1XuAZpZ0u1ry0oyJ",
+            "explicit": false,
+            "album": "Got Me Stone Cold",
+            "release_date": "2020-08-28",
+            "genres": [
+                "scandipop"
+            ],
+            "duration": 198970,
+            "acousticness": 0.0302,
+            "danceability": 6.553,
+            "instrumentalness": 3.06e-06,
+            "liveness": 0.138,
+            "loudness": -5.376,
+            "speechiness": 0.0459,
+            "time_signature": 4,
+            "happiness": 4.546
+        }
+    },
+    {
+        "#": 24,
+        "Track Title": "Piel a Piel",
+        "Artist": "Dame 5",
+        "Key": "9B",
+        "Energy": 9.154,
+        "Popularity": 5.86,
+        "BPM": 112,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "2q3B7GLCEA4uYvuo2g5P82",
+            "explicit": false,
+            "album": "Piel a Piel",
+            "release_date": "2016-12-09",
+            "genres": [
+                "cumbia pop"
+            ],
+            "duration": 155350,
+            "acousticness": 0.0208,
+            "danceability": 7.939,
+            "instrumentalness": 5.54e-05,
+            "liveness": 0.304,
+            "loudness": -5.884,
+            "speechiness": 0.0506,
+            "time_signature": 4,
+            "happiness": 4.897
+        }
+    },
+    {
+        "#": 25,
+        "Track Title": "Linda",
+        "Artist": "Marka Akme",
+        "Key": "10B",
+        "Energy": 7.759,
+        "Popularity": 6.040000000000001,
+        "BPM": 88,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s",
+            "Happy"
+        ],
+        "Additional Info": {
+            "id": "5L4iwTXzuuWcV0m0sEDrgj",
+            "explicit": false,
+            "album": "Linda",
+            "release_date": "2016-06-08",
+            "genres": [
+                "cumbia pop",
+                "cumbia villera"
+            ],
+            "duration": 178464,
+            "acousticness": 0.139,
+            "danceability": 8.308,
+            "instrumentalness": 0,
+            "liveness": 0.357,
+            "loudness": -4.855,
+            "speechiness": 0.0473,
+            "time_signature": 4,
+            "happiness": 9.136000000000001
+        }
+    },
+    {
+        "#": 26,
+        "Track Title": "Olena",
+        "Artist": "The Magic Epic",
+        "Key": "8B",
+        "Energy": 4.2219999999999995,
+        "Popularity": 4.42,
+        "BPM": 114,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "0abOOGvrxmfhO79xdF5oLy",
+            "explicit": false,
+            "album": "Olena",
+            "release_date": "2023-05-19",
+            "genres": [],
+            "duration": 301664,
+            "acousticness": 0.7,
+            "danceability": 5.176,
+            "instrumentalness": 1.14e-05,
+            "liveness": 0.0846,
+            "loudness": -10.979,
+            "speechiness": 0.0327,
+            "time_signature": 4,
+            "happiness": 1.9809999999999999
+        }
+    },
+    {
+        "#": 27,
+        "Track Title": "Walk Away",
+        "Artist": "Facading",
+        "Key": "11B",
+        "Energy": 9.433,
+        "Popularity": 5.7700000000000005,
+        "BPM": 100,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "5xtX0Lf8kP9goFSaVrwGrL",
+            "explicit": false,
+            "album": "Walk Away",
+            "release_date": "2020-06-18",
+            "genres": [
+                "dark r&b"
+            ],
+            "duration": 199200,
+            "acousticness": 0.00444,
+            "danceability": 7.228,
+            "instrumentalness": 0.00153,
+            "liveness": 0.172,
+            "loudness": -1.247,
+            "speechiness": 0.311,
+            "time_signature": 4,
+            "happiness": 3.286
+        }
+    },
+    {
+        "#": 28,
+        "Track Title": "Flutter",
+        "Artist": "Diamond Eyes",
+        "Key": "2A",
+        "Energy": 9.046,
+        "Popularity": 6.040000000000001,
+        "BPM": 80,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2010s"
+        ],
+        "Additional Info": {
+            "id": "7cVEshyrawmEYmtqYtwoPy",
+            "explicit": false,
+            "album": "Flutter",
+            "release_date": "2018-10-17",
+            "genres": [
+                "gaming edm"
+            ],
+            "duration": 240000,
+            "acousticness": 0.0584,
+            "danceability": 6.31,
+            "instrumentalness": 0.000775,
+            "liveness": 0.103,
+            "loudness": -4.932,
+            "speechiness": 0.0531,
+            "time_signature": 4,
+            "happiness": 3.1149999999999998
+        }
+    },
+    {
+        "#": 29,
+        "Track Title": "The Halls of Obsidian",
+        "Artist": "Isolera",
+        "Key": "7B",
+        "Energy": 1.4158,
+        "Popularity": 3.88,
+        "BPM": 141,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s",
+            "Mad",
+            "Calm"
+        ],
+        "Additional Info": {
+            "id": "2oHrNbtUTFu4UJm65xVwAS",
+            "explicit": false,
+            "album": "The Halls of Obsidian",
+            "release_date": "2023-06-14",
+            "genres": [],
+            "duration": 138858,
+            "acousticness": 0.821,
+            "danceability": 2.2600000000000002,
+            "instrumentalness": 0.751,
+            "liveness": 0.0842,
+            "loudness": -27.2,
+            "speechiness": 0.0422,
+            "time_signature": 4,
+            "happiness": 1.4832999999999998
+        }
+    },
+    {
+        "#": 30,
+        "Track Title": "Sentando",
+        "Artist": "Shipu, Rviden",
+        "Key": "10B",
+        "Energy": 8.2,
+        "Popularity": 5.68,
+        "BPM": 130,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "4QCjlsSAFEV8opl2ZYjmVc",
+            "explicit": false,
+            "album": "Sentando",
+            "release_date": "2023-06-02",
+            "genres": [
+                "phonk brasileiro"
+            ],
+            "duration": 99697,
+            "acousticness": 0.00143,
+            "danceability": 7.678,
+            "instrumentalness": 0.848,
+            "liveness": 0.179,
+            "loudness": -2.811,
+            "speechiness": 0.0611,
+            "time_signature": 4,
+            "happiness": 4.015000000000001
+        }
+    },
+    {
+        "#": 31,
+        "Track Title": "Echoes of the Past",
+        "Artist": "Ority",
+        "Key": "7B",
+        "Energy": 5.437,
+        "Popularity": 3.25,
+        "BPM": 75,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "3uZWFnBwcSV3k88cBz7ccZ",
+            "explicit": false,
+            "album": "Echoes of the Past",
+            "release_date": "2023-06-09",
+            "genres": [],
+            "duration": 208004,
+            "acousticness": 0.0038,
+            "danceability": 3.3760000000000003,
+            "instrumentalness": 1.16e-05,
+            "liveness": 0.19,
+            "loudness": -6.479,
+            "speechiness": 0.0405,
+            "time_signature": 3,
+            "happiness": 2.449
+        }
+    },
+    {
+        "#": 32,
+        "Track Title": "No More",
+        "Artist": "Mannymore",
+        "Key": "7A",
+        "Energy": 6.859,
+        "Popularity": 5.59,
+        "BPM": 125,
+        "DJ Play Count": 1,
+        "Rating": "*******",
+        "My Tag": [
+            "",
+            "2020s"
+        ],
+        "Additional Info": {
+            "id": "5irDbNL9BJ4EkdYfpb2wqS",
+            "explicit": false,
+            "album": "No More",
+            "release_date": "2023-02-24",
+            "genres": [],
+            "duration": 126725,
+            "acousticness": 0.245,
+            "danceability": 7.534,
+            "instrumentalness": 3.52e-05,
+            "liveness": 0.349,
+            "loudness": -7.771,
+            "speechiness": 0.0679,
+            "time_signature": 4,
+            "happiness": 2.6559999999999997
+        }
+    }
+]
