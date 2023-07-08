@@ -110,9 +110,9 @@ export default class GraphManager {
         const energyRounded = Math.round(energy); // Change the scaling factor and add 1
         const popularityRounded = Math.round(popularity); 
         this.drawGraph(); // Clear and redraw the graph
-        this.drawStar(x, y, 5, 17, 8);  // Example usage
+        // this.drawStar(x, y, 5, 17, 8);  // Example usage
 
-        // this.drawDot(x, y); // Draw the new dot
+        this.drawDot(x, y); // Draw the new dot
 
         songManager.updateTracksSorting(energy, popularity);
     }

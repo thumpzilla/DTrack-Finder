@@ -252,6 +252,9 @@ export default class SongManager {
         while (this.listOfSongs_UI.firstChild) {
             this.listOfSongs_UI.removeChild(this.listOfSongs_UI.firstChild);
         }
+        // Scroll to the top
+        this.listOfSongs_UI.scrollTop = 0;
+
 
         let newSongList = this.applyTagsFilterToSongs(this.filteredByTagsSongs);
 
