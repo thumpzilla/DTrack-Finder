@@ -1,5 +1,5 @@
 import Song from './Song.js'
-import { showToast, KEYS_LOGIC } from './Utils.js'; // Make sure to import the showToast function
+import { showToast, KEYS_LOGIC, logEventToAnalytics } from './Utils.js'; // Make sure to import the showToast function
 import SongListItemUI from './SongList_UI.js';
 
 export default class SongManager {
@@ -170,12 +170,15 @@ export default class SongManager {
 
         if (typeof bpmRange === 'boolean') {
             this.isBpmFilterActive = false
+            logEventToAnalytics("set-bpm-range", "range-setter","bpm-range-off", false  );
         }
         else{
             // It's a number, and we want to filter according to it. 
             this.isBpmFilterActive = true
             //and update it obviously
             this.bpmRange = bpmRange;
+            logEventToAnalytics("set-bpm-range", "range-setter","bpm-range-on", bpmRange  );
+
         }
         this.#updateSongList();
     }
@@ -185,12 +188,16 @@ export default class SongManager {
         // Activate / deactivate the fi
         if (typeof keyRange === 'boolean') {
             this.isKeyFilterActive = false
+            logEventToAnalytics("set-key-range", "range-setter","key-range-off", false  );
+
         }
         // It's a number, and we want to filter according to it. 
         else{
             this.isKeyFilterActive = true
             //and update it obviously
             this.keyRange = keyRange;
+            logEventToAnalytics("set-key-range", "range-setter","key-range-on", keyRange  );
+
         }
         this.#updateSongList();
     }
@@ -232,6 +239,8 @@ export default class SongManager {
         }
 
         this.activeTags = tags;
+        logEventToAnalytics("set-active-tags", "tag-modified","tags-activated", tags);
+
         this.#updateSongList();
         
         // and if we added, we can just filter more deeply into the current collection
@@ -243,6 +252,8 @@ export default class SongManager {
         this.current_energy = energy;
         this.current_popularity = popularity;
         this.#updateSongList(energy, popularity);
+        logEventToAnalytics("2d-selector-modified-energy-popularity", "set-energy-n-popularity-sorting","sorting-popularity-energy-changed", [energy, popularity] );
+
     }
 
     // Update the song list based on the current BPM range

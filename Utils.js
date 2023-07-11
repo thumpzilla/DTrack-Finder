@@ -150,3 +150,19 @@ export function formatMonthYear(date) {
     
     return `${months[parseInt(month) - 1]}${year}`;
   }
+
+  export function logEventToAnalytics(event_name, category, label, value) {
+    // 'event_name' is the name of the event you're tracking. This could be something like 'button_click', 'form_submission', etc.
+    // 'event_category' is the category of the event. This is usually the object that was interacted with (e.g., 'button').
+    // 'event_label' is an optional parameter that you can use for more granular reporting.
+    // value is an optional numeric value associated with the event (e.g., a score in a game).
+    gtag('event', event_name, {
+      'event_category': category,
+      'event_label': label,
+      'value': value
+    });
+  }
+
+
+
+  
