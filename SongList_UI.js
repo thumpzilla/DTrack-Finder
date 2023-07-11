@@ -401,7 +401,7 @@ export default class SongListItemUI {
     createUIListOfTags(tagsList) {
         const tagsContainer = document.createElement('div');
         tagsContainer.className = 'song-tags';
-        tagsContainer.title = "Drum=BPM, Sound Note=Key, Energy=Energy, Sound Note=Popularity, Play=DJ Play Count"
+        tagsContainer.title = "Drum=BPM, Sound Note=Key, Energy=Energy, Sound Note=Popularity, Play = The number of playlists (we've scanned) that this song apeared in"
         
         for (let tagInfo of tagsList) {
             const tag = this.createTagUI(tagInfo);

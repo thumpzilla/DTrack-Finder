@@ -4,8 +4,8 @@ export default class TagFilter {
     constructor(songManager) {
         this.tagWCategories = {
             'Hot':  [
-                "70s", "80s", "90s", "2000s", "2010s", "2020s", "Pop", "Rock", "EDM", "Reggaeton",
-                "Psy-Trance", "Nostalgic", "Wedding", "Bach Party", "4th of July", "DJ Live Set"
+                "90s", "2000s", "2010s", "2020s", "Pop", "Rock", "EDM", "Reggaeton",
+                "Hip Hop", "Nostalgic", "Wedding", "Bach Party", "Boat Party", "Workout", "College Party", "DJ Live Set"
                                                                     
                 // "Happy", "Fool Around", "Sing", "Pool", "Sexy", "Club", "EDM", "Hip Hop", "Reggaeton",
                 // "Dance Remixes" , "Pop", "Jump", "PEGI 4 [Age]", "Wedding", "Flying High"

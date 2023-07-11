@@ -8,10 +8,18 @@ var APP_PREFIX = 'dtrack_';
 // you need to change this version (version_01, version_02…). 
 // If you don't change the version, the service worker will give your
 // users the old files!
-var VERSION = 'version_04';
+var VERSION = 'version_05';
  
 // The files to make available for offline use.
 var URLS = [
+  `${GHPATH}/data/collections/manifest.json`,
+  `${GHPATH}/data/collections/Playlists_n_DSets_8Jul2023.json`,
+  `${GHPATH}/data/collections/DSets-Special-4Jul2023.json`,
+  // `${GHPATH}/data/collections/DTRacks All 1200 DTracks.json`,
+  // `${GHPATH}/data/collections/Sp- 4July.json`,
+  // `${GHPATH}/data/collections/Sp- College Party.json`,
+  
+
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
   `${GHPATH}/styles.css`,
@@ -55,12 +63,7 @@ var URLS = [
   `${GHPATH}/images/colored/clock-colored.svg`,
 
 
-  `${GHPATH}/data/collections/manifest.json`,
-  `${GHPATH}/data/collections/SpotifyCollectionMerge 21Jun2023.json`,
-  `${GHPATH}/data/collections/DTRacks All 1200 DTracks.json`,
-  `${GHPATH}/data/collections/Sp- 4July.json`,
-  `${GHPATH}/data/collections/Sp- College Party.json`,
-  `${GHPATH}/data/collections/DSets-Collection.json`,
+
 
   
   "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@100;200;300;400;600;700;900&display=swap"
