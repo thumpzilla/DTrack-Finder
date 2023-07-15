@@ -3,13 +3,18 @@ helps you to find the right song for the right time, easily!
 With thousands of songs available, and dozens of filters, and smart sorting - you can find the best tracks for your needs within seconds!
 Available On mobile📱, and desktop💻. It's Open-Source and FREE to use, Enjoy!
 
-[Try NOW! 🎉⚡️✅](https://donraz.github.io/DTrack-Finder/) 
+[Website: & Try Now  🎉⚡️✅](https://www.dtrack-finder.com) 
 
-[Discord Community 💬💬💬](https://discord.gg/u7dtAbvc) 
+[How We choose the best Tracks: 🔍🥁🎪](https://www.dtrack-finder.com/how-we-build-our-collection) 
 
-[Instagram Page 📸💃🕺 ](https://www.instagram.com/ddance_official/) 
+[Video Tutorials 📱🎥🥁 ](https://www.youtube.com/@DTrackFinder) 
 
-[Youtube Channel 📱🎥🥁 ](https://www.youtube.com/channel/UCXw6Q30Gl7S7cz3_UkFBf9Q) 
+[Unleash Your Live DJ Sets🎤🎶🔊](https://www.dtrack-finder.com/add-dset)
+
+[Our Mission 📜📝🎪](https://www.dtrack-finder.com/our-mission)
+
+DTrack-Finder is committed to unlocking your party's full potential by helping you discover the perfect tracks that unite and energize your crowd!
+
 
 # Features Demo 
 
@@ -22,7 +27,7 @@ Available On mobile📱, and desktop💻. It's Open-Source and FREE to use, Enjo
 
 
 
-# Usage Demos
+# DJ Usage Demos
 
 Find the perfect Mashup for any song! (How To)
 
@@ -41,5 +46,10 @@ Quick-Seek 🔍🎶 Drag & Drop to set BPM & Key in an instant:🕺
 Install on Iphone
 
 <a href="https://youtube.com/shorts/Xalwxsj1RB8?feature=share"><img src="https://img.youtube.com/vi/Xalwxsj1RB8/hqdefault.jpg" width="550"></a>
+
+Party Producers' Benefits
+
+<a href="https://www.youtube.com/watch?v=Whuwi62aYv0"><img src="https://img.youtube.com/vi/Whuwi62aYv0/maxresdefault.jpg" width="550"></a>
+
 
 Simply choose your target vibes, favorite genres, and desired BPM, and find the selector will offer you the best songs! Just press the copy button, and paste it to your DJ software / your Spotify Playlist.
