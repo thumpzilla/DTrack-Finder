@@ -13,6 +13,7 @@ export default class GraphManager {
 
         // Update the canvas dimensions when the window is resized
         window.addEventListener('resize', this.updateDimensions.bind(this));
+        
     }
 
     updateDimensions() {
@@ -101,18 +102,18 @@ export default class GraphManager {
 
     handleClick(event, songManager) {
         const rect = this.canvas.getBoundingClientRect();
-        const x = event.clientX - rect.left;
-        const y = event.clientY - rect.top;
+        this.currentX = event.clientX - rect.left;
+        this.currentY = event.clientY - rect.top;
         // Ranging at [1,10]
-        const energy = (x / this.width) * 9 + 1; // Change the scaling factor and add 1
-        const popularity = ((this.height - y) / this.height) * 9 + 1; // Change the scaling factor and add 1
+        const energy = (this.currentX / this.width) * 9 + 1; // Change the scaling factor and add 1
+        const popularity = ((this.height - this.currentY) / this.height) * 9 + 1; // Change the scaling factor and add 1
 
         const energyRounded = Math.round(energy); // Change the scaling factor and add 1
         const popularityRounded = Math.round(popularity); 
         this.drawGraph(); // Clear and redraw the graph
         // this.drawStar(x, y, 5, 17, 8);  // Example usage
 
-        this.drawDot(x, y); // Draw the new dot
+        this.drawDot(this.currentX, this.currentY); // Draw the new dot
 
         songManager.updateTracksSorting(energy, popularity);
     }
@@ -144,6 +145,7 @@ export default class GraphManager {
     
         this.canvas.addEventListener('click', (event) => this.handleClick(event, songManager));
         this.mockClick(KEYS_LOGIC.DEFAULT_ENERGY, KEYS_LOGIC.DEFAULT_POPULARITY); 
+        this.animateDot(300);
 
         // this.initializeDefaultSelection();
     }
@@ -165,4 +167,41 @@ export default class GraphManager {
         this.canvas.dispatchEvent(clickEvent);
     }
     
+    animateDot(duration = 600) {
+        // Store original position
+        const originalX = this.currentX;
+        const originalY = this.currentY;
+        // Define the amount of movement
+        const deltaY = 20;
+        // Define the duration of the animation in ms
+
+    
+        // Get the start time
+        const startTime = performance.now();
+    
+        const animate = (currentTime) => {
+            // Get the elapsed time
+            const elapsedTime = currentTime - startTime;
+    
+            // Calculate the current position
+            const currentY = originalY + deltaY * Math.sin((elapsedTime / duration) * 2 * Math.PI);
+    
+            // Draw the dot at the current position
+            this.drawGraph();
+            this.drawDot(originalX, currentY);
+    
+            // If the animation duration has not been exceeded, request another frame
+            if (elapsedTime < duration) {
+                requestAnimationFrame(animate);
+            } else {
+                // If the animation duration has been exceeded, draw the dot at the original position
+                this.drawGraph();
+
+                this.drawDot(originalX, originalY);
+            }
+        }
+    
+        // Start the animation
+        requestAnimationFrame(animate);
+    }
 }

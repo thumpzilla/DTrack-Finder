@@ -30,9 +30,13 @@ export default class SongManager {
         this.loadMoreButton.id = 'load-more-tracks-btn';
         this.loadMoreButton.textContent = 'See More';
         this.loadMoreButton.addEventListener('click', () => {
-            this.#loadMoreTracks()});
-            
-            
+            this.#loadMoreTracks()
+            showToast("You can sort the songs by energy and popularity, it is the best way to explore the results")
+            this.setTagsSortingView('sorting-criteria');
+            this.graphManager.animateDot();
+            // add animation of the circle selector to show the user that it's interactable.
+            // ____________________ ANIMATION HERE ________________ CALL GraphManager2D.animateDot()
+        });
         this.listOfSongs_UI.appendChild(this.loadMoreButton);
     }
 
@@ -177,14 +181,7 @@ export default class SongManager {
         // Append highlight to the filterSortingSwitchContainer
         this.filterSortingSwitchContainer.appendChild(this.highlight);  
         
-        // Default state
-        this.state = 'song-count'; // Either 'song-count' or 'sorting-criteria'
 
-        this.filterSortingSwitchContainer.addEventListener('click', () => {
-            this.state = this.state === 'song-count' ? 'sorting-criteria' : 'song-count';
-            this.updateParagraphStyles();
-        });
-    
         
         // After the creation of songCountSummaryObject, add a 'contextmenu' event listener to it
         this.songCountSummaryObject.querySelector('p').addEventListener('contextmenu', (event) => {
@@ -194,16 +191,10 @@ export default class SongManager {
 
         this.twoDSelector = document.getElementById('2dSelector'); // style.display - 'block' or 'none'
         this.tagCatalogElement = document.getElementById('tag-catalog'); // style.display - 'block' or 'none'
+
         // Update the event listener for addTagButton
         this.filterSortingSwitchContainer.addEventListener('click', () => {
-            // If its closed now
-            if (this.twoDSelector.style.display === 'none') {
-                this.tagCatalogElement.style.display = 'none';
-                this.twoDSelector.style.display = 'block';
-            } else {
-                this.tagCatalogElement.style.display = 'block';
-                this.twoDSelector.style.display = 'none';
-            }
+            this.setTagsSortingView('toggle');
         });
         
         this.songTextInSummaryObject = document.getElementById("song-count-display");
@@ -216,29 +207,62 @@ export default class SongManager {
         // container.insertBefore(this.filterSortingSwitchContainer, container.childNodes[2]); // inserting after song-list
     }
 
-    updateParagraphStyles() {
-        requestAnimationFrame(() => {
-            if (this.state === 'song-count') {
-                this.sortTextInSummaryObject.style.color = '#E6E6EA';
-                this.sortTextInSummaryObject.style.fontWeight = '600';
-                this.songTextInSummaryObject.style.color = '#CDCDD6';
-                this.songTextInSummaryObject.style.fontWeight = '200';
-                // highlight
-                this.highlight.style.transform = 'translateX(102%)';
-
-            } else {
-                this.songTextInSummaryObject.style.color = '#E6E6EA';
-                this.songTextInSummaryObject.style.fontWeight = '600';
-                this.sortTextInSummaryObject.style.color = '#CDCDD6';
-                this.sortTextInSummaryObject.style.fontWeight = '300';
-
-                //highlight
-                this.highlight.style.transform = 'translateX(-2%)';
-
+    setTagsSortingView(changeToState = 'toggle'){
+        // 1. Deciding Which state we want to have after this function runs
+        // if we just want to toggle the current state
+        if (changeToState  === 'toggle') {
+            // If we currently in 2Dselector (energy-popularity sorting)
+            if (this.twoDSelector.style.display === 'block') {
+                changeToState = 'tags-filter'; // song count is tags mode
             }
-        });
+            else{
+                // We want to change to sortingfd
+                changeToState = 'sorting-criteria';
+            }            
+        }
+        console.log("bad value of changeToState = " + changeToState);
+
+        if (
+            changeToState !== 'tags-filter' &&
+            changeToState !== 'sorting-criteria'
+          ) {
+            // Invalid state, throw an error or handle the situation accordingly
+            console.log("bad value of changeToState = " + changeToState);
+            changeToState = 'tags-filter';
+          }
+
+        if (changeToState === 'sorting-criteria') {
+            // 2a. apply the highlight change
+            this.sortTextInSummaryObject.style.color = '#E6E6EA';
+            this.sortTextInSummaryObject.style.fontWeight = '600';
+            this.songTextInSummaryObject.style.color = '#CDCDD6';
+            this.songTextInSummaryObject.style.fontWeight = '200';
+            // highlight
+            this.highlight.style.transform = 'translateX(102%)';
+
+
+            // 3a. show / hide the sections
+            this.tagCatalogElement.style.display = 'none';
+            this.twoDSelector.style.display = 'block';
+        } else {
+
+            // 2b. apply the highlight change
+            this.songTextInSummaryObject.style.color = '#E6E6EA';
+            this.songTextInSummaryObject.style.fontWeight = '600';
+            this.sortTextInSummaryObject.style.color = '#CDCDD6';
+            this.sortTextInSummaryObject.style.fontWeight = '300';
+            //highlight
+            this.highlight.style.transform = 'translateX(-2%)';
+
+
+             // 3b. show / hide the sections
+            this.tagCatalogElement.style.display = 'block';
+            this.twoDSelector.style.display = 'none';
+        }
+
     }
-    
+
+ 
 
     // __________________________________ BPM __________________________________
     // Set the BPM range and update the song list
@@ -428,5 +452,10 @@ export default class SongManager {
         this.sortTextInSummaryObject.appendChild(this.popularityImage);
         this.sortTextInSummaryObject.appendChild(this.popularitySpan);
     }
+
+    setGraphManager(graphManager) {
+        this.graphManager = graphManager;
+    }
+    
 
 } 

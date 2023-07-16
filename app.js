@@ -64,7 +64,10 @@ createSongExamplesFromJson().then((result) => {
 
     graphManager = new GraphManager();
     graphManager.drawGraph();
+    // Set GraphManager and SongManager Interactions
     graphManager.initializeInteraction(songManager);
+    songManager.setGraphManager(graphManager);
+
     
     // Bind BpmSlider To Graph Manager
     advancedFilters = new AdvancedFilters(songManager)
