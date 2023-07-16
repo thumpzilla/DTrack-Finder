@@ -4,8 +4,8 @@ export default class TagFilter {
     constructor(songManager) {
         this.tagWCategories = {
             'Hot':  [
-                "90s", "2000s", "2010s", "2020s", "Pop", "Rock", "EDM", "Reggaeton",
-                "Hip Hop", "Nostalgic", "Wedding", "Bach Party", "Boat Party", "Workout", "College Party", "DJ Live Set"
+                "90s", "2000s", "2010s", "2020s", "Pop", "EDM", "Reggaeton", "Kibutz IL", "Hip Hop", "Nostalgic",
+                 "Wedding", "Bach Party", "Boat Party", "Workout", "College Party", "DJ Live Set"
                                                                     
                 // "Happy", "Fool Around", "Sing", "Pool", "Sexy", "Club", "EDM", "Hip Hop", "Reggaeton",
                 // "Dance Remixes" , "Pop", "Jump", "PEGI 4 [Age]", "Wedding", "Flying High"
@@ -16,7 +16,7 @@ export default class TagFilter {
             //     "Drink Up", "MC Hype", "Inspiring" 
             // ],
             'Occasion': [
-                "4th of July", "College Party", "Bach Party", "Wedding", "Kids Party", "Workout", "Boat Party", "Sweet 16" // "USA Party",
+                "College Party", "Bach Party", "Wedding", "Kids Party", "Workout", "Boat Party", "Sweet 16", "USA Party",
             ],
             'Eras': [
                 "60s", "70s", "80s", "90s", "2000s", "2010s", "2020s",
@@ -24,7 +24,7 @@ export default class TagFilter {
             'Genres':  [
                 "Pop", "Dance Remixes", "EDM", "Hip Hop", "Rock",  "Reggaeton", "Tribal",  
                 "Psy-Trance", "Nostalgic", "Club-Hotel",
-                "Kibutz IL", "Mizrahit IL",// "Israeli - Kibutz", "Mizrahit"
+                "Kibutz IL", "Mizrahit IL",
             ],
             // 'Collections': [ 
             //      "DTracks", "DSet" , "Playlists",
