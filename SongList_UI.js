@@ -271,8 +271,7 @@ export default class SongListItemUI {
     }
 
     getThumbnailUrl() {
-        const youtubeVideoId = this.song.additional_info.link.split('v=')[1].substring(0, 11);
-        return `https://img.youtube.com/vi/${youtubeVideoId}/0.jpg`;
+        return `https://img.youtube.com/vi/${this.song.additional_info.link}/0.jpg`;
     }
 
 
@@ -283,7 +282,7 @@ export default class SongListItemUI {
         youtubeLink.target = '_blank'; // This should be set here
         console.log("SongListUI.createYoutubeLink - the link is" + this.song.additional_info.link);
         // Extract the YouTube video ID from the link
-        const youtubeVideoId = this.song.additional_info.link.split('v=')[1].substring(0, 11);
+        const youtubeVideoId = this.song.additional_info.link;
     
         youtubeLink.href = `https://www.youtube.com/watch?v=${youtubeVideoId}`;
         youtubeLink.style.fontSize = '1rem'; // Keeping text size consistent
