@@ -117,14 +117,32 @@ canvas {
     max-width: 100%;
     height: 100%; /* Corresponding to 3 elements (each has 1 rem padding, and 0.5 rem margin*/
     overflow-y: auto;
+    scrollbar-width: thin;
+    scrollbar-color: darkpurple transparent;    
+    
+  }
 
-}
+  #load-more-tracks-btn{
+    padding: 0.2rem;
+    font-weight: 700;
+    color: #FD92C0;
+    cursor: pointer;
+    background-color: transparent;
+    border: transparent;
+    bottom: 0.5rem;  /* 0.5rem from the bottom */
+    display: block;
+    margin: 0.2rem auto; 
+
+  }
+
+
 .song-title {
     font-size: 1rem;
     font-weight: 600;
     font-weight: bold;
     margin-bottom: 0.1rem;
     overflow: hidden;
+    
 }
 .dset-title {
   background: linear-gradient(#B145AC ,#FD92C0, #B145AC);
@@ -209,10 +227,7 @@ ol {
   background: #323E5C; /* Change the scrollbar color on hover */
 }
 
-.song-list {
-  scrollbar-width: thin;
-  scrollbar-color: darkpurple transparent;
-}
+
 
 
  /* _______________________ List Item ___________________ Start*/

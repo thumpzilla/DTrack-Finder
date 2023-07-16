@@ -13,17 +13,96 @@ export default class SongManager {
         this.isBpmFilterActive=true;
         this.keyRange = []
 
-
         this.activeTags = []; // Active tags
         this.listOfSongs_UI = document.getElementById('songs');//'#song-list'
         this.listOfSongs_UI.addEventListener('click', (event) => this.handleListClick(event));
+        this.createLoadMoreTracksBtn()
 
         this.createFilterSortingSwitch();
-    //    this.createBpmKeySwitch();
+    }
+    
+    createLoadMoreTracksBtn(){
+        // The amount of songs to load each time
+        console.log("entered createLoadMoreTracksBtn()")
+        this.loadCount = 30;
+
+        this.loadMoreButton = document.createElement('button');
+        this.loadMoreButton.id = 'load-more-tracks-btn';
+        this.loadMoreButton.textContent = 'See More';
+        this.loadMoreButton.addEventListener('click', () => {
+            this.#loadMoreTracks()});
+            
+            
+        this.listOfSongs_UI.appendChild(this.loadMoreButton);
     }
 
 
-    
+    #loadMoreTracks() {
+        // Remove the Load More button (it should be after all the songs)
+        if (this.listOfSongs_UI.lastChild) {
+            this.listOfSongs_UI.removeChild(this.listOfSongs_UI.lastChild);
+        }
+
+        // Display sorted songs
+        this.currentSortedSongs.slice(this.startIndex, this.startIndex + this.loadCount).forEach((song, index) => {
+            const songUI = new SongListItemUI(song);
+            const listItem = songUI.createCollapsedState();
+            listItem.dataset.index = this.startIndex + index; // Adjust the index
+            this.listOfSongs_UI.appendChild(listItem);
+        });
+
+        // Increase the startIndex 
+        this.startIndex += this.loadCount;
+
+        // Show the 'See More' button if there are more songs to load
+        if (this.currentSortedSongs.length > this.startIndex) {
+            this.listOfSongs_UI.appendChild(this.loadMoreButton);
+        }
+        
+    }
+
+    #updateSongList() {
+        // Clear the existing song list
+        while (this.listOfSongs_UI.firstChild) {
+            this.listOfSongs_UI.removeChild(this.listOfSongs_UI.firstChild);
+        }
+        // Scroll to the top
+        this.listOfSongs_UI.scrollTop = 0;
+
+
+        let newSongList = this.applyTagsFilterToSongs(this.filteredByTagsSongs);
+
+        if (this.isBpmFilterActive)
+            newSongList = this.getSongsWithinBpmRange(newSongList); //BPM Filter
+        
+        if (this.isKeyFilterActive)
+            newSongList = this.getSongsWithinKeyRange(newSongList); // Key Filter
+
+        // _________________________________ TEXT REPLACE __________________________________ START
+        this.songTextInSummaryObject.innerText = `${newSongList.length} results`;
+
+        // Update the text
+        this.energySpan.innerText = `${Math.round(this.current_energy)}`;
+        this.popularitySpan.innerText = `${Math.round(this.current_popularity)}`;
+
+        // _________________________________ TEXT REPLACE __________________________________ END
+        // Sort songs based on their distance to the selected point
+
+        this.currentSortedSongs = this.sortByProximity(this.current_energy, this.current_popularity, newSongList);
+            
+        
+        // Reset the startIndex
+        this.startIndex = 0;
+
+        this.#loadMoreTracks();
+
+
+        // Initially load the songs
+
+    }
+
+        
+
     createSummaryObject(containerId, idOfTextField, svgImagePath, imageDivPath, activeIndicatorId) {
         // create the div container
         let container = document.createElement('div');
@@ -256,45 +335,6 @@ export default class SongManager {
 
     }
 
-    // Update the song list based on the current BPM range
-    #updateSongList() {
-        /* NOTE THAT THE DEFAULT canvas drawing of Energy=4 and Popularity=8 Are in GraphManager2D.initializeDefaultSelection*/
-        // Clear the existing song list
-        while (this.listOfSongs_UI.firstChild) {
-            this.listOfSongs_UI.removeChild(this.listOfSongs_UI.firstChild);
-        }
-        // Scroll to the top
-        this.listOfSongs_UI.scrollTop = 0;
-
-
-        let newSongList = this.applyTagsFilterToSongs(this.filteredByTagsSongs);
-
-        if (this.isBpmFilterActive)
-            newSongList = this.getSongsWithinBpmRange(newSongList); //BPM Filter
-        
-        if (this.isKeyFilterActive)
-            newSongList = this.getSongsWithinKeyRange(newSongList); // Key Filter
-
-        // _________________________________ TEXT REPLACE __________________________________ START
-        this.songTextInSummaryObject.innerText = `${newSongList.length} results`;
-
-        // Update the text
-        this.energySpan.innerText = `${Math.round(this.current_energy)}`;
-        this.popularitySpan.innerText = `${Math.round(this.current_popularity)}`;
-
-        // _________________________________ TEXT REPLACE __________________________________ END
-        // Sort songs based on their distance to the selected point
-
-        this.currentSortedSongs = this.sortByProximity(this.current_energy, this.current_popularity, newSongList);
-
-        // Display sorted songs (only first 5)
-        this.currentSortedSongs.slice(0,30).forEach((song, index) => {
-            const songUI = new SongListItemUI(song);
-            const listItem = songUI.createCollapsedState();
-            listItem.dataset.index = index;
-            this.listOfSongs_UI.appendChild(listItem);
-        });
-    }
 
     distance(x1, y1, x2, y2) {
         return Math.sqrt(Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2));
