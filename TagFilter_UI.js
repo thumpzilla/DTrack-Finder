@@ -32,7 +32,7 @@ export default class TagFilter {
             //     "Sp- Bach Israel", "Sp- Wedding", "Sp- PsyTrance", "Sp- Nostalgic", "Sp- Party by Eras", "Sp- 4July", "Sp- College Party",
             // ],
             'Extra': [
-                "Sing", "Happy", "Fight & Fog", "Playlists", "DJ Live Set", "Favourite"
+                "Sing", "Happy", "Fight & Fog", "Playlists", "DJ Live Set", "Favorite"
                 // "Girl Power", "Darbuka", "Israel [Loc]", "California [Loc]", 
                 // "Morning", "Sunset", "Israel", "PEGI 16 [Age]", "PEGI 4 [Age]",
 

@@ -144,11 +144,8 @@ canvas {
     overflow: hidden;
     
 }
-.dset-title {
-  background: linear-gradient(#B145AC ,#FD92C0, #B145AC);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
+  
+
 
 .dset-thumbnail{
   background-color: #3A41A3;
@@ -161,7 +158,11 @@ canvas {
 }
 
 .dset-artist {
-  font-weight: 400 ;
+  font-weight: 800 ;
+  /* font-size: 1rem; */
+  background: linear-gradient(#B145AC ,#FD92C0, #B145AC);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 .dset-tag {
   margin: 0.1rem 0.3rem 0.2rem 0rem;
@@ -284,6 +285,34 @@ li:hover {
     overflow: hidden; /* Hide overflowed text */
     text-overflow: ellipsis; /* Display ellipsis when the text overflows */
 }
+
+.favorite-song{
+  color : #FFB319;
+
+}
+
+/*__________________ List item animation ____________________ Start */
+@keyframes swipe-right {
+  0% { transform: translateX(0); }
+  50% { transform: translateX(1rem) rotate(6deg); }
+  100% { transform: translateX(0); }
+}
+
+@keyframes swipe-left {
+  0% { transform: translateX(0); }
+  50% { transform: translateX(-1rem) rotate(-6deg); }
+  100% { transform: translateX(0); }
+}
+
+.swipe-right {
+  animation: swipe-right 0.3s;
+}
+
+.swipe-left {
+  animation: swipe-left 0.3s;
+}
+/*__________________ List item animation ____________________ END */
+
 
 /* _____________________________ Results count and sorting _______________________ START */
 #filter-sorting-switch-container {

@@ -48,12 +48,23 @@ export default class Song {
         }
     }
 
-    addTagToFavourite() {
-        if (!this.myTags.includes('Favourite')) {
-            this.myTags.push('Favourite');
-            showToast(`${this.trackTitle} added to favourites`);
+    addTagToFavorite() {
+        if (!this.myTags.includes('Favorite')) {
+            this.myTags.push('Favorite');
+            showToast(`${this.trackTitle} added to Favorite`);
         } else {
-            showToast(`${this.trackTitle} is already a favourite`);
+            showToast(`${this.trackTitle} is already a Favorite`);
+        }
+    }
+
+
+    removeFromFavorite() {
+        const index = this.myTags.indexOf('Favorite');
+        if (index > -1) {
+            this.myTags.splice(index, 1);
+            showToast(`${this.trackTitle} removed from Favorite`);
+        } else {
+            showToast(`${this.trackTitle} is not a Favorite`);
         }
     }
 }

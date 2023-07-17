@@ -47,60 +47,6 @@ export default class SongManager {
         }
     }
 
-    // handleListClick(event) {
-    //     // If the copy button was clicked, don't do anything.
-    //     if (event.target.classList.contains('copy-button')) {
-    //         return;
-    //     }
-
-    //     // Find the closest parent li of the clicked element
-    //     const listItem = event.target.closest('li');
-        
-    //     if (listItem) {
-    //         let song = JSON.parse(listItem.dataset.song);
-
-    //         // Add favorite tag to song on right click
-    //         listItem.addEventListener('contextmenu', (e) => {
-    //             e.preventDefault();
-    //             listItem.dataset.song = this.addSongToFavorite(song)
-    //         });
-
-    //         // Mobile long press event listener
-    //         let pressTimer;
-    //         listItem.addEventListener('touchstart', (e) => {
-    //             e.preventDefault();
-    //             pressTimer = setTimeout(() => {
-    //                 listItem.dataset.song = this.addSongToFavorite(song)
-    //             }, 1000);  // Trigger after one second
-    //         });
-    //         listItem.addEventListener('touchend', (e) => {
-    //             clearTimeout(pressTimer);
-    //         });
-
-    //         if (listItem.querySelector('.song-details')) {
-    //             listItem.removeChild(listItem.querySelector('.song-details'));
-    //         } else {
-    //             const songUI = new SongListItemUI(song);
-    //             songUI.createExpandedState(listItem);
-    //         }
-    //     }
-    // }
-
-    // addSongToFavorite(song){
-        
-    //     song = this.addFavoriteTag(song);
-    //     showToast("Song has been added to your favorites, THIS IS EXPERIMENTAL, IT WILL NOT BE SAVED!", 6000);
-
-    //     return JSON.stringify(song);  // Update the dataset
-        
-    // }
-
-    // addFavoriteTag(song) {
-    //     // We are directly modifying the song object in the allSongs array
-    //     const songInArray = this.allSongs.find(s => s.trackTitle === song.trackTitle && s.artist === song.artist);
-    //     songInArray.addTagToFavourite();
-    //     return songInArray;
-    // }
     createSummaryObject(containerId, idOfTextField, svgImagePath, imageDivPath, activeIndicatorId) {
         // create the div container
         let container = document.createElement('div');

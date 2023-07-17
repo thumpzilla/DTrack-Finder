@@ -18,18 +18,18 @@ export default class SongListItemUI {
         const title = document.createElement('div');
         title.className = 'song-title';
         title.textContent = `${this.song.trackTitle}`;
-        if (this.song.myTags.includes('Favourite')) {
+        if (this.song.myTags.includes('Favorite')) {
             // listItem.style.backgroundColor = 'rgba(168, 142, 35, 0.9)';
-            title.style.color = '#FFB319';
-
+            // title.style.color = '#FFB319';
+            title.classList.add('favorite-song');
         }
 
 
 
-        // means this is youtube dset
-        if (this.song.myTags.includes('DSet')){
-            title.classList.add('dset-title');
-        }
+        // // means this is youtube dset
+        // if (this.song.myTags.includes('DSet')){
+        //     title.classList.add('dset-title');
+        // }
         leftContainer.appendChild(title);
     
         const artist = document.createElement('div');
@@ -48,24 +48,57 @@ export default class SongListItemUI {
         listItem.appendChild(container);
         listItem.dataset.song = JSON.stringify(this.song);
 
+        ////////////// _______________ ADD SONG TO FAVORITES ________________ Start
+        let touchstartX = 0;
+        let touchendX = 0;
+
+        function handleGesture() {
+            if (touchendX > touchstartX && Math.abs(touchendX - touchstartX) > 50) { // Right swipe
+                this.addSongToFavorite(listItem);
+            } else if (touchendX < touchstartX && Math.abs(touchendX - touchstartX) > 50) { // Left swipe
+                this.removeSongFromFavorite(listItem);
+            }
+        }
+
+        listItem.addEventListener('touchstart', (e) => {
+            touchstartX = e.changedTouches[0].screenX;
+        });
+
+        listItem.addEventListener('touchend', (e) => {
+            touchendX = e.changedTouches[0].screenX;
+            handleGesture.bind(this)();
+        });
 
         // Right click event listener
         listItem.addEventListener('contextmenu', (e) => {
             e.preventDefault();
-            this.song.addTagToFavourite();
+            if (!this.song.myTags.includes('Favorite')) {
+                this.addSongToFavorite(listItem);
+            } else {
+                this.removeSongFromFavorite(listItem);
+
+            }
         });
 
-        // Mobile long press event listener
-        let pressTimer;
-        listItem.addEventListener('touchstart', (e) => {
-            e.preventDefault();
-            pressTimer = setTimeout(() => this.song.addTagToFavourite(), 1000);  // Trigger after one second
-        });
-        listItem.addEventListener('touchend', (e) => {
-            clearTimeout(pressTimer);
+        listItem.addEventListener('animationend', () => {
+            listItem.classList.remove('swipe-right');
+            listItem.classList.remove('swipe-left');
         });
 
+        
         return listItem;
+    }
+
+    addSongToFavorite(listItem){
+        this.song.addTagToFavorite();
+        listItem.classList.add('swipe-right');
+        listItem.querySelector('.song-title').classList.add('favorite-song');
+    }
+
+    removeSongFromFavorite(listItem){
+        this.song.removeFromFavorite();
+        listItem.classList.add('swipe-left');
+        listItem.querySelector('.song-title').classList.remove('favorite-song');
     }
 
     createExpandedState(listItem) {
