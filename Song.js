@@ -1,3 +1,5 @@
+import { showToast} from './Utils.js'
+
 export default class Song {
     constructor(trackTitle, artist, bpm, key, djPlayCount, rating, myTag, energy, popularity, additional_info = null) {
         this.trackTitle = trackTitle; 
@@ -43,6 +45,15 @@ export default class Song {
             return this.djPlayCount < playCountRange[1];
         } else {
             return this.djPlayCount >= playCountRange[0] && this.djPlayCount <= playCountRange[1];
+        }
+    }
+
+    addTagToFavourite() {
+        if (!this.myTags.includes('Favourite')) {
+            this.myTags.push('Favourite');
+            showToast(`${this.trackTitle} added to favourites`);
+        } else {
+            showToast(`${this.trackTitle} is already a favourite`);
         }
     }
 }

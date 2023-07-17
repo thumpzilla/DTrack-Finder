@@ -18,6 +18,14 @@ export default class SongListItemUI {
         const title = document.createElement('div');
         title.className = 'song-title';
         title.textContent = `${this.song.trackTitle}`;
+        if (this.song.myTags.includes('Favourite')) {
+            // listItem.style.backgroundColor = 'rgba(168, 142, 35, 0.9)';
+            title.style.color = '#FFB319';
+
+        }
+
+
+
         // means this is youtube dset
         if (this.song.myTags.includes('DSet')){
             title.classList.add('dset-title');
@@ -39,6 +47,24 @@ export default class SongListItemUI {
 
         listItem.appendChild(container);
         listItem.dataset.song = JSON.stringify(this.song);
+
+
+        // Right click event listener
+        listItem.addEventListener('contextmenu', (e) => {
+            e.preventDefault();
+            this.song.addTagToFavourite();
+        });
+
+        // Mobile long press event listener
+        let pressTimer;
+        listItem.addEventListener('touchstart', (e) => {
+            e.preventDefault();
+            pressTimer = setTimeout(() => this.song.addTagToFavourite(), 1000);  // Trigger after one second
+        });
+        listItem.addEventListener('touchend', (e) => {
+            clearTimeout(pressTimer);
+        });
+
         return listItem;
     }
 

@@ -19,7 +19,7 @@ export function generateRandomFloats(amountOfNumbers, minValue, maxValue) {
     return floats;
 }
 
-export function showToast(message) {
+export function showToast(message, lengthInMiliSec = 3000) {
     const toast = document.createElement('div');
     toast.className = 'toast';
     toast.textContent = message;
@@ -34,7 +34,7 @@ export function showToast(message) {
         setTimeout(() => {
             container.removeChild(toast);
         }, 1000);
-    }, 3000);
+    }, lengthInMiliSec);
 }
 
 export async function createSongExamplesFromJson() {

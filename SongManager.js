@@ -24,82 +24,83 @@ export default class SongManager {
 
         this.createFilterSortingSwitch();
     }
-    
-    createLoadMoreTracksBtn(){
-        // The amount of songs to load each time
-        this.loadCount = 30;
 
-        this.loadMoreButton = document.createElement('button');
-        this.loadMoreButton.id = 'load-more-tracks-btn';
-        this.loadMoreButton.textContent = 'See More';
-        this.loadMoreButton.addEventListener('click', () => {
-            this.#loadMoreTracks()
-            showToast("You can sort the songs by energy and popularity, it is the best way to explore the results")
-            this.setTagsSortingView('sorting-criteria');
-            this.graphManager.animateDot();
-        });
-        this.createPlayCountStateCircle();
 
-        this.listOfSongs_UI.appendChild(this.loadMoreButton);
-    }
-
-    createPlayCountStateCircle() {
-        this.playCountStates = [[0,150], [4,150], [10,150]];
-        this.currentStateIndex = 0;
-
-        // Right click event listener
-        this.loadMoreButton.addEventListener('contextmenu', (e) => {
-            e.preventDefault();
-            this.setPlayCountRange();
-        });
-
-        // Mobile long press event listener
-        let pressTimer;
-        this.loadMoreButton.addEventListener('touchstart', (e) => {
-            e.preventDefault();
-            pressTimer = setTimeout(this.setPlayCountRange.bind(this), 1000);  // Trigger after one second
-        });
-        this.loadMoreButton.addEventListener('touchend', (e) => {
-            clearTimeout(pressTimer);
-        });
-    }
-
-    setPlayCountRange() {
-        this.currentStateIndex = (this.currentStateIndex + 1) % this.playCountStates.length;
-        this.playCountRange = this.playCountStates[this.currentStateIndex];
-        showToast("Toggled Filter PlayCount, to minimum "
-         +  this.playCountRange[0] +
-          " Plays! got into the pro stuff ha?" );
-        this.#updateSongList();
-    }
-
-    #loadMoreTracks() {
-        // Remove the Load More button (it should be after all the songs)
-        if (this.listOfSongs_UI.lastChild) {
-            this.listOfSongs_UI.removeChild(this.listOfSongs_UI.lastChild);
+    handleListClick(event) {
+        // If the copy button was clicked, don't do anything.
+        if (event.target.classList.contains('copy-button')) {
+            return;
         }
 
-        // Display sorted songs
-        this.currentSortedSongs.slice(this.startIndex, this.startIndex + this.loadCount).forEach((song, index) => {
-            const songUI = new SongListItemUI(song);
-            const listItem = songUI.createCollapsedState();
-            listItem.dataset.index = this.startIndex + index; // Adjust the index
-            this.listOfSongs_UI.appendChild(listItem);
-        });
-
-        // Increase the startIndex 
-        this.startIndex += this.loadCount;
-
-        // Show the 'See More' button if there are more songs to load
-        if (this.currentSortedSongs.length > this.startIndex) {
-            this.listOfSongs_UI.appendChild(this.loadMoreButton);
-        }
+        // Find the closest parent li of the clicked element
+        const listItem = event.target.closest('li');
         
+        if (listItem) {
+            const song = JSON.parse(listItem.dataset.song);
+
+            if (listItem.querySelector('.song-details')) {
+                listItem.removeChild(listItem.querySelector('.song-details'));
+            } else {
+                const songUI = new SongListItemUI(song);
+                songUI.createExpandedState(listItem);
+            }
+        }
     }
 
-   
-        
+    // handleListClick(event) {
+    //     // If the copy button was clicked, don't do anything.
+    //     if (event.target.classList.contains('copy-button')) {
+    //         return;
+    //     }
 
+    //     // Find the closest parent li of the clicked element
+    //     const listItem = event.target.closest('li');
+        
+    //     if (listItem) {
+    //         let song = JSON.parse(listItem.dataset.song);
+
+    //         // Add favorite tag to song on right click
+    //         listItem.addEventListener('contextmenu', (e) => {
+    //             e.preventDefault();
+    //             listItem.dataset.song = this.addSongToFavorite(song)
+    //         });
+
+    //         // Mobile long press event listener
+    //         let pressTimer;
+    //         listItem.addEventListener('touchstart', (e) => {
+    //             e.preventDefault();
+    //             pressTimer = setTimeout(() => {
+    //                 listItem.dataset.song = this.addSongToFavorite(song)
+    //             }, 1000);  // Trigger after one second
+    //         });
+    //         listItem.addEventListener('touchend', (e) => {
+    //             clearTimeout(pressTimer);
+    //         });
+
+    //         if (listItem.querySelector('.song-details')) {
+    //             listItem.removeChild(listItem.querySelector('.song-details'));
+    //         } else {
+    //             const songUI = new SongListItemUI(song);
+    //             songUI.createExpandedState(listItem);
+    //         }
+    //     }
+    // }
+
+    // addSongToFavorite(song){
+        
+    //     song = this.addFavoriteTag(song);
+    //     showToast("Song has been added to your favorites, THIS IS EXPERIMENTAL, IT WILL NOT BE SAVED!", 6000);
+
+    //     return JSON.stringify(song);  // Update the dataset
+        
+    // }
+
+    // addFavoriteTag(song) {
+    //     // We are directly modifying the song object in the allSongs array
+    //     const songInArray = this.allSongs.find(s => s.trackTitle === song.trackTitle && s.artist === song.artist);
+    //     songInArray.addTagToFavourite();
+    //     return songInArray;
+    // }
     createSummaryObject(containerId, idOfTextField, svgImagePath, imageDivPath, activeIndicatorId) {
         // create the div container
         let container = document.createElement('div');
@@ -412,26 +413,7 @@ export default class SongManager {
             return aDistance - bDistance;
         });
     }
-    handleListClick(event) {
-        // If the copy button was clicked, don't do anything.
-        if (event.target.classList.contains('copy-button')) {
-            return;
-        }
 
-        // Find the closest parent li of the clicked element
-        const listItem = event.target.closest('li');
-        
-        if (listItem) {
-            const song = JSON.parse(listItem.dataset.song);
-
-            if (listItem.querySelector('.song-details')) {
-                listItem.removeChild(listItem.querySelector('.song-details'));
-            } else {
-                const songUI = new SongListItemUI(song);
-                songUI.createExpandedState(listItem);
-            }
-        }
-    }
 
     copySongsToClipboard() {
         // If there are no songs, we don't need to copy anything
@@ -497,6 +479,84 @@ export default class SongManager {
     setGraphManager(graphManager) {
         this.graphManager = graphManager;
     }
+
+
+
+
+
+    createLoadMoreTracksBtn(){
+        // The amount of songs to load each time
+        this.loadCount = 30;
+
+        this.loadMoreButton = document.createElement('button');
+        this.loadMoreButton.id = 'load-more-tracks-btn';
+        this.loadMoreButton.textContent = 'See More';
+        this.loadMoreButton.addEventListener('click', () => {
+            this.#loadMoreTracks()
+            showToast("You can sort the songs by energy and popularity, it is the best way to explore the results")
+            this.setTagsSortingView('sorting-criteria');
+            this.graphManager.animateDot();
+        });
+        this.createPlayCountStateCircle();
+
+        this.listOfSongs_UI.appendChild(this.loadMoreButton);
+    }
+
+    createPlayCountStateCircle() {
+        this.playCountStates = [[0,150], [4,150], [10,150]];
+        this.currentStateIndex = 0;
+
+        // Right click event listener
+        this.loadMoreButton.addEventListener('contextmenu', (e) => {
+            e.preventDefault();
+            this.setPlayCountRange();
+        });
+
+        // Mobile long press event listener
+        let pressTimer;
+        this.loadMoreButton.addEventListener('touchstart', (e) => {
+            e.preventDefault();
+            pressTimer = setTimeout(this.setPlayCountRange.bind(this), 1000);  // Trigger after one second
+        });
+        this.loadMoreButton.addEventListener('touchend', (e) => {
+            clearTimeout(pressTimer);
+        });
+    }
+
+    setPlayCountRange() {
+        this.currentStateIndex = (this.currentStateIndex + 1) % this.playCountStates.length;
+        this.playCountRange = this.playCountStates[this.currentStateIndex];
+        showToast("Toggled Filter PlayCount, to minimum "
+         +  this.playCountRange[0] +
+          " Plays! got into the pro stuff ha?" );
+        this.#updateSongList();
+    }
+
+    #loadMoreTracks() {
+        // Remove the Load More button (it should be after all the songs)
+        if (this.listOfSongs_UI.lastChild) {
+            this.listOfSongs_UI.removeChild(this.listOfSongs_UI.lastChild);
+        }
+
+        // Display sorted songs
+        this.currentSortedSongs.slice(this.startIndex, this.startIndex + this.loadCount).forEach((song, index) => {
+            const songUI = new SongListItemUI(song);
+            const listItem = songUI.createCollapsedState();
+            listItem.dataset.index = this.startIndex + index; // Adjust the index
+            this.listOfSongs_UI.appendChild(listItem);
+        });
+
+        // Increase the startIndex 
+        this.startIndex += this.loadCount;
+
+        // Show the 'See More' button if there are more songs to load
+        if (this.currentSortedSongs.length > this.startIndex) {
+            this.listOfSongs_UI.appendChild(this.loadMoreButton);
+        }
+        
+    }
+
+   
     
 
 } 
