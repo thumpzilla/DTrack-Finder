@@ -16,7 +16,6 @@ export function generateRandomFloats(amountOfNumbers, minValue, maxValue) {
         const randomFloat = Math.random() * (maxValue - minValue) + minValue;
         floats.push(randomFloat);
     }
-
     return floats;
 }
 

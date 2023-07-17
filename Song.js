@@ -4,7 +4,7 @@ export default class Song {
         this.artist = artist ? artist.replace(/;/g, ' & ') : ''; // Replace ';' with ' & ' if artist is not null
         this.bpm = Math.round(bpm);
         this.key = key === null ? 'unknown' : key; // Replace null with empty string
-        this.djPlayCount = djPlayCount;
+        this.djPlayCount = djPlayCount; // integer
         try{
             this.rating = rating.replace(/\*/g, '⭐️'); // Replace '*' with '⭐️'
         } catch (error) {
@@ -30,5 +30,19 @@ export default class Song {
 
     hasTag(tag) {
         return this.myTags.includes(tag);
+    }
+
+    // Check if Dj Play Count is more or less than the given value
+    isPlayCountInRange(playCountRange) {
+        // playCountRange is an array where playCountRange[0] is the min and playCountRange[1] is the max
+        // if playCountRange[1] is null, we check if the play count is more than the min
+        // if playCountRange[0] is null, we check if the play count is less than the max
+        if(playCountRange[1] === null){
+            return this.djPlayCount > playCountRange[0];
+        } else if(playCountRange[0] === null){
+            return this.djPlayCount < playCountRange[1];
+        } else {
+            return this.djPlayCount >= playCountRange[0] && this.djPlayCount <= playCountRange[1];
+        }
     }
 }

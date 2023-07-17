@@ -8,16 +8,13 @@ var APP_PREFIX = 'dtrack_';
 // you need to change this version (version_01, version_02…). 
 // If you don't change the version, the service worker will give your
 // users the old files!
-var VERSION = 'version_05';
+var VERSION = 'version_06';
  
 // The files to make available for offline use.
 var URLS = [
   `${GHPATH}/data/collections/manifest.json`,
-  `${GHPATH}/data/collections/Playlists_n_DSets_8Jul2023.json`,
-  `${GHPATH}/data/collections/DSets-Special-4Jul2023.json`,
-  // `${GHPATH}/data/collections/DTRacks All 1200 DTracks.json`,
-  // `${GHPATH}/data/collections/Sp- 4July.json`,
-  // `${GHPATH}/data/collections/Sp- College Party.json`,
+  `${GHPATH}/data/collections/Combined_everything_16Jul2023.json`,
+
   
 
   `${GHPATH}/`,

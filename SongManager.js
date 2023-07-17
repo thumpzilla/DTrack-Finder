@@ -9,8 +9,12 @@ export default class SongManager {
 
         this.isBpmFilterActive = true;
         this.bpmRange = [60, 150]; // Default BPM range
+        // Play count filter
+        this.isPlayCountFilterActive = true;
+        this.playCountRange = [2, 150];
 
-        this.isBpmFilterActive=true;
+
+        this.isKeyFilterActive = true;
         this.keyRange = []
 
         this.activeTags = []; // Active tags
@@ -23,7 +27,6 @@ export default class SongManager {
     
     createLoadMoreTracksBtn(){
         // The amount of songs to load each time
-        console.log("entered createLoadMoreTracksBtn()")
         this.loadCount = 30;
 
         this.loadMoreButton = document.createElement('button');
@@ -34,12 +37,41 @@ export default class SongManager {
             showToast("You can sort the songs by energy and popularity, it is the best way to explore the results")
             this.setTagsSortingView('sorting-criteria');
             this.graphManager.animateDot();
-            // add animation of the circle selector to show the user that it's interactable.
-            // ____________________ ANIMATION HERE ________________ CALL GraphManager2D.animateDot()
         });
+        this.createPlayCountStateCircle();
+
         this.listOfSongs_UI.appendChild(this.loadMoreButton);
     }
 
+    createPlayCountStateCircle() {
+        this.playCountStates = [[0,150], [4,150], [10,150]];
+        this.currentStateIndex = 0;
+
+        // Right click event listener
+        this.loadMoreButton.addEventListener('contextmenu', (e) => {
+            e.preventDefault();
+            this.setPlayCountRange();
+        });
+
+        // Mobile long press event listener
+        let pressTimer;
+        this.loadMoreButton.addEventListener('touchstart', (e) => {
+            e.preventDefault();
+            pressTimer = setTimeout(this.setPlayCountRange.bind(this), 1000);  // Trigger after one second
+        });
+        this.loadMoreButton.addEventListener('touchend', (e) => {
+            clearTimeout(pressTimer);
+        });
+    }
+
+    setPlayCountRange() {
+        this.currentStateIndex = (this.currentStateIndex + 1) % this.playCountStates.length;
+        this.playCountRange = this.playCountStates[this.currentStateIndex];
+        showToast("Toggled Filter PlayCount, to minimum "
+         +  this.playCountRange[0] +
+          " Plays! got into the pro stuff ha?" );
+        this.#updateSongList();
+    }
 
     #loadMoreTracks() {
         // Remove the Load More button (it should be after all the songs)
@@ -65,46 +97,7 @@ export default class SongManager {
         
     }
 
-    #updateSongList() {
-        // Clear the existing song list
-        while (this.listOfSongs_UI.firstChild) {
-            this.listOfSongs_UI.removeChild(this.listOfSongs_UI.firstChild);
-        }
-        // Scroll to the top
-        this.listOfSongs_UI.scrollTop = 0;
-
-
-        let newSongList = this.applyTagsFilterToSongs(this.filteredByTagsSongs);
-
-        if (this.isBpmFilterActive)
-            newSongList = this.getSongsWithinBpmRange(newSongList); //BPM Filter
-        
-        if (this.isKeyFilterActive)
-            newSongList = this.getSongsWithinKeyRange(newSongList); // Key Filter
-
-        // _________________________________ TEXT REPLACE __________________________________ START
-        this.songTextInSummaryObject.innerText = `${newSongList.length} results`;
-
-        // Update the text
-        this.energySpan.innerText = `${Math.round(this.current_energy)}`;
-        this.popularitySpan.innerText = `${Math.round(this.current_popularity)}`;
-
-        // _________________________________ TEXT REPLACE __________________________________ END
-        // Sort songs based on their distance to the selected point
-
-        this.currentSortedSongs = this.sortByProximity(this.current_energy, this.current_popularity, newSongList);
-            
-        
-        // Reset the startIndex
-        this.startIndex = 0;
-
-        this.#loadMoreTracks();
-
-
-        // Initially load the songs
-
-    }
-
+   
         
 
     createSummaryObject(containerId, idOfTextField, svgImagePath, imageDivPath, activeIndicatorId) {
@@ -318,6 +311,54 @@ export default class SongManager {
     getSongsWithinKeyRange(filterUsSongs) {
         return filterUsSongs.filter(song => this.keyRange.includes(song.key));
     }
+
+    #updateSongList() {
+        // Clear the existing song list
+        while (this.listOfSongs_UI.firstChild) {
+            this.listOfSongs_UI.removeChild(this.listOfSongs_UI.firstChild);
+        }
+        // Scroll to the top
+        this.listOfSongs_UI.scrollTop = 0;
+
+
+        let newSongList = this.applyTagsFilterToSongs(this.filteredByTagsSongs);
+
+        if (this.isBpmFilterActive)
+            newSongList = this.getSongsWithinBpmRange(newSongList); //BPM Filter
+        
+        if (this.isKeyFilterActive)
+            newSongList = this.getSongsWithinKeyRange(newSongList); // Key Filter
+
+        if (this.isPlayCountFilterActive)
+            newSongList = this.getSongsWithinPlayCountRange(newSongList); // DJ Play Count Filter
+
+        // _________________________________ TEXT REPLACE __________________________________ START
+        this.songTextInSummaryObject.innerText = `${newSongList.length} results`;
+
+        // Update the text
+        this.energySpan.innerText = `${Math.round(this.current_energy)}`;
+        this.popularitySpan.innerText = `${Math.round(this.current_popularity)}`;
+
+        // _________________________________ TEXT REPLACE __________________________________ END
+        // Sort songs based on their distance to the selected point
+
+        this.currentSortedSongs = this.sortByProximity(this.current_energy, this.current_popularity, newSongList);
+            
+        
+        // Reset the startIndex
+        this.startIndex = 0;
+
+        this.#loadMoreTracks();
+
+
+        // Initially load the songs
+
+    }
+
+    getSongsWithinPlayCountRange(filterUsSongs) {
+        return filterUsSongs.filter(song => song.isPlayCountInRange(this.playCountRange));
+    }
+
 
     // __________________________________ Tags __________________________________ Start
     // Set active tags
