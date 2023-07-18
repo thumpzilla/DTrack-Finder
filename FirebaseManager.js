@@ -1,3 +1,5 @@
+import { showToast } from './Utils.js'; // Make sure to import the showToast function
+
 export default class FirebaseManager {
   constructor() {
     if (FirebaseManager.instance) {
@@ -84,8 +86,8 @@ export default class FirebaseManager {
           batch.delete(favRef);
         }
 
+        showToast("Synced Your Favorites! 🔝");
         await batch.commit();
-
         this.favoritesToAdd = {};
         this.favoritesToRemove = {};
       } catch (error) {
@@ -103,7 +105,7 @@ export default class FirebaseManager {
         .doc(this.user.uid)
         .collection("favorites")
         .get();
-      return favoritesSnapshot.docs.map((doc) => doc.data());
+      return favoritesSnapshot.docs.map(doc => doc.data());
     } catch (error) {
       console.error("Error getting favorites: ", error);
       // handle the error

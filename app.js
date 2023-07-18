@@ -74,19 +74,19 @@ firebase.auth().onAuthStateChanged(async user => {
     const firebaseManager = new FirebaseManager();
     firebaseManager.setUser(user); // Set user
     const favorites = await firebaseManager.getFavorites(user);
+
+    
     
     // User is signed in, continue to your app
     let songs = []; 
     let songManager;
     let graphManager;
-    let bpmSlider;
     let tagFilter;
-    let keySlider;
     let advancedFilters;
 
     createSongExamplesFromJson().then((result) => {
         songs = result;
-        songManager = new SongManager(songs);
+        songManager = new SongManager(songs, favorites,  firebaseManager);
 
         graphManager = new GraphManager();
         graphManager.drawGraph();
@@ -96,8 +96,6 @@ firebase.auth().onAuthStateChanged(async user => {
 
         // Bind BpmSlider To Graph Manager
         advancedFilters = new AdvancedFilters(songManager)
-        // keySlider = new KeySlider(songManager);
-        // bpmSlider = new BpmSlider(songManager);
         // Bind tagFliter
         tagFilter = new TagFilter(songManager);
 

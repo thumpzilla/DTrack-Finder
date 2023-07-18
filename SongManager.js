@@ -3,15 +3,26 @@ import { showToast, KEYS_LOGIC, logEventToAnalytics } from './Utils.js'; // Make
 import SongListItemUI from './SongList_UI.js';
 
 export default class SongManager {
-    constructor(songs) {
+    constructor(songs, favorites = null ,firebaseManager = null) {
         this.allSongs = songs; 
         this.filteredByTagsSongs = songs; // Using it to prevent additional computations. (don't need to go over the entire DB when adding constraint)
+
+        if (favorites){
+            this.#tagFavorites(favorites);
+        }
+
+        if (firebaseManager){
+            this.firebaseManager = firebaseManager;
+        }
 
         this.isBpmFilterActive = true;
         this.bpmRange = [60, 150]; // Default BPM range
         // Play count filter
         this.isPlayCountFilterActive = true;
         this.playCountRange = [2, 150];
+
+        
+
 
 
         this.isKeyFilterActive = true;
@@ -24,6 +35,19 @@ export default class SongManager {
 
         this.createFilterSortingSwitch();
     }
+
+    #tagFavorites(favorites){
+        // Iterate over each favorite
+        for (let favorite of favorites) {
+            // Find the corresponding song
+            let song = this.allSongs.find(song => song.trackTitle === favorite.songName && song.artist === favorite.artist);
+            // If song exists, add 'Favorite' to its myTags
+            if(song) {
+                song.myTags.push('Favorite');
+            }
+        }
+    }
+    
 
 
     handleListClick(event) {
