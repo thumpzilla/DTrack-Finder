@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@100;200;300;400;600;700;900&display=swap');
+
+* {
+    box-sizing: border-box;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f72b;
+    color: #F5F5F7;
+    height: 100vh;
+    background-image: linear-gradient(65deg, #6c4bf3, #fe00ff, #fea800, #fe00ff, #6c4bf3);
+    background-size: 300%;
+    background-position: left;
+    -webkit-animation: bg-gradient 10s linear infinite alternate;
+    animation: bg-gradient 10s linear infinite alternate;
+    overflow: hidden;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 1rem;
+    color: #F5F5F7;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    max-width: 40%;
+    min-width: 30rem;
+    background-color: #2c2c5f66;
+    border-radius: 0.625rem;
+}
+
+form input, form button {
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 0.625rem;
+}
+
+form button {
+    color: #F5F5F7;
+    background-color: #e59d9d;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+form button:hover {
+    background-color: #040630;
+}
+
+@keyframes bg-gradient {
+    from {
+        background-position: left;
+    }
+
+    to {
+        background-position: right;
+    }
+}

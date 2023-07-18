@@ -1,5 +1,6 @@
 import { showToast} from './Utils.js'
-
+import FirebaseManager from './FirebaseManager.js';
+const firebaseManager = new FirebaseManager();
 export default class Song {
     constructor(trackTitle, artist, bpm, key, djPlayCount, rating, myTag, energy, popularity, additional_info = null) {
         this.trackTitle = trackTitle; 
@@ -48,21 +49,24 @@ export default class Song {
         }
     }
 
-    addTagToFavorite() {
+    async addTagToFavorite() {
         if (!this.myTags.includes('Favorite')) {
             this.myTags.push('Favorite');
             showToast(`${this.trackTitle} added to Favorite`);
+            // Save favorite to Firestore
+            await firebaseManager.addFavorite(this.trackTitle, this.artist);
         } else {
             showToast(`${this.trackTitle} is already a Favorite`);
         }
     }
-
-
-    removeFromFavorite() {
+    
+    async removeFromFavorite() {
         const index = this.myTags.indexOf('Favorite');
         if (index > -1) {
             this.myTags.splice(index, 1);
             showToast(`${this.trackTitle} removed from Favorite`);
+            // Remove favorite from Firestore
+            await firebaseManager.removeFavorite(this.trackTitle, this.artist);
         } else {
             showToast(`${this.trackTitle} is not a Favorite`);
         }
