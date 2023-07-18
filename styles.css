@@ -144,7 +144,7 @@ canvas {
     overflow: hidden;
     
 }
-  
+
 
 
 .dset-thumbnail{
@@ -157,13 +157,7 @@ canvas {
     font-weight: 300; /* Light/thin weight */
 }
 
-.dset-artist {
-  font-weight: 800 ;
-  /* font-size: 1rem; */
-  background: linear-gradient(#B145AC ,#FD92C0, #B145AC);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
+
 .dset-tag {
   margin: 0.1rem 0.3rem 0.2rem 0rem;
   border-radius: 0.5rem !important;
@@ -689,6 +683,33 @@ li:hover {
     width: 1rem;  /* Set the size of the image */
     height: auto;  /* Maintain the aspect ratio of the image */
 }
+
+
+.copy-button-dset {
+  width: 2rem !important;
+  height: 100%;  /* Added this line */
+  display: flex;
+  justify-content: center;
+  align-items: center;  /* Center the image vertically */
+  background: transparent;
+  border: none;
+  border-radius: 0.31rem;
+  color: white;
+  cursor: pointer;
+  transition: transform 0.3s ease, background-color 0.3s ease;
+  margin-left: 1rem !important;
+
+  padding-top: 0.27rem;
+  padding-bottom: 0.2rem;
+}
+.copy-icon-dset {  /* Added this class to style the image */
+  width: 1.5rem;  /* Set the size of the image */
+  height: auto;  /* Maintain the aspect ratio of the image */
+}
+
+
+
+
 
 .song-details .copy-button {
     margin-left: 1rem;

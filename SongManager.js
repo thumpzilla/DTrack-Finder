@@ -28,8 +28,7 @@ export default class SongManager {
 
     handleListClick(event) {
         // If the copy button was clicked, don't do anything.
-        if (event.target.classList.contains('copy-button')) {
-            return;
+        if (event.target.classList.contains('copy-button') || event.target.classList.contains('copy-icon')) {            return;
         }
 
         // Find the closest parent li of the clicked element
@@ -160,7 +159,6 @@ export default class SongManager {
                 changeToState = 'sorting-criteria';
             }            
         }
-        console.log("bad value of changeToState = " + changeToState);
 
         if (
             changeToState !== 'tags-filter' &&

@@ -5,6 +5,7 @@ import { showToast, formatSecondsToMinutes, formatViewCountNumber, formatMonthYe
 export default class SongListItemUI {
     constructor(song) {
         this.song = song;
+        this.isTrackDSet = false;
     }
 
     createCollapsedState() {
@@ -38,10 +39,11 @@ export default class SongListItemUI {
         // means this is youtube dset
         if (this.song.myTags.includes('DSet')){
             artist.classList.add('dset-artist');
+            this.isTrackDSet = true
         }
         leftContainer.appendChild(artist);
         container.appendChild(leftContainer);
-
+        
         const copyButton = this.createCopyButton();
         container.appendChild(copyButton);
 
@@ -87,6 +89,43 @@ export default class SongListItemUI {
 
         
         return listItem;
+    }
+
+    createCopyButton() {
+        const copyButton = document.createElement('button');
+        
+    
+        const image = document.createElement('img');
+        if (this.isTrackDSet){
+            copyButton.className = 'copy-button-dset';
+
+            image.src = 'images/colored/stage-light-colored.svg'; // The path to your image
+            image.alt = 'Copy'; // Alt text for accessibility
+            image.className = 'copy-icon-dset'; // You may want to add some styling to the image
+            
+        }
+        // If it's a normal track
+        else{
+            copyButton.className = 'copy-button';
+            image.src = 'images/copy.png'; // The path to your image
+            image.alt = 'Copy'; // Alt text for accessibility
+            image.className = 'copy-icon'; // You may want to add some styling to the image
+        }
+        copyButton.appendChild(image);
+    
+        copyButton.addEventListener('click', () => {
+            const tempTextarea = document.createElement('textarea');
+            // take the title + the first word of the artist field
+            tempTextarea.value = this.song.trackTitle + ' - ' + this.song.artist.split(" ")[0];
+            document.body.appendChild(tempTextarea);
+            tempTextarea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextarea);
+    
+            showToast(`Copied "${tempTextarea.value }" to clipboard`);
+        });
+    
+        return copyButton;
     }
 
     addSongToFavorite(listItem){
@@ -303,31 +342,7 @@ export default class SongListItemUI {
     }
 
 
-    createCopyButton() {
-        const copyButton = document.createElement('button');
-        copyButton.className = 'copy-button';
-    
-        const image = document.createElement('img');
-        image.src = 'images/copy.png'; // The path to your image
-        image.alt = 'Copy'; // Alt text for accessibility
-        image.className = 'copy-icon'; // You may want to add some styling to the image
-    
-        copyButton.appendChild(image);
-    
-        copyButton.addEventListener('click', () => {
-            const tempTextarea = document.createElement('textarea');
-            // take the title + the first word of the artist field
-            tempTextarea.value = this.song.trackTitle + ' - ' + this.song.artist.split(" ")[0];
-            document.body.appendChild(tempTextarea);
-            tempTextarea.select();
-            document.execCommand('copy');
-            document.body.removeChild(tempTextarea);
-    
-            showToast(`Copied "${tempTextarea.value }" to clipboard`);
-        });
-    
-        return copyButton;
-    }
+
 
     getThumbnailUrl() {
         return `https://img.youtube.com/vi/${this.song.additional_info.link}/0.jpg`;
