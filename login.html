@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+    <!-- include your CSS file here -->
+    <link rel="stylesheet" href="login.css">
+  </head>
+  <body>
+    <h1>Login or Sign Up</h1>
+    <!-- Your login form goes here -->
+    <form id="login-form">
+      <label for="username">Username:</label><br>
+      <input type="text" id="username" name="username"><br>
+      <label for="password">Password:</label><br>
+      <input type="password" id="password" name="password"><br>
+      <input type="submit" value="Login">
+    </form>
+    <script src="login.js"></script>
+    <!-- Google Firebase Authentication ________ Start -->
+    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+    <!-- Google Firebase Authentication ________ End -->
+  </body>
+</html>

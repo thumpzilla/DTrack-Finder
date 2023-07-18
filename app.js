@@ -50,36 +50,43 @@ if ('serviceWorker' in navigator) {
   }
 // _____________________________ Start Program ________________________________ START
 
-let songs = []; 
-let songManager;
-let graphManager;
-let bpmSlider;
-let tagFilter;
-let keySlider;
-let advancedFilters;
+// Check if the user is authenticated
+let isAuthenticated = true; // Replace this with actual authentication check
 
-createSongExamplesFromJson().then((result) => {
-    songs = result;
-    songManager = new SongManager(songs);
+if (!isAuthenticated) {
+  // If not, redirect to the login page
+  window.location.href = 'login.html';
+} else {
+  let songs = []; 
+  let songManager;
+  let graphManager;
+  let bpmSlider;
+  let tagFilter;
+  let keySlider;
+  let advancedFilters;
 
-    graphManager = new GraphManager();
-    graphManager.drawGraph();
-    // Set GraphManager and SongManager Interactions
-    graphManager.initializeInteraction(songManager);
-    songManager.setGraphManager(graphManager);
+  createSongExamplesFromJson().then((result) => {
+      songs = result;
+      songManager = new SongManager(songs);
 
-    
-    // Bind BpmSlider To Graph Manager
-    advancedFilters = new AdvancedFilters(songManager)
-    // keySlider = new KeySlider(songManager);
-    // bpmSlider = new BpmSlider(songManager);
-    // Bind tagFliter
-    tagFilter = new TagFilter(songManager);
+      graphManager = new GraphManager();
+      graphManager.drawGraph();
+      // Set GraphManager and SongManager Interactions
+      graphManager.initializeInteraction(songManager);
+      songManager.setGraphManager(graphManager);
 
-}).catch((error) => {
-    console.error("An error occurred:", error);
-});
+      
+      // Bind BpmSlider To Graph Manager
+      advancedFilters = new AdvancedFilters(songManager)
+      // keySlider = new KeySlider(songManager);
+      // bpmSlider = new BpmSlider(songManager);
+      // Bind tagFliter
+      tagFilter = new TagFilter(songManager);
 
+  }).catch((error) => {
+      console.error("An error occurred:", error);
+  });
+}
 // _____________________________ Start Program ________________________________ END
 
 // Luanch from mobile device: 

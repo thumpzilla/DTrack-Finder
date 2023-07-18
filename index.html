@@ -8,7 +8,7 @@
 
         <link rel="stylesheet" href="styles.css">
         <link rel="icon" type="image/x-icon" href="favicon.ico" /> <title> DTrack finder </title>
-        <!-- PWA Support-->
+        <!-- _________________ PWA Support _________________ START-->
         <link rel="manifest" href="manifest_for_mobile_web_install.json">
         <!-- ios support -->
         <link rel="canonical" href="https://donraz.github.io/DTrack-Finder/">
@@ -17,16 +17,16 @@
 
         <meta name="apple-mobile-web-app-status-bar" content="#412A56">
         <meta name="apple-mobile-web-app-capable" content="yes">
-
-        <!-- Google tag (gtag.js) -->
+        <!-- _________________ PWA Support _________________ END-->
+        <!-- _________________ Google tag (gtag.js)_________ START -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-DDXKXT9N2J"></script>
         <script>
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
-
           gtag('config', 'G-DDXKXT9N2J');
         </script>
+        <!-- _________________ Google tag (gtag.js)_________ END -->
         <script type="module" src="app.js"></script>
 
     </head>
@@ -45,7 +45,11 @@
         <div id="2dSelector" style="display: block;" class="graph"><canvas id="musicGraph"></canvas></div>
         <div id="tag-catalog" style="display: none;"></div> <!-- Add this line -->
       </div>
-    
+      <!-- Google Firebase Authentication ________ Start -->
+      <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+      <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+      <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+      <!-- Google Firebase Authentication ________ End -->
   </body>
 </html>
 
