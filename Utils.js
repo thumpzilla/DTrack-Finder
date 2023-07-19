@@ -2,7 +2,7 @@ import Song from './Song.js'
 
 
 export const KEYS_LOGIC = {
-    DEFAULT_ENERGY : 6, 
+    DEFAULT_ENERGY : 8, 
     DEFAULT_POPULARITY: 8,
 }
 

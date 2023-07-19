@@ -68,7 +68,7 @@ firebase.initializeApp(firebaseConfig);
 
 // Check user authentication status
 firebase.auth().onAuthStateChanged(async user => {
-  if (!user) {
+  if (!user) { //if (true) { // 
     window.location.href = 'login.html';
   } else {
     const firebaseManager = new FirebaseManager();
