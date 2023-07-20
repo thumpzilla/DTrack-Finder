@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <title>Login</title>
     <link rel="stylesheet" href="login.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
   </head>
   <body>
     <div class="container">
@@ -25,7 +27,9 @@
         <input type="submit" id="login-btn" value="Login">
         <input type="button" id="signup-btn" value="Sign Up">
         <button id="google-signin-btn">Join with Google</button>
-        <div id="loading" class="loading-spinner"></div>
+        <div id="overlay" class="overlay">
+          <div id="loading" class="loading-spinner"></div>
+        </div>
       </form>
     </div>
     <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>

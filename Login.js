@@ -9,6 +9,7 @@ const firebaseConfig = {
   measurementId: "G-0VNXC4FWZ6",
 };
 
+
 // Initialize Firebase if not already initialized
 if (!firebase.apps.length) {
   firebase.initializeApp(firebaseConfig);
@@ -16,6 +17,44 @@ if (!firebase.apps.length) {
 
 // Create a new instance of the Google provider
 var providerGoogle = new firebase.auth.GoogleAuthProvider();
+function handleUserAuth(email, password, isLogin) {
+  // Hide any existing error message
+  showError("");
+
+  // Show the overlay and spinner
+  document.getElementById('overlay').style.display = 'flex';
+  document.getElementById('loading').style.display = 'block';
+
+  // Disable buttons
+  document.getElementById('login-btn').disabled = true;
+  document.getElementById('signup-btn').disabled = true;
+
+  var authFunction;
+  if (isLogin) {
+    authFunction = firebase.auth().signInWithEmailAndPassword.bind(firebase.auth());
+  } else {
+    authFunction = firebase.auth().createUserWithEmailAndPassword.bind(firebase.auth());
+  }
+
+  authFunction(email, password)
+    .then((userCredential) => {
+      // If action was successful, navigate to your SPA
+      window.location.href = "index.html";
+    })
+    .catch((error) => {
+      // Hide the overlay and spinner
+      document.getElementById('overlay').style.display = 'none';
+      document.getElementById('loading').style.display = 'none';
+
+      // Enable buttons
+      document.getElementById('login-btn').disabled = false;
+      document.getElementById('signup-btn').disabled = false;
+
+      // Handle errors here.
+      showError(error.message);
+    });
+}
+
 
 document
   .getElementById("login-btn")
@@ -26,35 +65,8 @@ document
     var email = document.getElementById("email").value;
     var password = document.getElementById("password").value;
 
-    // Hide any existing error message
-    showError("");
-
-    // Log in the user
-    firebase
-      .auth()
-      .signInWithEmailAndPassword(email, password)
-      .then((userCredential) => {
-        // If log in was successful, navigate to your SPA
-        window.location.href = "index.html";
-      })
-      .catch((error) => {
-        // Handle errors here.
-        showError(error.message);
-      });
+    handleUserAuth(email, password, true);
   });
-
-  document.getElementById("email").addEventListener('blur', function() {
-    var emailValidity = document.getElementById("email-validity");
-    if (this.checkValidity()) {
-      emailValidity.textContent = "✓";
-      emailValidity.style.color = "green";
-    } else {
-      emailValidity.textContent = "✗";
-      emailValidity.style.color = "red";
-    }
-  });
-
-
 
 document
   .getElementById("signup-btn")
@@ -65,21 +77,7 @@ document
     var email = document.getElementById("email").value;
     var password = document.getElementById("password").value;
 
-    // Hide any existing error message
-    showError("");
-
-    // Sign up the user
-    firebase
-      .auth()
-      .createUserWithEmailAndPassword(email, password)
-      .then((userCredential) => {
-        // If sign up was successful, navigate to your SPA
-        window.location.href = "index.html";
-      })
-      .catch((error) => {
-        // Handle errors here.
-        showError(error.message);
-      });
+    handleUserAuth(email, password, false);
   });
 
 document
@@ -118,8 +116,6 @@ document
     }
   });
 
-
-
 document
   .getElementById("toggle-password")
   .addEventListener("click", function () {
@@ -134,7 +130,7 @@ document
     }
   });
 
-  document
+document
   .getElementById("google-signin-btn")
   .addEventListener("click", function (event) {
     event.preventDefault();
@@ -153,15 +149,14 @@ document
       })
       .catch(function (error) {
         // Handle Errors here.
-        console.log(error.message);
+        showError(error.message);
       });
   });
 
-  
 function showError(message) {
-    var errorMessage = document.getElementById("error-message");
-    errorMessage.textContent = message;
-  }
+  var errorMessage = document.getElementById("error-message");
+  errorMessage.textContent = message;
+}
 
 function showToast(message) {
   var toast = document.getElementById("toast");
@@ -173,6 +168,17 @@ function showToast(message) {
     toast.className = toast.className.replace("show", "");
   }, 3000);
 }
+
+document.getElementById("email").addEventListener('blur', function() {
+  var emailValidity = document.getElementById("email-validity");
+  if (this.checkValidity()) {
+    emailValidity.textContent = "✓";
+    emailValidity.style.color = "green";
+  } else {
+    emailValidity.textContent = "✗";
+    emailValidity.style.color = "red";
+  }
+});
 
 //   // Create a new instance of the Facebook provider
 //   var providerFacebook = new firebase.auth.FacebookAuthProvider();
