@@ -46,6 +46,11 @@ export default class SongListItemUI {
         
         const copyButton = this.createCopyButton();
         container.appendChild(copyButton);
+        
+        /*  TODO - Display Tidal button UI
+        const tidalButton = this.createTidalButton();
+        container.appendChild(tidalButton);
+        */
 
         listItem.appendChild(container);
         listItem.dataset.song = JSON.stringify(this.song);
@@ -422,7 +427,41 @@ export default class SongListItemUI {
         return youtubeLink;
     }
 
-
+    createTidalButton() {
+        // TODO: Tidal integration needs further device testing (iOS), image W/H and source require updating prior to implimenting UI element. Mobile checks are basic.
+        const tidalButton = document.createElement('button');
+        const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+        tidalButton.className = 'tidal-button';
+        
+        const image = document.createElement('img');
+        image.src = 'images/colored/tidal-round-black-icon.svg'; // The path to your image
+        image.alt = 'Tidal'; // Alt text for accessibility
+        image.className = 'tidal-icon'; // You may want to add some styling to the image
+        // Apply CSS styling to scale down the image
+        image.style.width = '15px';
+        image.style.height = '15px';
+        tidalButton.appendChild(image);
+        tidalButton.addEventListener('click', () => {
+            const tempTextarea = document.createElement('textarea');
+            // Take the title + the artist field
+            tempTextarea.value = this.song.trackTitle + ' ' + this.song.artist;
+            document.body.appendChild(tempTextarea);
+            tempTextarea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextarea);
+            if (isMobile) {
+            const url = `tidal://search?q=${encodeURIComponent(tempTextarea.value)}`;
+            window.open(url, '_blank');
+             } else {
+                // Soundcloud example
+                //const url = https://soundcloud.com/search?q=${encodeURIComponent(tempTextarea.value)}`;
+            const url = `https://listen.tidal.com/search?q=${encodeURIComponent(tempTextarea.value)}`;
+            window.open(url, '_blank');
+             }
+        });
+        return tidalButton;
+    }
+     
     createSpotifyLink() {
         const spotifyLink = document.createElement('a');
         spotifyLink.alignItems = 'center';
